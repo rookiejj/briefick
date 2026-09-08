@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-09",
+    "made": "2026-09-09 07:40 KST",
+    "predictions": [
+      {
+        "label": "LG이노텍",
+        "ticker": "011070",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 545,000원 -7.0% 급락 후 오늘 밤 애플 'Surprise and Shine' 이벤트에서 폴더블 아이폰 Ultra·아이폰 18 Pro 물량 확정 대기 국면·2나노 A20 Pro 카메라 락인 서사가 카테고리 상단 카타리스트로 물량 확정 기대 반등 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "ORCL",
+        "ticker": "ORCL",
+        "market": "US",
+        "direction": "up",
+        "rationale": "166.25달러 +4.7% 강세로 마감·9/10 Q1 FY27 실적 D-1 진입에서 컨센 매출 191억달러·EPS 1.30달러·RPO 6,380억달러 검증 대기·Stargate 3,000억달러 백로그 갱신 서사가 매수 유입 지속 카타리스트·옵션 시장 11% 무브 프라이싱이 서프라이즈 대기 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "230.89달러 +0.2% 관망 마감·허깅페이스 129억달러 인수(9/3) 개발자 1,800만 lock-in 재확인·오라클 9/10 Q1 실적에서 Stargate 백로그 갱신 시 AI 인프라 카테고리 상단 재확장·TSM +1.3% 후행 상승 서사가 반도체 순환매 축",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "made": "2026-09-08 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 127.09달러 -7.5% 급락·비트코인 79,560달러 하회·전일 81,200달러 강세에서 대반전 국면 확인·Warsh 잭슨홀 매파 발언 후 크립토 위험 선호 재조정 사이클 축·9월 인상 확률 57.5% 급등 카운터·달러 강세·실질금리 압력이 forward 크립토 카테고리 카운터 근거·MSTR 프록시 하락 사이클 지속 시나리오",
         "result": "hit",
         "actual": -1.1
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "made": "2026-08-28 07:25 KST",
-    "predictions": [
-      {
-        "label": "포스코퓨처엠",
-        "ticker": "003670",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 184,000원 +9.1% 급등·미 전력망 확충 ESS 수요 확대 관측·2차전지 양극재 수직계열화 카테고리 리레이팅 사이클 축·삼성SDI +10.3%·LG엔솔 +5.6% 그룹 랠리 편승·외국인 순매수 확대 근거·중국 전력망 축출 반사이익 서사 유지가 forward 카테고리 확산 카타리스트",
-        "result": "hit",
-        "actual": 2.3
-      },
-      {
-        "label": "CRWD",
-        "ticker": "CRWD",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 225.57달러 +19.2% 급등·Q2 실적 서프라이즈·ARR 가이던스 630bp 상향 카타리스트 소화 사이클 축·post-earnings 대형 갭업 후 차익 실현 패턴 트리거·사이버보안 그룹(OKTA +29·PANW +13.3·ZS +10.1) 동반 대형 랠리 후 순환 조정 시나리오·forward P/E 프리미엄 부담이 short-term 카운터 근거",
-        "result": "miss",
-        "actual": 20.5
-      },
-      {
-        "label": "SMR",
-        "ticker": "SMR",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 9.725달러 +4.9% 강세·AI 데이터센터 전력 수요 카테고리 확산 축·엔비디아 Q2 서프라이즈 후방 원전·SMR 카테고리 편승 트리거·미 국방부 우라늄 농축 계약·X-energy 상용 계약 서사 유지·OKLO +3.8%·LEU +4.6% 카테고리 그룹 랠리 병존이 forward 카테고리 확산 근거",
-        "result": "hit",
-        "actual": 5.1
       }
     ]
   }
