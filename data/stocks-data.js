@@ -36,7 +36,7 @@ const data = [
         "p2": "15",
         "r1": "57",
         "r2": "68",
-        "rs": "Q4 FY26 매출 $19.2B +21%·OCI +93% $5.8B·RPO $638B +$85B QoQ 사상 최대·FY27 가이던스 $74B+ 상향·OpenAI Stargate $300B 베이스·forward P/E 32 sector premium",
+        "rs": "163.73달러 프리마켓 +3.1% - 9/10 Q1 FY27 실적 D-2, RPO 5,000억달러대 검증 대기",
         "tk": "ORCL"
       },
       {
