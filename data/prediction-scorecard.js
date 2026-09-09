@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-10",
+    "made": "2026-09-10 07:37 KST",
+    "predictions": [
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 574,000원 +8.3% 급등 마감·미 ESS 수주 확대 관측·AI 데이터센터 전력 후방 최대 카타리스트가 카테고리 상단 모멘텀 지속 축, 2차전지 순환매 3일차 확산·양극재·전해액·리튬 소재 카테고리 확산 서사가 상단 유입 재점화 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "META",
+        "ticker": "META",
+        "market": "US",
+        "direction": "up",
+        "rationale": "641.71달러 +4.6% 급등 마감·오픈AI GPT-6 광고 파트너십 확장 관측·페이스북·인스타그램 AI 광고 지표 모멘텀 재점화가 카테고리 상단 카타리스트, Reels·Threads AI 추천 알고리즘 개선·Meta AI 어시스턴트 광고 인벤토리 확장 서사가 광고 유닛 이코노믹스 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "대덕전자",
+        "ticker": "353200",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 106,100원 +6.2% 강세 유지·애플 파크 이벤트 종료 후 아이폰 18 Pro·폴더블 아이폰 Ultra 공개 카타리스트가 부품 벤더 재점화 축, HBM 후방 기판·MLCC 순환매 확산 서사가 카테고리 상단 유입 재점화 시나리오",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "made": "2026-09-09 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 160.74달러 +2.6% 강세·유가 회복 편승 사이클 축·OPEC+ 9월 회의 감산 결정 관측이 forward 카타리스트·CVX +2.5%·SLB +3.6% 에너지 카테고리 순환매 재개 근거·WTI 82.82달러 상단 지지 유지 트리거·매파 여진 후 실물 자산 로테이션 축·Q2 순이익 145억달러 전년 2배 서사 유지가 forward 상단 근거",
         "result": "hit",
         "actual": 0.2
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "made": "2026-08-29 07:45 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,653,000원 -4.4% 급락·전날 6,912 사상 최고 랠리 소화 국면 확인·NVDA Q2 서프라이즈 후 익일 대반전 카운터 소화 국면·40조 자사주 소각 사이클·HBM3E 12H 신제품 카탈리스트 사이클 지지·오버셀 반등 시나리오가 forward 카테고리 지지 축·외국인 대규모 매도 소화 후 월요일 반등 근거",
-        "result": "hit",
-        "actual": 1.3
-      },
-      {
-        "label": "MRVL",
-        "ticker": "MRVL",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 215.88달러 -10.6% 급락·Q2 매출 27.4억달러·조정 EPS 0.94달러 컨센 상회에도 실적 후 대형 갭다운 오버셀 사이클 축·Q3 가이던스 31.5억달러 상향 카타리스트 유지·AI 커스텀 실리콘 부킹 사이클 근거·post-earnings 과매도 반등 패턴 트리거·AVGO 9/4 실적 대기 사이클 지지가 forward 카테고리 근거",
-        "result": "miss",
-        "actual": -2.6
-      },
-      {
-        "label": "MSTR",
-        "ticker": "MSTR",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 127.09달러 -7.5% 급락·비트코인 79,560달러 하회·전일 81,200달러 강세에서 대반전 국면 확인·Warsh 잭슨홀 매파 발언 후 크립토 위험 선호 재조정 사이클 축·9월 인상 확률 57.5% 급등 카운터·달러 강세·실질금리 압력이 forward 크립토 카테고리 카운터 근거·MSTR 프록시 하락 사이클 지속 시나리오",
-        "result": "hit",
-        "actual": -1.1
       }
     ]
   }
