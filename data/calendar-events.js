@@ -246,6 +246,7 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
@@ -509,6 +510,116 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "VRT"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Digital Realty 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "DLR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Ford 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "F"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "HD현대일렉트릭 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "267260"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Iridium 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "IRDM"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "LS일렉트릭 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "010120"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Roper Tech 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ROP"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "American Express 실적",
+    "date": "2026-10-23",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "AXP"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Schlumberger 실적",
+    "date": "2026-10-23",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "SLB"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "기아 실적",
+    "date": "2026-10-23",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "000270"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "현대로템 실적",
+    "date": "2026-10-23",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "064350"
     ],
     "src": "auto-earnings"
   }
