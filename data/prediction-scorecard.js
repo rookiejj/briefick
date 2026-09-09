@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 545,000원 -7.0% 급락 후 오늘 밤 애플 'Surprise and Shine' 이벤트에서 폴더블 아이폰 Ultra·아이폰 18 Pro 물량 확정 대기 국면·2나노 A20 Pro 카메라 락인 서사가 카테고리 상단 카타리스트로 물량 확정 기대 반등 시나리오",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -7
       },
       {
         "label": "ORCL",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "166.25달러 +4.7% 강세로 마감·9/10 Q1 FY27 실적 D-1 진입에서 컨센 매출 191억달러·EPS 1.30달러·RPO 6,380억달러 검증 대기·Stargate 3,000억달러 백로그 갱신 서사가 매수 유입 지속 카타리스트·옵션 시장 11% 무브 프라이싱이 서프라이즈 대기 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.9
       },
       {
         "label": "NVDA",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "230.89달러 +0.2% 관망 마감·허깅페이스 129억달러 인수(9/3) 개발자 1,800만 lock-in 재확인·오라클 9/10 Q1 실적에서 Stargate 백로그 갱신 시 AI 인프라 카테고리 상단 재확장·TSM +1.3% 후행 상승 서사가 반도체 순환매 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       }
     ]
   },
