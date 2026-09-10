@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 574,000원 +8.3% 급등 마감·미 ESS 수주 확대 관측·AI 데이터센터 전력 후방 최대 카타리스트가 카테고리 상단 모멘텀 지속 축, 2차전지 순환매 3일차 확산·양극재·전해액·리튬 소재 카테고리 확산 서사가 상단 유입 재점화 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 8.3
       },
       {
         "label": "META",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "641.71달러 +4.6% 급등 마감·오픈AI GPT-6 광고 파트너십 확장 관측·페이스북·인스타그램 AI 광고 지표 모멘텀 재점화가 카테고리 상단 카타리스트, Reels·Threads AI 추천 알고리즘 개선·Meta AI 어시스턴트 광고 인벤토리 확장 서사가 광고 유닛 이코노믹스 축",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -0.8
       },
       {
         "label": "대덕전자",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 106,100원 +6.2% 강세 유지·애플 파크 이벤트 종료 후 아이폰 18 Pro·폴더블 아이폰 Ultra 공개 카타리스트가 부품 벤더 재점화 축, HBM 후방 기판·MLCC 순환매 확산 서사가 카테고리 상단 유입 재점화 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 6.2
       }
     ]
   },
