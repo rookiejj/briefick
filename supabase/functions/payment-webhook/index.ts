@@ -20,6 +20,10 @@
 //
 // 포트원 콘솔에 이 함수 URL 을 Webhook 으로 등록해야 발화됨:
 //   https://<project-ref>.supabase.co/functions/v1/payment-webhook
+//
+// 2026-09-09: hombri 가 같은 PortOne store 를 공유하면서(store 당 webhook URL 1개만 지원)
+//   이 webhook 이 hombri 결제 이벤트도 함께 받게 됨 — paymentId 접두사로 hombri 자신의
+//   payment-webhook 으로 전달(forward)만 하고 반환. 아래 "hombri" 분기 참고.
 
 import { createClient } from "jsr:@supabase/supabase-js@2";
 import { pickBonusEvent, recordRedemption } from "../_shared/promo.ts";
@@ -76,6 +80,27 @@ Deno.serve(async (req: Request) => {
     try { payload = await req.json(); } catch { /* ignore */ }
     const paymentId = payload?.data?.paymentId ?? payload?.paymentId ?? payload?.payment_id ?? null;
     if (!paymentId) return ok({ ok: true, skipped: "no paymentId" }); // 핑/검증 요청 등은 무시
+
+    // hombri 는 briefick 과 같은 PortOne store(store-94ded677-...) 를 공유하고, PortOne 콘솔은
+    // store 당 webhook URL 을 1개만 지원한다 (2026-09-09 콘솔 확인 — 추가 등록 UI 없음).
+    // 그래서 이미 등록된 이 webhook 이 hombri 결제 이벤트도 받는다 — paymentId 접두사('hombri...',
+    // index.html 의 paymentId='hombri'+Date.now()+... 생성 규칙)로 판별해 hombri 자신의
+    // payment-webhook 으로 그대로 전달만 하고 briefick DB 는 건드리지 않는다.
+    // 진짜 검증(포트원 재조회)은 전달받은 쪽(hombri payment-webhook)이 동일하게 다시 수행하므로
+    // 여기서 재검증 없이 전달해도 위조 방어는 그대로 유지된다.
+    if (String(paymentId).startsWith("hombri")) {
+      const fwd = await fetch("https://nphedxxpwbizfipfidgo.supabase.co/functions/v1/payment-webhook", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      }).catch((e) => { console.error("[payment-webhook] forward to hombri failed:", e); return null; });
+      if (!fwd) return fail(502, "forward to hombri webhook failed");
+      const text = await fwd.text().catch(() => "");
+      return new Response(text || JSON.stringify({ ok: fwd.ok }), {
+        status: fwd.status,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
 
     // 2) 포트원 단건조회 (권위 검증)
     const pRes = await fetch(`${PORTONE_API}/payments/${encodeURIComponent(paymentId)}`, {
