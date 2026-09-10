@@ -167,10 +167,14 @@ async function waitContainerReady(igUserId, containerId, token, label, maxSec = 
 //     Telephoto 일시 실패). Meta가 is_transient:false로 오분류하나 실제론 transient — 파일은
 //     유효(로컬·Storage 모두 디코드 OK)한데 변환만 순간 실패. 재발행하면 같은 파일로 성공.
 //     (사고: 2026-07-25 아침 캐러셀 — cartoon.png 등 7장 전부 유효했으나 변환 실패로 발행 실패.)
+//   - code 9004 / error_subcode 2207052 "Only photo or video can be accepted as media type"
+//     (IG fetcher가 Supabase Storage 공개 URL을 순간적으로 못 가져옴). Meta가 is_transient:false로
+//     오분류하나 다른 슬라이드는 같은 방식으로 정상 fetch돼 파일 자체는 유효 — 2207084와 동일 성격.
+//     (사고: 2026-09-01·2026-09-09 아침 캐러셀 — 05.png 등 fetch 실패로 발행 실패, 재발행하면 성공.)
 // Meta가 직접 `is_transient: true` 플래그를 줄 때도 있으므로 그것도 함께 검증.
 const TRANSIENT_PATTERNS = [
   /"is_transient"\s*:\s*true/,
-  /"error_subcode"\s*:\s*(99|2207027|2207085|2207084)\b/,
+  /"error_subcode"\s*:\s*(99|2207027|2207085|2207084|2207052)\b/,
   /Telephoto|이미지 전환 실패|JPEG로 변환하지 못/i,
   /"code"\s*:\s*9007\b/,
   /"code"\s*:\s*-1(?!\d)/,
