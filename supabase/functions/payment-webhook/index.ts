@@ -140,11 +140,18 @@ Deno.serve(async (req: Request) => {
     // 이전 기록 상태 (전체취소 자동 회수 멱등용 — 이미 refunded 면 재회수 안 함)
     const { data: prevPay } = await supabase.from("payments").select("status").eq("payment_id", paymentId).maybeSingle();
     const prevStatus = prevPay?.status ?? null;
-
-    // 3) payments 멱등 기록 — payment_id UNIQUE 를 락으로. 이미 있으면 활성화 재실행 안 함.
     const nowIso = new Date().toISOString();
-    const { data: insRows, error: insErr } = await supabase.from("payments")
-      .upsert({
+
+    // 3) payments 기록.
+    //   PAID 는 payment-confirm(클라이언트)이 결제 직후 이 webhook 과 거의 동시에
+    //   같은 paymentId 로 들어올 수 있어(레이스) upsert(병합)로는 "내가 처음 처리하는지"를
+    //   판별할 수 없었다 — 둘 다 활성화+알림톡을 각자 진행해 카톡이 두 번 나가던 실사고
+    //   원인. payment_id UNIQUE 를 락으로 쓰는 순수 INSERT 로 바꿔, 성공(경합 없음)한
+    //   쪽만 구독 활성화·알림톡을 진행하고 진 쪽(payment-confirm)은 자기 쪽에서
+    //   already_processed 로 조용히 스킵한다. failed/refunded 는 이 레이스가 없어 upsert 유지.
+    let claimed = false;
+    if (mapped === "paid") {
+      const { error: claimErr } = await supabase.from("payments").insert({
         subscriber_id: subscriberId,
         payment_id: paymentId,
         provider: "portone",
@@ -154,15 +161,29 @@ Deno.serve(async (req: Request) => {
         order_name: payment?.orderName ?? null,
         paid_at: payment?.paidAt ?? nowIso,
         raw_response: payment,
-      }, { onConflict: "payment_id", ignoreDuplicates: false })
-      .select("id");
-    if (insErr) throw insErr;
+      });
+      if (claimErr && claimErr.code !== "23505") throw claimErr;
+      claimed = !claimErr;
+    } else {
+      const { error: insErr } = await supabase.from("payments")
+        .upsert({
+          subscriber_id: subscriberId,
+          payment_id: paymentId,
+          provider: "portone",
+          amount,
+          currency: payment?.currency ?? "KRW",
+          status: mapped,
+          order_name: payment?.orderName ?? null,
+          paid_at: payment?.paidAt ?? nowIso,
+          raw_response: payment,
+        }, { onConflict: "payment_id", ignoreDuplicates: false });
+      if (insErr) throw insErr;
+    }
 
-    // 4) PAID orphan 복구: 아직 이 결제로 활성화 안 됐으면 구독 생성/연장.
-    //    prevStatus==="paid" 이면 이미 paid 로 기록된 결제(정상 처리 완료) → 재활성화 금지.
-    //    (webhook 재전송/수동 재호출로 과거 paid 건이 다시 와도 이중 연장 안 됨)
+    // 4) PAID orphan 복구: payments 클레임에 성공한 경우에만(=원자적으로 내가 처음) 진행.
+    //    alreadyApplied 는 추가 안전망(구독이 이미 이 paymentId 로 활성화돼 있으면 재실행 안 함).
     let recovered = false;
-    if (mapped === "paid" && phone && prevStatus !== "paid") {
+    if (claimed && phone) {
       const alreadyApplied = existing?.last_payment_id === paymentId;
       const expected = PRICE_PLANS[parsePlan(payment)]?.amount ?? 0;
       if (!alreadyApplied && amount >= expected) {

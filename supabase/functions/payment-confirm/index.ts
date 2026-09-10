@@ -139,6 +139,36 @@ Deno.serve(async (req) => {
       }, { cors });
     }
 
+    // 원자적 클레임: payments.payment_id UNIQUE 제약을 락으로 사용.
+    // payment-webhook(포트원 서버 webhook)이 이 함수와 거의 동시에 같은 paymentId 로 들어올
+    // 수 있어(결제 직후 클라이언트 redirect·webhook 이 근접 발화) 위 subscribers.last_payment_id
+    // 체크만으론 완벽히 막지 못함 — 둘 다 "아직 처리 안 됨"을 동시에 읽고 통과해버리면
+    // 구독 이중 연장 + 알림톡 중복 발송으로 이어짐(2026-09 briefick 실사고).
+    // INSERT 는 DB 레벨에서 원자적이라 두 요청 중 하나만 성공한다 — 성공한 쪽만
+    // 구독 활성화·알림톡 발송을 진행하고, 진 쪽은 "already_processed" 로 조용히 종료.
+    const { error: claimErr } = await supabase.from("payments").insert({
+      payment_id: paymentId,
+      provider: "portone",
+      amount: paidAmount,
+      currency: payment.currency ?? "KRW",
+      status: "paid",
+      order_name: payment.orderName ?? null,
+      paid_at: payment.paidAt ?? nowIso,
+      raw_response: payment,
+    });
+    if (claimErr) {
+      if (claimErr.code === "23505") {
+        const { data: cur } = await supabase.from("subscribers")
+          .select("paid_until").eq("phone", cleaned).maybeSingle();
+        return json({
+          ok: true, status: "extended", paid_until: cur?.paid_until ?? null,
+          alimtalk_sent: false, bonus_days: 0, bonus_event: null, first_payment_bonus_days: 0,
+          note: "already_processed(webhook)",
+        }, { cors });
+      }
+      throw claimErr;
+    }
+
     // 적용 가능한 promo 이벤트 1개 결정 (자격 + 미수령, 가장 큰 보너스).
     const userCtx = {
       hadPriorPayment: !!existing?.last_payment_id,
@@ -217,18 +247,9 @@ Deno.serve(async (req) => {
       });
     }
 
-    // 4) 결제 이력
-    await supabase.from("payments").insert({
-      subscriber_id: subscriberId,
-      payment_id: paymentId,
-      provider: "portone",
-      amount: paidAmount,
-      currency: payment.currency ?? "KRW",
-      status: "paid",
-      order_name: payment.orderName ?? null,
-      paid_at: payment.paidAt ?? nowIso,
-      raw_response: payment,
-    });
+    // 4) 결제 이력 — payments 행은 위 원자적 클레임 단계에서 이미 insert 됨.
+    // subscriber_id 는 그때는 몰랐으니 여기서 보정만.
+    await supabase.from("payments").update({ subscriber_id: subscriberId }).eq("payment_id", paymentId);
 
     // 5) 결제 완료 알림톡 발송 (실패해도 결제 자체는 성공 처리)
     // 만료일은 KST 기준 — toISOString().slice(0,10) 은 UTC 라 KST 자정 직후 1일 차이 발생.
