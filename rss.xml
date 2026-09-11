@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 11 Sep 2026 10:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:20:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 9월 12일 (토) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-09-12</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-09-12</guid>
+      <pubDate>Fri, 11 Sep 2026 22:00:00 GMT</pubDate>
+      <description>삼성전자 259,500원 -3.5% 마감 - 다음 주 FOMC 대기, 매파 부담 확대 · S&amp;P 500 +0.96%·나스닥 +0.88% 4일 하락 종료 - 미 CPI 컨센 부합, 위험선호 회복 · 브렌트 100달러대 후퇴 - 미 CPI 컨센 부합·유가 급락, 인플레 재점화 서사 완화</description>
+    </item>
     <item>
       <title>2026년 9월 11일 (금) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-09-11</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-07-11</guid>
       <pubDate>Fri, 10 Jul 2026 22:00:00 GMT</pubDate>
       <description>SK하이닉스 나스닥 ADR 데뷔 종가 $171.41 시총 $1.27T 조달 $26.5B 사상 최대 · S&amp;P 7,575.39 신고가·나스닥 26,281·다우 52,637 주간 +1% 견고 마감 · BTC $63,800~64,150 spot ETF $90.4M 유입·아웃플로우 종료 반전</description>
-    </item>
-    <item>
-      <title>2026년 7월 10일 (금) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-07-10</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-07-10</guid>
-      <pubDate>Thu, 09 Jul 2026 22:00:00 GMT</pubDate>
-      <description>SK하이닉스 나스닥 데뷔 $158.14 +6.1% $29.4B 사상 최대 외국 상장 · 마이크론 +8.87% $250B 美 투자 확대·DRAM 40% 美 생산 마일스톤 · BTC $63,457 spot ETF 10일 아웃플로우 종료 +$221.7M 최대 유입</description>
     </item>
   </channel>
 </rss>
