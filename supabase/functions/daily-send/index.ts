@@ -504,6 +504,7 @@ Deno.serve(async (req) => {
     let truncated = false;
     let tabCount = 0;
     let insight: DailyInsight | null = null;
+    let failedTabs: string[] = [];
     if (customMessage) {
       message = customMessage;
       rawMessage = customMessage;
@@ -518,8 +519,15 @@ Deno.serve(async (req) => {
       await loadCompanyKoMap();
       const tabs: TabWithEntries[] = [];
       for (const t of TABS) {
-        const entries = await fetchTabEntries(supabase, t);
-        if (entries.length) tabs.push({ ...t, entries });
+        // 탭 하나의 DB 조회 실패(예: Gateway Timeout)가 전체 발송을 막지 않도록
+        // 개별 탭 단위로 격리 — 실패한 탭만 건너뛰고 나머지 탭으로 발송 계속.
+        try {
+          const entries = await fetchTabEntries(supabase, t);
+          if (entries.length) tabs.push({ ...t, entries });
+        } catch (e) {
+          console.error(`[warn] fetchTabEntries ${t.id} failed`, e);
+          failedTabs.push(t.id);
+        }
       }
       tabCount = tabs.length;
       // 오늘의 주요 일정 블록 (이벤트 없으면 빈 문자열 → 미노출)
@@ -667,10 +675,11 @@ Deno.serve(async (req) => {
     const fail = logs.filter((l) => l.status === "fail").length;
 
     if (!isManual) {
+      const tabNote = failedTabs.length ? ` (탭 조회 실패: ${failedTabs.join(",")})` : "";
       await notify(
         "Daily Send",
-        fail === 0 ? "success" : "failure",
-        `발송 ${success}건 / 실패 ${fail}건`,
+        fail === 0 && failedTabs.length === 0 ? "success" : "failure",
+        `발송 ${success}건 / 실패 ${fail}건${tabNote}`,
       );
     }
 
