@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-15",
+    "made": "2026-09-15 07:40 KST",
+    "predictions": [
+      {
+        "label": "한화에어로",
+        "ticker": "012450",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,137,000원 +5.2% 강세 지속 관측·브렌트 108달러 근접·사우디 우회 송유관 피격·NATO 방위비 5% 목표 후방이 방산 카테고리 상단 카타리스트, 코스피 -3.26% 급락 국면에서 방산 방어 성격 최대 부각·K2PL 폴란드 3차 210대 연내 서명 임박 서사가 화요일 갭업 유입 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "CRWD",
+        "ticker": "CRWD",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 219.35달러 +6.1% 급등 지속 관측·AI 감속 담론 확산 국면에서 사이버보안 방어 카테고리 순환매 유입이 sector rotation 렌즈 최대 카타리스트, PANW +4.8%·ZS +4.8% 동조 강세·엔터프라이즈 SaaS 매출 카테고리 상단 확장 서사가 화요일 후속 매수 유입 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 212.37달러 -2.7% 조정 후속 하방 관측·다리오 아모데이 앤트로픽 CEO 9/12 AI 감속 촉구·샘 알트먼 즉시 동조 담론 확산이 GPU 수요 프레임 재정의 카운터, 9/16 FOMC 25bp 인상 확률 93% 정착·성장 카테고리 듀레이션 카운터가 화요일 추가 하방 시나리오",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "made": "2026-09-11 07:40 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -1.8
       }
     ]
-  },
-  {
-    "date": "2026-09-02",
-    "made": "2026-09-02 07:20 KST",
-    "predictions": [
-      {
-        "label": "HD현대중공업",
-        "ticker": "329180",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 453,000원 +0.8% 강보합·수주잔고 609억달러·MASGA 정책 후방·미 해군 MRO 추가 사이클이 조선 카테고리 지지 근거·필리조선소 State of Maine 명명식 후속 서사가 카테고리 리레이팅 축·인프라 순환매 재개 관측",
-        "result": "hit",
-        "actual": 0.8
-      },
-      {
-        "label": "한화에어로스페이스",
-        "ticker": "012450",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 1,058,000원 -4% 급락 이후 방산 카테고리 차익매물 확산 지속 관측·8월 랠리 후 첫 큰 조정 국면 진입·9월 4일 미 8월 고용지표 대기 매크로 카운터·유럽 방산 예산 확대 서사에도 단기 이익 실현 우세",
-        "result": "hit",
-        "actual": -4
-      },
-      {
-        "label": "TSLA",
-        "ticker": "TSLA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 362.59달러 -1.5% 조정 이후 반등 시도·Model 3 가격 인하 카드·Robotaxi 확장 로드맵·Q3 배송 사이클 개시 근거·노동절 후 첫 세션 위험 선호 재조정·Optimus 상용화 로드맵이 중기 상단 축",
-        "result": "hit",
-        "actual": -0.2
-      }
-    ]
   }
 ];
-채점 완료: 2026-09-14 기준 변경된 항목 있음
