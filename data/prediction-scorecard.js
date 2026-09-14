@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 253,000원 +1% 강세 유지·오라클 Q1 FY27 매출 193억달러 +30%·잔여계약 6,640억달러 폭발이 HBM 후공정 CAPEX 재확인 카타리스트, TC본더 71% 점유·HBM4 세대 전환 서사가 후공정 카테고리 지배력 축으로 월요일까지 갭업 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -8.7
       },
       {
         "label": "AMD",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 513달러 -1.6% 조정 국면·오라클 CAPEX 900억달러 조달·클라우드 인프라 +121% 검증이 GPU 카테고리 광범위 수요 재확인 카타리스트, MI400 시리즈 세대 전환·엔비디아 GPU 대안 서사가 카테고리 상단 반전 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 2.5
       },
       {
         "label": "컴투스",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 34,850원 +11.7% 급등 마감·신작 매출 서프라이즈 선반영 국면·단기 급등 후 차익실현 압력 카운터가 방향 결정 축, 코스닥 게임 카테고리 순환매 3일차 확산 후 월요일 이익실현 매물 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.4
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-09-14 기준 변경된 항목 있음
