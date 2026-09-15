@@ -233,6 +233,9 @@ const fixed = [
   { cat:'macro', impact:3, title:'미국 8월 PCE', date:'2026-09-26', desc:'BEA 8:30 ET·연준 선호 인플레 지표·9월 FOMC 이후 확인대·12월 추가 인상 경로 시그널' },
   { cat:'macro', impact:2, title:'미국 9월 미시간대 소비자심리 확정', date:'2026-09-26', desc:'마지막 주 금요일·기대 인플레 확정치·연말 소비 모멘텀 최종 확인' },
   { cat:'macro', impact:2, title:'미국 Q2 GDP 최종', date:'2026-09-25', desc:'BEA 확정치·성장 카테고리 최종 검증·9월 FOMC 이후 매크로 확인대' },
+  { cat:'macro', impact:2, title:'미국 8월 기존주택판매', date:'2026-09-22', desc:'전미부동산협회(NAR) 발표·주택시장 활동 지표·금리 민감도 시그널' },
+  { cat:'macro', impact:2, title:'미국 8월 신규주택판매', date:'2026-09-24', desc:'미 통계국 발표·신규 주택 수요·건설업 카테고리 시그널' },
+  { cat:'macro', impact:2, title:'S&P Global 9월 PMI 플래시', date:'2026-09-23', desc:'제조업·서비스 PMI 플래시 동시 발표·9월 경기 활동 첫 확인대' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,137,000원 +5.2% 강세 지속 관측·브렌트 108달러 근접·사우디 우회 송유관 피격·NATO 방위비 5% 목표 후방이 방산 카테고리 상단 카타리스트, 코스피 -3.26% 급락 국면에서 방산 방어 성격 최대 부각·K2PL 폴란드 3차 210대 연내 서명 임박 서사가 화요일 갭업 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 5.2
       },
       {
         "label": "CRWD",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 219.35달러 +6.1% 급등 지속 관측·AI 감속 담론 확산 국면에서 사이버보안 방어 카테고리 순환매 유입이 sector rotation 렌즈 최대 카타리스트, PANW +4.8%·ZS +4.8% 동조 강세·엔터프라이즈 SaaS 매출 카테고리 상단 확장 서사가 화요일 후속 매수 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       },
       {
         "label": "NVDA",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "직전 거래일 종가 212.37달러 -2.7% 조정 후속 하방 관측·다리오 아모데이 앤트로픽 CEO 9/12 AI 감속 촉구·샘 알트먼 즉시 동조 담론 확산이 GPU 수요 프레임 재정의 카운터, 9/16 FOMC 25bp 인상 확률 93% 정착·성장 카테고리 듀레이션 카운터가 화요일 추가 하방 시나리오",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 0.6
       }
     ]
   },
