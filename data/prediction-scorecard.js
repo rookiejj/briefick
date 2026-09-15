@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-16",
+    "made": "2026-09-16 07:40 KST",
+    "predictions": [
+      {
+        "label": "LG에너지솔루션",
+        "ticker": "373220",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 365,500원 +4% 강세 지속 관측·2차전지 순환매 3일차 확산·ESS 수요 확대 재점화·조선·방산 급락 대비 방어 성격 부각이 sector rotation 렌즈 최대 카타리스트, 미 ESS 수주·AI 데이터센터 전력 후방 수요 서사가 monetization 상단 확장 축으로 수요일 갭업 유입 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "HD한국조선해양",
+        "ticker": "009540",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 339,000원 -6.7% 급락 후 기술적 반등 관측·조선주 이익실현 최대 낙폭 소화·미 함정 사이클 상단·MASGA 정책·LNG 컨선 수주 파이프 서사가 monetization 하방 지지 축, 수주잔고 609억달러 서사가 카테고리 상단 재정의 카타리스트로 수요일 저가매수 유입 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 212.35달러 +0.7% 강세 유지·화요일 -3.26% 급락 후 저가매수 유입 관측·GB300 Blackwell Ultra·HBM4 수요 서사·오라클 RPO 6,640억달러 백로그 하방 지지 유효, 9/16 FOMC 25bp 인상 컨센 부합 시 안도 반등 시나리오·성장 카테고리 리레이팅 최대 카타리스트",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "made": "2026-09-15 07:40 KST",
     "predictions": [
@@ -204,37 +237,4 @@ const PREDICTION_SCORECARD = [
       }
     ]
   },
-  {
-    "date": "2026-09-03",
-    "made": "2026-09-03 07:20 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 250,500원 -4% 급락 뒤 오버셀 반등 시나리오·브로드컴 Q3 AI 반도체 매출 167억달러 +221% 확인이 HBM 후방 리레이팅 트리거·미 3대 지수 반등 마감 편승 재료·8월 반도체 수출 사상 최고·자사주 매입 카드 지지가 forward 카테고리 근거",
-        "result": "miss",
-        "actual": -4
-      },
-      {
-        "label": "LG에너지솔루션",
-        "ticker": "373220",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 347,500원 -5.3% 조정·2차전지 카테고리 이익실현 이틀째 지속·매파 확률 66% 재점화 국면·강달러·유가 상승 매크로 파도 카운터·9월 4일 미 고용지표 대기 위험선호 축소 시나리오·순환 조정 여진 지속 근거",
-        "result": "hit",
-        "actual": -5.3
-      },
-      {
-        "label": "AVGO",
-        "ticker": "AVGO",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 369.5달러 보합·Q3 매출 296억달러·EPS 3.32달러 컨센 상회에도 Q4 가이던스 348억달러 컨센 350억달러 소폭 하회로 시간외 -3.49%(354.43달러) 되돌림·커스텀 실리콘 카테고리 밸류 재조정 사이클 진입·순환 이익실현 시나리오",
-        "result": "hit",
-        "actual": -1.8
-      }
-    ]
-  }
 ];
