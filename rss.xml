@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 16 Sep 2026 10:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:20:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 9월 17일 (목) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-09-17</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-09-17</guid>
+      <pubDate>Wed, 16 Sep 2026 22:00:00 GMT</pubDate>
+      <description>KOSPI 6,718 +1.37% 반등 마감 - 4일 하락 끝, 반도체가 주도 · 다우 51,462 -1.21% 631포인트 급락 - FOMC 첫 인상 후 매도 · 브렌트유 108달러대 되돌림 - EIA 재고 서프라이즈 증가 카운터</description>
+    </item>
     <item>
       <title>2026년 9월 16일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-09-16</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-07-15</guid>
       <pubDate>Tue, 14 Jul 2026 22:00:00 GMT</pubDate>
       <description>KOSPI +6.24% 7,284.41 급반등·매수 사이드카 발동 - 외국인 2.3조 순매수 최대 · 6월 PPI 발표 D-Day 8:30 ET·헤드라인 -0.1% MoM·YoY 6.2% 컨센 5월 6.5%→하향 · BTC $62,900 ETH $1,870 CPI 서프 후 반등 지속 - spot ETH ETF 유입 재개·6월 순유출 $4.5B 잔재</description>
-    </item>
-    <item>
-      <title>2026년 7월 14일 (화) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-07-14</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-07-14</guid>
-      <pubDate>Mon, 13 Jul 2026 22:00:00 GMT</pubDate>
-      <description>KOSPI 6,856.83 +0.73% 반등 마감 - 장중 6,500 저점 후 반도체 저가매수·연중 최대 변동성 · 슈퍼 트리플 이벤트 D-2시간 - 6월 CPI 8:30 EDT + 5대 은행 Q2 어닝 개장 전 + Warsh Fed 의장 하원 청문회 · Brent $85+ 화요일 재상승 - 주간 상승률 10%+·美-이란 미사일 교환 지속·호르무즈 통항 상</description>
     </item>
   </channel>
 </rss>
