@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 365,500원 +4% 강세 지속 관측·2차전지 순환매 3일차 확산·ESS 수요 확대 재점화·조선·방산 급락 대비 방어 성격 부각이 sector rotation 렌즈 최대 카타리스트, 미 ESS 수주·AI 데이터센터 전력 후방 수요 서사가 monetization 상단 확장 축으로 수요일 갭업 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 4
       },
       {
         "label": "HD한국조선해양",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 339,000원 -6.7% 급락 후 기술적 반등 관측·조선주 이익실현 최대 낙폭 소화·미 함정 사이클 상단·MASGA 정책·LNG 컨선 수주 파이프 서사가 monetization 하방 지지 축, 수주잔고 609억달러 서사가 카테고리 상단 재정의 카타리스트로 수요일 저가매수 유입 시나리오",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -6.7
       },
       {
         "label": "NVDA",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 212.35달러 +0.7% 강세 유지·화요일 -3.26% 급락 후 저가매수 유입 관측·GB300 Blackwell Ultra·HBM4 수요 서사·오라클 RPO 6,640억달러 백로그 하방 지지 유효, 9/16 FOMC 25bp 인상 컨센 부합 시 안도 반등 시나리오·성장 카테고리 리레이팅 최대 카타리스트",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       }
     ]
   },
@@ -236,5 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -2
       }
     ]
-  },
+  }
 ];

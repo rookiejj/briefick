@@ -1,7 +1,7 @@
 const updates = [
   {
     "date": "2026-09-16 19:35 KST",
-    "summary": "OpenAI 프리IPO 1.2조달러 논의 - 3월 라운드 대비 41% 상향 재확인\n앤트로픽 35억달러 라운드 마감 임박 - 밸류 615억달러 확정\n앤트로픽 10월 IPO 로드쇼 - 상장 밸류 2조달러 시나리오 확산\nAnduril 300억달러 - 유가·NATO 5% 목표 후방 지지\nRamp 440억달러 - ARR 15억달러, 연말 IPO-ready 재확인",
+    "summary": "앤트로픽 615억달러 밸류 확정 - Lightspeed·MGX 참여 라운드 마감 임박\n앤트로픽 10월 IPO 로드쇼 - 상장 밸류 2조달러 시나리오 확산\nDatabricks 1,900억달러 - 2027 상장 시사, 데이터 카테고리 리더\nAnduril 300억달러 - 유가·NATO 5% 목표 후방 지지\nRamp 440억달러 - ARR 15억달러, 연말 IPO-ready 재확인",
     "changes": [
       {
         "time": "2026-09-16 19:35 KST",
