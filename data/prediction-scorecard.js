@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-17",
+    "made": "2026-09-17 07:40 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 종가 1,759,000원 +4.08% 강세 유지·Intel 오하이오 파운드리 캐파 공동 활용 협의 뉴스가 카타리스트 최대 축·HBM 캐파 확대·미 지역 공급망 안착 서사가 상단 재정의 근거, IT 섹터 +4.78% 카테고리 최강 반등 지속·반도체 장비 후방 급등이 오늘 개장 카테고리 자금 유입 시나리오·FOMC 첫 인상 후 반도체 성장주 재진입 서사 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 종가 253,500원 +2.01% 반등·IT 섹터 최강 카테고리 반등 지속·HBM4 양산 로드맵·삼성 P4 라인 발주 재개 기대가 monetization 상단 확장 축, 원익IPS·유진테크 등 반도체 장비 후방 급등이 카테고리 자금 유입 시나리오·FOMC 첫 인상 확정 후 방향성 확인·외국인 SK하이닉스 중심 매수 전환 흐름이 대형주 동반 반등 카타리스트",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "TSLA",
+        "ticker": "TSLA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 357.87달러 +0.4% 소폭 반등·머스크 CEO 250만주 자사주 매수(10억달러 규모) 재조명·로보택시 Austin 확장 파이프·상하이 FSD 라이센스 서사가 monetization 상단 확장 축, FOMC 25bp 첫 인상 확정 후 EV 카테고리 듀레이션 카운터 완화 시 반등 시나리오·Cybercab 대량 생산 시점 재확인이 상단 지지 축",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "made": "2026-09-16 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 362,500원 +1.1% 소폭 상승 국면·유가 93달러 급등·지정학 프리미엄 확대가 이차전지 카테고리 카운터 축·미 매파 재부각 확률 50/50·달러 강세 재부각 시나리오·8월 CPI 상방 리스크 대기·이차전지 이익실현 재부각 시나리오",
         "result": "miss",
         "actual": 1.1
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "made": "2026-09-04 07:40 KST",
-    "predictions": [
-      {
-        "label": "한화오션",
-        "ticker": "042660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 86,500원 +5.5% 급등·대만 양밍해운 LNG 이중연료 컨선 6척 1.55조원 수주 소식이 조선 3사 동반 강세 카타리스트·삼성중공업 +8.6%·HD한국조선해양 +4.4% 후방 사이클 확인이 카테고리 리레이팅 축·미 함정 MRO 사이클·트럼프 알래스카 LNG 프로젝트 서사 유지가 forward 상단 근거·다음 거래일 순환매 연속성 기대",
-        "result": "hit",
-        "actual": 0.6
-      },
-      {
-        "label": "삼성화재",
-        "ticker": "000810",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 702,000원 +6.8% 급등·자사주 소각·배당 확대·주주환원 강화 기대 카타리스트·KB금융 +5.2% 등 금융지주 카테고리 순환매 후방 검증·밸류업 프로그램 후속 재점화 축·손보 1위·자산운용 실적 재평가 서사 유지가 forward 상단 근거·다음 거래일 강세 연속 시나리오",
-        "result": "miss",
-        "actual": -1.1
-      },
-      {
-        "label": "MSFT",
-        "ticker": "MSFT",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 500.10달러 +0.7% 반등·프로미넌트 셀사이드 브로커리지 목표가 상향·AI 인프라 CAPEX 실행 리스크 감소 서사 확산이 카타리스트·Azure·Copilot 사이클로 회계연도 기록 마감·S&P·나스닥 3대 지수 랠리 편승·국채금리 진정에 위험선호 회복 국면 지속 근거가 forward 방향 지지",
-        "result": "miss",
-        "actual": -2
       }
     ]
   }
