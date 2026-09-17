@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-21",
+    "made": "2026-09-18 07:35 KST",
+    "predictions": [
+      {
+        "label": "한화시스템",
+        "ticker": "272210",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 77,500원 +12.6% 급등 마감 후 mean reversion 시나리오·MSPO 2026 우주 AI 솔루션 카타리스트 소화 후 차익매물 예상, 방산 카테고리 대장주 급등 후 월요일 세션 순환매 종료 여부가 관건·외국인 7거래일 연속 순매도 국면에서 개별 종목 차익 실현 압박이 하방 카운터 축, 다만 유럽 방산 CAPEX 재점화·NATO 재무장 사이클이 카테고리 후방 지지",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "한국항공우주",
+        "ticker": "047810",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 130,400원 +4.2% 반등 마감·방산·우주 카테고리 순환매 재점화·경남 클러스터 서사 유지가 monetization 상단 확장 축, 한화 기업결합 심사 진전·MSPO 2026 폴란드 방산 전시회 여진이 카타리스트 축, KF-21 보라매·T-50 양산·수리온 파이프 서사가 프리미엄 지지 축·한국 우주항공청 본격 가동이 카테고리 재정의 카타리스트",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 217.22달러 +1.6% 반등 마감·FOMC 25bp 첫 인상 소화 후 저가 매수 재확산·Anthropic 100억달러 투자 검토 보도가 카타리스트 최대 축, Blackwell Ultra·Rubin 로드맵·H200 백로그·데이터센터 매출 상단 재확인이 프리미엄 지지 축·AI 팩토리 CAPEX 사이클 하반기 지속 서사가 상단 지지 축·주말 매크로 이벤트 부재 시 모멘텀 지속 시나리오",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "made": "2026-09-17 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "230.89달러 +0.2% 관망 마감·허깅페이스 129억달러 인수(9/3) 개발자 1,800만 lock-in 재확인·오라클 9/10 Q1 실적에서 Stargate 백로그 갱신 시 AI 인프라 카테고리 상단 재확장·TSM +1.3% 후행 상승 서사가 반도체 순환매 축",
         "result": "hit",
         "actual": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-09-08",
-    "made": "2026-09-08 07:40 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,783,000원 +8.3% 급등·카운터포인트 HBM4 SK 50% 점유·엔비디아 물량 70% 확보 서사 유지·삼성·SK D램 재고 10일 하방으로 공급 병목 상단 축·외국인 1조3,714억원 순매수 화요일 매수 지속 기대·미 증시 리오픈 반도체 카테고리 상단 연동 시나리오",
-        "result": "hit",
-        "actual": 8.3
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,016.59달러 +6.1% 강세·HBM4 세대 전환 카테고리 리레이팅 축·엔비디아 Vera Rubin 1분기 상용 진입 서사 유지·SK하이닉스 178만원 +8.3% 폭등 후방 사이클 확인·미 증시 화요일 리오픈 나스닥 선물 +0.9% 회복 편승·오라클 9/10 Q1 실적 대기 카타리스트",
-        "result": "hit",
-        "actual": 6.1
-      },
-      {
-        "label": "LG에너지솔루션",
-        "ticker": "373220",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 362,500원 +1.1% 소폭 상승 국면·유가 93달러 급등·지정학 프리미엄 확대가 이차전지 카테고리 카운터 축·미 매파 재부각 확률 50/50·달러 강세 재부각 시나리오·8월 CPI 상방 리스크 대기·이차전지 이익실현 재부각 시나리오",
-        "result": "miss",
-        "actual": 1.1
       }
     ]
   }

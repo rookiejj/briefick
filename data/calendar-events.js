@@ -236,6 +236,8 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 8월 기존주택판매', date:'2026-09-22', desc:'전미부동산협회(NAR) 발표·주택시장 활동 지표·금리 민감도 시그널' },
   { cat:'macro', impact:2, title:'미국 8월 신규주택판매', date:'2026-09-24', desc:'미 통계국 발표·신규 주택 수요·건설업 카테고리 시그널' },
   { cat:'macro', impact:2, title:'S&P Global 9월 PMI 플래시', date:'2026-09-23', desc:'제조업·서비스 PMI 플래시 동시 발표·9월 경기 활동 첫 확인대' },
+  { cat:'ipo', impact:3, title:'앤트로픽 IPO 로드쇼 시작 예상', date:'2026-10-01', desc:'상장 밸류 2조달러·조달 최대 1,000억달러·Morgan Stanley·GS·JPM 3사 언더라이터·엔비디아 100억달러 투자 검토' },
+  { cat:'macro', impact:3, title:'미국 9월 NFP 비농업 고용', date:'2026-10-02', desc:'BLS 8:30 ET·10월 첫 금요일·FOMC 첫 인상 후 첫 고용 확인대' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
