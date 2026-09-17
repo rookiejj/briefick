@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 17 Sep 2026 10:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:24:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 9월 18일 (금) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-09-18</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-09-18</guid>
+      <pubDate>Thu, 17 Sep 2026 22:00:00 GMT</pubDate>
+      <description>코스피 6,715 -2.6P 마감 - FOMC 첫 인상 삭풍 방어 후 오늘 반등 시도 · 미 3대 지수 반등 - FOMC 첫 인상 다음날 저가 매수 광범위 확산 · 비트코인 76,420달러 +0.4% - FOMC 첫 인상 소화 후 저점 지지 유지</description>
+    </item>
     <item>
       <title>2026년 9월 17일 (목) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-09-17</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-07-16</guid>
       <pubDate>Wed, 15 Jul 2026 22:00:00 GMT</pubDate>
       <description>KOSPI 6,820.60 -6.37% (-463.81p) 하루 만에 7,000선 붕괴·코스닥 791.84 -4.53% · TSMC Q2 매출 $40.2B +36% YoY·EPS $4.31/ADR +77%·GM 67.7%·OM 60.3% 컨센 압도 · BTC $64,754 3주 고점 $65,100 후 소폭 되돌림·spot BTC ETF 7/15 -$425M</description>
-    </item>
-    <item>
-      <title>2026년 7월 15일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-07-15</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-07-15</guid>
-      <pubDate>Tue, 14 Jul 2026 22:00:00 GMT</pubDate>
-      <description>KOSPI +6.24% 7,284.41 급반등·매수 사이드카 발동 - 외국인 2.3조 순매수 최대 · 6월 PPI 발표 D-Day 8:30 ET·헤드라인 -0.1% MoM·YoY 6.2% 컨센 5월 6.5%→하향 · BTC $62,900 ETH $1,870 CPI 서프 후 반등 지속 - spot ETH ETF 유입 재개·6월 순유출 $4.5B 잔재</description>
     </item>
   </channel>
 </rss>
