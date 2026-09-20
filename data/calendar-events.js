@@ -258,6 +258,7 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
@@ -286,7 +287,7 @@ const autoEarnings = [
     "cat": "earnings",
     "impact": 2,
     "title": "Delta Air Lines 실적",
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "desc": "실적 발표 예정",
     "tickers": [
       "DAL"
@@ -1467,6 +1468,358 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "011210"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "BWX Tech 실적",
+    "date": "2026-11-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "BWXT"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "HD한국조선해양 실적",
+    "date": "2026-11-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "009540"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Palantir 실적",
+    "date": "2026-11-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "PLTR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Vertex Pharma 실적",
+    "date": "2026-11-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "VRTX"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "포스코퓨처엠 실적",
+    "date": "2026-11-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "003670"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "AMD 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "AMD"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Arista 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ANET"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Eaton 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ETN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Global Payments 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "GPN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Kratos 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "KTOS"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Rivian 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "RIVN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "SpaceX 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "SPCX"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Uber 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "UBER"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Xylem 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "XYL"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Zebra Tech 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ZBRA"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "카카오페이 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "377300"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "크래프톤 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "259960"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Albemarle 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ALB"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Centrus 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "LEU"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Emerson Elec 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "EMR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Essential Utilities 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "WTRG"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Fortinet 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "FTNT"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "IonQ 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "IONQ"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Joby Aviation 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "JOBY"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Johnson Controls 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "JCI"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "LG유플러스 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "032640"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Marathon Digital 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "MARA"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Novo Nordisk 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "NVO"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Talen Energy 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "TLN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "에스엠 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "041510"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "카카오게임즈 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "293490"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한화솔루션 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "009830"
     ],
     "src": "auto-earnings"
   }
