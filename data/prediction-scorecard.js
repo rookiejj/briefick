@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 77,500원 +12.6% 급등 마감 후 mean reversion 시나리오·MSPO 2026 우주 AI 솔루션 카타리스트 소화 후 차익매물 예상, 방산 카테고리 대장주 급등 후 월요일 세션 순환매 종료 여부가 관건·외국인 7거래일 연속 순매도 국면에서 개별 종목 차익 실현 압박이 하방 카운터 축, 다만 유럽 방산 CAPEX 재점화·NATO 재무장 사이클이 카테고리 후방 지지",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 3.2
       },
       {
         "label": "한국항공우주",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 130,400원 +4.2% 반등 마감·방산·우주 카테고리 순환매 재점화·경남 클러스터 서사 유지가 monetization 상단 확장 축, 한화 기업결합 심사 진전·MSPO 2026 폴란드 방산 전시회 여진이 카타리스트 축, KF-21 보라매·T-50 양산·수리온 파이프 서사가 프리미엄 지지 축·한국 우주항공청 본격 가동이 카테고리 재정의 카타리스트",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -0.5
       },
       {
         "label": "NVDA",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 217.22달러 +1.6% 반등 마감·FOMC 25bp 첫 인상 소화 후 저가 매수 재확산·Anthropic 100억달러 투자 검토 보도가 카타리스트 최대 축, Blackwell Ultra·Rubin 로드맵·H200 백로그·데이터센터 매출 상단 재확인이 프리미엄 지지 축·AI 팩토리 CAPEX 사이클 하반기 지속 서사가 상단 지지 축·주말 매크로 이벤트 부재 시 모멘텀 지속 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.3
       }
     ]
   },
