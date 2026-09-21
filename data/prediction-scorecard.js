@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-22",
+    "made": "2026-09-22 07:40 KST",
+    "predictions": [
+      {
+        "label": "SK C&C",
+        "ticker": "034730",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 575,000원 +5.5% 급등 마감 후 mean reversion 시나리오·금융 IT 카테고리 자사주 매입 기대 소화 후 차익매물 예상, 반도체 대장주 강세 국면에서 순환매 자금 이탈 축·오늘 세션 개인 차익 실현 압박이 하방 카운터 축, 다만 3분기 실적 시즌 앞둔 밸류 리레이팅 흐름·AI 데이터센터 수주 서사가 카테고리 후방 지지",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,035.27달러 +1.9% 강세 마감·HBM 수요 재확인·AI 메모리 카테고리 상단 재정의 서사가 monetization 상단 확장 축, 젠슨 황 CEO 내년 AI 칩 매출 두 배 전망 여진·엔비디아 시총 5조달러 근접이 후방 지지 축·SK하이닉스·삼성전자 HBM4 캐파 확산 국면에서 마이크론 캐파 확장 서사가 상단 지지 축·10년물 진정 흐름에서 성장주 리레이팅 재점화 시나리오",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "COIN",
+        "ticker": "COIN",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 204.38달러 +5.2% 반등 마감·비트코인 8만 5,000달러 회복·리스크선호 재점화 흐름이 카타리스트 최대 축, MSTR +7.5%·HOOD +5.3% 크립토 관련주 전방위 반등 국면 지속·SEC 크립토 프레임워크 정착·솔라나·XRP ETF 승인 후속 진전 서사가 프리미엄 지지 축·달러인덱스 조정 흐름에서 크립토 매수 재점화 시나리오",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "made": "2026-09-18 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 106,100원 +6.2% 강세 유지·애플 파크 이벤트 종료 후 아이폰 18 Pro·폴더블 아이폰 Ultra 공개 카타리스트가 부품 벤더 재점화 축, HBM 후방 기판·MLCC 순환매 확산 서사가 카테고리 상단 유입 재점화 시나리오",
         "result": "hit",
         "actual": 6.2
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "made": "2026-09-09 07:40 KST",
-    "predictions": [
-      {
-        "label": "LG이노텍",
-        "ticker": "011070",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 545,000원 -7.0% 급락 후 오늘 밤 애플 'Surprise and Shine' 이벤트에서 폴더블 아이폰 Ultra·아이폰 18 Pro 물량 확정 대기 국면·2나노 A20 Pro 카메라 락인 서사가 카테고리 상단 카타리스트로 물량 확정 기대 반등 시나리오",
-        "result": "miss",
-        "actual": -7
-      },
-      {
-        "label": "ORCL",
-        "ticker": "ORCL",
-        "market": "US",
-        "direction": "up",
-        "rationale": "166.25달러 +4.7% 강세로 마감·9/10 Q1 FY27 실적 D-1 진입에서 컨센 매출 191억달러·EPS 1.30달러·RPO 6,380억달러 검증 대기·Stargate 3,000억달러 백로그 갱신 서사가 매수 유입 지속 카타리스트·옵션 시장 11% 무브 프라이싱이 서프라이즈 대기 축",
-        "result": "hit",
-        "actual": 0.9
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "230.89달러 +0.2% 관망 마감·허깅페이스 129억달러 인수(9/3) 개발자 1,800만 lock-in 재확인·오라클 9/10 Q1 실적에서 Stargate 백로그 갱신 시 AI 인프라 카테고리 상단 재확장·TSM +1.3% 후행 상승 서사가 반도체 순환매 축",
-        "result": "hit",
-        "actual": 0
       }
     ]
   }
