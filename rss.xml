@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 10:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:19:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 9월 22일 (화) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-09-22</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-09-22</guid>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 GMT</pubDate>
+      <description>코스피 7,007 마감 후 화요일 강세 대기 - 미 지수 신고가 재확인, 반도체 순환매 이어져 · 엔비디아 223달러 종가 - 시총 5조달러 근접, 젠슨 황 매출 두 배 전망 여진 · 비트코인 85,158달러 회복 - 4.9% 반등, 크립토 관련주 전방위 강세</description>
+    </item>
     <item>
       <title>2026년 9월 21일 (월) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-09-21</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-07-19</guid>
       <pubDate>Sat, 18 Jul 2026 22:00:00 GMT</pubDate>
       <description>이재명 대통령 유럽순방 결과 브리핑 - 방산 유럽 압도·사우디 20조 패키지 카운트다운 · 7/22 구글·테슬라·7/23 인텔 어닝 슈퍼위크 - 하이퍼스케일러 CAPEX 가이던스 관건 · WTI $82.49 +4.48%·Brent $88.09 +4.58% - 주간 +14%·이란 7일차 야간 공습·CENTCOM 지속 타격</description>
-    </item>
-    <item>
-      <title>2026년 7월 18일 (토) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-07-18</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-07-18</guid>
-      <pubDate>Fri, 17 Jul 2026 22:00:00 GMT</pubDate>
-      <description>오라클 3만명 감원 - 스타게이트 $500B AI 인프라 자금 조달 시그널 - 한국 반도체 CAPEX 후방 강화 · 오라클 3만명 감원안 - 스타게이트 $500B AI 인프라 재원·소프트뱅크 $40B 후방 재확인 · BTC $63,130 -1.4%·ETH $1,832 -2.8% 이란 6일차 공습 위험자산 회피 지속</description>
     </item>
   </channel>
 </rss>
