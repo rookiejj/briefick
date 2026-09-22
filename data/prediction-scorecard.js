@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 575,000원 +5.5% 급등 마감 후 mean reversion 시나리오·금융 IT 카테고리 자사주 매입 기대 소화 후 차익매물 예상, 반도체 대장주 강세 국면에서 순환매 자금 이탈 축·오늘 세션 개인 차익 실현 압박이 하방 카운터 축, 다만 3분기 실적 시즌 앞둔 밸류 리레이팅 흐름·AI 데이터센터 수주 서사가 카테고리 후방 지지",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 5.5
       },
       {
         "label": "MU",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,035.27달러 +1.9% 강세 마감·HBM 수요 재확인·AI 메모리 카테고리 상단 재정의 서사가 monetization 상단 확장 축, 젠슨 황 CEO 내년 AI 칩 매출 두 배 전망 여진·엔비디아 시총 5조달러 근접이 후방 지지 축·SK하이닉스·삼성전자 HBM4 캐파 확산 국면에서 마이크론 캐파 확장 서사가 상단 지지 축·10년물 진정 흐름에서 성장주 리레이팅 재점화 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.1
       },
       {
         "label": "COIN",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 204.38달러 +5.2% 반등 마감·비트코인 8만 5,000달러 회복·리스크선호 재점화 흐름이 카타리스트 최대 축, MSTR +7.5%·HOOD +5.3% 크립토 관련주 전방위 반등 국면 지속·SEC 크립토 프레임워크 정착·솔라나·XRP ETF 승인 후속 진전 서사가 프리미엄 지지 축·달러인덱스 조정 흐름에서 크립토 매수 재점화 시나리오",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.5
       }
     ]
   },
