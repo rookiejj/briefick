@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-23",
+    "made": "2026-09-23 07:35 KST",
+    "predictions": [
+      {
+        "label": "대덕전자",
+        "ticker": "353200",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 112,300원 +10.2% 급등 마감·PCB 기판 랠리 주도 후 mean reversion 시나리오·단일 세션 폭등 후 차익 실현 매물 압박 예상, 반도체 대장주 SK하이닉스 -1.5% 조정 국면에서 순환매 자금 이탈 축·개인 차익 실현 압박이 하방 카운터 축, 다만 AI 서버 서브스트레이트 수요 재확산 서사·애플 아이폰17 사이클 진입 흐름이 카테고리 후방 지지",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "엔씨소프트",
+        "ticker": "036570",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 223,000원 +8% 급등 마감·게임 카테고리 순환매 유입 확산·모바일 신작 매출 상단 재확장 서사가 monetization 상단 확장 축, 아이온2 신작 파이프·리니지 IP 글로벌 지배력이 매출 재점화 축·반도체 → 게임 sector rotation 확산 국면에서 상대 강도 재확인 시나리오, 원화 강세 흐름이 해외 매출 카테고리 후방 지지 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "META",
+        "ticker": "META",
+        "market": "US",
+        "direction": "up",
+        "rationale": "뮤즈 AI 에이전트 미국 iOS 무료 앱 1위·ChatGPT 제친 다운로드 순위 급등이 monetization 상단 확장 축, 이메일·캘린더·결제·헬스 통합 개인 AI 에이전트 서사·9월 8일 출시 후 2주 만에 시장 지배력 확보가 프리미엄 지지 축, 매그니피센트 세븐 동반 강세 국면에서 상대 강도 재확인 시나리오·라마 4 기반 아키텍처 확장이 매출 재점화 후방 지지 축",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "made": "2026-09-22 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 34,850원 +11.7% 급등 마감·신작 매출 서프라이즈 선반영 국면·단기 급등 후 차익실현 압력 카운터가 방향 결정 축, 코스닥 게임 카테고리 순환매 3일차 확산 후 월요일 이익실현 매물 유입 시나리오",
         "result": "hit",
         "actual": 0.4
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "made": "2026-09-10 07:37 KST",
-    "predictions": [
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 574,000원 +8.3% 급등 마감·미 ESS 수주 확대 관측·AI 데이터센터 전력 후방 최대 카타리스트가 카테고리 상단 모멘텀 지속 축, 2차전지 순환매 3일차 확산·양극재·전해액·리튬 소재 카테고리 확산 서사가 상단 유입 재점화 시나리오",
-        "result": "hit",
-        "actual": 8.3
-      },
-      {
-        "label": "META",
-        "ticker": "META",
-        "market": "US",
-        "direction": "up",
-        "rationale": "641.71달러 +4.6% 급등 마감·오픈AI GPT-6 광고 파트너십 확장 관측·페이스북·인스타그램 AI 광고 지표 모멘텀 재점화가 카테고리 상단 카타리스트, Reels·Threads AI 추천 알고리즘 개선·Meta AI 어시스턴트 광고 인벤토리 확장 서사가 광고 유닛 이코노믹스 축",
-        "result": "miss",
-        "actual": -0.8
-      },
-      {
-        "label": "대덕전자",
-        "ticker": "353200",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 106,100원 +6.2% 강세 유지·애플 파크 이벤트 종료 후 아이폰 18 Pro·폴더블 아이폰 Ultra 공개 카타리스트가 부품 벤더 재점화 축, HBM 후방 기판·MLCC 순환매 확산 서사가 카테고리 상단 유입 재점화 시나리오",
-        "result": "hit",
-        "actual": 6.2
       }
     ]
   }
