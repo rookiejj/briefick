@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-24",
+    "made": "2026-09-24 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 285,500원 +3.25% 4일 연속 상승 마감·Meta 뮤즈 AI 에이전트 흥행발 HBM·서버 메모리 수요 재점화 서사가 monetization 상단 확장 축, HBM4 양산·글로벌 HBM 90% 지배력 유지가 프리미엄 지지 축·추석 4일 휴장(9/24~9/27) 후 재개장 시 반도체 대장주 상대 강도 재확인 시나리오, 미 국채금리 5.11% 급등 카운터에도 AI 에이전트 서버 CAPEX 상향 서사가 후방 지지",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "두산에너빌리티",
+        "ticker": "034020",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 81,700원 -5.5% 급락 마감·원전 급등 후 차익실현 흐름 소화 후 mean reversion 반등 시나리오·체코·미국 SMR 로드맵·웨스팅하우스 협력 서사 유지가 카테고리 후방 지지 축, 원전·SMR 사이클 monetization 상단 재확장 국면·CAPEX 상향 흐름이 후방 지지, 다만 미 10년물 5.11% 채권 발작에 밸류 카운터 흐름 잔존",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "IONQ",
+        "ticker": "IONQ",
+        "market": "US",
+        "direction": "down",
+        "rationale": "직전 종가 45.08달러 +10.60% 급등 후 mean reversion 시나리오·NVIDIA 리서치센터 협력·408 논리큐빗 실시간 오류정정 첫 시연 서사는 유지하되 단일 세션 폭등 후 차익실현 압박 예상, 미 10년물 5.11% 2007년 이후 최고 도달·나스닥 -1.4% 조정 국면에서 성장주 리레이팅 카운터가 상단 압박 축, 정부 조달 파이프 확산 카타리스트는 카테고리 후방 지지 유지",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "made": "2026-09-23 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 212.37달러 -2.7% 조정 후속 하방 관측·다리오 아모데이 앤트로픽 CEO 9/12 AI 감속 촉구·샘 알트먼 즉시 동조 담론 확산이 GPU 수요 프레임 재정의 카운터, 9/16 FOMC 25bp 인상 확률 93% 정착·성장 카테고리 듀레이션 카운터가 화요일 추가 하방 시나리오",
         "result": "miss",
         "actual": 0.6
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "made": "2026-09-11 07:40 KST",
-    "predictions": [
-      {
-        "label": "한미반도체",
-        "ticker": "042700",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 253,000원 +1% 강세 유지·오라클 Q1 FY27 매출 193억달러 +30%·잔여계약 6,640억달러 폭발이 HBM 후공정 CAPEX 재확인 카타리스트, TC본더 71% 점유·HBM4 세대 전환 서사가 후공정 카테고리 지배력 축으로 월요일까지 갭업 유입 시나리오",
-        "result": "miss",
-        "actual": -8.7
-      },
-      {
-        "label": "AMD",
-        "ticker": "AMD",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 513달러 -1.6% 조정 국면·오라클 CAPEX 900억달러 조달·클라우드 인프라 +121% 검증이 GPU 카테고리 광범위 수요 재확인 카타리스트, MI400 시리즈 세대 전환·엔비디아 GPU 대안 서사가 카테고리 상단 반전 유입 시나리오",
-        "result": "hit",
-        "actual": 2.5
-      },
-      {
-        "label": "컴투스",
-        "ticker": "078340",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 34,850원 +11.7% 급등 마감·신작 매출 서프라이즈 선반영 국면·단기 급등 후 차익실현 압력 카운터가 방향 결정 축, 코스닥 게임 카테고리 순환매 3일차 확산 후 월요일 이익실현 매물 유입 시나리오",
-        "result": "hit",
-        "actual": 0.4
       }
     ]
   }
