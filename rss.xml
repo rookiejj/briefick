@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 10:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:31:25 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 9월 24일 (목) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-09-24</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-09-24</guid>
+      <pubDate>Wed, 23 Sep 2026 22:00:00 GMT</pubDate>
+      <description>삼성전자 285,500원 +3.25% - 메타 뮤즈 에이전트발 HBM 수요 재점화 · S&amp;P 500·나스닥 -1.4% 동반 조정 - 10년물 5.11% 2007년 이후 최고 · 브렌트유 101달러 반등 - 이란 지정학 재부각, 5거래일 하락 종료</description>
+    </item>
     <item>
       <title>2026년 9월 23일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-09-23</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-07-21</guid>
       <pubDate>Mon, 20 Jul 2026 22:00:00 GMT</pubDate>
       <description>KOSPI 6,747.95 +3.56% 급반등 - 삼성전자 259,000원 +6.1%·SK하이닉스 1,836,000원 +4.1% 반도체 랠리 주도 · SOX 저가매수 반등 - 마이크론 $915 +5.8%·AMD $525 +4.3%·TSMC $417 +3.7% 메모리·장비 랠리 · 철광석 $161.91/t +21% 급등 - 중국 부양책·감산 완화·수급 타이트</description>
-    </item>
-    <item>
-      <title>2026년 7월 20일 (월) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-07-20</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-07-20</guid>
-      <pubDate>Sun, 19 Jul 2026 22:00:00 GMT</pubDate>
-      <description>KOSPI 6,516.27 -4.46% 사이드카 2일 연속 발동·코스닥 749.64 -5.33% 52주 신저가 · S&amp;P 500 7,458 -1.01%·나스닥 25,520 -1.4%·다우 52,146 -0.77% 7/17 마감 주간 첫 조정 · WTI $79.60 브렌트 $84.95 주간 +10~14% - 이란 7일차 광역화·OPEC+ 8/2 회의 관건</description>
     </item>
   </channel>
 </rss>
