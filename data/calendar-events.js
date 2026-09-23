@@ -264,6 +264,7 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
@@ -1825,6 +1826,325 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "009830"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Air Products 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "APD"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Archer Aviation 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ACHR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "BlackSky 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "BKSY"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "CJ ENM 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "035760"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "ConocoPhillips 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "COP"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "D-Wave 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "QBTS"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "EOG Resources 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "EOG"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "GS리테일 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "007070"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Howmet Aerospace 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "HWM"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "KT 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "030200"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "KT&G 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "033780"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "LG디스플레이 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "034220"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "LG에너지솔루션 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "373220"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Parker Hannifin 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "PH"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Rockwell Auto 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ROK"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "SK바이오팜 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "326030"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Sunrun 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "RUN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Toyota 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "TM"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "TransDigm 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "TDG"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Vistra 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "VST"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "넷마블 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "251270"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "삼성SDS 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "018260"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한국타이어 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "161390"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한화 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "000880"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "DL이앤씨 실적",
+    "date": "2026-11-06",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "000210"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "NAVER 실적",
+    "date": "2026-11-06",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "035420"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "대우건설 실적",
+    "date": "2026-11-06",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "047040"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "롯데쇼핑 실적",
+    "date": "2026-11-06",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "023530"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "카카오 실적",
+    "date": "2026-11-06",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "035720"
     ],
     "src": "auto-earnings"
   }
