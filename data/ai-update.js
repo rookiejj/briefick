@@ -1,37 +1,31 @@
 const UPDATES = [
   {
-    "date": "2026-09-23 19:25 KST",
-    "summary": "OpenAI GPT-6 Sol·Luna 출시 - GPT-5.6 티어 절반 가격 100만 토큰당 2달러\n앤트로픽 Playground 리브랜드 - Workbench 이름 변경, 개발자 접근성 확대\nUN 안보리 AI 세션 - 알트먼·앤트로픽 프랑스 주재, AI·국제안보 대화\n앤트로픽·액센츄어 5년 각 10억달러 - Faculty 사업부 안전성 파트너십\n엔비디아 블랙웰·베라 루빈 1조달러 오더 - 2027년까지 파이프 유지",
+    "date": "2026-09-24 07:25 KST",
+    "summary": "앤트로픽 Opus 5.5 출시 - AA 지능 지수 58점 1위, Fable 5.1 상회\n구글·앤트로픽·오픈AI 사이버 AI 3사 공조 - Fairwind·Fable 5.1·Daybreak Blue\nOpus 5.5 SWE-bench Pro 89.9% - 실행비 대폭 절감, 캐시 리드 큰 폭 인하\nAI 프론티어 랩 UN 안보리 세션 - 알트먼·앤트로픽·딥시크 참석",
     "entries": [
       {
-        "time": "2026-09-23 06:00 KST",
+        "time": "2026-09-22 22:00 KST",
         "type": "모델 출시",
-        "sector": "OpenAI",
-        "text": "OpenAI(비상장). GPT-6 Sol·Luna 화요일 출시·100만 토큰당 Sol 2달러·10달러(입력·출력)·GPT-5.6 티어 대비 절반 가격 인하 서사가 카테고리 카타리스트 최대 축, 엔터프라이즈 AI 지출 GPT-6 Astra 13% 지배력 확대 흐름·API 가격 경쟁 재점화 서사가 근거. capability 렌즈로는 Sol 저비용 티어·Luna 코딩 파이프 재확장·GPT-6 Astra 프론티어 모델 3중 스택이 프리미엄 지지 축, monetization 렌즈로는 가격 인하 통한 API 트래픽 확장·개발자 채택 재점화가 매출 상단 재정의 축, sector rotation 렌즈로는 API 가격 경쟁 앤트로픽 Claude Fable 5.1 대응 카타리스트, IPO 윈도우 렌즈로는 상장 앞 매출 확장 서사 재확인 축, 정책 렌즈로는 미 AI Safety Institute 프레임워크 정합화 흐름 카타리스트."
+        "sector": "Anthropic",
+        "text": "Anthropic(비상장). Claude Opus 5.5 화요일 출시·Artificial Analysis 지능 지수 58점 1위·Fable 5.1(53점) 상회·10개 코어 평가 중 6개 리더 서사가 카테고리 카타리스트 최대 축, SWE-bench Pro 89.9%·Terminal-Bench 4.0 66.4% 에이전트 벤치마크 우위·실행비 40% 절감 흐름이 근거. capability 렌즈로는 Opus 5.5 Opus 5 대비 2개월 만에 세대 교체·에이전트 프론티어 리드 재확인이 프리미엄 지지 축, monetization 렌즈로는 입력 100만 토큰당 4달러·출력 20달러(20% 인하)·프롬프트 캐시 리드 60% 인하해 0.20달러 도달이 API 트래픽 재확장 축, sector rotation 렌즈로는 GPT-6 Sol·Luna 가격 인하 대응 카타리스트, IPO 윈도우 렌즈로는 상장 앞 벤치마크 우위 확보 카타리스트, 정책 렌즈로는 AWS·구글 클라우드·애저 3대 하이퍼스케일러 동시 배포 지지."
       },
       {
-        "time": "2026-09-23 06:00 KST",
-        "type": "제품 출시",
+        "time": "2026-09-23 22:00 KST",
+        "type": "생태계",
+        "sector": "Google DeepMind",
+        "text": "Google DeepMind(GOOGL). 구글·앤트로픽·오픈AI 사이버 AI 3사 공동 발표·Gemini 3.8 Flash Cyber 정부·의료·통신 정부 우선 방어자 대상 Fairwind Program 개시·앤트로픽 Fable 5.1 SW 취약점 식별 허용·Mythos 5.1 신뢰 액세스 유지·오픈AI Astra Critical 임계 도달 Daybreak Blue 프로그램 준비 서사가 카테고리 카타리스트 최대 축, 사이버 AI 공조 프레임워크·랩 사이 접근 프로그램 통일 흐름이 근거. capability 렌즈로는 Cyber 계열 사이드 모델·펜테스트 라우팅·정부 조달 파이프 확산이 프리미엄 지지 축, monetization 렌즈로는 정부·헬스케어·통신 엔터프라이즈 계약 확장이 매출 재확장 축, 정책 렌즈로는 미 CISA·NSA 사이버 프레임워크 정합화·AI 공격 방어 국가 어젠다 카타리스트."
+      },
+      {
+        "time": "2026-09-22 22:00 KST",
+        "type": "가격",
         "sector": "Anthropic",
-        "text": "Anthropic(비상장). Workbench → Playground 리브랜드·개발자 코드 없이 모델·메시지 API 테스트 서비스·9월 22일 발표가 카테고리 카타리스트 최대 축, 개발자 채택 재확산 서사·GPT-6 Sol·Luna 대응 흐름이 근거. capability 렌즈로는 Playground 노코드 인터페이스·Claude Fable 5.1·Mythos 5.1 모델 접근성 통합 서사가 프리미엄 지지 축, monetization 렌즈로는 개발자 유입 확대·API 트래픽 재확장이 매출 재점화 축, sector rotation 렌즈로는 프론티어 랩 개발자 도구 경쟁 재확인 축, IPO 윈도우 렌즈로는 상장 앞 개발자 생태계 재점화 카타리스트, 정책 렌즈로는 미 AI 규제 흐름 정합화 카타리스트."
+        "text": "Anthropic(비상장). Opus 5.5 프라이싱 입력 100만 토큰당 4달러·출력 20달러(20% 인하)·프롬프트 캐시 리드 100만 토큰당 0.20달러(60% 인하)·Opus 5 대비 실행비 40% 절감 서사가 카테고리 카타리스트 최대 축, 에이전트 워크플로우 인프라 확산·API 트래픽 재확장 흐름이 근거. capability 렌즈로는 프롬프트 캐시 최적화 통한 장문 컨텍스트 처리 비용 재정의가 프리미엄 지지 축, monetization 렌즈로는 에이전트 워크플로우 매출 상단 재확장·개발자 채택 재점화가 매출 재점화 축, sector rotation 렌즈로는 GPT-6 Sol·Luna 가격 인하 대응 카타리스트, IPO 윈도우 렌즈로는 상장 앞 개발자 생태계 재점화 축."
       },
       {
         "time": "2026-09-23 06:00 KST",
         "type": "생태계",
         "sector": "OpenAI",
-        "text": "OpenAI(비상장). UN 안보리 AI·국제안보 세션 수요일 개최·프랑스 9월 안보리 의장국 주재·샘 알트먼·앤트로픽 대표·딥시크·문샷 참석 서사가 카테고리 카타리스트 최대 축, 15개국 이사국 AI 프론티어 대화·글로벌 AI 거버넌스 프레임워크 논의 흐름이 근거. capability 렌즈로는 프론티어 랩 정책 대화 참여 프리미엄·국제 신뢰 자산 축적이 프리미엄 지지 축, monetization 렌즈로는 정부·공공 AI 채택 확대·소버린 AI 매출 재점화가 매출 상단 재정의 축, IPO 윈도우 렌즈로는 상장 앞 국제 신뢰 자산 확산 카타리스트, 정책 렌즈로는 미·EU·중국 AI 규제 정합화 대화 진전 카타리스트."
-      },
-      {
-        "time": "2026-09-23 06:00 KST",
-        "type": "생태계",
-        "sector": "Anthropic",
-        "text": "Anthropic(비상장). 앤트로픽·액센츄어 Faculty 사업부 각 5년간 최소 10억달러 투자·독립 안전성 평가 파트너십 확장·9월 21일 보도가 카테고리 카타리스트 최대 축, 프론티어 랩 안전 인증 확산 흐름·엔터프라이즈 신뢰 재구축 서사가 근거. capability 렌즈로는 Enterprise Frontier Safeguards(EFS) 파이프 확장·외부 감사 프레임워크 통합이 프리미엄 지지 축, monetization 렌즈로는 안전 인증 기반 엔터프라이즈 채택 확대·API 트래픽 재확장이 매출 재점화 축, IPO 윈도우 렌즈로는 상장 앞 신뢰 자산 축적 카타리스트, 정책 렌즈로는 미 AI 규제·유럽 AI Act 정합화 흐름 지지 카타리스트."
-      },
-      {
-        "time": "2026-09-23 06:00 KST",
-        "type": "전략",
-        "sector": "NVIDIA",
-        "text": "NVIDIA(NVDA). 젠슨 황 블랙웰·베라 루빈 2027년까지 1조달러 오더 전망 유지·엔비디아 시총 5.27조달러·SOX 반도체 지수 사상 최고 흐름이 카테고리 카타리스트 최대 축, 앤트로픽 앵커 최대 100억달러 별도 검토 유지·순환금융 균형 재정의 흐름이 근거. capability 렌즈로는 Blackwell·Rubin 로드맵·CUDA 생태계 락인·소버린 AI 확산 서사가 프리미엄 지지 축, monetization 렌즈로는 하이퍼스케일러 CAPEX 상향·앤트로픽 앵커 100억달러 검토가 매출 재확장 축, sector rotation 렌즈로는 AI 대장주 상대 강도 재확인 축, 정책 렌즈로는 미 CHIPS 액트 수혜·시총 5조달러 근접이 밸류 상단 재정의 카타리스트."
+        "text": "OpenAI(비상장). UN 안보리 AI·국제안보 세션 수요일 개최·프랑스 9월 안보리 의장국 주재·샘 알트먼·앤트로픽 대표·딥시크·문샷 참석이 카테고리 카타리스트 최대 축, 15개국 이사국 프론티어 AI 대화·미·중 AI 개발자 동시 초청 첫 사례·글로벌 AI 거버넌스 프레임워크 논의 흐름이 근거. capability 렌즈로는 프론티어 랩 정책 대화 참여 프리미엄·국제 신뢰 자산 축적이 프리미엄 지지 축, monetization 렌즈로는 정부·공공 AI 채택 확대·소버린 AI 매출 재점화가 매출 상단 재정의 축, IPO 윈도우 렌즈로는 상장 앞 국제 신뢰 자산 확산 카타리스트, 정책 렌즈로는 미·EU·중국 AI 규제 정합화 대화 진전 카타리스트."
       }
     ]
   }
