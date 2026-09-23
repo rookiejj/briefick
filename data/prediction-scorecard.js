@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 112,300원 +10.2% 급등 마감·PCB 기판 랠리 주도 후 mean reversion 시나리오·단일 세션 폭등 후 차익 실현 매물 압박 예상, 반도체 대장주 SK하이닉스 -1.5% 조정 국면에서 순환매 자금 이탈 축·개인 차익 실현 압박이 하방 카운터 축, 다만 AI 서버 서브스트레이트 수요 재확산 서사·애플 아이폰17 사이클 진입 흐름이 카테고리 후방 지지",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 10.2
       },
       {
         "label": "엔씨소프트",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 223,000원 +8% 급등 마감·게임 카테고리 순환매 유입 확산·모바일 신작 매출 상단 재확장 서사가 monetization 상단 확장 축, 아이온2 신작 파이프·리니지 IP 글로벌 지배력이 매출 재점화 축·반도체 → 게임 sector rotation 확산 국면에서 상대 강도 재확인 시나리오, 원화 강세 흐름이 해외 매출 카테고리 후방 지지 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 8
       },
       {
         "label": "META",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "뮤즈 AI 에이전트 미국 iOS 무료 앱 1위·ChatGPT 제친 다운로드 순위 급등이 monetization 상단 확장 축, 이메일·캘린더·결제·헬스 통합 개인 AI 에이전트 서사·9월 8일 출시 후 2주 만에 시장 지배력 확보가 프리미엄 지지 축, 매그니피센트 세븐 동반 강세 국면에서 상대 강도 재확인 시나리오·라마 4 기반 아키텍처 확장이 매출 재점화 후방 지지 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.5
       }
     ]
   },

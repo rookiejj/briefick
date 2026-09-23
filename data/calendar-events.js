@@ -241,6 +241,8 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 8월 잠정주택판매지수', date:'2026-09-29', desc:'NAR 발표·주택시장 선행지표·금리 민감도 시그널' },
   { cat:'macro', impact:3, title:'중국 9월 NBS 제조업 PMI', date:'2026-09-30', desc:'매월 말일 발표·10월 국경절 연휴 전 중국 제조업 회복 여부 확인·글로벌 수요 시그널' },
   { cat:'macro', impact:2, title:'유로존 9월 CPI 플래시', date:'2026-09-30', desc:'유로스타트 발표·ECB 정책 방향 카타리스트·근원 CPI 동반 확인' },
+  { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-24', desc:'추석 첫날·KOSPI·KOSDAQ 휴장·9/24~9/27 4일 연휴 시작·연휴 중 뉴욕 변동성 노출 카타리스트' },
+  { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-25', desc:'추석 당일·KOSPI·KOSDAQ 휴장·환율 노출 관리 대기' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
