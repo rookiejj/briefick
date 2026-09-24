@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 24 Sep 2026 10:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:24:13 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 9월 25일 (금) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-09-25</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-09-25</guid>
+      <pubDate>Thu, 24 Sep 2026 22:00:00 GMT</pubDate>
+      <description>코스피 7,080 휴장 2일차 - 9/28 월요일 재개장까지 3일 남음 · S&amp;P 500 -0.51% 조정 - 10년물 5.11% 2007년 이후 최고 유지, 성장주 부담 · 비트코인 83,499달러 -1% - 채권 발작에 크립토 광폭 되돌림 지속</description>
+    </item>
     <item>
       <title>2026년 9월 24일 (목) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-09-24</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-07-22</guid>
       <pubDate>Tue, 21 Jul 2026 22:00:00 GMT</pubDate>
       <description>KOSPI 6,798 +0.74% 마감 - 아침 사이드카 발동 후 상승분 대부분 반납 · 알파벳·테슬라 오늘 밤 실적 발표 - 매그니피센트7 어닝 릴레이 개막, AI CAPEX 정당성 시험대 · WTI 85달러 +2.8% 상승 - 이란·후티 격화 재점화, 중동 공급 프리미엄 확대</description>
-    </item>
-    <item>
-      <title>2026년 7월 21일 (화) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-07-21</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-07-21</guid>
-      <pubDate>Mon, 20 Jul 2026 22:00:00 GMT</pubDate>
-      <description>KOSPI 6,747.95 +3.56% 급반등 - 삼성전자 259,000원 +6.1%·SK하이닉스 1,836,000원 +4.1% 반도체 랠리 주도 · SOX 저가매수 반등 - 마이크론 $915 +5.8%·AMD $525 +4.3%·TSMC $417 +3.7% 메모리·장비 랠리 · 철광석 $161.91/t +21% 급등 - 중국 부양책·감산 완화·수급 타이트</description>
     </item>
   </channel>
 </rss>
