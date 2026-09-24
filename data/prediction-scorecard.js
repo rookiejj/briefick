@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-28",
+    "made": "2026-09-25 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "추석 4일 휴장 진입 종가 285,500원 +3.30%·SK하이닉스 F-1 수정본 SEC 접수 뉴욕 ADR 상장 절차 진입이 후방 프리미엄 축, HBM4 12H 스택당 550달러 프리미엄 유지·글로벌 HBM 55% 점유율 서사가 재개장 상대강도 지지, 마이크론 9/30 실적 앞두고 매출 500억달러 가이던스 대기가 반도체 신호탄이나 미 10년물 5.11% 채권 발작 카운터 잔존",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 223달러 -1.10%·나스닥 -0.78% 동조 되돌림 후 기술적 반등 시나리오·OpenAI 1,000억달러 프레임워크 협상 지속·Vera Rubin 하반기 첫 GW 배치 서사가 monetization 상단 축, 700억달러 AI 생태계 투자 재확인이 프리미엄 지지, 다만 10년물 5.11% 유지가 성장주 forward P/E 재점검 카운터 잔존",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 1,054.76달러 -1.60%·9/30 회계 4분기 실적 앞두고 매출 500억달러 상단 가이던스 대기가 카타리스트 축, HBM4 12H 스택당 550달러 프리미엄·1γ DRAM 램프업이 monetization 상단 축, AMD 앤트로픽 MI450 2기가와트 계약 2027 상반기 배치 후방 수요 축, 다만 10년물 5.11% 성장주 리레이팅 카운터 잔존",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "made": "2026-09-24 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 212.35달러 +0.7% 강세 유지·화요일 -3.26% 급락 후 저가매수 유입 관측·GB300 Blackwell Ultra·HBM4 수요 서사·오라클 RPO 6,640억달러 백로그 하방 지지 유효, 9/16 FOMC 25bp 인상 컨센 부합 시 안도 반등 시나리오·성장 카테고리 리레이팅 최대 카타리스트",
         "result": "hit",
         "actual": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "made": "2026-09-15 07:40 KST",
-    "predictions": [
-      {
-        "label": "한화에어로",
-        "ticker": "012450",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,137,000원 +5.2% 강세 지속 관측·브렌트 108달러 근접·사우디 우회 송유관 피격·NATO 방위비 5% 목표 후방이 방산 카테고리 상단 카타리스트, 코스피 -3.26% 급락 국면에서 방산 방어 성격 최대 부각·K2PL 폴란드 3차 210대 연내 서명 임박 서사가 화요일 갭업 유입 시나리오",
-        "result": "hit",
-        "actual": 5.2
-      },
-      {
-        "label": "CRWD",
-        "ticker": "CRWD",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 219.35달러 +6.1% 급등 지속 관측·AI 감속 담론 확산 국면에서 사이버보안 방어 카테고리 순환매 유입이 sector rotation 렌즈 최대 카타리스트, PANW +4.8%·ZS +4.8% 동조 강세·엔터프라이즈 SaaS 매출 카테고리 상단 확장 서사가 화요일 후속 매수 유입 시나리오",
-        "result": "hit",
-        "actual": 0
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 212.37달러 -2.7% 조정 후속 하방 관측·다리오 아모데이 앤트로픽 CEO 9/12 AI 감속 촉구·샘 알트먼 즉시 동조 담론 확산이 GPU 수요 프레임 재정의 카운터, 9/16 FOMC 25bp 인상 확률 93% 정착·성장 카테고리 듀레이션 카운터가 화요일 추가 하방 시나리오",
-        "result": "miss",
-        "actual": 0.6
       }
     ]
   }

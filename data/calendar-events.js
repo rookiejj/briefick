@@ -248,6 +248,8 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 8월 소비자신용', date:'2026-10-08', desc:'Fed 발표·소비 크레딧 확장 여부·연말 소매 사이클 카타리스트' },
   { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-24', desc:'추석 첫날·KOSPI·KOSDAQ 휴장·9/24~9/27 4일 연휴 시작·연휴 중 뉴욕 변동성 노출 카타리스트' },
   { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-25', desc:'추석 당일·KOSPI·KOSDAQ 휴장·환율 노출 관리 대기' },
+  { cat:'policy', impact:3, title:'한국 KRX 재개장 (추석 연휴 후)', date:'2026-09-28', desc:'4일 연휴 후 KOSPI·KOSDAQ 정규장 재개·9/24 마지막 종가 대비 갭 유무 확인·연휴 중 미 채권 발작·SK하이닉스 ADR 신청 반영 첫날' },
+  { cat:'macro', impact:3, title:'미국 9월 ISM 제조업 PMI', date:'2026-10-01', desc:'첫 영업일 10:00 ET 발표·제조업 확장 여부·인플레 재우려 카타리스트·10년물 방향 시그널' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
