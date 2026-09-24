@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 285,500원 +3.25% 4일 연속 상승 마감·Meta 뮤즈 AI 에이전트 흥행발 HBM·서버 메모리 수요 재점화 서사가 monetization 상단 확장 축, HBM4 양산·글로벌 HBM 90% 지배력 유지가 프리미엄 지지 축·추석 4일 휴장(9/24~9/27) 후 재개장 시 반도체 대장주 상대 강도 재확인 시나리오, 미 국채금리 5.11% 급등 카운터에도 AI 에이전트 서버 CAPEX 상향 서사가 후방 지지",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.3
       },
       {
         "label": "두산에너빌리티",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 81,700원 -5.5% 급락 마감·원전 급등 후 차익실현 흐름 소화 후 mean reversion 반등 시나리오·체코·미국 SMR 로드맵·웨스팅하우스 협력 서사 유지가 카테고리 후방 지지 축, 원전·SMR 사이클 monetization 상단 재확장 국면·CAPEX 상향 흐름이 후방 지지, 다만 미 10년물 5.11% 채권 발작에 밸류 카운터 흐름 잔존",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -5.5
       },
       {
         "label": "IONQ",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "직전 종가 45.08달러 +10.60% 급등 후 mean reversion 시나리오·NVIDIA 리서치센터 협력·408 논리큐빗 실시간 오류정정 첫 시연 서사는 유지하되 단일 세션 폭등 후 차익실현 압박 예상, 미 10년물 5.11% 2007년 이후 최고 도달·나스닥 -1.4% 조정 국면에서 성장주 리레이팅 카운터가 상단 압박 축, 정부 조달 파이프 확산 카타리스트는 카테고리 후방 지지 유지",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -0.5
       }
     ]
   },

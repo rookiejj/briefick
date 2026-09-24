@@ -241,6 +241,11 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 8월 잠정주택판매지수', date:'2026-09-29', desc:'NAR 발표·주택시장 선행지표·금리 민감도 시그널' },
   { cat:'macro', impact:3, title:'중국 9월 NBS 제조업 PMI', date:'2026-09-30', desc:'매월 말일 발표·10월 국경절 연휴 전 중국 제조업 회복 여부 확인·글로벌 수요 시그널' },
   { cat:'macro', impact:2, title:'유로존 9월 CPI 플래시', date:'2026-09-30', desc:'유로스타트 발표·ECB 정책 방향 카타리스트·근원 CPI 동반 확인' },
+  { cat:'policy', impact:2, title:'중국 국경절 연휴 시작 (증시 휴장)', date:'2026-10-01', desc:'10/1~10/8 상해·심천 휴장·홍콩 10/1만 휴장·국경절 소비 시그널 카타리스트' },
+  { cat:'macro', impact:2, title:'미국 9월 ISM 서비스 PMI', date:'2026-10-05', desc:'셋째 영업일 발표·서비스업 확장 여부·인플레 재우려 확인대' },
+  { cat:'macro', impact:2, title:'미국 8월 무역수지', date:'2026-10-06', desc:'BEA 발표·트럼프 관세 정책 후 무역 흐름 확인·달러 강도 카타리스트' },
+  { cat:'macro', impact:3, title:'미국 9월 FOMC 의사록', date:'2026-10-07', desc:'9/16 FOMC 인상 회의 상세 톤·12월 인상 경로·닷 플롯 후속 시그널' },
+  { cat:'macro', impact:2, title:'미국 8월 소비자신용', date:'2026-10-08', desc:'Fed 발표·소비 크레딧 확장 여부·연말 소매 사이클 카타리스트' },
   { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-24', desc:'추석 첫날·KOSPI·KOSDAQ 휴장·9/24~9/27 4일 연휴 시작·연휴 중 뉴욕 변동성 노출 카타리스트' },
   { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-25', desc:'추석 당일·KOSPI·KOSDAQ 휴장·환율 노출 관리 대기' },
 ];
