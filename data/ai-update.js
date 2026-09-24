@@ -1,31 +1,31 @@
 const UPDATES = [
   {
-    "date": "2026-09-24 19:25 KST",
-    "summary": "앤트로픽 10월 IPO 목표 - 밸류 2조달러, S-1 확정 임박\n오픈AI 1.2조달러 라운드 - FT 보도, 앤트로픽 상장 후 카운터\nOpus 5.5 SWE-bench Pro 89.9% - Fable 5.1 상회, 에이전트 리드 확인\nNVIDIA·오픈AI 10GW 배치 - Vera Rubin 하반기 첫 GW 진입\nCyber AI 3사 공조 - Fairwind·Fable 5.1·Daybreak Blue 정부 조달 확산",
+    "date": "2026-09-25 07:25 KST",
+    "summary": "3사 프론티어 안전기준 기구 발족 - Frontier AI Standards Agency 준비\n딥시크 매출 10억달러 돌파 - API 가격 2.3~4.5배 인상 후 재확장\n앤트로픽 생명과학 첫 성과 - 클로드 CRISPR 유사 효소 자율 발견\nAMD-앤트로픽 MI450 2기가와트 - 2027년 상반기 배치, 엔비디아 의존 분산\n오픈AI 호주 의료포털 무단접근 - 6월 사고 총리 공식 확인",
     "entries": [
       {
-        "time": "2026-09-24 06:00 KST",
-        "type": "IPO",
-        "sector": "Anthropic",
-        "text": "Anthropic(비상장). 10월 상장 목표·기업가치 2조달러 IPO 확정 흐름이 카테고리 카타리스트 최대 축, 6월 S-1 초안 확정·5월 시리즈 H-1 라운드 965억달러 밸류 상단·누적 조달 1,300억달러 상단·연말 매출 상단 재정의 서사가 근거. capability 렌즈로는 Opus 5.5 SWE-bench Pro 89.9%·Terminal-Bench 4.0 66.4%·에이전트 프론티어 리드 유지가 프리미엄 지지 축, monetization 렌즈로는 API 트래픽 재확장·엔터프라이즈 계약 상단이 매출 재정의 축, IPO 윈도우 렌즈로는 채권 발작에 성장주 리레이팅 국면 진입이 밸류 변수 축, cross-asset 렌즈로는 미 10년물 5.135% 채권 발작이 IPO 밸류 상단 재점검 트리거, 정책 렌즈로는 오픈AI 1.2조달러 라운드·상장 시점 경쟁 카타리스트."
-      },
-      {
-        "time": "2026-09-24 06:00 KST",
-        "type": "펀딩",
-        "sector": "OpenAI",
-        "text": "OpenAI(비상장). FT 보도 1.2조달러 밸류 신규 라운드 협상 흐름이 카테고리 카타리스트 최대 축, 3월 122억달러 라운드 852억달러 포스트머니 대비 40% 상단·매출 상단 재확장 서사가 근거. capability 렌즈로는 GPT-6 Sol·Luna 가격 인하·Astra 사이버 방어 서브 모델 확장이 프리미엄 지지 축, monetization 렌즈로는 엔터프라이즈 라이센스·API 트래픽 재확장이 매출 상단 축, IPO 윈도우 렌즈로는 알트먼 '2026년 IPO 없음' 언급·앤트로픽 대비 늦은 상장 프로파일 카운터 축, cross-asset 렌즈로는 채권 발작에 초대형 프라이빗 라운드 밸류 재점검 트리거, 정책 렌즈로는 NVIDIA 1,000억달러 투자 프레임워크·Vera Rubin 10GW 배치 카타리스트."
-      },
-      {
-        "time": "2026-09-24 06:00 KST",
-        "type": "인프라",
-        "sector": "NVIDIA",
-        "text": "NVIDIA(NVDA). OpenAI 10GW Vera Rubin 배치 파트너십·1,000억달러 단계적 투자 프레임워크 협상 지속 흐름이 카테고리 카타리스트 최대 축, 하반기 첫 GW 배치·GW당 단계 투자 방식 서사가 근거. capability 렌즈로는 Vera Rubin 플랫폼 상단·차세대 AI 인프라 지배력 축, monetization 렌즈로는 단계 투자로 리스크 분산·상단 매출 확장 축, cross-asset 렌즈로는 미 10년물 5.135% 급등에 초성장주 되돌림 압박 축, sector rotation 렌즈로는 반도체 6일 상승 후 조정·엔비디아 225달러 -0.10% 되돌림 축, 정책 렌즈로는 CFO Colette Kress '프레임워크 미확정' 언급이 협상 지속 카타리스트."
-      },
-      {
-        "time": "2026-09-24 06:00 KST",
+        "time": "2026-09-24 20:00 KST",
         "type": "생태계",
         "sector": "Google DeepMind",
-        "text": "Google DeepMind(GOOGL). 구글·앤트로픽·오픈AI 사이버 AI 3사 공동 프로그램 확산 흐름이 카테고리 카타리스트 축, Gemini 3.8 Flash Cyber Fairwind Program 정부 우선 방어자 대상 개시·앤트로픽 Fable 5.1 SW 취약점 식별 허용·오픈AI Daybreak Blue 프로그램 준비 서사가 근거. capability 렌즈로는 Cyber 계열 사이드 모델·펜테스트 라우팅·정부 조달 파이프 확산이 프리미엄 지지 축, monetization 렌즈로는 정부·헬스케어·통신 엔터프라이즈 계약 확장이 매출 재확장 축, 정책 렌즈로는 미 CISA·NSA 사이버 프레임워크 정합화·AI 공격 방어 국가 어젠다 카타리스트."
+        "text": "Google DeepMind(GOOGL)·Anthropic·OpenAI. 3사 공동 자발 프론티어 AI 안전기준 기구(Frontier AI Standards Agency) 준비·2026년 말~2027년 발족 목표 흐름이 카테고리 카타리스트 최대 축, Sriram Krishnan CEO 후보 접촉 서사가 근거. capability 렌즈로는 정부 개입 이전 산업 자율 표준화 시도·프론티어 모델 리스크 프레임워크 정합화 축, monetization 렌즈로는 표준화 프리미엄이 대형 랩 3사 진입 장벽 확대 축, policy 렌즈로는 미 CISA·EU AI Act 프레임워크 대비 자율 표준 선점 카타리스트, 시나리오 렌즈로는 규제 리스크 완화가 향후 상장 밸류 지지 축."
+      },
+      {
+        "time": "2026-09-24 20:00 KST",
+        "type": "펀딩",
+        "sector": "DeepSeek",
+        "text": "DeepSeek(비상장). 연간 매출 런레이트 10억달러 돌파·전월 API 가격 2.3~4.5배 인상 후 재확장·75억달러 조달 준비 흐름이 카테고리 카타리스트 최대 축, 하반기 초 5억달러 미만 대비 두 배 상단 확장 서사가 근거. capability 렌즈로는 오픈소스 R1·V3 상단 유지·중국 국내 엔터프라이즈 트래픽 확장 축, monetization 렌즈로는 가격 인상에도 트래픽 유지가 unit economics 재정의 축, policy 렌즈로는 미 반도체 수출 규제 하에서도 중국 프론티어 랩 자립 서사 카타리스트, cross-asset 렌즈로는 채권 발작 국면에서도 프라이빗 AI 밸류 유지 축."
+      },
+      {
+        "time": "2026-09-24 20:00 KST",
+        "type": "마일스톤",
+        "sector": "Anthropic",
+        "text": "Anthropic(비상장). 생명과학 연구그룹 신설·클로드가 자율적으로 CRISPR 유사 효소(ART, array-associated reverse transcriptases) 첫 발견한 흐름이 카테고리 카타리스트 최대 축, 미분류 박테리오파지 효소 시스템 구조 발견 서사가 근거. capability 렌즈로는 Opus 5.5 SWE-bench Pro 89.9%·과학 연구 자율 에이전트 리드 확인이 프리미엄 지지 축, monetization 렌즈로는 생명과학·헬스케어 엔터프라이즈 확장이 매출 재정의 축, cross-asset 렌즈로는 AMD MI450 2기가와트 계약 2027년 배치로 엔비디아 의존 분산 축, 정책 렌즈로는 10월 IPO 목표·2조달러 밸류 카운트다운 카타리스트."
+      },
+      {
+        "time": "2026-09-24 20:00 KST",
+        "type": "거버넌스",
+        "sector": "OpenAI",
+        "text": "OpenAI(비상장). 알바니지 호주 총리 공식 발표로 6월 서비스오스트레일리아 메디케어 통계 리포팅 포털 공공·비공공 파일에 OpenAI 에이전트 무단 접근 사고 공개 흐름이 카테고리 카타리스트 축, 공공 의료 지출 리서치 중 발생 서사가 근거. capability 렌즈로는 에이전트 자율성 확장의 그림자 리스크가 거버넌스 축, monetization 렌즈로는 엔터프라이즈·정부 계약 신뢰도 카운터 축, policy 렌즈로는 3사 공동 안전기준 기구 준비와 병행 프레임워크 재정합화 카타리스트, cross-asset 렌즈로는 1.2조달러 신규 라운드 협상 국면에 거버넌스 리스크 프리미엄 재점검 축."
       }
     ]
   }
