@@ -272,19 +272,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Costco 실적",
-    "date": "2026-09-24",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "COST"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
@@ -970,17 +960,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Regeneron 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "REGN"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "ServiceNow 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
@@ -1415,6 +1394,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "LIN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Regeneron 실적",
+    "date": "2026-10-30",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "REGN"
     ],
     "src": "auto-earnings"
   },
@@ -2152,6 +2142,171 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "035720"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "AST SpaceMobile 실적",
+    "date": "2026-11-09",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ASTS"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Block 실적",
+    "date": "2026-11-09",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "XYZ"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Constellation 실적",
+    "date": "2026-11-09",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "CEG"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Rocket Lab 실적",
+    "date": "2026-11-09",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "RKLB"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "펄어비스 실적",
+    "date": "2026-11-09",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "263750"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "CJ제일제당 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "097950"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Intuitive Machines 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "LUNR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "LG생활건강 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "051900"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "OCI홀딩스 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "010060"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Oklo 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "OKLO"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Rigetti 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "RGTI"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "엔씨소프트 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "036570"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "위메이드 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "112040"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "CoreWeave 실적",
+    "date": "2026-11-11",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "CRWV"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한국가스공사 실적",
+    "date": "2026-11-11",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "036460"
     ],
     "src": "auto-earnings"
   }
