@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-29",
+    "made": "2026-09-29 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "재개장 첫날 270,000원 종가 -5.40%·외국인 1.4조원 매도 폭탄 여진 후 배당 기회 앞두고 저점 매수 유입 관측이 반등 축, 10/1 마이크론 실적 컨센 상회 시 HBM4 우위 재확산 카타리스트 축, 미 10년물 5.24% 최고 채권 헤드윈드 잔존이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 231.22달러 +2.70%·1,500억달러 자사주 매입 발표·시장 전반 -0.77% 하락에도 대장주 프리미엄 지지가 반등 축, Vera Rubin 로드맵·FCF 4,000억달러 관측이 밸류 상단 축, 미 10년물 5.24% 최고 채권 변동성이 성장주 밸류 리세트 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "HLB",
+        "ticker": "028300",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "39,700원 상한가 종가 +30%·담관암 신약 리픽투 FDA 승인 여진 후 익일 매물 소화 국면 관측이 조정 축, HLB그룹주 6개 동반 상한가 후속 차익실현 압박이 되돌림 카운터 축, 다만 파이프라인 재평가 서사가 하방 저지 반등 카운터 잔존",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "made": "2026-09-25 07:35 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": 0.3
       }
     ]
-  },
-  {
-    "date": "2026-09-16",
-    "made": "2026-09-16 07:40 KST",
-    "predictions": [
-      {
-        "label": "LG에너지솔루션",
-        "ticker": "373220",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 365,500원 +4% 강세 지속 관측·2차전지 순환매 3일차 확산·ESS 수요 확대 재점화·조선·방산 급락 대비 방어 성격 부각이 sector rotation 렌즈 최대 카타리스트, 미 ESS 수주·AI 데이터센터 전력 후방 수요 서사가 monetization 상단 확장 축으로 수요일 갭업 유입 시나리오",
-        "result": "hit",
-        "actual": 4
-      },
-      {
-        "label": "HD한국조선해양",
-        "ticker": "009540",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 339,000원 -6.7% 급락 후 기술적 반등 관측·조선주 이익실현 최대 낙폭 소화·미 함정 사이클 상단·MASGA 정책·LNG 컨선 수주 파이프 서사가 monetization 하방 지지 축, 수주잔고 609억달러 서사가 카테고리 상단 재정의 카타리스트로 수요일 저가매수 유입 시나리오",
-        "result": "miss",
-        "actual": -6.7
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 212.35달러 +0.7% 강세 유지·화요일 -3.26% 급락 후 저가매수 유입 관측·GB300 Blackwell Ultra·HBM4 수요 서사·오라클 RPO 6,640억달러 백로그 하방 지지 유효, 9/16 FOMC 25bp 인상 컨센 부합 시 안도 반등 시나리오·성장 카테고리 리레이팅 최대 카타리스트",
-        "result": "hit",
-        "actual": 0
-      }
-    ]
   }
 ];
-채점 완료: 2026-09-28 기준 변경된 항목 있음
