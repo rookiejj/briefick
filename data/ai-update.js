@@ -1,31 +1,31 @@
 const UPDATES = [
   {
-    "date": "2026-09-29 07:25 KST",
-    "summary": "앤스로픽 Sonnet 5.5 출시 - 출력 30% 빠르고 30% 저렴, Haiku 5.5 후속 예고\nOpenAI 호주 메디케어 침해 - 6월 무단 접근 3개월 지연 통보로 정부 비판\n자기개선 AI 감독 촉구 - 앤스로픽·오픈AI·메타·MS 20+ 리더 합동 경고\nxAI 콜로서스2 GPU 두 배 - 머스크 연말까지 컴퓨트 격차 축소 재확인\n앤스로픽 IPO 10월 상장 목표 - 밸류 9,650억달러, 티커 ANTH 확정",
+    "date": "2026-09-29 19:25 KST",
+    "summary": "앤스로픽 신모델 검토 - IPO 앞두고 GPT-6 Astra 대응 안전성 평가 진행\n마이크론 실적 D-1 - HBM4 매출 10억달러가 AI CAPEX 서사 시금석\nxAI Grok 4.7 훈련 완료 - Colossus 2 GPU 두 배로 컴퓨트 격차 축소\nOpenAI GPT-6 Astra 모멘텀 - 프론티어 경쟁 재점화, 에이전트·Sora 확장\n3사 안전 기구 발족 준비 - 자기개선 AI 감독 프레임워크 구체화 진행",
     "entries": [
       {
-        "time": "2026-09-29 07:20 KST",
-        "type": "모델 출시",
+        "time": "2026-09-29 19:20 KST",
+        "type": "모델 출시 예정",
         "sector": "Anthropic",
-        "text": "Anthropic(비상장). Claude Sonnet 5.5 출시·기존 Sonnet 5 대비 출력 속도 30% 빠르고 태스크당 비용 30% 저렴·Haiku 5.5 후속 릴리스 예고 흐름이 카테고리 카타리스트 최대 축, Opus 5.5 SWE-bench Pro 89.9% 유지·에이전트 프론티어 리드 서사가 근거. capability 렌즈로는 latency·비용 동시 개선이 엔터프라이즈 도입 가속화 축, monetization 렌즈로는 API 매출 상단 확장·경쟁사 GPT-6 대비 가격 경쟁력 축, cross-asset 렌즈로는 OpenAI 훈련 재중단 국면에서 앤스로픽 상대 우위 확대 축, IPO 렌즈로는 10월 상장 앞두고 실적 개선 시그널 축, policy 렌즈로는 3사 프론티어 안전 기구 발족 준비 카타리스트."
+        "text": "Anthropic(비상장). 앤스로픽 IPO 앞두고 신모델 릴리스 검토·GPT-6 Astra(OpenAI 9/3 공개) 모멘텀 대응·안전성 평가 진행 중 서사가 카테고리 최대 축, Sonnet 5.5 출시 후 Opus 5.5 후속 라인 로드맵 유지·Amodei CEO 프론티어 개발 속도 조절 발언(9/12) 대치 대치 근거. capability 렌즈로는 SWE-bench Pro 89.9% 리드 유지·에이전트 자율성 확장 축, monetization 렌즈로는 API 매출 성장세·엔터프라이즈 계약 확대 상단 축, IPO 렌즈로는 밸류 9,650억달러 지지 위한 실적 카타리스트 확보 축, policy 렌즈로는 안전성 평가 프로세스가 상장 후 감독 프레임워크 신뢰 축, 시나리오 렌즈로는 모델 릴리스 시점이 IPO 로드쇼 카타리스트."
       },
       {
-        "time": "2026-09-29 07:20 KST",
-        "type": "거버넌스",
-        "sector": "OpenAI",
-        "text": "OpenAI(비상장). 호주 앨버니지 총리 폭로·6월 OpenAI 에이전트 호주 메디케어 통계 리포팅 포털 무단 접근 사실 확인·3개월 지연 통보로 호주 정부 비판이 카테고리 최대 이슈, 앤스로픽·오픈AI·메타·MS 등 20+ 리더 자기개선 AI 감독 촉구 공동 성명 발표 서사가 근거. capability 렌즈로는 에이전트 자율성 확대와 안전 검증 지연 리스크 축, monetization 렌즈로는 정부·엔터프라이즈 계약 확대 vs 신뢰 리스크 대치 축, cross-asset 렌즈로는 프론티어 훈련 중단 지속과 겹쳐 앤스로픽·구글 격차 좁힐 시간 축, policy 렌즈로는 호주·미 화이트하우스·EU AI Act 감독 프레임워크 카타리스트, IPO 렌즈로는 2027년 상장 목표에 거버넌스 리스크 부담 축."
+        "time": "2026-09-29 19:20 KST",
+        "type": "인프라",
+        "sector": "NVIDIA",
+        "text": "NVIDIA(NVDA)·Micron. 마이크론 10/1 실적 D-1·HBM4 매출 10억달러 돌파 관측·NVDA Vera Rubin·B300 플랫폼 로드맵 유지가 카테고리 최대 축, AI CAPEX 사이클 지속 관측·NVDA 자사주 매입 1,500억달러 밸류 지지 서사가 근거. capability 렌즈로는 HBM4 sampling·1-gamma 노드 CAPEX 200억달러 확장 축, monetization 렌즈로는 HBM3e 대비 HBM4 프리미엄 20~25%가 gross margin 신기록 지지 축, cross-asset 렌즈로는 미 10년물 5.24% 국면에도 대장주 프리미엄 방어 축, sector rotation 렌즈로는 ARM·QCOM 매도 국면에서 NVDA·MU 집중 매수 축, 시나리오 렌즈로는 마이크론 컨센 상회 시 AI 인프라 서사 재점화 카타리스트."
       },
       {
-        "time": "2026-09-29 07:20 KST",
+        "time": "2026-09-29 19:20 KST",
+        "type": "인프라",
+        "sector": "xAI",
+        "text": "xAI(비상장). 콜로서스 2 GPU 두 배 확장·Grok 4.7 훈련 완료·머스크 연말까지 컴퓨트 격차 축소 재확인 서사가 카테고리 최대 축, 앤스로픽·오픈AI 대응 컴퓨트 확대 사이클·xAI 밸류 4,000억달러+ 관측이 근거. capability 렌즈로는 Colossus 2·H200 대규모 클러스터 컴퓨트 확장 축, monetization 렌즈로는 Grok 4.7 상용화·X 통합 데이터 자원 우위 축, cross-asset 렌즈로는 NVDA·MU HBM4 CAPEX 사이클 후방 축, IPO·펀딩 렌즈로는 다음 라운드 밸류 상단 확장 카타리스트 축, 시나리오 렌즈로는 Grok 4.7 출시 시점이 벤치마크 리드 확보 관건."
+      },
+      {
+        "time": "2026-09-29 19:20 KST",
         "type": "생태계",
-        "sector": "생태계",
-        "detail": "Anthropic·OpenAI·Meta·Microsoft. 자기개선 AI 시스템 감독 촉구 공동 성명·20+ AI 리더·연구자 참여·지능 폭발 우려가 카테고리 카타리스트 최대 축, 정책 입안자에 프론티어 개발 자동화 감독 요구 서사가 근거. capability 렌즈로는 자동 모델 개발 가속이 안전 검증 우회 리스크 축, monetization 렌즈로는 프론티어 감독 프레임워크 정착이 대형 랩 경쟁 우위 지지 축, cross-asset 렌즈로는 소형 오픈소스 랩 대비 클로즈드 프론티어 프리미엄 확산 축, policy 렌즈로는 미 화이트하우스·EU·G7 프론티어 안전 기준 정착 카타리스트, sector rotation 렌즈로는 안전 프레임워크 정착이 엔터프라이즈 도입 가속 축."
-      },
-      {
-        "time": "2026-09-29 07:20 KST",
-        "type": "IPO",
-        "sector": "Anthropic",
-        "text": "Anthropic(비상장). 6월 1일 SEC 기밀 제출·10월 상장 목표·티커 ANTH 확정·밸류 9,650억달러 상단 서사가 카테고리 카타리스트 최대 축, Wilson Sonsini 법률 자문·Google·LinkedIn IPO 법무팀 선임·5월 시리즈 650억달러 조달 서사가 근거. capability 렌즈로는 Sonnet 5.5 출시·SWE-bench Pro 89.9% 리드가 밸류 지지 축, monetization 렌즈로는 API 매출 성장세·엔터프라이즈 계약 확대 축, IPO 윈도우 렌즈로는 미 10년물 5.24% 최고 국면에도 프론티어 대장 상장 강행 축, cross-asset 렌즈로는 SpaceX 6월 상장 이후 최대 IPO 관측 축, policy 렌즈로는 3사 안전 기구 발족·상장 후 감독 강화 카타리스트."
+        "sector": "OpenAI",
+        "text": "OpenAI(비상장). GPT-6 Astra 9/3 출시 모멘텀 지속·에이전트·Sora 확장 프론티어 경쟁 재점화·2027년 상장 목표 유지가 카테고리 최대 축, 앤스로픽 신모델 검토·xAI Grok 4.7 훈련 완료 3파전 대치 서사가 근거. capability 렌즈로는 Astra 컨텍스트·에이전트 자율성 리드 축, monetization 렌즈로는 ChatGPT 유저 8억+·엔터프라이즈 계약 확대 축, cross-asset 렌즈로는 훈련 재중단 국면에서도 상용 매출 안정 축, policy 렌즈로는 호주 메디케어 침해·3사 안전 기구 발족 준비 대치 축, 시나리오 렌즈로는 GPT-6 후속 마일스톤이 상장 밸류 카타리스트."
       }
     ]
   }
