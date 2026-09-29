@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "재개장 첫날 270,000원 종가 -5.40%·외국인 1.4조원 매도 폭탄 여진 후 배당 기회 앞두고 저점 매수 유입 관측이 반등 축, 10/1 마이크론 실적 컨센 상회 시 HBM4 우위 재확산 카타리스트 축, 미 10년물 5.24% 최고 채권 헤드윈드 잔존이 카운터",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.7
       },
       {
         "label": "NVDA",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 231.22달러 +2.70%·1,500억달러 자사주 매입 발표·시장 전반 -0.77% 하락에도 대장주 프리미엄 지지가 반등 축, Vera Rubin 로드맵·FCF 4,000억달러 관측이 밸류 상단 축, 미 10년물 5.24% 최고 채권 변동성이 성장주 밸류 리세트 카운터",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.7
       },
       {
         "label": "HLB",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "39,700원 상한가 종가 +30%·담관암 신약 리픽투 FDA 승인 여진 후 익일 매물 소화 국면 관측이 조정 축, HLB그룹주 6개 동반 상한가 후속 차익실현 압박이 되돌림 카운터 축, 다만 파이프라인 재평가 서사가 하방 저지 반등 카운터 잔존",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 8.9
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-09-29 기준 변경된 항목 있음
