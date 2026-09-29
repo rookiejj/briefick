@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-09-30",
+    "made": "2026-09-30 07:30 KST",
+    "predictions": [
+      {
+        "label": "한미반도체",
+        "ticker": "042700",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 종가 252,000원 +7.5% 이틀째 급등·HBM 후공정 밸류체인 순환매 심화·오늘 밤 마이크론 실적 컨센 상회 관측이 반등 축, TC본더 점유 우위·잔여 이행의무 서사 지지 상단 축, 다만 급등 후 차익실현·PCE·마이크론 실적 결과 미스 시 리세트 카운터 잔존",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 1,071달러 +1.6%·오늘 새벽 FY26 4Q 실적 매출 500억달러·GM 86% 가이던스 대기·HBM 매출 100억달러 첫 돌파 관측이 상단 축, 잔여 이행의무 1,000억달러·HBM 2026 완판 서사가 monetization 상단 축, 다만 어닝 미스 시 급락 카운터·10y 4.6% 성장주 리세트 카운터 잔존",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LG화학",
+        "ticker": "051910",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 종가 250,000원 -4.8% 급락 반전·2차전지 순환매 반작용 확대·삼성SDI -4.1%·LG엔솔 -3.2% 동반 조정이 하방 축, 리튬·니켈 재고 사이클 반등 지연·PCE 대기 위험 자산 이탈이 카운터 축, 다만 급락 후 저점 매수 유입·첨단소재 축은 유지 반등 카운터 잔존",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "made": "2026-09-29 07:35 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": 1.3
       }
     ]
-  },
-  {
-    "date": "2026-09-17",
-    "made": "2026-09-17 07:40 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 종가 1,759,000원 +4.08% 강세 유지·Intel 오하이오 파운드리 캐파 공동 활용 협의 뉴스가 카타리스트 최대 축·HBM 캐파 확대·미 지역 공급망 안착 서사가 상단 재정의 근거, IT 섹터 +4.78% 카테고리 최강 반등 지속·반도체 장비 후방 급등이 오늘 개장 카테고리 자금 유입 시나리오·FOMC 첫 인상 후 반도체 성장주 재진입 서사 축",
-        "result": "hit",
-        "actual": 4.1
-      },
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 종가 253,500원 +2.01% 반등·IT 섹터 최강 카테고리 반등 지속·HBM4 양산 로드맵·삼성 P4 라인 발주 재개 기대가 monetization 상단 확장 축, 원익IPS·유진테크 등 반도체 장비 후방 급등이 카테고리 자금 유입 시나리오·FOMC 첫 인상 확정 후 방향성 확인·외국인 SK하이닉스 중심 매수 전환 흐름이 대형주 동반 반등 카타리스트",
-        "result": "hit",
-        "actual": 2
-      },
-      {
-        "label": "TSLA",
-        "ticker": "TSLA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 357.87달러 +0.4% 소폭 반등·머스크 CEO 250만주 자사주 매수(10억달러 규모) 재조명·로보택시 Austin 확장 파이프·상하이 FSD 라이센스 서사가 monetization 상단 확장 축, FOMC 25bp 첫 인상 확정 후 EV 카테고리 듀레이션 카운터 완화 시 반등 시나리오·Cybercab 대량 생산 시점 재확인이 상단 지지 축",
-        "result": "hit",
-        "actual": 0.3
-      }
-    ]
   }
 ];
-채점 완료: 2026-09-29 기준 변경된 항목 있음
