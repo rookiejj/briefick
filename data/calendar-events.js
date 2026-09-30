@@ -251,6 +251,8 @@ const fixed = [
   { cat:'policy', impact:3, title:'한국 KRX 재개장 (추석 연휴 후)', date:'2026-09-28', desc:'4일 연휴 후 KOSPI·KOSDAQ 정규장 재개·9/24 마지막 종가 대비 갭 유무 확인·연휴 중 미 채권 발작·SK하이닉스 ADR 신청 반영 첫날' },
   { cat:'macro', impact:3, title:'미국 9월 ISM 제조업 PMI', date:'2026-10-01', desc:'첫 영업일 10:00 ET 발표·제조업 확장 여부·인플레 재우려 카타리스트·10년물 방향 시그널' },
   { cat:'macro', impact:2, title:'중국 9월 CPI·PPI', date:'2026-10-13', desc:'국경절 연휴 후 시프트 발표·디플레이션 국면 지속 여부·중국 부양책 확대 카타리스트' },
+  { cat:'macro', impact:3, title:'미국 9월 CPI', date:'2026-10-15', desc:'BLS 8:30 ET·근원 CPI MoM·헤드라인 YoY·11월 FOMC 25bp 인하 확률 재확인 카타리스트' },
+  { cat:'policy', impact:3, title:'OPEC+ 10월 회의', date:'2026-10-05', desc:'감산 유지 결정 여부·WTI 상단·에너지 섹터 방향 카타리스트' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

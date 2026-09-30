@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-01",
+    "made": "2026-10-01 07:30 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,776,000원 +0.6% 소폭 반등·오늘 새벽 미 대형 메모리 컨센 상회·HBM 매출 20억달러 record 첫 돌파·6개 고객 확장 재확인이 HBM4 밸류체인 서사 지지 반등 축, HBM4 2Q26 shipping·잔여 이행의무 1,000억달러 서사가 monetization 상단 축, 다만 어제 대장주 삼성전자 -1.5% 조정 여진 확산·10y 4.6% 채권 헤드윈드가 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AVGO",
+        "ticker": "AVGO",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 358달러 +0.8% 강세 마감·미 대형 메모리 FY26 Q4 실적 컨센 상회 여파에 반도체 밸류체인 매수 회귀 지속·NVIDIA Vera Rubin·HBM4 서사 지지가 상단 축, 하이퍼스케일러 CAPEX 확대 사이클·커스텀 실리콘 리드가 monetization 상단 축, 다만 어닝 시즌 앞두고 밸류 부담 리세트 카운터·PCE 예상 초과 시 성장주 조정 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LG생활건강",
+        "ticker": "051900",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 269,000원 -3.9% 급락·3분기 중국 면세 채널 매출 부진 관측·달러 강세 원가 헤드윈드 확산이 하방 축, 방어주 조정 국면·화장품·뷰티 순환매 이탈이 sector rotation 카운터 축, 다만 급락 후 저점 매수 유입·10월 하반기 3Q 실적 발표 앞두고 반등 카운터 잔존",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "made": "2026-09-30 07:30 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 204.38달러 +5.2% 반등 마감·비트코인 8만 5,000달러 회복·리스크선호 재점화 흐름이 카타리스트 최대 축, MSTR +7.5%·HOOD +5.3% 크립토 관련주 전방위 반등 국면 지속·SEC 크립토 프레임워크 정착·솔라나·XRP ETF 승인 후속 진전 서사가 프리미엄 지지 축·달러인덱스 조정 흐름에서 크립토 매수 재점화 시나리오",
         "result": "hit",
         "actual": 0.5
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "made": "2026-09-18 07:35 KST",
-    "predictions": [
-      {
-        "label": "한화시스템",
-        "ticker": "272210",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 77,500원 +12.6% 급등 마감 후 mean reversion 시나리오·MSPO 2026 우주 AI 솔루션 카타리스트 소화 후 차익매물 예상, 방산 카테고리 대장주 급등 후 월요일 세션 순환매 종료 여부가 관건·외국인 7거래일 연속 순매도 국면에서 개별 종목 차익 실현 압박이 하방 카운터 축, 다만 유럽 방산 CAPEX 재점화·NATO 재무장 사이클이 카테고리 후방 지지",
-        "result": "miss",
-        "actual": 3.2
-      },
-      {
-        "label": "한국항공우주",
-        "ticker": "047810",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 130,400원 +4.2% 반등 마감·방산·우주 카테고리 순환매 재점화·경남 클러스터 서사 유지가 monetization 상단 확장 축, 한화 기업결합 심사 진전·MSPO 2026 폴란드 방산 전시회 여진이 카타리스트 축, KF-21 보라매·T-50 양산·수리온 파이프 서사가 프리미엄 지지 축·한국 우주항공청 본격 가동이 카테고리 재정의 카타리스트",
-        "result": "miss",
-        "actual": -0.5
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 217.22달러 +1.6% 반등 마감·FOMC 25bp 첫 인상 소화 후 저가 매수 재확산·Anthropic 100억달러 투자 검토 보도가 카타리스트 최대 축, Blackwell Ultra·Rubin 로드맵·H200 백로그·데이터센터 매출 상단 재확인이 프리미엄 지지 축·AI 팩토리 CAPEX 사이클 하반기 지속 서사가 상단 지지 축·주말 매크로 이벤트 부재 시 모멘텀 지속 시나리오",
-        "result": "hit",
-        "actual": 1.3
       }
     ]
   }
