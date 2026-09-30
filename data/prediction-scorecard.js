@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 종가 252,000원 +7.5% 이틀째 급등·HBM 후공정 밸류체인 순환매 심화·오늘 밤 마이크론 실적 컨센 상회 관측이 반등 축, TC본더 점유 우위·잔여 이행의무 서사 지지 상단 축, 다만 급등 후 차익실현·PCE·마이크론 실적 결과 미스 시 리세트 카운터 잔존",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 7.5
       },
       {
         "label": "MU",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 1,071달러 +1.6%·오늘 새벽 FY26 4Q 실적 매출 500억달러·GM 86% 가이던스 대기·HBM 매출 100억달러 첫 돌파 관측이 상단 축, 잔여 이행의무 1,000억달러·HBM 2026 완판 서사가 monetization 상단 축, 다만 어닝 미스 시 급락 카운터·10y 4.6% 성장주 리세트 카운터 잔존",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.6
       },
       {
         "label": "LG화학",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 종가 250,000원 -4.8% 급락 반전·2차전지 순환매 반작용 확대·삼성SDI -4.1%·LG엔솔 -3.2% 동반 조정이 하방 축, 리튬·니켈 재고 사이클 반등 지연·PCE 대기 위험 자산 이탈이 카운터 축, 다만 급락 후 저점 매수 유입·첨단소재 축은 유지 반등 카운터 잔존",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -4.8
       }
     ]
   },
