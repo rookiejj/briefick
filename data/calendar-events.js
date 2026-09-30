@@ -274,6 +274,7 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
@@ -757,6 +758,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "V"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Xylem 실적",
+    "date": "2026-10-27",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "XYL"
     ],
     "src": "auto-earnings"
   },
@@ -1621,17 +1633,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Xylem 실적",
-    "date": "2026-11-03",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "XYL"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Zebra Tech 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
@@ -2039,17 +2040,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Vistra 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "VST"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "넷마블 실적",
     "date": "2026-11-05",
     "desc": "실적 발표 예정",
@@ -2110,6 +2100,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "035420"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Vistra 실적",
+    "date": "2026-11-06",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "VST"
     ],
     "src": "auto-earnings"
   },
@@ -2308,6 +2309,61 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "036460"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Cisco 실적",
+    "date": "2026-11-12",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "CSCO"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "농심 실적",
+    "date": "2026-11-12",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "004370"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "삼성화재 실적",
+    "date": "2026-11-12",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "000810"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한국전력 실적",
+    "date": "2026-11-12",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "015760"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "SK스퀘어 실적",
+    "date": "2026-11-13",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "034730"
     ],
     "src": "auto-earnings"
   }
