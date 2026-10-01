@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,776,000원 +0.6% 소폭 반등·오늘 새벽 미 대형 메모리 컨센 상회·HBM 매출 20억달러 record 첫 돌파·6개 고객 확장 재확인이 HBM4 밸류체인 서사 지지 반등 축, HBM4 2Q26 shipping·잔여 이행의무 1,000억달러 서사가 monetization 상단 축, 다만 어제 대장주 삼성전자 -1.5% 조정 여진 확산·10y 4.6% 채권 헤드윈드가 카운터",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1
       },
       {
         "label": "AVGO",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 358달러 +0.8% 강세 마감·미 대형 메모리 FY26 Q4 실적 컨센 상회 여파에 반도체 밸류체인 매수 회귀 지속·NVIDIA Vera Rubin·HBM4 서사 지지가 상단 축, 하이퍼스케일러 CAPEX 확대 사이클·커스텀 실리콘 리드가 monetization 상단 축, 다만 어닝 시즌 앞두고 밸류 부담 리세트 카운터·PCE 예상 초과 시 성장주 조정 카운터",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.5
       },
       {
         "label": "LG생활건강",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 269,000원 -3.9% 급락·3분기 중국 면세 채널 매출 부진 관측·달러 강세 원가 헤드윈드 확산이 하방 축, 방어주 조정 국면·화장품·뷰티 순환매 이탈이 sector rotation 카운터 축, 다만 급락 후 저점 매수 유입·10월 하반기 3Q 실적 발표 앞두고 반등 카운터 잔존",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 0.9
       }
     ]
   },
@@ -48,7 +48,7 @@ const PREDICTION_SCORECARD = [
         "ticker": "042700",
         "market": "KR",
         "direction": "up",
-        "rationale": "직전 종가 252,000원 +7.5% 이틀째 급등·HBM 후공정 밸류체인 순환매 심화·오늘 밤 마이크론 실적 컨센 상회 관측이 반등 축, TC본더 점유 우위·잔여 이행의무 서사 지지 상단 축, 다만 급등 후 차익실현·PCE·마이크론 실적 결과 미스 시 리세트 카운터 잔존",
+        "rationale": "직전 종가 252,000원 +7.5% 이틀째 급등·HBM 후공정 밸류체인 순환매 심화·오늘 밤 마이크론 실적 컨센 상회 관측이 반등 축, TC본더 점유 우위·잔여 이행의무 서사 지지 상단 축, 다만 급등 후 차익실현·PCE·마이크론 실적 결과 컨센 하회 시 리세트 카운터 잔존",
         "result": "hit",
         "actual": 7.5
       },
@@ -57,7 +57,7 @@ const PREDICTION_SCORECARD = [
         "ticker": "MU",
         "market": "US",
         "direction": "up",
-        "rationale": "직전 종가 1,071달러 +1.6%·오늘 새벽 FY26 4Q 실적 매출 500억달러·GM 86% 가이던스 대기·HBM 매출 100억달러 첫 돌파 관측이 상단 축, 잔여 이행의무 1,000억달러·HBM 2026 완판 서사가 monetization 상단 축, 다만 어닝 미스 시 급락 카운터·10y 4.6% 성장주 리세트 카운터 잔존",
+        "rationale": "직전 종가 1,071달러 +1.6%·오늘 새벽 FY26 4Q 실적 매출 500억달러·GM 86% 가이던스 대기·HBM 매출 100억달러 첫 돌파 관측이 상단 축, 잔여 이행의무 1,000억달러·HBM 2026 완판 서사가 monetization 상단 축, 다만 어닝 컨센 하회 시 급락 카운터·10y 4.6% 성장주 리세트 카운터 잔존",
         "result": "hit",
         "actual": 0.6
       },

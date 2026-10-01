@@ -253,6 +253,9 @@ const fixed = [
   { cat:'macro', impact:2, title:'중국 9월 CPI·PPI', date:'2026-10-13', desc:'국경절 연휴 후 시프트 발표·디플레이션 국면 지속 여부·중국 부양책 확대 카타리스트' },
   { cat:'macro', impact:3, title:'미국 9월 CPI', date:'2026-10-15', desc:'BLS 8:30 ET·근원 CPI MoM·헤드라인 YoY·11월 FOMC 25bp 인하 확률 재확인 카타리스트' },
   { cat:'policy', impact:3, title:'OPEC+ 10월 회의', date:'2026-10-05', desc:'감산 유지 결정 여부·WTI 상단·에너지 섹터 방향 카타리스트' },
+  { cat:'policy', impact:2, title:'한국 개천절 (KRX 휴장)', date:'2026-10-03', desc:'개천절 공휴일·KOSPI·KOSDAQ 휴장·미 NFP 반영 지연 전환' },
+  { cat:'policy', impact:2, title:'한국 한글날 (KRX 휴장)', date:'2026-10-09', desc:'한글날 공휴일·KOSPI·KOSDAQ 휴장·주말 포함 3일 연휴' },
+  { cat:'macro', impact:2, title:'미국 9월 PPI', date:'2026-10-14', desc:'근원 PPI MoM·헤드라인 YoY·CPI 전일 지표·공급 측 인플레 체크' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
