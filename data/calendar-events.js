@@ -256,6 +256,8 @@ const fixed = [
   { cat:'policy', impact:2, title:'한국 개천절 (KRX 휴장)', date:'2026-10-03', desc:'개천절 공휴일·KOSPI·KOSDAQ 휴장·미 NFP 반영 지연 전환' },
   { cat:'policy', impact:2, title:'한국 한글날 (KRX 휴장)', date:'2026-10-09', desc:'한글날 공휴일·KOSPI·KOSDAQ 휴장·주말 포함 3일 연휴' },
   { cat:'macro', impact:2, title:'미국 9월 PPI', date:'2026-10-14', desc:'근원 PPI MoM·헤드라인 YoY·CPI 전일 지표·공급 측 인플레 체크' },
+  { cat:'policy', impact:1, title:'미국 콜럼버스 데이 (채권시장 휴장)', date:'2026-10-12', desc:'미 연방 공휴일·채권 시장 휴장·주식 시장 정상 개장·거래량 감소 가능' },
+  { cat:'macro', impact:2, title:'미국 10월 미시간대 소비자심리 1차', date:'2026-10-16', desc:'10월 소비 심리 1차 추정·인플레 기대 시그널·연말 소비 사이클 체크' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

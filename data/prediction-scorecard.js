@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-02",
+    "made": "2026-10-02 07:30 KST",
+    "predictions": [
+      {
+        "label": "HPSP",
+        "ticker": "403870",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 69,000원 +8.3% 폭등 마감·마이크론 FY26 Q4 HBM 매출 20억달러 record 재확인·고압수소어닐링 세계 유일 지위·HBM4 후공정 CAPEX 확대 서사가 모멘텀 지속 축, 소부장 매수 회귀·리노공업·대덕전자 동반 랠리 지속이 sector rotation 상단 축, 다만 급등 후 단기 차익실현·외국인 분기말 수급 일부 되돌림이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "CEG",
+        "ticker": "CEG",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 265.14달러 +4.4% 강세 마감·AI 데이터센터 전력 수요 재점화·MSFT 쓰리마일 재가동 서사·4분기 추가 PPA 발표 기대가 상단 축, VST·TLN 전력·원전 동반 강세·AI 인프라 CAPEX 서사 지속이 모멘텀 상단 축, 다만 미 10년물 4.6% 안정 국면에서 유틸리티 밸류 부담 재점화·금리 하방 둔화 시 성장 둔화 서사 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "HD",
+        "ticker": "HD",
+        "market": "US",
+        "direction": "down",
+        "rationale": "직전 종가 279.05달러 -1.9% 조정 마감·미 주택 수요 둔화 관측 재점화·소비재 매수세 이탈·LOW 동반 조정이 하방 축, 미 10년물 4.6% 안정 국면에서 모기지 금리 7%대 유지·소비 심리 지표 둔화 서사가 sector rotation 카운터 축, 다만 저점 매수 유입·4분기 홈 임프루브먼트 계절 수요 반등 서사 카운터 잔존",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "made": "2026-10-01 07:30 KST",
     "predictions": [
@@ -199,39 +232,6 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "뮤즈 AI 에이전트 미국 iOS 무료 앱 1위·ChatGPT 제친 다운로드 순위 급등이 monetization 상단 확장 축, 이메일·캘린더·결제·헬스 통합 개인 AI 에이전트 서사·9월 8일 출시 후 2주 만에 시장 지배력 확보가 프리미엄 지지 축, 매그니피센트 세븐 동반 강세 국면에서 상대 강도 재확인 시나리오·라마 4 기반 아키텍처 확장이 매출 재점화 후방 지지 축",
-        "result": "hit",
-        "actual": 0.5
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "made": "2026-09-22 07:40 KST",
-    "predictions": [
-      {
-        "label": "SK C&C",
-        "ticker": "034730",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 575,000원 +5.5% 급등 마감 후 mean reversion 시나리오·금융 IT 카테고리 자사주 매입 기대 소화 후 차익매물 예상, 반도체 대장주 강세 국면에서 순환매 자금 이탈 축·오늘 세션 개인 차익 실현 압박이 하방 카운터 축, 다만 3분기 실적 시즌 앞둔 밸류 리레이팅 흐름·AI 데이터센터 수주 서사가 카테고리 후방 지지",
-        "result": "miss",
-        "actual": 5.5
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,035.27달러 +1.9% 강세 마감·HBM 수요 재확인·AI 메모리 카테고리 상단 재정의 서사가 monetization 상단 확장 축, 젠슨 황 CEO 내년 AI 칩 매출 두 배 전망 여진·엔비디아 시총 5조달러 근접이 후방 지지 축·SK하이닉스·삼성전자 HBM4 캐파 확산 국면에서 마이크론 캐파 확장 서사가 상단 지지 축·10년물 진정 흐름에서 성장주 리레이팅 재점화 시나리오",
-        "result": "hit",
-        "actual": 0.1
-      },
-      {
-        "label": "COIN",
-        "ticker": "COIN",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 204.38달러 +5.2% 반등 마감·비트코인 8만 5,000달러 회복·리스크선호 재점화 흐름이 카타리스트 최대 축, MSTR +7.5%·HOOD +5.3% 크립토 관련주 전방위 반등 국면 지속·SEC 크립토 프레임워크 정착·솔라나·XRP ETF 승인 후속 진전 서사가 프리미엄 지지 축·달러인덱스 조정 흐름에서 크립토 매수 재점화 시나리오",
         "result": "hit",
         "actual": 0.5
       }
