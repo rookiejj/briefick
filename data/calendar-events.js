@@ -258,6 +258,7 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 9월 PPI', date:'2026-10-14', desc:'근원 PPI MoM·헤드라인 YoY·CPI 전일 지표·공급 측 인플레 체크' },
   { cat:'policy', impact:1, title:'미국 콜럼버스 데이 (채권시장 휴장)', date:'2026-10-12', desc:'미 연방 공휴일·채권 시장 휴장·주식 시장 정상 개장·거래량 감소 가능' },
   { cat:'macro', impact:2, title:'미국 10월 미시간대 소비자심리 1차', date:'2026-10-16', desc:'10월 소비 심리 1차 추정·인플레 기대 시그널·연말 소비 사이클 체크' },
+  { cat:'policy', impact:3, title:'OPEC+ 10월 생산 쿼터 회의', date:'2026-10-05', desc:'사우디 감산 유지·4분기 겨울 수요 선반영·WTI 95달러 저항 돌파 분기점' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
