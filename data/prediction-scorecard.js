@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-05",
+    "made": "2026-10-03 07:35 KST",
+    "predictions": [
+      {
+        "label": "LIG넥스원",
+        "ticker": "079550",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 762,000원 +5.2% 급등 마감·누리호 5차 10/7 발사 임박·美 육군 K9MH 조달 가속·폴란드 2차 K9 상단 재확인이 모멘텀 지속 축, 방산 테마 외국인 분기 전환 매수 유입 지속·한화에어로·KAI 동반 강세가 섹터 레버리지 축, 다만 추석 연휴 중 KR 시장 휴장으로 거래일 지연·단기 과열 되돌림 가능성이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "TSLA",
+        "ticker": "TSLA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 361.95달러 +2.2% 강세 마감·Q3 인도 486,000대 공식 발표·컨센 454,000대 대폭 상회 사상 최대 분기 인도 기록·10/21 Q3 실적 임박이 모멘텀 상단 축, S&P500 +1.97%·Nasdaq +2.15% Friday 급반등·FSD V13 배포·Model Y Juniper 램프업 서사가 upside 상단 축, 다만 리튬 급등 후 셀 원가 압력·Robotaxi 상용화 지연 서사가 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AMAT",
+        "ticker": "AMAT",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 544.32달러 +2.8% 강세 마감·Terafab(Tesla·SpaceX·xAI) WFE 공급 서사·BofA 반도체 장비 top picks 재부각·HBM4 2Q26 shipping 궤도·1-gamma 노드 CAPEX 확대가 모멘텀 상단 축, LRCX·KLAC 반도체 장비 트리오 동반 강세·분기 전환 매수 유입이 섹터 레버리지 축, 다만 밸류 리레이팅 후 단기 차익 실현·중국 WFE 수출 제한 리스크가 카운터",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "made": "2026-10-02 07:30 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 종가 45.08달러 +10.60% 급등 후 mean reversion 시나리오·NVIDIA 리서치센터 협력·408 논리큐빗 실시간 오류정정 첫 시연 서사는 유지하되 단일 세션 폭등 후 차익실현 압박 예상, 미 10년물 5.11% 2007년 이후 최고 도달·나스닥 -1.4% 조정 국면에서 성장주 리레이팅 카운터가 상단 압박 축, 정부 조달 파이프 확산 카타리스트는 카테고리 후방 지지 유지",
         "result": "hit",
         "actual": -0.5
-      }
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "made": "2026-09-23 07:35 KST",
-    "predictions": [
-      {
-        "label": "대덕전자",
-        "ticker": "353200",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 112,300원 +10.2% 급등 마감·PCB 기판 랠리 주도 후 mean reversion 시나리오·단일 세션 폭등 후 차익 실현 매물 압박 예상, 반도체 대장주 SK하이닉스 -1.5% 조정 국면에서 순환매 자금 이탈 축·개인 차익 실현 압박이 하방 카운터 축, 다만 AI 서버 서브스트레이트 수요 재확산 서사·애플 아이폰17 사이클 진입 흐름이 카테고리 후방 지지",
-        "result": "miss",
-        "actual": 10.2
-      },
-      {
-        "label": "엔씨소프트",
-        "ticker": "036570",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 223,000원 +8% 급등 마감·게임 카테고리 순환매 유입 확산·모바일 신작 매출 상단 재확장 서사가 monetization 상단 확장 축, 아이온2 신작 파이프·리니지 IP 글로벌 지배력이 매출 재점화 축·반도체 → 게임 sector rotation 확산 국면에서 상대 강도 재확인 시나리오, 원화 강세 흐름이 해외 매출 카테고리 후방 지지 축",
-        "result": "hit",
-        "actual": 8
-      },
-      {
-        "label": "META",
-        "ticker": "META",
-        "market": "US",
-        "direction": "up",
-        "rationale": "뮤즈 AI 에이전트 미국 iOS 무료 앱 1위·ChatGPT 제친 다운로드 순위 급등이 monetization 상단 확장 축, 이메일·캘린더·결제·헬스 통합 개인 AI 에이전트 서사·9월 8일 출시 후 2주 만에 시장 지배력 확보가 프리미엄 지지 축, 매그니피센트 세븐 동반 강세 국면에서 상대 강도 재확인 시나리오·라마 4 기반 아키텍처 확장이 매출 재점화 후방 지지 축",
-        "result": "hit",
-        "actual": 0.5
       }
     ]
   }

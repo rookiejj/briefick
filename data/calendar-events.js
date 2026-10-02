@@ -245,6 +245,7 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 9월 ISM 서비스 PMI', date:'2026-10-05', desc:'셋째 영업일 발표·서비스업 확장 여부·인플레 재우려 확인대' },
   { cat:'macro', impact:2, title:'미국 8월 무역수지', date:'2026-10-06', desc:'BEA 발표·트럼프 관세 정책 후 무역 흐름 확인·달러 강도 카타리스트' },
   { cat:'macro', impact:3, title:'미국 9월 FOMC 의사록', date:'2026-10-07', desc:'9/16 FOMC 인상 회의 상세 톤·12월 인상 경로·닷 플롯 후속 시그널' },
+  { cat:'product', impact:3, title:'누리호 5차 발사', date:'2026-10-07', desc:'나로우주센터 12:23~13:23 KST·역대 최다 15기 위성 탑재·한국 첫 위성 콘스텔레이션·백업 10/14' },
   { cat:'macro', impact:2, title:'미국 8월 소비자신용', date:'2026-10-08', desc:'Fed 발표·소비 크레딧 확장 여부·연말 소매 사이클 카타리스트' },
   { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-24', desc:'추석 첫날·KOSPI·KOSDAQ 휴장·9/24~9/27 4일 연휴 시작·연휴 중 뉴욕 변동성 노출 카타리스트' },
   { cat:'policy', impact:2, title:'한국 추석 연휴 (KRX 휴장)', date:'2026-09-25', desc:'추석 당일·KOSPI·KOSDAQ 휴장·환율 노출 관리 대기' },
