@@ -285,19 +285,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Micron 실적",
-    "date": "2026-09-30",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "MU"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
@@ -444,17 +434,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Lockheed Martin 실적",
-    "date": "2026-10-20",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "LMT"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Northrop Grumman 실적",
     "date": "2026-10-20",
     "desc": "실적 발표 예정",
@@ -532,28 +511,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Digital Realty 실적",
-    "date": "2026-10-22",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "DLR"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Ford 실적",
-    "date": "2026-10-22",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "F"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "HD현대일렉트릭 실적",
     "date": "2026-10-22",
     "desc": "실적 발표 예정",
@@ -570,6 +527,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "IRDM"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Lockheed Martin 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "LMT"
     ],
     "src": "auto-earnings"
   },
@@ -675,6 +643,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Boeing 실적",
+    "date": "2026-10-27",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "BA"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Carrier 실적",
     "date": "2026-10-27",
     "desc": "실적 발표 예정",
@@ -713,6 +692,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "HUBB"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Johnson Controls 실적",
+    "date": "2026-10-27",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "JCI"
     ],
     "src": "auto-earnings"
   },
@@ -851,17 +841,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Boeing 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "BA"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Chipotle 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
@@ -889,6 +868,28 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "EQIX"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Ford 실적",
+    "date": "2026-10-28",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "F"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Fortinet 실적",
+    "date": "2026-10-28",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "FTNT"
     ],
     "src": "auto-earnings"
   },
@@ -1049,17 +1050,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "AbbVie 실적",
-    "date": "2026-10-29",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ABBV"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Amazon 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1115,6 +1105,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Digital Realty 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "DLR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Eli Lilly 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1142,6 +1143,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "329180"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Howmet Aerospace 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "HWM"
     ],
     "src": "auto-earnings"
   },
@@ -1258,6 +1270,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Rivian 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "RIVN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "SK텔레콤 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1362,6 +1385,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "004020"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "AbbVie 실적",
+    "date": "2026-10-30",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ABBV"
     ],
     "src": "auto-earnings"
   },
@@ -1577,6 +1611,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Block 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "XYZ"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Eaton 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
@@ -1604,17 +1649,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "KTOS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Rivian 실적",
-    "date": "2026-11-03",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "RIVN"
     ],
     "src": "auto-earnings"
   },
@@ -1720,17 +1754,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Fortinet 실적",
-    "date": "2026-11-04",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "FTNT"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "IonQ 실적",
     "date": "2026-11-04",
     "desc": "실적 발표 예정",
@@ -1747,17 +1770,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "JOBY"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Johnson Controls 실적",
-    "date": "2026-11-04",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "JCI"
     ],
     "src": "auto-earnings"
   },
@@ -1923,17 +1935,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "007070"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Howmet Aerospace 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "HWM"
     ],
     "src": "auto-earnings"
   },
@@ -2171,17 +2172,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Block 실적",
-    "date": "2026-11-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "XYZ"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Constellation 실적",
     "date": "2026-11-09",
     "desc": "실적 발표 예정",
@@ -2374,6 +2364,39 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "034730"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Home Depot 실적",
+    "date": "2026-11-17",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "HD"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "NVIDIA 실적",
+    "date": "2026-11-17",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "NVDA"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한진칼 실적",
+    "date": "2026-11-17",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "180640"
     ],
     "src": "auto-earnings"
   }
