@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-06",
+    "made": "2026-10-06 07:35 KST",
+    "predictions": [
+      {
+        "label": "한화에어로스페이스",
+        "ticker": "012450",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,072,000원 +3.7% 강세 마감·10/7(수) 누리호 5차 발사 D-1 카운트다운·위성 15기 역대 최다 탑재·발사 창 12:23~13:23·NATO 재무장 서사·美 육군 K9MH 현지화·폴란드 2차 K9 계약 상단 재확인이 모멘텀 상단 축, 10/13 재개장 외국인 방산·우주 매수 복귀 기대·sector rotation 방산 상대 강세 지속이 섹터 레버리지 축, 다만 추석·한글날 연휴 중 거래일 지연·단기 과열 되돌림이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 237.21달러 +1.4% 신고가 레인지 유지·AMD-OpenAI 6GW GPU 체결에도 멀티 벤더 전략 수용·OpenAI Nvidia 10GW 100억달러 투자 유지·Vera Rubin 1Q26 양산 가이던스·Micron HBM4 5년 전략 공급·HBM4 11Gbps pin-speed 리드가 모멘텀 상단 축, 데이터센터 70% 점유율 유지·Blackwell Ultra GB300 2026 램프업·CES 2026 공개 임박이 upside 상단 축, 다만 AMD 6GW 멀티 벤더 분산 서사·밸류 리레이팅 후 단기 차익 실현이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "TSLA",
+        "ticker": "TSLA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 377.67달러 +1.9% 신고가 레인지 유지·Q3 인도 486,532대 사상 최대·컨센 461,974대 대폭 상회·Model 3/Y 478,237대·에너지 ESS 13.7GWh record·10/21 Q3 실적 분기점이 모멘텀 상단 축, Nasdaq 신고가 테크 랠리·FSD V13 배포 임박·리튬 급등 후방 2차전지 수혜가 upside 레버리지 축, 다만 셀 원가 압력·Robotaxi 상용화 지연 서사가 카운터",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "made": "2026-10-03 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 종가 1,054.76달러 -1.60%·9/30 회계 4분기 실적 앞두고 매출 500억달러 상단 가이던스 대기가 카타리스트 축, HBM4 12H 스택당 550달러 프리미엄·1γ DRAM 램프업이 monetization 상단 축, AMD 앤트로픽 MI450 2기가와트 계약 2027 상반기 배치 후방 수요 축, 다만 10년물 5.11% 성장주 리레이팅 카운터 잔존",
         "result": "hit",
         "actual": 0.2
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "made": "2026-09-24 07:35 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 285,500원 +3.25% 4일 연속 상승 마감·Meta 뮤즈 AI 에이전트 흥행발 HBM·서버 메모리 수요 재점화 서사가 monetization 상단 확장 축, HBM4 양산·글로벌 HBM 90% 지배력 유지가 프리미엄 지지 축·추석 4일 휴장(9/24~9/27) 후 재개장 시 반도체 대장주 상대 강도 재확인 시나리오, 미 국채금리 5.11% 급등 카운터에도 AI 에이전트 서버 CAPEX 상향 서사가 후방 지지",
-        "result": "hit",
-        "actual": 3.3
-      },
-      {
-        "label": "두산에너빌리티",
-        "ticker": "034020",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 81,700원 -5.5% 급락 마감·원전 급등 후 차익실현 흐름 소화 후 mean reversion 반등 시나리오·체코·미국 SMR 로드맵·웨스팅하우스 협력 서사 유지가 카테고리 후방 지지 축, 원전·SMR 사이클 monetization 상단 재확장 국면·CAPEX 상향 흐름이 후방 지지, 다만 미 10년물 5.11% 채권 발작에 밸류 카운터 흐름 잔존",
-        "result": "miss",
-        "actual": -5.5
-      },
-      {
-        "label": "IONQ",
-        "ticker": "IONQ",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 종가 45.08달러 +10.60% 급등 후 mean reversion 시나리오·NVIDIA 리서치센터 협력·408 논리큐빗 실시간 오류정정 첫 시연 서사는 유지하되 단일 세션 폭등 후 차익실현 압박 예상, 미 10년물 5.11% 2007년 이후 최고 도달·나스닥 -1.4% 조정 국면에서 성장주 리레이팅 카운터가 상단 압박 축, 정부 조달 파이프 확산 카타리스트는 카테고리 후방 지지 유지",
-        "result": "hit",
-        "actual": -0.5
       }
     ]
   }
