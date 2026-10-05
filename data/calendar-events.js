@@ -261,6 +261,8 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 10월 미시간대 소비자심리 1차', date:'2026-10-16', desc:'10월 소비 심리 1차 추정·인플레 기대 시그널·연말 소비 사이클 체크' },
   { cat:'policy', impact:3, title:'OPEC+ 10월 생산 쿼터 회의', date:'2026-10-05', desc:'사우디 감산 유지·4분기 겨울 수요 선반영·WTI 95달러 저항 돌파 분기점' },
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Bangalore', date:'2026-10-16', desc:'OpenAI 글로벌 투어 첫 도시·엔터프라이즈 API·에이전트 표준 확산 서사 카타리스트' },
+  { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Tokyo', date:'2026-10-20', desc:'OpenAI 글로벌 투어 2번째 도시·일본 엔터프라이즈 생태계·소프트뱅크 연계 서사' },
+  { cat:'conf', impact:3, title:'OpenAI DevDay Exchange Seoul', date:'2026-10-22', desc:'OpenAI 글로벌 투어 3번째 도시·한국 엔터프라이즈 생태계·KT·네이버 연계 서사 분기점' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
