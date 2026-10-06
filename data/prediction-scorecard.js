@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-07",
+    "made": "2026-10-07 07:40 KST",
+    "predictions": [
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 575,000원 +8.7% 폭등 마감·북미 2조원 LFP ESS 공급 체결·LFP ESS 셀 양산 10월 개시·에코프로비엠 +11.4%·엘앤에프 +9%·포스코퓨처엠 +9.4% 2차전지 트리오 동반 랠리·리튬 105달러대 유지·테슬라 Q3 인도 486,532대 사상 최대 후방 수요가 모멘텀 상단 축, AMD-OpenAI 6GW GPU 후방 데이터센터 ESS 수요 재점화·외국인 2차전지 섹터 로테이션이 upside 레버리지 축, 다만 단기 과열 되돌림·2차전지 랠리 차익 실현이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "Constellation Energy",
+        "ticker": "CEG",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 300.83달러 +12.4% 폭등 마감·AMD-OpenAI 6GW GPU 체결 후방 데이터센터 전력 PPA 재리레이팅·Meta 20년 PPA 지지·Trump 2억달러 AI 원자로 지원·Oklo·Talen·SMR·LEU 트리오 +7~8% 동반 폭등·4분기 추가 PPA 발표 기대가 모멘텀 상단 축, AI 데이터센터 CAPEX 가속·미 원전 재가동·FOMC 25bp 인하 95% 확률 유틸리티 지지가 upside 레버리지 축, 다만 과열 되돌림·실적 가이던스 하회 가능성이 카운터",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "이수페타시스",
+        "ticker": "007660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 131,900원 +8.8% 폭등 마감·AI 기판 쇼티지 재확인·대구 5공장 증설 가동·FC-BGA AI 서버 수요 레버리지·대덕전자 +6.8% 동반 랠리·엔비디아 Vera Rubin 램프 후방 수혜·목표주가 상향 러시·Q3 어닝 가이던스 상향 기대가 모멘텀 상단 축, 삼성전기·LG이노텍 전자부품 트리오 동조 랠리·AI 서버 CAPEX 가속이 upside 레버리지 축, 다만 단기 과열 되돌림·반도체 섹터 조정 동조가 카운터",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "made": "2026-10-06 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "39,700원 상한가 종가 +30%·담관암 신약 리픽투 FDA 승인 여진 후 익일 매물 소화 국면 관측이 조정 축, HLB그룹주 6개 동반 상한가 후속 차익실현 압박이 되돌림 카운터 축, 다만 파이프라인 재평가 서사가 하방 저지 반등 카운터 잔존",
         "result": "miss",
         "actual": 8.9
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "made": "2026-09-25 07:35 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "추석 4일 휴장 진입 종가 285,500원 +3.30%·SK하이닉스 F-1 수정본 SEC 접수 뉴욕 ADR 상장 절차 진입이 후방 프리미엄 축, HBM4 12H 스택당 550달러 프리미엄 유지·글로벌 HBM 55% 점유율 서사가 재개장 상대강도 지지, 마이크론 9/30 실적 앞두고 매출 500억달러 가이던스 대기가 반도체 신호탄이나 미 10년물 5.11% 채권 발작 카운터 잔존",
-        "result": "hit",
-        "actual": 3.3
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 223달러 -1.10%·나스닥 -0.78% 동조 되돌림 후 기술적 반등 시나리오·OpenAI 1,000억달러 프레임워크 협상 지속·Vera Rubin 하반기 첫 GW 배치 서사가 monetization 상단 축, 700억달러 AI 생태계 투자 재확인이 프리미엄 지지, 다만 10년물 5.11% 유지가 성장주 forward P/E 재점검 카운터 잔존",
-        "result": "hit",
-        "actual": 0.2
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 1,054.76달러 -1.60%·9/30 회계 4분기 실적 앞두고 매출 500억달러 상단 가이던스 대기가 카타리스트 축, HBM4 12H 스택당 550달러 프리미엄·1γ DRAM 램프업이 monetization 상단 축, AMD 앤트로픽 MI450 2기가와트 계약 2027 상반기 배치 후방 수요 축, 다만 10년물 5.11% 성장주 리레이팅 카운터 잔존",
-        "result": "hit",
-        "actual": 0.2
       }
     ]
   }
