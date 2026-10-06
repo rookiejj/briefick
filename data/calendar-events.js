@@ -263,6 +263,8 @@ const fixed = [
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Bangalore', date:'2026-10-16', desc:'OpenAI 글로벌 투어 첫 도시·엔터프라이즈 API·에이전트 표준 확산 서사 카타리스트' },
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Tokyo', date:'2026-10-20', desc:'OpenAI 글로벌 투어 2번째 도시·일본 엔터프라이즈 생태계·소프트뱅크 연계 서사' },
   { cat:'conf', impact:3, title:'OpenAI DevDay Exchange Seoul', date:'2026-10-22', desc:'OpenAI 글로벌 투어 3번째 도시·한국 엔터프라이즈 생태계·KT·네이버 연계 서사 분기점' },
+  { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Berlin', date:'2026-10-26', desc:'OpenAI 글로벌 투어 4번째 도시·유럽 엔터프라이즈 생태계·SAP·DAX 연계 서사' },
+  { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Paris', date:'2026-10-28', desc:'OpenAI 글로벌 투어 5번째 도시·프랑스 엔터프라이즈·Mistral AI 생태계 대치 서사' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
