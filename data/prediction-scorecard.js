@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 575,000원 +8.7% 폭등 마감·북미 2조원 LFP ESS 공급 체결·LFP ESS 셀 양산 10월 개시·에코프로비엠 +11.4%·엘앤에프 +9%·포스코퓨처엠 +9.4% 2차전지 트리오 동반 랠리·리튬 105달러대 유지·테슬라 Q3 인도 486,532대 사상 최대 후방 수요가 모멘텀 상단 축, AMD-OpenAI 6GW GPU 후방 데이터센터 ESS 수요 재점화·외국인 2차전지 섹터 로테이션이 upside 레버리지 축, 다만 단기 과열 되돌림·2차전지 랠리 차익 실현이 카운터",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.1
       },
       {
         "label": "Constellation Energy",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 300.83달러 +12.4% 폭등 마감·AMD-OpenAI 6GW GPU 체결 후방 데이터센터 전력 PPA 재리레이팅·Meta 20년 PPA 지지·Trump 2억달러 AI 원자로 지원·Oklo·Talen·SMR·LEU 트리오 +7~8% 동반 폭등·4분기 추가 PPA 발표 기대가 모멘텀 상단 축, AI 데이터센터 CAPEX 가속·미 원전 재가동·FOMC 25bp 인하 95% 확률 유틸리티 지지가 upside 레버리지 축, 다만 과열 되돌림·실적 가이던스 하회 가능성이 카운터",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.2
       },
       {
         "label": "이수페타시스",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 131,900원 +8.8% 폭등 마감·AI 기판 쇼티지 재확인·대구 5공장 증설 가동·FC-BGA AI 서버 수요 레버리지·대덕전자 +6.8% 동반 랠리·엔비디아 Vera Rubin 램프 후방 수혜·목표주가 상향 러시·Q3 어닝 가이던스 상향 기대가 모멘텀 상단 축, 삼성전기·LG이노텍 전자부품 트리오 동조 랠리·AI 서버 CAPEX 가속이 upside 레버리지 축, 다만 단기 과열 되돌림·반도체 섹터 조정 동조가 카운터",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.9
       }
     ]
   },
