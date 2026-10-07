@@ -265,6 +265,7 @@ const fixed = [
   { cat:'conf', impact:3, title:'OpenAI DevDay Exchange Seoul', date:'2026-10-22', desc:'OpenAI 글로벌 투어 3번째 도시·한국 엔터프라이즈 생태계·KT·네이버 연계 서사 분기점' },
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Berlin', date:'2026-10-26', desc:'OpenAI 글로벌 투어 4번째 도시·유럽 엔터프라이즈 생태계·SAP·DAX 연계 서사' },
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange Paris', date:'2026-10-28', desc:'OpenAI 글로벌 투어 5번째 도시·프랑스 엔터프라이즈·Mistral AI 생태계 대치 서사' },
+  { cat:'ipo', impact:3, title:'Anthropic IPO 투자자 미팅', date:'2026-10-14', desc:'Anthropic 공모 투자자 미팅 D-day·밸류 9,650억달러·Morgan Stanley·GS·JPM 공동 주관·11월 Nasdaq 상장 로드쇼 가동 분기점' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
