@@ -290,6 +290,7 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
@@ -1219,6 +1220,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Linde 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "LIN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Mastercard 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1279,17 +1291,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "RIVN"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "SK텔레콤 실적",
-    "date": "2026-10-29",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "017670"
     ],
     "src": "auto-earnings"
   },
@@ -1444,17 +1445,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "066570"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Linde 실적",
-    "date": "2026-10-30",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "LIN"
     ],
     "src": "auto-earnings"
   },
@@ -1670,17 +1660,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Uber 실적",
-    "date": "2026-11-03",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "UBER"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Zebra Tech 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
@@ -1813,11 +1792,33 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "SK텔레콤 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "017670"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Talen Energy 실적",
     "date": "2026-11-04",
     "desc": "실적 발표 예정",
     "tickers": [
       "TLN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Uber 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "UBER"
     ],
     "src": "auto-earnings"
   },
@@ -2401,6 +2402,28 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "180640"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Palo Alto 실적",
+    "date": "2026-11-19",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "PANW"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Walmart 실적",
+    "date": "2026-11-19",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "WMT"
     ],
     "src": "auto-earnings"
   }
