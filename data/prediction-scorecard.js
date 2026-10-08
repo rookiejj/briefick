@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-09",
+    "made": "2026-10-09 07:22 KST",
+    "predictions": [
+      {
+        "label": "LG화학",
+        "ticker": "051910",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 종가 286,500원 +3.4% 반등 마감·2차전지 역주행 지속·북미 LFP ESS 공급 계약 서사·AI 데이터센터 ESS 수요 재점화·외국인 2차전지 재편입이 upside 축, LG엔솔 +2.6%·에코프로비엠 +3.5% 섹터 로테이션 안착·리튬 105달러대 유지는 upside 보조 카운터, 美 10년물 급등 환경 성장주 매물 압박은 downside 리스크지만 섹터 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "PLTR",
+        "ticker": "PLTR",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 201.27달러 +3.7% 사상 최고 돌파·美 국방부 Replicator 2 계약 확장·엔터프라이즈 Foundry·AIP ARR 가속·11월 초 Q3 어닝 임박 기대·미국 셧다운 CR 통과 지지가 upside 축, forward P/S 과도 리레이팅 우려·매파 FOMC 환경 성장주 할인율 상승은 downside 카운터, AI 플랫폼 재점화 서사 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 1,061.76달러 -2.4% 조정 마감·HBM4 솔드아웃·NVIDIA Vera Rubin 1Q26 양산 서사 유지·Q4 FY26 어닝 임박 기대·AI 데이터센터 메모리 수요 레버리지가 upside 축, 매파 FOMC 회의록·美 10년물 5.3% 급등 환경 성장주 할인율 상승·전주 사상 최고 피로는 downside 카운터, 반도체 투톱 차익 실현 과도 조정 후 기술적 반등 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "made": "2026-10-08 07:25 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": 0.9
       }
     ]
-  },
-  {
-    "date": "2026-09-30",
-    "made": "2026-09-30 07:30 KST",
-    "predictions": [
-      {
-        "label": "한미반도체",
-        "ticker": "042700",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 종가 252,000원 +7.5% 이틀째 급등·HBM 후공정 밸류체인 순환매 심화·오늘 밤 마이크론 실적 컨센 상회 관측이 반등 축, TC본더 점유 우위·잔여 이행의무 서사 지지 상단 축, 다만 급등 후 차익실현·PCE·마이크론 실적 결과 컨센 하회 시 리세트 카운터 잔존",
-        "result": "hit",
-        "actual": 7.5
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 1,071달러 +1.6%·오늘 새벽 FY26 4Q 실적 매출 500억달러·GM 86% 가이던스 대기·HBM 매출 100억달러 첫 돌파 관측이 상단 축, 잔여 이행의무 1,000억달러·HBM 2026 완판 서사가 monetization 상단 축, 다만 어닝 컨센 하회 시 급락 카운터·10y 4.6% 성장주 리세트 카운터 잔존",
-        "result": "hit",
-        "actual": 0.6
-      },
-      {
-        "label": "LG화학",
-        "ticker": "051910",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 종가 250,000원 -4.8% 급락 반전·2차전지 순환매 반작용 확대·삼성SDI -4.1%·LG엔솔 -3.2% 동반 조정이 하방 축, 리튬·니켈 재고 사이클 반등 지연·PCE 대기 위험 자산 이탈이 카운터 축, 다만 급락 후 저점 매수 유입·첨단소재 축은 유지 반등 카운터 잔존",
-        "result": "hit",
-        "actual": -4.8
-      }
-    ]
   }
 ];
-채점 완료: 2026-10-08 기준 변경된 항목 있음
