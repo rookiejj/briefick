@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 591,000원 -8.2% 급락 마감·2분기 고환율 매입 원재료가 3분기 수익성 압박·LG전자 Q3 영업이익 7,818억원 컨센 하회 전자부품 자회사 수익성 우려 확산·외국인 3조원 순매도·美 10년물 5.3% 급등 환경 성장주 매물 압박이 downside 축, 아이폰 폴드 카메라 모듈 수주·forward P/E 재조정 후 저점 매수 유입은 upside 카운터, 매파 FOMC 회의록 소화 과정에서 추가 하방 압력 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -1.2
       },
       {
         "label": "LG전자",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 208,000원 -10.5% 급락 마감·Q3 영업이익 7,818억원 컨센 하회 발표 완료·불확실성 해소 저가 매수세 유입 기대·전년대비 매출 +8.9%·OP +13.5% 성장은 유지·데이터센터 CDU 냉각·AI 가전 서사 유지가 upside 축, 외국인 매도·LG이노텍 수익성 부진 연쇄는 downside 카운터, 단기 급락 후 기술적 반등 가능성 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.2
       },
       {
         "label": "AMD",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 640.86달러 -1.3% 조정 마감·10/7 Oracle Cloud Infrastructure MI450 GPU 5만개 공식 체결·Helios 서버 랙 시스템 2026 Q3 배치·OpenAI 6GW GPU에 이어 하이퍼스케일러 2번째 메가 수주·AMD CPU+GPU+Helios 랙 수직 통합 서사 안착·forward P/S 리레이팅이 upside 축, 매파 FOMC 회의록·美 10년물 5.3% 급등 환경에서 성장주 전반 매물은 downside 카운터, 수주 서사가 매파 쇼크 과장 반등 여지 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -0.5
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-10-08 기준 변경된 항목 있음
