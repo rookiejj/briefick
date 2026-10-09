@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-12",
+    "made": "2026-10-10 07:40 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 262,000원 -2.4% 마감·10/8 Q3 잠정 영업이익 역대 최대 공시 뉴스 소멸 매물 소화·HBM4 Q4 양산·엔비디아 5년 공급·마이크론 솔드아웃 서사 유지·외국인 반도체 매도 피로 축적이 upside 축, 美 10년물 5.3% 환경 성장주 할인율 상승·외국인 수급 변수는 downside 카운터, 호실적 소화 후 기술적 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "ORCL",
+        "ticker": "ORCL",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 139.62달러 +3.4% 재랠리 마감·10GW DC 100억달러 Nvidia 계약 재점화·OCI AI 수주 가속·엔터프라이즈 클라우드 리레이팅·FY26 가이던스 임박 기대가 upside 축, 매파 FOMC 환경 성장주 할인율 상승·forward P/E 재조정은 downside 카운터, AI 플랫폼·DC 재점화 서사 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "ASML",
+        "ticker": "ASML",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,808.31달러 +2.2% 강세 마감·EUV YoY +45% 램프업·low-NA 65대·FY26 €43~45B 가이던스 상향·GM 54% 유지·2nm A20 Pro 애플 이벤트·AI 파운드리 CAPEX 서사가 upside 축, 매파 FOMC 환경 반도체 매그니스 혼조·booking 비공개 전환 가시성 저하는 downside 카운터, EUV 사이클·AI 파운드리 CAPEX 모멘텀 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "made": "2026-10-09 07:22 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 종가 279.05달러 -1.9% 조정 마감·미 주택 수요 둔화 관측 재점화·소비재 매수세 이탈·LOW 동반 조정이 하방 축, 미 10년물 4.6% 안정 국면에서 모기지 금리 7%대 유지·소비 심리 지표 둔화 서사가 sector rotation 카운터 축, 다만 저점 매수 유입·4분기 홈 임프루브먼트 계절 수요 반등 서사 카운터 잔존",
         "result": "hit",
         "actual": -0.7
-      }
-    ]
-  },
-  {
-    "date": "2026-10-01",
-    "made": "2026-10-01 07:30 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,776,000원 +0.6% 소폭 반등·오늘 새벽 미 대형 메모리 컨센 상회·HBM 매출 20억달러 record 첫 돌파·6개 고객 확장 재확인이 HBM4 밸류체인 서사 지지 반등 축, HBM4 2Q26 shipping·잔여 이행의무 1,000억달러 서사가 monetization 상단 축, 다만 어제 대장주 삼성전자 -1.5% 조정 여진 확산·10y 4.6% 채권 헤드윈드가 카운터",
-        "result": "miss",
-        "actual": -1
-      },
-      {
-        "label": "AVGO",
-        "ticker": "AVGO",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 358달러 +0.8% 강세 마감·미 대형 메모리 FY26 Q4 실적 컨센 상회 여파에 반도체 밸류체인 매수 회귀 지속·NVIDIA Vera Rubin·HBM4 서사 지지가 상단 축, 하이퍼스케일러 CAPEX 확대 사이클·커스텀 실리콘 리드가 monetization 상단 축, 다만 어닝 시즌 앞두고 밸류 부담 리세트 카운터·PCE 예상 초과 시 성장주 조정 카운터",
-        "result": "hit",
-        "actual": 0.5
-      },
-      {
-        "label": "LG생활건강",
-        "ticker": "051900",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 269,000원 -3.9% 급락·3분기 중국 면세 채널 매출 부진 관측·달러 강세 원가 헤드윈드 확산이 하방 축, 방어주 조정 국면·화장품·뷰티 순환매 이탈이 sector rotation 카운터 축, 다만 급락 후 저점 매수 유입·10월 하반기 3Q 실적 발표 앞두고 반등 카운터 잔존",
-        "result": "miss",
-        "actual": 0.9
       }
     ]
   }
