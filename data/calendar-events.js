@@ -294,19 +294,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Delta Air Lines 실적",
-    "date": "2026-10-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "DAL"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
@@ -480,6 +470,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "LRCX"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "NextEra 실적",
+    "date": "2026-10-21",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "NEE"
     ],
     "src": "auto-earnings"
   },
@@ -662,17 +663,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Carrier 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CARR"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Ecolab 실적",
     "date": "2026-10-27",
     "desc": "실적 발표 예정",
@@ -722,17 +712,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "MOD"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "NextEra 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "NEE"
     ],
     "src": "auto-earnings"
   },
@@ -926,17 +905,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "General Dynamics 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "GD"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "HDC현대산업개발 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
@@ -1003,28 +971,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Starbucks 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "SBUX"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Watts Water 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "WTS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "삼성SDI 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
@@ -1074,6 +1020,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "AME"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Carrier 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "CARR"
     ],
     "src": "auto-earnings"
   },
@@ -1300,6 +1257,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Starbucks 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "SBUX"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Strategy 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1437,6 +1405,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "XOM"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "General Dynamics 실적",
+    "date": "2026-10-30",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "GD"
     ],
     "src": "auto-earnings"
   },
@@ -1806,6 +1785,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Sunrun 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "RUN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Talen Energy 실적",
     "date": "2026-11-04",
     "desc": "실적 발표 예정",
@@ -1822,6 +1812,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "UBER"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Watts Water 실적",
+    "date": "2026-11-04",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "WTS"
     ],
     "src": "auto-earnings"
   },
@@ -2020,17 +2021,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "326030"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Sunrun 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "RUN"
     ],
     "src": "auto-earnings"
   },
@@ -2427,6 +2417,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "WMT"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Zscaler 실적",
+    "date": "2026-11-24",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ZS"
     ],
     "src": "auto-earnings"
   }
