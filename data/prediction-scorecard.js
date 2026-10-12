@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-13",
+    "made": "2026-10-13 07:40 KST",
+    "predictions": [
+      {
+        "label": "효성중공업",
+        "ticker": "298040",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 2,242,000원 -10.1% 급락 마감·변압기 랠리 되돌림 피로 매물 소화·수주잔고·AI DC 전력 CAPEX 서사 유지가 upside 축, 美 10년물 5.3% 환경 성장주 할인율 상승·외국인 매도 피로는 downside 카운터, 과매도 소화 후 기술적 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "JPM",
+        "ticker": "JPM",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 334.76달러 +0.5% 완만 강세 마감·10/13 화 Q3 어닝 D-Day·컨센 EPS 5.86달러 전년 5.07달러 +15% 성장 전망·美 10년물 5.3% 환경 순이자마진·채권 트레이딩 레버리지가 upside 축, Q2 역대 최대 소화·pull-forward 피로는 downside 카운터, 분기 EPS 성장·NIM 확대 서사 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "META",
+        "ticker": "META",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 746.08달러 +3.8% 사상 최고 마감·Meta AI 어시스턴트 10억 MAU 돌파·Llama 4 Behemoth 2T 멀티모달 리드·10월 하순 Q3 CAPEX 가이던스 임박 기대가 upside 축, forward P/E 재조정·AI CAPEX 피로는 downside 카운터, Q3 어닝 임박 모멘텀 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "made": "2026-10-10 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 종가 544.32달러 +2.8% 강세 마감·Terafab(Tesla·SpaceX·xAI) WFE 공급 서사·BofA 반도체 장비 top picks 재부각·HBM4 2Q26 shipping 궤도·1-gamma 노드 CAPEX 확대가 모멘텀 상단 축, LRCX·KLAC 반도체 장비 트리오 동반 강세·분기 전환 매수 유입이 섹터 레버리지 축, 다만 밸류 리레이팅 후 단기 차익 실현·중국 WFE 수출 제한 리스크가 카운터",
         "result": "hit",
         "actual": 2
-      }
-    ]
-  },
-  {
-    "date": "2026-10-02",
-    "made": "2026-10-02 07:30 KST",
-    "predictions": [
-      {
-        "label": "HPSP",
-        "ticker": "403870",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 69,000원 +8.3% 폭등 마감·마이크론 FY26 Q4 HBM 매출 20억달러 record 재확인·고압수소어닐링 세계 유일 지위·HBM4 후공정 CAPEX 확대 서사가 모멘텀 지속 축, 소부장 매수 회귀·리노공업·대덕전자 동반 랠리 지속이 sector rotation 상단 축, 다만 급등 후 단기 차익실현·외국인 분기말 수급 일부 되돌림이 카운터",
-        "result": "miss",
-        "actual": -3.9
-      },
-      {
-        "label": "CEG",
-        "ticker": "CEG",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 265.14달러 +4.4% 강세 마감·AI 데이터센터 전력 수요 재점화·MSFT 쓰리마일 재가동 서사·4분기 추가 PPA 발표 기대가 상단 축, VST·TLN 전력·원전 동반 강세·AI 인프라 CAPEX 서사 지속이 모멘텀 상단 축, 다만 미 10년물 4.6% 안정 국면에서 유틸리티 밸류 부담 재점화·금리 하방 둔화 시 성장 둔화 서사 카운터",
-        "result": "hit",
-        "actual": 1.9
-      },
-      {
-        "label": "HD",
-        "ticker": "HD",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 종가 279.05달러 -1.9% 조정 마감·미 주택 수요 둔화 관측 재점화·소비재 매수세 이탈·LOW 동반 조정이 하방 축, 미 10년물 4.6% 안정 국면에서 모기지 금리 7%대 유지·소비 심리 지표 둔화 서사가 sector rotation 카운터 축, 다만 저점 매수 유입·4분기 홈 임프루브먼트 계절 수요 반등 서사 카운터 잔존",
-        "result": "hit",
-        "actual": -0.7
       }
     ]
   }
