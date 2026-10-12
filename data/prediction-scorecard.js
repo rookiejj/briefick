@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 262,000원 -2.4% 마감·10/8 Q3 잠정 영업이익 역대 최대 공시 뉴스 소멸 매물 소화·HBM4 Q4 양산·엔비디아 5년 공급·마이크론 솔드아웃 서사 유지·외국인 반도체 매도 피로 축적이 upside 축, 美 10년물 5.3% 환경 성장주 할인율 상승·외국인 수급 변수는 downside 카운터, 호실적 소화 후 기술적 반등 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.4
       },
       {
         "label": "ORCL",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 139.62달러 +3.4% 재랠리 마감·10GW DC 100억달러 Nvidia 계약 재점화·OCI AI 수주 가속·엔터프라이즈 클라우드 리레이팅·FY26 가이던스 임박 기대가 upside 축, 매파 FOMC 환경 성장주 할인율 상승·forward P/E 재조정은 downside 카운터, AI 플랫폼·DC 재점화 서사 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 4.6
       },
       {
         "label": "ASML",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,808.31달러 +2.2% 강세 마감·EUV YoY +45% 램프업·low-NA 65대·FY26 €43~45B 가이던스 상향·GM 54% 유지·2nm A20 Pro 애플 이벤트·AI 파운드리 CAPEX 서사가 upside 축, 매파 FOMC 환경 반도체 매그니스 혼조·booking 비공개 전환 가시성 저하는 downside 카운터, EUV 사이클·AI 파운드리 CAPEX 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.6
       }
     ]
   },
