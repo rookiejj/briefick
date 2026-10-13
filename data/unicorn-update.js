@@ -1,31 +1,25 @@
 const updates = [
   {
-    "date": "2026-10-13 07:35 KST",
-    "summary": "앤드릴 1,100억달러 - Replicator 2 자율 플랫폼 수주 가속 재무장 CAPEX\nStripe 세컨더리 1,590억달러 - 2026 상장 윈도우 밴드 조율 지속\n피규어 03 공개 1주년 - BotQ 양산 가동률 재점검 480억달러 밸류\n퍼플렉시티 248억달러 - AI 검색 리더십·2028 상장 재확인\nCanva 420억달러 - 미국 redomicile 완료·2026 H2 IPO 후보 유지",
+    "date": "2026-10-13 19:35 KST",
+    "summary": "앤트로픽 로드쇼 11/9 D-27 - 11/26 전 상장 밴드 조율 라스트 스퍼트\nStripe 세컨더리 1,590억달러 유지 - 2026 상장 윈도우 밴드 조율 지속\nFigure 03 BotQ 양산 - 480억달러 밸류 1주년 가동률 재점검\n퍼플렉시티 248억달러 유지 - AI 검색 리더십·2028 상장 재확인\nCanva 420억달러 유지 - 미국 redomicile 완료·2026 H2 IPO 후보",
     "changes": [
       {
-        "time": "2026-10-13 07:35 KST",
-        "type": "제품",
-        "sector": "우주·모빌리티·방산",
-        "detail": "Figure AI(비상장). Figure 03 공개 1주년·2025/10/9 공개 후 BotQ 공장 양산 가동률 재점검·아마존·벤츠 7만 유닛 파이프라인 재확인·2026 밸류 480억달러 레인지가 축, 시간당 평균 가동 시간 리레이팅·AI 로봇 생태계 리드·테슬라 Optimus·Agility Robotics 상대 밸류·휴머노이드 상용화 서사 안착이 근거. monetization 렌즈로는 아마존·벤츠 B2B 매출 레버리지·BotQ 공장 양산 효율 축, IPO 렌즈로는 2026~2027 상장 후보 재부각 축, 밸류에이션 렌즈로는 Figure 480억달러 대 테슬라·Agility 상대 밸류 축, 시나리오 렌즈로는 BotQ 양산 궤도 진입·아마존 7만 유닛 공식화·Figure 03 1주년 공개 데이터가 리레이팅 카타리스트."
-      },
-      {
-        "time": "2026-10-13 07:35 KST",
-        "type": "펀딩",
-        "sector": "핀테크",
-        "detail": "Stripe(비상장)·Revolut(비상장)·Ramp(비상장). Stripe 세컨더리 공개 밴드 조율·밸류 1,590억달러 유지 재점검·2026 거래량 성장·엔터프라이즈 결제 리드·Revolut 세컨더리 1,150억달러 안착·Ramp 440억달러 ARR 15억달러·'연말 IPO-ready' 재확인이 축, Visa·Mastercard·PayPal 상대 매출 비교·Stripe Payment·Billing·Terminal·Issuing 다각화·AI 결제 사기 탐지 신제품이 근거. monetization 렌즈로는 Stripe GPV·Revolut 유료 전환율·Ramp cash flow positive 레버리지 축, IPO 렌즈로는 Ramp 연말·Stripe 2026 말~2027·Revolut 2028+ 상장 윈도우 축, 밸류에이션 렌즈로는 Stripe 1,590억달러·Revolut 1,150억달러·Ramp 440억달러 상대 밸류 축, 시나리오 렌즈로는 Stripe 세컨더리 공식화·Ramp S-1 제출·2027 상장 윈도우·EU PSD3 시행이 리레이팅 카타리스트."
-      },
-      {
-        "time": "2026-10-13 07:35 KST",
-        "type": "펀딩",
-        "sector": "우주·모빌리티·방산",
-        "detail": "Anduril(비상장). 앤드릴 1,100억달러 라운드 안착·美 국방부 Replicator 2 라운드 확장·NATO 재무장 서사·우크라이나 공급 확장·2026 Q3 가이던스 상향이 축, 美 셧다운 중 국방 CR 통과 지지·Lattice OS·반자율 무기 체계 확장·공중·수중 자율 플랫폼 수주 가속이 근거. monetization 렌즈로는 Lattice OS 소프트웨어 매출·공중·수중 자율 플랫폼 확대 축, IPO 렌즈로는 밸류 1,100억달러 리레이팅·2027 상장 후보 재부각 축, 시나리오 렌즈로는 10월 Replicator 2 신규 계약·NATO 재무장 CAPEX·美 국방 CR 통과가 카타리스트."
-      },
-      {
-        "time": "2026-10-13 07:35 KST",
+        "time": "2026-10-13 19:35 KST",
         "type": "펀딩",
         "sector": "엔터프라이즈 SW",
-        "detail": "Perplexity AI(비상장)·Canva(비상장)·Databricks(비상장). Perplexity Forge 세컨더리 주당 65.54달러·밸류 248억달러·월 4,500만 사용자·NVDA·Bezos·SoftBank 투자자군 유지·Canva 420억달러 직원 세컨더리·ARR 33~40억달러·미국 redomicile 완료·2026 H2 IPO 후보·Databricks 1,000억달러 레인지 MLOps 리더십·2026 H2 상장 후보가 축, AI 검색 리더십·엔터프라이즈 디자인·Visual Suite 2.0·AI 기능 안착·OpenAI·Google 상대 포지셔닝이 근거. monetization 렌즈로는 Perplexity 유료 ARR·Canva Enterprise ARR·Databricks 데이터 레이크하우스 ARR 레버리지 축, IPO 렌즈로는 Perplexity 2028·Canva 2026 H2·Databricks 2026 H2 상장 윈도우 축, 밸류에이션 렌즈로는 Perplexity 248억달러·Canva 420억달러·Databricks 1,000억달러 상대 밸류 축, 시나리오 렌즈로는 Canva·Databricks S-1 제출·Perplexity 사용자 지표 공시가 리레이팅 카타리스트."
+        "detail": "Anthropic·OpenAI. Anthropic 로드쇼 11/9 주 가동 D-27·11/26 추수감사절 전 Nasdaq 상장 레이스·밸류 1.8~2조달러 투자자 측 추정·AMD 2GW MI450 체결 50억달러 투자 라운드 안착·골드만삭스·JPMorgan·모건스탠리 공동 주관·OpenAI S-1 기밀 제출 2027 이연·DevDay 글로벌 투어 10/16 방갈로르 D-3이 축, Claude 4.5 Sonnet·Opus 멀티모달 추론 리드·연 매출 470억달러 run rate·Anthropic 엔터프라이즈 ARR 급성장이 근거. monetization 렌즈로는 Anthropic ARR 50배 성장·엔터프라이즈 가격 결정력 축, cross-asset 렌즈로는 OpenAI 상장 이연 대치 Anthropic 선점 축, 시나리오 렌즈로는 11/9 로드쇼 공식화·11/26 전 Nasdaq 상장이 리레이팅 카타리스트."
+      },
+      {
+        "time": "2026-10-13 19:35 KST",
+        "type": "제품",
+        "sector": "우주·모빌리티·방산",
+        "detail": "Figure AI·Anduril·Helsing·Shield AI. Figure AI 03 공개 1주년·BotQ 양산 가동률 재점검·480억달러 밸류 유지·Anduril Replicator 2 자율 플랫폼 수주 가속 재무장 CAPEX·Helsing EU 방산 CENTAUR·Shield AI V-BAT 美 공군 ISR 수주가 축, 휴머노이드 가정 서비스 B2C 서사·방산 자율 플랫폼 CAPEX·EU 재무장 2% GDP 가이던스가 근거. monetization 렌즈로는 BotQ 양산 레버리지·방산 자율 플랫폼 수주 축, cross-asset 렌즈로는 EU 재무장·美 Replicator 2 CAPEX 사이클 축, 시나리오 렌즈로는 BotQ 양산 공식 가동·Replicator 2 추가 수주가 리레이팅 카타리스트."
+      },
+      {
+        "time": "2026-10-13 19:35 KST",
+        "type": "펀딩",
+        "sector": "핀테크",
+        "detail": "Stripe·Chime·Revolut. Stripe 세컨더리 1,590억달러 밸류 유지·2026 상장 윈도우 밴드 조율 지속·Chime 상장 이후 안착·Revolut 세컨더리 450억달러 밸류가 축, 결제 플랫폼 ARR 성장·엔터프라이즈 결제 리더십·Stripe Terminal 하드웨어 확산·크로스보더 결제 레버리지가 근거. monetization 렌즈로는 결제 수수료 ARR·엔터프라이즈 가격 결정력 축, cross-asset 렌즈로는 Chime·Klarna 상장 성공 핀테크 상장 윈도우 재개 축, 시나리오 렌즈로는 Stripe 2026 상장 윈도우 공식화가 재평가 카타리스트."
       }
     ]
   }
