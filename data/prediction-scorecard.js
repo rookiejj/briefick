@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 2,242,000원 -10.1% 급락 마감·변압기 랠리 되돌림 피로 매물 소화·수주잔고·AI DC 전력 CAPEX 서사 유지가 upside 축, 美 10년물 5.3% 환경 성장주 할인율 상승·외국인 매도 피로는 downside 카운터, 과매도 소화 후 기술적 반등 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -6.9
       },
       {
         "label": "JPM",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 334.76달러 +0.5% 완만 강세 마감·10/13 화 Q3 어닝 D-Day·컨센 EPS 5.86달러 전년 5.07달러 +15% 성장 전망·美 10년물 5.3% 환경 순이자마진·채권 트레이딩 레버리지가 upside 축, Q2 역대 최대 소화·pull-forward 피로는 downside 카운터, 분기 EPS 성장·NIM 확대 서사 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.4
       },
       {
         "label": "META",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 746.08달러 +3.8% 사상 최고 마감·Meta AI 어시스턴트 10억 MAU 돌파·Llama 4 Behemoth 2T 멀티모달 리드·10월 하순 Q3 CAPEX 가이던스 임박 기대가 upside 축, forward P/E 재조정·AI CAPEX 피로는 downside 카운터, Q3 어닝 임박 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.4
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-10-13 기준 변경된 항목 있음
