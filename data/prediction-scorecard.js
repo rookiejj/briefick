@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-14",
+    "made": "2026-10-14 07:25 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 232,000원 -7.4% 투매 마감·메모리 쇼크 이틀째 외국인 집중 매도 피로 심화·10/29 Q3 D-15 임박 가이던스 기대·HBM4 솔드아웃 서사 지지가 upside 축, 美 메모리·장비 동반 매도(MU -4.3%·AMAT -4.6%) 디레이팅 지속은 downside 카운터, 과매도 소화 기술적 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "META",
+        "ticker": "META",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 767.64달러 +3.3% 사상 최고 마감·메모리·장비 매도 속 Meta AI·Llama 4 Behemoth 리더십 지배·AI 플랫폼 디펜시브 로테이션 유입이 upside 축, forward P/E 재조정·Q3 어닝 임박 변동성은 downside 카운터, 디펜시브 리더십 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AVGO",
+        "ticker": "AVGO",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 355.46달러 +0.2% 상대 지지 마감·메모리·장비 투매 속 Jalapeño ASIC 2027 볼륨·하이퍼스케일러 CAPEX 서사 지지·반도체 섹터 상대 강세가 upside 축, 반도체 섹터 로테이션 매도 지속은 downside 카운터, ASIC 리더십 상대 강세 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "made": "2026-10-13 07:40 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": 2.2
       }
     ]
-  },
-  {
-    "date": "2026-10-05",
-    "made": "2026-10-03 07:35 KST",
-    "predictions": [
-      {
-        "label": "LIG넥스원",
-        "ticker": "079550",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 762,000원 +5.2% 급등 마감·누리호 5차 10/7 발사 임박·美 육군 K9MH 조달 가속·폴란드 2차 K9 상단 재확인이 모멘텀 지속 축, 방산 테마 외국인 분기 전환 매수 유입 지속·한화에어로·KAI 동반 강세가 섹터 레버리지 축, 다만 추석 연휴 중 KR 시장 휴장으로 거래일 지연·단기 과열 되돌림 가능성이 카운터",
-        "result": "hit",
-        "actual": 5.2
-      },
-      {
-        "label": "TSLA",
-        "ticker": "TSLA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 361.95달러 +2.2% 강세 마감·Q3 인도 486,000대 공식 발표·컨센 454,000대 대폭 상회 사상 최대 분기 인도 기록·10/21 Q3 실적 임박이 모멘텀 상단 축, S&P500 +1.97%·Nasdaq +2.15% Friday 급반등·FSD V13 배포·Model Y Juniper 램프업 서사가 upside 상단 축, 다만 리튬 급등 후 셀 원가 압력·Robotaxi 상용화 지연 서사가 카운터",
-        "result": "hit",
-        "actual": 4.7
-      },
-      {
-        "label": "AMAT",
-        "ticker": "AMAT",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 544.32달러 +2.8% 강세 마감·Terafab(Tesla·SpaceX·xAI) WFE 공급 서사·BofA 반도체 장비 top picks 재부각·HBM4 2Q26 shipping 궤도·1-gamma 노드 CAPEX 확대가 모멘텀 상단 축, LRCX·KLAC 반도체 장비 트리오 동반 강세·분기 전환 매수 유입이 섹터 레버리지 축, 다만 밸류 리레이팅 후 단기 차익 실현·중국 WFE 수출 제한 리스크가 카운터",
-        "result": "hit",
-        "actual": 2
-      }
-    ]
   }
 ];
-채점 완료: 2026-10-13 기준 변경된 항목 있음
