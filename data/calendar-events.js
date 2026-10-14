@@ -295,41 +295,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Goldman Sachs 실적",
-    "date": "2026-10-13",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "GS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "JPMorgan 실적",
-    "date": "2026-10-13",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "JPM"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Wells Fargo 실적",
-    "date": "2026-10-13",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "WFC"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
@@ -476,22 +444,22 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "NextEra 실적",
+    "title": "Meta 실적",
     "date": "2026-10-21",
     "desc": "실적 발표 예정",
     "tickers": [
-      "NEE"
+      "META"
     ],
     "src": "auto-earnings"
   },
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Teradyne 실적",
+    "title": "NextEra 실적",
     "date": "2026-10-21",
     "desc": "실적 발표 예정",
     "tickers": [
-      "TER"
+      "NEE"
     ],
     "src": "auto-earnings"
   },
@@ -514,6 +482,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "VRT"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Bloom Energy 실적",
+    "date": "2026-10-22",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "BE"
     ],
     "src": "auto-earnings"
   },
@@ -641,17 +620,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Bloom Energy 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "BE"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Boeing 실적",
     "date": "2026-10-27",
     "desc": "실적 발표 예정",
@@ -734,6 +702,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "000660"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Teradyne 실적",
+    "date": "2026-10-27",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "TER"
     ],
     "src": "auto-earnings"
   },
@@ -938,11 +917,11 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Meta 실적",
+    "title": "LG전자 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
     "tickers": [
-      "META"
+      "066570"
     ],
     "src": "auto-earnings"
   },
@@ -1042,17 +1021,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "LNG"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Cloudflare 실적",
-    "date": "2026-10-29",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "NET"
     ],
     "src": "auto-earnings"
   },
@@ -1224,6 +1192,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "OCI홀딩스 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "010060"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Quanta Svcs 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1334,6 +1313,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "한화솔루션 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "009830"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "현대건설 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1416,17 +1406,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "GD"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "LG전자 실적",
-    "date": "2026-10-30",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "066570"
     ],
     "src": "auto-earnings"
   },
@@ -1642,6 +1621,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Talen Energy 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "TLN"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Zebra Tech 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
@@ -1796,17 +1786,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Talen Energy 실적",
-    "date": "2026-11-04",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "TLN"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Uber 실적",
     "date": "2026-11-04",
     "desc": "실적 발표 예정",
@@ -1851,17 +1830,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "한화솔루션 실적",
-    "date": "2026-11-04",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "009830"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Air Products 실적",
     "date": "2026-11-05",
     "desc": "실적 발표 예정",
@@ -1900,6 +1868,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "035760"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Cloudflare 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "NET"
     ],
     "src": "auto-earnings"
   },
@@ -2236,17 +2215,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "OCI홀딩스 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "010060"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Oklo 실적",
     "date": "2026-11-10",
     "desc": "실적 발표 예정",
@@ -2428,6 +2396,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "ZS"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Dell Tech 실적",
+    "date": "2026-11-27",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "DELL"
     ],
     "src": "auto-earnings"
   }
