@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-15",
+    "made": "2026-10-15 07:20 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,419,000원 -1.7% 매도 피로 완화·반도체 투매 사흘째 분화 지지·10/23 Q3 D-8 분수령 임박·HBM4 솔드아웃·엔비디아 Vera Rubin 할당 서사 지지·ASML Q3 beat and raise 간접 수혜가 upside 축, 중국 CXMT DDR5 서버 공식 발표 메모리 경쟁 우려는 downside 카운터, 과매도 소화 Q3 가이던스 기대 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 591,000원 +5.5% 상승 리더십 마감·LFP ESS 북미 수주 서사 재점화·AI 데이터센터 백업전원 수요·테슬라 Q3 인도 사상 최대 모멘텀·반도체 투매 피난처 로테이션 유입이 upside 축, 밸류 급등 소화 매물·외국인 매도 피로 완화 지연은 downside 카운터, 2차전지 리더십 모멘텀 연장 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 227.72달러 -0.3% 보합 마감·시총 5조달러 상단 유지·Vera Rubin 1Q26 양산 공식화·HBM4 솔드아웃·AMD-Oracle MI450 5만개·AMD-OpenAI 6GW 멀티 벤더 체결 생태계 안착·ASML Q3 beat and raise 간접 수혜가 upside 축, 메모리·장비 섹터 투매 피로 지속은 downside 카운터, 플랫폼 디펜시브 리더십 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "made": "2026-10-14 07:25 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -2.9
       }
     ]
-  },
-  {
-    "date": "2026-10-06",
-    "made": "2026-10-06 07:35 KST",
-    "predictions": [
-      {
-        "label": "한화에어로스페이스",
-        "ticker": "012450",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,072,000원 +3.7% 강세 마감·10/7(수) 누리호 5차 발사 D-1 카운트다운·위성 15기 역대 최다 탑재·발사 창 12:23~13:23·NATO 재무장 서사·美 육군 K9MH 현지화·폴란드 2차 K9 계약 상단 재확인이 모멘텀 상단 축, 10/13 재개장 외국인 방산·우주 매수 복귀 기대·sector rotation 방산 상대 강세 지속이 섹터 레버리지 축, 다만 추석·한글날 연휴 중 거래일 지연·단기 과열 되돌림이 카운터",
-        "result": "miss",
-        "actual": -3.3
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 237.21달러 +1.4% 신고가 레인지 유지·AMD-OpenAI 6GW GPU 체결에도 멀티 벤더 전략 수용·OpenAI Nvidia 10GW 100억달러 투자 유지·Vera Rubin 1Q26 양산 가이던스·Micron HBM4 5년 전략 공급·HBM4 11Gbps pin-speed 리드가 모멘텀 상단 축, 데이터센터 70% 점유율 유지·Blackwell Ultra GB300 2026 램프업·CES 2026 공개 임박이 upside 상단 축, 다만 AMD 6GW 멀티 벤더 분산 서사·밸류 리레이팅 후 단기 차익 실현이 카운터",
-        "result": "hit",
-        "actual": 2.1
-      },
-      {
-        "label": "TSLA",
-        "ticker": "TSLA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 377.67달러 +1.9% 신고가 레인지 유지·Q3 인도 486,532대 사상 최대·컨센 461,974대 대폭 상회·Model 3/Y 478,237대·에너지 ESS 13.7GWh record·10/21 Q3 실적 분기점이 모멘텀 상단 축, Nasdaq 신고가 테크 랠리·FSD V13 배포 임박·리튬 급등 후방 2차전지 수혜가 upside 레버리지 축, 다만 셀 원가 압력·Robotaxi 상용화 지연 서사가 카운터",
-        "result": "hit",
-        "actual": 2.2
-      }
-    ]
   }
 ];
-채점 완료: 2026-10-14 기준 변경된 항목 있음
