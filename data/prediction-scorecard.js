@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 232,000원 -7.4% 투매 마감·메모리 쇼크 이틀째 외국인 집중 매도 피로 심화·10/29 Q3 D-15 임박 가이던스 기대·HBM4 솔드아웃 서사 지지가 upside 축, 美 메모리·장비 동반 매도(MU -4.3%·AMAT -4.6%) 디레이팅 지속은 downside 카운터, 과매도 소화 기술적 반등 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -7.4
       },
       {
         "label": "META",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 767.64달러 +3.3% 사상 최고 마감·메모리·장비 매도 속 Meta AI·Llama 4 Behemoth 리더십 지배·AI 플랫폼 디펜시브 로테이션 유입이 upside 축, forward P/E 재조정·Q3 어닝 임박 변동성은 downside 카운터, 디펜시브 리더십 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       },
       {
         "label": "AVGO",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 355.46달러 +0.2% 상대 지지 마감·메모리·장비 투매 속 Jalapeño ASIC 2027 볼륨·하이퍼스케일러 CAPEX 서사 지지·반도체 섹터 상대 강세가 upside 축, 반도체 섹터 로테이션 매도 지속은 downside 카운터, ASIC 리더십 상대 강세 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-10-14 기준 변경된 항목 있음
