@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-16",
+    "made": "2026-10-16 07:22 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,262,000원 -11.1% 투매 재점화 마감·HBM4 솔드아웃 서사 유지·10/23 Q3 D-7 가이던스 분수령 임박·CXMT DDR5 경쟁 우려 선반영 소화·과매도 지표 극단치 도달이 upside 축, 메모리 디레이팅 사이클 연장 우려는 downside 카운터, 과매도 기술적 반등 기대 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "월마트",
+        "ticker": "WMT",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 119.64달러 +3% 급등 마감·리스크오프 환경 디펜시브 소비 로테이션 유입·11/20 Q3 D-35 임박·e-커머스·광고·멤버십 ARR 모멘텀·반도체 투매 피난처 역할이 upside 축, 밸류 급등 소화 매물은 downside 카운터, 디펜시브 로테이션 모멘텀 연장 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "META",
+        "ticker": "META",
+        "market": "US",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 729.40달러 -1.1% 조정 마감·10/29 Q3 D-13 임박 포지션 축소·AI CAPEX 가이던스 피로·반도체 투매 플랫폼 전염·Llama 4 Behemoth 수익화 지표 관망이 downside 축, AI 어시스턴트 ARR 서사·플랫폼 디펜시브 유입은 upside 카운터, Q3 앞 포지션 축소 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "made": "2026-10-15 07:20 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 종가 640.86달러 -1.3% 조정 마감·10/7 Oracle Cloud Infrastructure MI450 GPU 5만개 공식 체결·Helios 서버 랙 시스템 2026 Q3 배치·OpenAI 6GW GPU에 이어 하이퍼스케일러 2번째 메가 수주·AMD CPU+GPU+Helios 랙 수직 통합 서사 안착·forward P/S 리레이팅이 upside 축, 매파 FOMC 회의록·美 10년물 5.3% 급등 환경에서 성장주 전반 매물은 downside 카운터, 수주 서사가 매파 쇼크 과장 반등 여지 우세",
         "result": "miss",
         "actual": -0.5
-      }
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "made": "2026-10-07 07:40 KST",
-    "predictions": [
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 575,000원 +8.7% 폭등 마감·북미 2조원 LFP ESS 공급 체결·LFP ESS 셀 양산 10월 개시·에코프로비엠 +11.4%·엘앤에프 +9%·포스코퓨처엠 +9.4% 2차전지 트리오 동반 랠리·리튬 105달러대 유지·테슬라 Q3 인도 486,532대 사상 최대 후방 수요가 모멘텀 상단 축, AMD-OpenAI 6GW GPU 후방 데이터센터 ESS 수요 재점화·외국인 2차전지 섹터 로테이션이 upside 레버리지 축, 다만 단기 과열 되돌림·2차전지 랠리 차익 실현이 카운터",
-        "result": "miss",
-        "actual": -2.1
-      },
-      {
-        "label": "Constellation Energy",
-        "ticker": "CEG",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 300.83달러 +12.4% 폭등 마감·AMD-OpenAI 6GW GPU 체결 후방 데이터센터 전력 PPA 재리레이팅·Meta 20년 PPA 지지·Trump 2억달러 AI 원자로 지원·Oklo·Talen·SMR·LEU 트리오 +7~8% 동반 폭등·4분기 추가 PPA 발표 기대가 모멘텀 상단 축, AI 데이터센터 CAPEX 가속·미 원전 재가동·FOMC 25bp 인하 95% 확률 유틸리티 지지가 upside 레버리지 축, 다만 과열 되돌림·실적 가이던스 하회 가능성이 카운터",
-        "result": "miss",
-        "actual": -1.2
-      },
-      {
-        "label": "이수페타시스",
-        "ticker": "007660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 131,900원 +8.8% 폭등 마감·AI 기판 쇼티지 재확인·대구 5공장 증설 가동·FC-BGA AI 서버 수요 레버리지·대덕전자 +6.8% 동반 랠리·엔비디아 Vera Rubin 램프 후방 수혜·목표주가 상향 러시·Q3 어닝 가이던스 상향 기대가 모멘텀 상단 축, 삼성전기·LG이노텍 전자부품 트리오 동조 랠리·AI 서버 CAPEX 가속이 upside 레버리지 축, 다만 단기 과열 되돌림·반도체 섹터 조정 동조가 카운터",
-        "result": "miss",
-        "actual": -2.9
       }
     ]
   }
