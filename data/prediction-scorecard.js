@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-19",
+    "made": "2026-10-17 07:22 KST",
+    "predictions": [
+      {
+        "label": "한화에어로스페이스",
+        "ticker": "012450",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 888,000원 +7.8% 급반등 마감·EU 재무장 2% GDP 가이던스 수요 지지·10/27 Q3 D-10 가이던스 분수령 임박·폴란드 2차 수주 파이프라인·美 중간선거 후 방산 예산 조율 서사가 upside 축, 급등 소화 매물은 downside 카운터, 방산 리더십 복귀 모멘텀 연장 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "BlackRock",
+        "ticker": "BLK",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,120.78달러 +4.4% 급등 마감·Q3 AUM 15.5조달러 사상 최고·순유입 2,050억달러·iShares ETF 1,350억달러 유입·조정 EPS 15.93달러 컨센 상회·반도체 투매 완화 환경 디펜시브 금융 유입이 upside 축, 급등 소화 매물은 downside 카운터, Q3 호실적 모멘텀 연장 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "Micron",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 909.05달러 -2.4% 조정 마감·메모리 디레이팅 사이클 지속·CXMT DDR5 서버 모듈 양산 서사·HBM4 ASP 가이던스 분수령 임박·TSMC Q3 로직 CAPEX 상향 vs 메모리 ASP 분화가 downside 축, 과매도 기술적 반등 기대는 upside 카운터, 메모리 디레이팅 사이클 연장 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "made": "2026-10-16 07:22 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 종가 1,061.76달러 -2.4% 조정 마감·HBM4 솔드아웃·NVIDIA Vera Rubin 1Q26 양산 서사 유지·Q4 FY26 어닝 임박 기대·AI 데이터센터 메모리 수요 레버리지가 upside 축, 매파 FOMC 회의록·美 10년물 5.3% 급등 환경 성장주 할인율 상승·전주 사상 최고 피로는 downside 카운터, 반도체 투톱 차익 실현 과도 조정 후 기술적 반등 우세",
         "result": "miss",
         "actual": -4.8
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "made": "2026-10-08 07:25 KST",
-    "predictions": [
-      {
-        "label": "LG이노텍",
-        "ticker": "011070",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 591,000원 -8.2% 급락 마감·2분기 고환율 매입 원재료가 3분기 수익성 압박·LG전자 Q3 영업이익 7,818억원 컨센 하회 전자부품 자회사 수익성 우려 확산·외국인 3조원 순매도·美 10년물 5.3% 급등 환경 성장주 매물 압박이 downside 축, 아이폰 폴드 카메라 모듈 수주·forward P/E 재조정 후 저점 매수 유입은 upside 카운터, 매파 FOMC 회의록 소화 과정에서 추가 하방 압력 우세",
-        "result": "hit",
-        "actual": -1.2
-      },
-      {
-        "label": "LG전자",
-        "ticker": "066570",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 208,000원 -10.5% 급락 마감·Q3 영업이익 7,818억원 컨센 하회 발표 완료·불확실성 해소 저가 매수세 유입 기대·전년대비 매출 +8.9%·OP +13.5% 성장은 유지·데이터센터 CDU 냉각·AI 가전 서사 유지가 upside 축, 외국인 매도·LG이노텍 수익성 부진 연쇄는 downside 카운터, 단기 급락 후 기술적 반등 가능성 우세",
-        "result": "miss",
-        "actual": -2.2
-      },
-      {
-        "label": "AMD",
-        "ticker": "AMD",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 640.86달러 -1.3% 조정 마감·10/7 Oracle Cloud Infrastructure MI450 GPU 5만개 공식 체결·Helios 서버 랙 시스템 2026 Q3 배치·OpenAI 6GW GPU에 이어 하이퍼스케일러 2번째 메가 수주·AMD CPU+GPU+Helios 랙 수직 통합 서사 안착·forward P/S 리레이팅이 upside 축, 매파 FOMC 회의록·美 10년물 5.3% 급등 환경에서 성장주 전반 매물은 downside 카운터, 수주 서사가 매파 쇼크 과장 반등 여지 우세",
-        "result": "miss",
-        "actual": -0.5
       }
     ]
   }

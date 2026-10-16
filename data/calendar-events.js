@@ -268,6 +268,8 @@ const fixed = [
   { cat:'ipo', impact:3, title:'Anthropic IPO 투자자 미팅', date:'2026-10-14', desc:'Anthropic 공모 투자자 미팅 D-day·밸류 9,650억달러·Morgan Stanley·GS·JPM 공동 주관·11월 Nasdaq 상장 로드쇼 가동 분기점' },
   { cat:'macro', impact:3, title:'중국 Q3 GDP·9월 산업생산·소매판매', date:'2026-10-19', desc:'NBS 분기 성장률 + 월간 활동지표 동시 발표·4분기 부양 공식화·조강 CAPEX 가늠' },
   { cat:'macro', impact:3, title:'10월 FOMC 결과', date:'2026-10-29', desc:'KST 오전 3시·기준금리 결정 (10월은 점도표·SEP 없음)·연말 금리 경로 분수령' },
+  { cat:'conf', impact:2, title:'OpenAI DevDay Exchange London', date:'2026-11-03', desc:'OpenAI 글로벌 투어 6번째 도시·영국 엔터프라이즈 생태계·DeepMind 대치 서사' },
+  { cat:'policy', impact:3, title:'OPEC+ 11월 생산 쿼터 회의', date:'2026-11-02', desc:'사우디 겨울 감산 유지·북반구 수요 선반영·WTI 100달러 저항 돌파 분기점' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
