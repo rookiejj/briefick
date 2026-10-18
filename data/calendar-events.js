@@ -301,82 +301,17 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "ASML 실적",
-    "date": "2026-10-14",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ASML"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Bank of America 실적",
-    "date": "2026-10-14",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "BAC"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "BlackRock 실적",
-    "date": "2026-10-14",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "BLK"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Morgan Stanley 실적",
-    "date": "2026-10-14",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "MS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "한미반도체 실적",
-    "date": "2026-10-14",
+    "date": "2026-10-19",
     "desc": "실적 발표 예정",
     "tickers": [
       "042700"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Charles Schwab 실적",
-    "date": "2026-10-15",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "SCHW"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "TSMC 실적",
-    "date": "2026-10-15",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "TSM"
     ],
     "src": "auto-earnings"
   },
@@ -416,22 +351,33 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Pentair 실적",
+    "title": "RTX Corp 실적",
     "date": "2026-10-20",
     "desc": "실적 발표 예정",
     "tickers": [
-      "PNR"
+      "RTX"
     ],
     "src": "auto-earnings"
   },
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "RTX Corp 실적",
+    "title": "SpaceX 실적",
     "date": "2026-10-20",
     "desc": "실적 발표 예정",
     "tickers": [
-      "RTX"
+      "SPCX"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Kinder Morgan 실적",
+    "date": "2026-10-21",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "KMI"
     ],
     "src": "auto-earnings"
   },
@@ -476,17 +422,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "TSLA"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Vertiv 실적",
-    "date": "2026-10-21",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "VRT"
     ],
     "src": "auto-earnings"
   },
@@ -702,6 +637,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Pentair 실적",
+    "date": "2026-10-27",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "PNR"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "SK하이닉스 실적",
     "date": "2026-10-27",
     "desc": "실적 발표 예정",
@@ -823,17 +769,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Cognex 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CGNX"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Equinix 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
@@ -900,17 +835,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Kinder Morgan 실적",
-    "date": "2026-10-28",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "KMI"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Lennox Intl 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
@@ -955,11 +879,11 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "삼성SDI 실적",
+    "title": "Vertiv 실적",
     "date": "2026-10-28",
     "desc": "실적 발표 예정",
     "tickers": [
-      "006400"
+      "VRT"
     ],
     "src": "auto-earnings"
   },
@@ -993,17 +917,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "AMZN"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "AMETEK 실적",
-    "date": "2026-10-29",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "AME"
     ],
     "src": "auto-earnings"
   },
@@ -1268,6 +1181,28 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "TT"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "삼성SDI 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "006400"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "삼성SDS 실적",
+    "date": "2026-10-29",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "018260"
     ],
     "src": "auto-earnings"
   },
@@ -1560,6 +1495,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "AMETEK 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "AME"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Arista 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
@@ -1593,6 +1539,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Essential Utilities 실적",
+    "date": "2026-11-03",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "WTRG"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Global Payments 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
@@ -1615,11 +1572,11 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "SpaceX 실적",
+    "title": "LG에너지솔루션 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
     "tickers": [
-      "SPCX"
+      "373220"
     ],
     "src": "auto-earnings"
   },
@@ -1692,22 +1649,22 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Emerson Elec 실적",
+    "title": "Cognex 실적",
     "date": "2026-11-04",
     "desc": "실적 발표 예정",
     "tickers": [
-      "EMR"
+      "CGNX"
     ],
     "src": "auto-earnings"
   },
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Essential Utilities 실적",
+    "title": "Emerson Elec 실적",
     "date": "2026-11-04",
     "desc": "실적 발표 예정",
     "tickers": [
-      "WTRG"
+      "EMR"
     ],
     "src": "auto-earnings"
   },
@@ -1967,17 +1924,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "LG에너지솔루션 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "373220"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Parker Hannifin 실적",
     "date": "2026-11-05",
     "desc": "실적 발표 예정",
@@ -2038,17 +1984,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "251270"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "삼성SDS 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "018260"
     ],
     "src": "auto-earnings"
   },
@@ -2412,6 +2347,50 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "DELL"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "CrowdStrike 실적",
+    "date": "2026-12-01",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "CRWD"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Okta 실적",
+    "date": "2026-12-01",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "OKTA"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Salesforce 실적",
+    "date": "2026-12-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "CRM"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "UiPath 실적",
+    "date": "2026-12-02",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "PATH"
     ],
     "src": "auto-earnings"
   }
