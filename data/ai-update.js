@@ -1,37 +1,37 @@
 const UPDATES = [
   {
-    "date": "2026-10-17 19:12 KST",
-    "summary": "Anthropic 로드쇼 D-23 - 11/9 가동 11/26 Nasdaq 상장 임박\nOpenAI DevDay 서울 D-5 - 10/22 임박 GPT-6 글로벌 확산\n제미나이 3.0 울트라 공개 임박 - 10월 말 멀티모달 리더십\nxAI Colossus 2 가동률 램프업 - 20만 H200 데이터센터 수직 통합\n미스트랄 Codestral 2 공개 - 유럽 자율 코딩 모델 레이스",
+    "date": "2026-10-19 07:12 KST",
+    "summary": "앤트로픽 로드쇼 D-21 - 11/9 가동 11/26 Nasdaq 상장 레이스\n오픈AI DevDay 서울 D-3 - 10/22 GPT-6 Sol·Agent API 글로벌 확산\n제미나이 3.0 울트라 공개 임박 - 10월 말 멀티모달 리더십 재점화\nxAI 콜로서스 2 가동률 램프업 - 20만 H200 데이터센터 수직 통합\n미스트랄 Codestral 2 공개 - 유럽 자율 코딩 모델 레이스 가속",
     "entries": [
       {
-        "time": "2026-10-17 19:12 KST",
+        "time": "2026-10-19 07:12 KST",
         "type": "펀딩",
         "sector": "Anthropic",
-        "text": "Anthropic(비상장). 로드쇼 11/9 주 가동 D-23 Bloomberg 보도 기반·11/26 추수감사절 전 Nasdaq 상장 공식화 레이스·밸류 1.8~2조달러 투자자 측 추정·시리즈 H 650억달러 라운드 9,650억달러 포스트머니·연 매출 470억달러 run rate·골드만삭스·JPMorgan·모건스탠리 공동 주관·AMD-Anthropic 2GW MI450 체결 50억달러 투자가 축, Claude 4.5 Sonnet·Opus 멀티모달 추론 리드·AWS Trainium·Google TPU·AMD MI450 멀티 벤더 파트너십·엔터프라이즈 ARR 급성장이 근거. capability 렌즈로는 Claude Opus 코딩·에이전트·멀티모달 추론 리드 축, monetization 렌즈로는 ARR 9억→470억달러 50배 성장·엔터프라이즈 가격 결정력 축, 인프라 렌즈로는 AWS·Google·Nvidia·AMD 멀티 벤더 컴퓨트 분산 축, cross-asset 렌즈로는 OpenAI S-1 이연 대치 상장 선점 축, 시나리오 렌즈로는 11/9 로드쇼·공모가 밴드 상단 돌파·11/26 전 Nasdaq 상장이 리레이팅 카타리스트."
+        "text": "Anthropic(비상장). 로드쇼 11/9 주 가동 D-21 Bloomberg 보도 기반·11/26 추수감사절 전 Nasdaq 상장 공식화 레이스·밸류 1.8~2조달러 투자자 측 추정·시리즈 H 650억달러 라운드 9,650억달러 포스트머니·연 매출 470억달러 run rate·골드만삭스·JPMorgan·모건스탠리 공동 주관·AMD-Anthropic 2GW MI450 체결 50억달러 투자가 축, Claude 4.5 Sonnet·Opus 멀티모달 추론 리드·AWS Trainium·Google TPU·AMD MI450 멀티 벤더 파트너십·엔터프라이즈 ARR 급성장이 근거. capability 렌즈로는 Claude Opus 코딩·에이전트·멀티모달 추론 리드 축, monetization 렌즈로는 ARR 9억→470억달러 50배 성장·엔터프라이즈 가격 결정력 축, 인프라 렌즈로는 AWS·Google·Nvidia·AMD 멀티 벤더 컴퓨트 분산 축, cross-asset 렌즈로는 OpenAI S-1 이연 대치 상장 선점 축, 시나리오 렌즈로는 11/9 로드쇼·공모가 밴드 상단 돌파·11/26 전 Nasdaq 상장이 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-17 19:12 KST",
+        "time": "2026-10-19 07:12 KST",
         "type": "제품",
         "sector": "OpenAI",
-        "text": "OpenAI(비상장). DevDay Exchange 글로벌 투어 10/20 도쿄 D-3·10/22 서울 D-5·10/26 베를린·10/28 파리·11/3 런던·11/6 상파울루·11/11 멕시코시티 7개 도시 임박·9/29 샌프란시스코 DevDay 공개 GPT-6 Astra·Sol·Cyber 패밀리 글로벌 롤아웃·Cloud Codex·개선 Codex CLI 글로벌 롤아웃·AMD-OpenAI 6GW GPU 체결이 축, S-1 기밀 제출 2027 상장 이연·Nvidia 10GW + AMD 6GW 멀티 벤더 컴퓨트 분산 공식화·수백억달러 매출 가이던스가 근거. capability 렌즈로는 GPT-6 Astra 멀티모달 추론·Cloud Codex 자율 에이전트 리드 축, monetization 렌즈로는 ChatGPT Enterprise ARR 확대·Codex 2.0 유료화 축, cross-asset 렌즈로는 Anthropic 상장 레이스 대치·구글 제미나이 3.0 공개 임박 축, 시나리오 렌즈로는 10/22 서울 투어·엔터프라이즈 신규 계약이 지속 카타리스트."
+        "text": "OpenAI(비상장). DevDay Exchange: Seoul 10/22 D-3 임박·강남 개최 ChatGPT 플랫폼·플러그인·에이전트 개발·Codex 보안·실시간 음성·이미지 생성 세션·AWS·LG CNS 공동 참여가 축, 9/29 샌프란시스코 DevDay에서 공개된 GPT-6.1 Sol·Dots·Agent API·20개 이상 업데이트 글로벌 확산·엔터프라이즈 ChatGPT ARR 급성장·Stargate $500B 인프라 레이스 지속·S-1 이연 Anthropic 추격이 근거. capability 렌즈로는 GPT-6.1 Sol·Astra·Luna·Agent API 리더십 축, monetization 렌즈로는 엔터프라이즈 ChatGPT·API·에이전트 매출 레버리지 축, 인프라 렌즈로는 Stargate·Azure·Oracle 멀티 벤더 컴퓨트 분산 축, cross-asset 렌즈로는 Anthropic IPO 선점 대치 S-1 이연 축, 시나리오 렌즈로는 10/22 서울 DevDay·GPT-6 Astra 적용 확산·Agent API 수주가 플랫폼 분수령."
       },
       {
-        "time": "2026-10-17 19:12 KST",
+        "time": "2026-10-19 07:12 KST",
         "type": "모델 출시 예정",
         "sector": "Google DeepMind",
-        "text": "Google DeepMind(GOOGL). 10/16 종가 기준 GOOGL 349.33달러 보합·Gemini 3.0 Ultra 공개 10월 말 임박·Gemini 3.0 Flash·Pro 공개·TPU v7 Trillium 램프업·AI Studio·Vertex 엔터프라이즈 ARR 확대·Workspace AI 유료화 가속·Anthropic TPU 멀티 벤더 지지가 축, Gemini 2.5 Deep Think 수학·논리 벤치 리더십·NotebookLM Video·Audio 멀티모달 확산·Veo 3·Imagen 4 영상·이미지 리더십이 근거. capability 렌즈로는 Gemini 3.0 Ultra 멀티모달 추론·Veo 3 영상 생성 리드 축, monetization 렌즈로는 Workspace AI·Vertex·Cloud ARR 레버리지 축, 인프라 렌즈로는 TPU v7 자체 실리콘·멀티 벤더 수요 축, cross-asset 렌즈로는 OpenAI·Anthropic 상장 레이스 대치 축, 시나리오 렌즈로는 10월 말 Gemini 3.0 Ultra 공개·I/O 2027 로드맵이 리레이팅 카타리스트."
+        "text": "Google DeepMind. 제미나이 3.0 울트라 10월 말 공개 임박 서사·멀티모달 추론 리더십 재점화 레이스·Gemini 2.5 Pro·Flash 사용자 급성장·AI Overviews 글로벌 확산·YouTube Shorts 생성 영상 통합·Google Cloud AI Hypercomputer TPU v6e 신규 세대 공개가 축, Google I/O 발표 로드맵·DeepMind·Research·Google 통합 연구 체제·엔터프라이즈 Vertex AI ARR 급성장이 근거. capability 렌즈로는 멀티모달 추론·에이전트·장기 컨텍스트 리더십 축, monetization 렌즈로는 Google Cloud AI·Workspace·YouTube·Search 매출 레버리지 축, 인프라 렌즈로는 TPU v6e·Hypercomputer·커스텀 ASIC 수직 통합 축, cross-asset 렌즈로는 OpenAI·Anthropic 추격 대치 리더십 재점화 축, 시나리오 렌즈로는 10월 말 제미나이 3.0 울트라 공개·Workspace AI·Vertex 가격 재편이 플랫폼 분수령."
       },
       {
-        "time": "2026-10-17 19:12 KST",
+        "time": "2026-10-19 07:12 KST",
         "type": "인프라",
         "sector": "xAI",
-        "text": "xAI(비상장). Memphis Colossus 2 200K H200 데이터센터 가동률 램프업·Grok 4 Vision 멀티모달 롤아웃 확산·Grok Imagine 영상 생성·Grok Code 1 전문 코딩 모델·X 플랫폼 Grok Enterprise ARR 급성장·Tesla FSD·Optimus 연계 서사가 축, 시리즈 D 100억달러 라운드 2,000억달러 밸류·Dell·Supermicro 서버 수주·Palantir 연계 국방 Grok 수주가 근거. capability 렌즈로는 Grok 4 멀티모달·실시간 X 플랫폼 데이터 리드 축, monetization 렌즈로는 X Premium·Grok Enterprise·Tesla 연계 ARR 축, 인프라 렌즈로는 Colossus 2 자체 데이터센터 수직 통합 축, cross-asset 렌즈로는 OpenAI·Anthropic 대비 X 플랫폼 데이터 격차 축, 시나리오 렌즈로는 Grok 5 공개·X 광고 ARR 확대·Tesla Optimus 연계가 재평가 카타리스트."
+        "text": "xAI(비상장). 콜로서스 2 데이터센터 가동률 램프업·20만 H200 수직 통합·Grok 4 Fast 코딩 벤치마크 리더십·Grok 멀티모달 추론 지속 서사·X 통합 소셜 그래프 지렛대·테네시 멤피스 2GW 전력 구축 완료·AMD MI450 추가 체결 서사가 축, 2026 Q3 ARR 급성장·엔터프라이즈 Grok API 수주 모멘텀·테슬라 FSD V13 통합 연계가 근거. capability 렌즈로는 Grok 4 Fast 코딩·멀티모달·실시간 추론 리더십 축, 인프라 렌즈로는 20만 H200·MI450 믹스·전력 수직 통합 축, monetization 렌즈로는 X 통합·엔터프라이즈 API·테슬라 FSD 연계 매출 레버리지 축, cross-asset 렌즈로는 OpenAI·Anthropic 추격 리더십 레이스 축, 시나리오 렌즈로는 콜로서스 2 full-load·Grok 5 공개·테슬라 FSD V13 통합이 플랫폼 분수령."
       },
       {
-        "time": "2026-10-17 19:12 KST",
-        "type": "제품",
+        "time": "2026-10-19 07:12 KST",
+        "type": "모델 출시",
         "sector": "Mistral AI",
-        "text": "Mistral AI(비상장). Codestral 2 전문 코딩 모델 공개 임박·유럽 자율 코딩 모델 레이스·Mistral Large 3 멀티모달·Mistral Agent 플랫폼·EU 소버린 AI 전략 지원·시리즈 D 20억달러 라운드 220억달러 밸류·AWS·Azure 클라우드 파트너십이 축, EU AI Act 소버린 모델 수요·엔터프라이즈 온프레미스 솔루션 ARR·연 매출 5억달러 run rate가 근거. capability 렌즈로는 Codestral 2 전문 코딩·Mistral Large 3 멀티모달 리드 축, monetization 렌즈로는 EU 소버린·엔터프라이즈 온프레미스 ARR·구독 매출 레버리지 축, cross-asset 렌즈로는 OpenAI·Anthropic 美 리더십 대비 EU 소버린 포지션 축, 시나리오 렌즈로는 Codestral 2 공개·EU 정부 수주·시리즈 E 라운드가 리레이팅 카타리스트."
+        "text": "Mistral AI(비상장). Codestral 2 공개 임박·유럽 자율 코딩 모델 레이스 가속·Mistral Large 2·Pixtral 멀티모달·Nemo·Mathstral 라인업 지속·EU 디지털 자주권 서사 지렛대·Microsoft·Snowflake·AWS 파트너십 확장이 축, 2026 Q3 ARR 급성장·엔터프라이즈 API 수주 모멘텀·오픈소스·클로즈드 하이브리드 전략·프랑스·EU 규제 수혜가 근거. capability 렌즈로는 Codestral 2 코딩·Mistral Large 2 추론·Pixtral 멀티모달 리더십 축, monetization 렌즈로는 엔터프라이즈 API·오픈소스 라이선스·Snowflake·AWS 매출 레버리지 축, 인프라 렌즈로는 EU 데이터 주권·소버린 클라우드 축, cross-asset 렌즈로는 OpenAI·Anthropic·Google 추격 유럽 선두 레이스 축, 시나리오 렌즈로는 Codestral 2 공개·엔터프라이즈 수주·EU 규제 수혜가 플랫폼 분수령."
       }
     ]
   }
