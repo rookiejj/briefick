@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 10:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:17:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 10월 19일 (월) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-10-19</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-10-19</guid>
+      <pubDate>Sun, 18 Oct 2026 22:00:00 GMT</pubDate>
+      <description>삼성전자 215,500원 +2.6% 반등 - 10/29 Q3 가이던스 포지션 축적 환경 · 테슬라 373달러 +3.1% 반등 - 10/22 Q3 D-3 FSD V13·에너지 서사 분수령 · 비트코인 82,541달러 - 美 CPI·FOMC 앞 포지션 재조정 완료</description>
+    </item>
     <item>
       <title>2026년 10월 17일 (토) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-10-17</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-08-11</guid>
       <pubDate>Mon, 10 Aug 2026 22:00:00 GMT</pubDate>
       <description>삼성전자 239,500원 +4.10% - 반도체 수출 급증에 외국인 대규모 순매수 · 코어위브 오늘 장 마감 후 Q2 실적 - 매출 25.5억달러 +111% 컨센 대기 · 금 4,329달러 사상 최고 유지 - CPI 대기 속 실질금리 하락 시나리오</description>
-    </item>
-    <item>
-      <title>2026년 8월 10일 (월) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-08-10</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-08-10</guid>
-      <pubDate>Sun, 09 Aug 2026 22:00:00 GMT</pubDate>
-      <description>코스닥 854.47 +6.97% 폭등 - 매수 사이드카 이달 세 번째 발동 · 코어위브 8/11 AMC Q2 실적 D-1 - 25.6억달러 컨센, AI 인프라 검증 무대 · 금 4,400달러 사상 최고 재갱신 - 미 국채금리 하락·달러 인덱스 99.6 하회</description>
     </item>
   </channel>
 </rss>
