@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 888,000원 +7.8% 급반등 마감·EU 재무장 2% GDP 가이던스 수요 지지·10/27 Q3 D-10 가이던스 분수령 임박·폴란드 2차 수주 파이프라인·美 중간선거 후 방산 예산 조율 서사가 upside 축, 급등 소화 매물은 downside 카운터, 방산 리더십 복귀 모멘텀 연장 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 7.8
       },
       {
         "label": "BlackRock",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,120.78달러 +4.4% 급등 마감·Q3 AUM 15.5조달러 사상 최고·순유입 2,050억달러·iShares ETF 1,350억달러 유입·조정 EPS 15.93달러 컨센 상회·반도체 투매 완화 환경 디펜시브 금융 유입이 upside 축, 급등 소화 매물은 downside 카운터, Q3 호실적 모멘텀 연장 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.2
       },
       {
         "label": "Micron",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "직전 거래일 종가 909.05달러 -2.4% 조정 마감·메모리 디레이팅 사이클 지속·CXMT DDR5 서버 모듈 양산 서사·HBM4 ASP 가이던스 분수령 임박·TSMC Q3 로직 CAPEX 상향 vs 메모리 ASP 분화가 downside 축, 과매도 기술적 반등 기대는 upside 카운터, 메모리 디레이팅 사이클 연장 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -5.6
       }
     ]
   },
