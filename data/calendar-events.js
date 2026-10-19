@@ -268,6 +268,7 @@ const fixed = [
   { cat:'ipo', impact:3, title:'Anthropic IPO 투자자 미팅', date:'2026-10-14', desc:'Anthropic 공모 투자자 미팅 D-day·밸류 9,650억달러·Morgan Stanley·GS·JPM 공동 주관·11월 Nasdaq 상장 로드쇼 가동 분기점' },
   { cat:'macro', impact:3, title:'중국 Q3 GDP·9월 산업생산·소매판매', date:'2026-10-19', desc:'NBS 분기 성장률 + 월간 활동지표 동시 발표·4분기 부양 공식화·조강 CAPEX 가늠' },
   { cat:'macro', impact:3, title:'10월 FOMC 결과', date:'2026-10-29', desc:'KST 오전 3시·기준금리 결정 (10월은 점도표·SEP 없음)·연말 금리 경로 분수령' },
+  { cat:'product', impact:3, title:'Google Gemini 3.0 Ultra 공개 예상', date:'2026-10-30', desc:'10월 말 글로벌 롤아웃 공식화·멀티모달 추론·에이전트·코딩 리더십 재점화·TPU v6 Trillium 수직 통합·Workspace·Vertex AI 통합 분수령' },
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange London', date:'2026-11-03', desc:'OpenAI 글로벌 투어 6번째 도시·영국 엔터프라이즈 생태계·DeepMind 대치 서사' },
   { cat:'policy', impact:3, title:'OPEC+ 11월 생산 쿼터 회의', date:'2026-11-02', desc:'사우디 겨울 감산 유지·북반구 수요 선반영·WTI 100달러 저항 돌파 분기점' },
   { cat:'ipo', impact:3, title:'Anthropic IPO 로드쇼 공식 가동 예상', date:'2026-11-09', desc:'Bloomberg 보도 기반·11/9 주 투자자 미팅·밸류 1.8~2조달러·Goldman·JPMorgan·모건스탠리 공동 주관·11/26 전 Nasdaq 상장 레이스' },

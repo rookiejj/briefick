@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-20",
+    "made": "2026-10-20 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성바이오로직스",
+        "ticker": "207940",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,427,000원 +9.9% 폭등 마감·10/22 Q3 D-2 가이던스 분수령 임박·CDMO 파이프 재평가·바이오시밀러 서사 재점화·셀트리온 5조 매출 목표 환경·외국인 바이오 리더십 복귀 유입이 upside 축, 급등 소화 매물은 downside 카운터, 어닝 D-2 모멘텀 연장 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 913달러 +4% 급반등 마감·HBM4 ASP·DRAM 가이던스 재점화·반도체 섹터 전면 반등 로테이션 유입·TSMC Q3 호실적 FY26 상단 상향 환경·메모리 사이클 되돌림 서사가 upside 축, 10년물 4.3% 밸류 압박은 downside 카운터, 반도체 리더십 복귀 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 592,000원 +11.7% 폭등 마감·2차전지 양극재 트리오 동반 랠리·급등 후 피로 소화 압박·단기 과열 신호·차익 실현 매물 유입 가능이 downside 축, LFP ESS 북미 수주 서사는 upside 카운터, 급등 후 되돌림 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "made": "2026-10-17 07:22 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 1,808.31달러 +2.2% 강세 마감·EUV YoY +45% 램프업·low-NA 65대·FY26 €43~45B 가이던스 상향·GM 54% 유지·2nm A20 Pro 애플 이벤트·AI 파운드리 CAPEX 서사가 upside 축, 매파 FOMC 환경 반도체 매그니스 혼조·booking 비공개 전환 가시성 저하는 downside 카운터, EUV 사이클·AI 파운드리 CAPEX 모멘텀 우세",
         "result": "hit",
         "actual": 0.6
-      }
-    ]
-  },
-  {
-    "date": "2026-10-09",
-    "made": "2026-10-09 07:22 KST",
-    "predictions": [
-      {
-        "label": "LG화학",
-        "ticker": "051910",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 종가 286,500원 +3.4% 반등 마감·2차전지 역주행 지속·북미 LFP ESS 공급 계약 서사·AI 데이터센터 ESS 수요 재점화·외국인 2차전지 재편입이 upside 축, LG엔솔 +2.6%·에코프로비엠 +3.5% 섹터 로테이션 안착·리튬 105달러대 유지는 upside 보조 카운터, 美 10년물 급등 환경 성장주 매물 압박은 downside 리스크지만 섹터 모멘텀 우세",
-        "result": "hit",
-        "actual": 3.4
-      },
-      {
-        "label": "PLTR",
-        "ticker": "PLTR",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 201.27달러 +3.7% 사상 최고 돌파·美 국방부 Replicator 2 계약 확장·엔터프라이즈 Foundry·AIP ARR 가속·11월 초 Q3 어닝 임박 기대·미국 셧다운 CR 통과 지지가 upside 축, forward P/S 과도 리레이팅 우려·매파 FOMC 환경 성장주 할인율 상승은 downside 카운터, AI 플랫폼 재점화 서사 모멘텀 우세",
-        "result": "hit",
-        "actual": 2.4
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 1,061.76달러 -2.4% 조정 마감·HBM4 솔드아웃·NVIDIA Vera Rubin 1Q26 양산 서사 유지·Q4 FY26 어닝 임박 기대·AI 데이터센터 메모리 수요 레버리지가 upside 축, 매파 FOMC 회의록·美 10년물 5.3% 급등 환경 성장주 할인율 상승·전주 사상 최고 피로는 downside 카운터, 반도체 투톱 차익 실현 과도 조정 후 기술적 반등 우세",
-        "result": "miss",
-        "actual": -4.8
       }
     ]
   }
