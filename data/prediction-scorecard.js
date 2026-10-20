@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,427,000원 +9.9% 폭등 마감·10/22 Q3 D-2 가이던스 분수령 임박·CDMO 파이프 재평가·바이오시밀러 서사 재점화·셀트리온 5조 매출 목표 환경·외국인 바이오 리더십 복귀 유입이 upside 축, 급등 소화 매물은 downside 카운터, 어닝 D-2 모멘텀 연장 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 9.9
       },
       {
         "label": "MU",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 913달러 +4% 급반등 마감·HBM4 ASP·DRAM 가이던스 재점화·반도체 섹터 전면 반등 로테이션 유입·TSMC Q3 호실적 FY26 상단 상향 환경·메모리 사이클 되돌림 서사가 upside 축, 10년물 4.3% 밸류 압박은 downside 카운터, 반도체 리더십 복귀 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       },
       {
         "label": "삼성SDI",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 592,000원 +11.7% 폭등 마감·2차전지 양극재 트리오 동반 랠리·급등 후 피로 소화 압박·단기 과열 신호·차익 실현 매물 유입 가능이 downside 축, LFP ESS 북미 수주 서사는 upside 카운터, 급등 후 되돌림 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 11.7
       }
     ]
   },
