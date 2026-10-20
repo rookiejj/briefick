@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-10-20 07:15 KST",
-    "summary": "반도체 전면 반등 - AMD·마이크론·LRCX 동반 급등 로테이션 유입\n엔비디아 215달러 +0.5% - 11/19 Q3 D-30 Vera Rubin 가이던스 분수령\n넷플릭스 10/21 Q3 D-1 - 광고 ARR·M&A 서사 재점검\n방산 Q3 임박 - 10/21 LMT·10/22 RTX 2연쇄 EU 재무장 지지\n사이버보안 반등 소화 - 크라우드스트라이크 -0.1%·팔로알토 +1.4% 매도 완화",
+    "date": "2026-10-20 19:12 KST",
+    "summary": "Q3 어닝 피크 주간 - 테슬라·메타·구글 수요일부터 3연쇄 분수령\n테슬라 369달러 수요일 Q3 - 로보택시·FSD 가이던스 분기점\n10/20 어닝 데이 - GM·KO·LMT 유틸·소비재·방산 3연쇄\n데이터센터 랠리 지속 - CRWV 61달러 OpenAI 6GW 수주 유지\nFed FOMC 10/29 - 25bp 인하 선반영 밸류 완화",
     "changes": [
       {
-        "time": "2026-10-20 07:15 KST",
-        "type": "반도체",
-        "sector": "반도체",
-        "detail": "엔비디아(NVDA)·브로드컴(AVGO)·AMD·마이크론(MU)·TSM·AMAT·LRCX. 월요일 10/19 종가 기준 NVDA 215달러 +0.5%·AVGO 336달러 +2.1%·AMD 549달러 +3.9%·MU 913달러 +4%·TSM 418달러 +1.4%·AMAT 423달러 +3.2%·LRCX 275달러 +4.3% 반도체 전면 반등 마감이 축, 11/19 NVDA Q3 D-30·AMD Q3 10/28·Qualcomm Q3 11/5 포지션 재구축·TSMC Q3 호실적 FY26 가이던스 상단 상향 재점검·HBM4 ASP·Vera Rubin 할당·OpenAI 6GW·Anthropic 2GW 수주 서사가 근거. monetization 렌즈로는 HBM·AI CAPEX·데이터센터·WFE 매출 레버리지 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 밸류 재점검 축, institutional flow 렌즈로는 반도체 리더십 복귀 로테이션 유입 축, 시나리오 렌즈로는 11/19 NVDA Q3·Vera Rubin 양산 로드맵·AI CAPEX 가이던스가 리레이팅 분수령."
+        "time": "2026-10-20 19:12 KST",
+        "type": "자동차·모빌리티",
+        "sector": "자동차·모빌리티",
+        "detail": "테슬라(TSLA)·GM·포드(F). 월요일 10/19 종가 기준 TSLA 369달러 +0.2% 보합·GM 82달러 -0.4% 소폭 조정 마감이 축, 10/22 테슬라 Q3 D-2·10/20 GM Q3 금일 2연쇄 임박·테슬라 로보택시 상업화 로드맵·Cybercab 양산 가이던스·FSD v13 롤아웃·3Q 인도량 사상 최대 서사·GM Cruise 자율주행 재가동·북미 하이브리드 Q3 사상 최대 서사가 근거. monetization 렌즈로는 FSD·로보택시·Cybercab·에너지 저장 매출 레버리지 축, institutional flow 렌즈로는 자동차 Q3 앞 포지션 재구축 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 밸류 압박 지속 축, 시나리오 렌즈로는 10/22 테슬라 Q3·로보택시 가이던스·GM 북미 하이브리드가 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-20 07:15 KST",
-        "type": "소비·리테일",
-        "sector": "소비·리테일",
-        "detail": "넷플릭스(NFLX)·디즈니(DIS)·스포티파이(SPOT). 10/21 넷플릭스 Q3 D-1 임박이 축, 광고 ARR 급성장·Nielsen 시청 점유율 1위 재확인·게임 사업부 롤아웃·NFL 중계권 레버리지·M&A 소문 재점화 서사·Q4 가이던스 상단·구독자 순증 서프라이즈·광고 ARPU 모멘텀이 근거. monetization 렌즈로는 광고·구독·게임·M&A 매출 레버리지 축, institutional flow 렌즈로는 디펜시브 콘텐츠 로테이션 유입 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 콘텐츠 디펜시브 수혜 축, 시나리오 렌즈로는 10/21 Q3 가이던스·광고 ARPU·M&A 공식화가 리레이팅 카타리스트."
+        "time": "2026-10-20 19:12 KST",
+        "type": "데이터센터",
+        "sector": "데이터센터",
+        "detail": "코어위브(CRWV)·DLR·EQIX·VRT. 월요일 10/19 종가 기준 CRWV 61달러 +0.2% 반등 유지 마감이 축, OpenAI 6GW·Anthropic 2GW·Oracle $300B 수주 서사·Vera Rubin 할당·AI 데이터센터 CAPEX 사이클·GPU 전력 밀도 가속·클라우드 하이퍼스케일러 지출 가이던스 상단 상향·주말 데이터센터 로테이션 유입 서사가 근거. monetization 렌즈로는 GPU 임대·전력·냉각·네트워킹 매출 레버리지 축, institutional flow 렌즈로는 AI 인프라 리더십 유입 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 성장주 할인율 압박 상쇄 축, 시나리오 렌즈로는 Vera Rubin 양산·추가 하이퍼스케일러 수주·CAPEX 가이던스가 리레이팅 분기점."
       },
       {
-        "time": "2026-10-20 07:15 KST",
-        "type": "방산",
-        "sector": "방산",
-        "detail": "RTX·록히드마틴(LMT)·노스롭그루먼(NOC)·L3Harris(LHX). 월요일 10/19 종가 기준 LMT 548달러 -0.7%·RTX 191달러 -1.4%·NOC 514달러 -1.2% 소폭 조정이 축, 10/21 LMT Q3 D-1·10/22 RTX Q3 D-2 2연쇄 분수령 임박·EU 재무장 CAPEX 수요 리더십·우크라이나 지원 재점화·중동 긴장 재부각·방산 디펜시브 로테이션·Patriot·GMLRS·F-35 수주 모멘텀이 근거. monetization 렌즈로는 EU 재무장·우크라이나·중동 매출 레버리지 축, institutional flow 렌즈로는 방산 디펜시브 로테이션 유입 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 디펜시브 수혜 축, 시나리오 렌즈로는 10/21 LMT·10/22 RTX Q3 가이던스·F-35 추가 수주가 리레이팅 카타리스트."
+        "time": "2026-10-20 19:12 KST",
+        "type": "전력·그리드",
+        "sector": "전력·그리드",
+        "detail": "비스트라(VST)·컨스텔레이션(CEG)·NRG. AI 데이터센터 전력 수요 급증이 축, 가스화력·원전 PPA 수주 모멘텀·전력 요금 인상 사이클·CEG 세 마일 아일랜드 재가동·VST 가스 발전 CAPEX 확장·NRG 리테일 전력 ARR 성장·그리드 CAPEX 상단 재점검·주말 유틸리티 로테이션 유입·Fed 인하 환경 디펜시브 수혜 서사가 근거. monetization 렌즈로는 PPA·전력 요금·원전 재가동 매출 레버리지 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 디펜시브 수혜 축, institutional flow 렌즈로는 전력 CAPEX 로테이션 유입 축, 시나리오 렌즈로는 추가 하이퍼스케일러 PPA·SMR 상업화·요금 추가 인상이 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-20 07:15 KST",
-        "type": "사이버보안",
-        "sector": "사이버보안",
-        "detail": "크라우드스트라이크(CRWD)·팔로알토(PANW)·팔란티어(PLTR). 월요일 10/19 종가 기준 CRWD 227달러 -0.1% 보합·PANW 347달러 +1.4% 반등·PLTR 191달러 +2.6% 반등 마감이 축, 금요일 급락 소화 과매도 되돌림·AI SaaS 밸류 디레이팅 지속·forward P/E 60배 프리미엄 압박·엔터프라이즈 사이버 ARR 성장률 모니터링·Fortinet·Zscaler 가이던스 재점검·Q3 어닝 앞 포지션 재구축 흐름이 근거. monetization 렌즈로는 사이버 ARR·플랫폼 통합 매출 레버리지 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 성장주 할인율 압박 축, institutional flow 렌즈로는 사이버보안 포지션 재구축 축, 시나리오 렌즈로는 CRWD·PANW Q3 가이던스·AI 사이버 수주·엔터프라이즈 ARR 재가속이 리레이팅 분수령."
+        "time": "2026-10-20 19:12 KST",
+        "type": "바이오·헬스케어",
+        "sector": "바이오·헬스케어",
+        "detail": "일라이릴리(LLY)·노보노디스크(NVO)·화이자(PFE)·존슨앤드존슨(JNJ). GLP-1 사이클 리더십이 축, Zepbound 처방 사상 최대·오포글리프론 경구 GLP-1 FDA 승인 임박·Mounjaro FY27 매출 가이던스 상향·LLY 알츠하이머 Donanemab 처방 가속·Pfizer Q3 10/28 D-8 임박·GLP-1 공급망 CAPEX 확장·주말 헬스케어 디펜시브 로테이션 유입 서사가 근거. monetization 렌즈로는 GLP-1·알츠하이머·백신 파이프 매출 레버리지 축, institutional flow 렌즈로는 헬스케어 디펜시브 로테이션 유입 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 디펜시브 수혜 축, 시나리오 렌즈로는 오포글리프론 FDA 승인·GLP-1 FY27 가이던스·알츠하이머 지표가 리레이팅 분수령."
       },
       {
-        "time": "2026-10-20 07:15 KST",
-        "type": "AI 플랫폼",
-        "sector": "AI 플랫폼",
-        "detail": "마이크로소프트(MSFT)·구글(GOOGL)·아마존(AMZN)·메타(META). 월요일 10/19 종가 기준 MSFT 531달러 +0.4% 보합·GOOGL 343달러 +0.7% 완만 반등·AMZN 256달러 +2.4% 반등·META 698달러 -1.6% 조정 마감이 축, 11월 Q3 어닝 러시 앞 포지션 재구축·AI CAPEX 지속·Azure·GCP·AWS 성장률·엔터프라이즈 AI 수주 모멘텀·META Threads 광고 수익화·Reality Labs 적자 서사 재점검 흐름이 근거. monetization 렌즈로는 Azure·GCP·AWS·광고 매출 레버리지 축, institutional flow 렌즈로는 메가캡 포지션 재조정 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 밸류 압박 축, 시나리오 렌즈로는 Q3 어닝·AI CAPEX 가이던스·엔터프라이즈 ARR 가속이 리레이팅 분수령."
+        "time": "2026-10-20 19:12 KST",
+        "type": "핀테크·결제",
+        "sector": "핀테크·결제",
+        "detail": "비자(V)·마스터카드(MA)·페이팔(PYPL)·블록(SQ). V·MA Q3 10/23 D-3·10/30 D-10 임박이 축, 크로스보더 결제 거래량 사상 최대·AI 결제 사기 방지 플랫폼·토큰화 결제 생태계 확장·PYPL 광고 결제 ARR 재가속·SQ 비트코인 결제 통합·주말 결제주 로테이션 유입·크립토 결제 사이클 재점화 서사가 근거. monetization 렌즈로는 크로스보더·AI 사기 방지·토큰화 매출 레버리지 축, institutional flow 렌즈로는 결제 리더십 유입 축, cross-asset 렌즈로는 BTC 랠리 환경 크립토 결제 수혜 축, 시나리오 렌즈로는 10/23 V·10/30 MA Q3 가이던스·AI 결제 수주 공식화가 리레이팅 카타리스트."
       }
     ]
   }
