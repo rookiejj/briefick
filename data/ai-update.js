@@ -1,37 +1,37 @@
 const UPDATES = [
   {
-    "date": "2026-10-20 07:20 KST",
-    "summary": "앤트로픽 로드쇼 D-20 - 밸류 2조달러 11/26 Nasdaq 상장 레이스\n오픈AI DevDay 서울 D-2 - 10/22 GPT-6 Astra·Agent API 확산\n제미나이 3.0 울트라 공개 임박 - 10월 말 멀티모달 리더십 재점화\nxAI 콜로서스 2 램프업 - 20만 H200 데이터센터 수직 통합 가속\n메타 AI 라마 4 가이던스 재조정 - 11월 CAPEX 발표 분수령 임박",
+    "date": "2026-10-20 19:14 KST",
+    "summary": "NVDA Q3 D-30 - Vera Rubin 가이던스 분수령, OpenAI 6GW 수주 유지\nMSFT Q3 D-9 - Copilot ARR·Azure CAPEX 분기점\nAmazon AWS Q3 D-10 - Bedrock ARR·Trainium 2 수요 가속\nApple Q3 D-10 - 아이폰 17 매출·Apple Intelligence 수용률 분기점\nMistral Codestral 2 공개 - EU AI 주권 서사 재점화",
     "entries": [
       {
-        "time": "2026-10-20 07:20 KST",
-        "type": "펀딩",
-        "sector": "Anthropic",
-        "text": "Anthropic(비상장). 로드쇼 11/9 주 가동 D-20 Bloomberg 보도 재확인·11/26 추수감사절 전 Nasdaq 상장 공식화 레이스·밸류 1.8~2조달러 투자자 측 추정·시리즈 H 650억달러 라운드 9,650억달러 포스트머니·연 매출 470억달러 run rate·골드만삭스·JPMorgan·모건스탠리 공동 주관·AMD-Anthropic 2GW MI450 체결 50억달러 투자 라운드 안착이 축, Claude 4.5 Sonnet·Opus 멀티모달 추론 리드·AWS Trainium·Google TPU·AMD MI450 멀티 벤더 파트너십·엔터프라이즈 ARR 급성장이 근거. capability 렌즈로는 Claude Opus 코딩·에이전트·멀티모달 추론 리드 축, monetization 렌즈로는 ARR 9억→470억달러 50배 성장·엔터프라이즈 가격 결정력 축, 인프라 렌즈로는 AWS·Google·Nvidia·AMD 멀티 벤더 컴퓨트 분산 축, cross-asset 렌즈로는 OpenAI S-1 이연 대치 상장 선점 축, 시나리오 렌즈로는 11/9 로드쇼·공모가 밴드 상단 돌파·11/26 전 Nasdaq 상장이 리레이팅 카타리스트."
-      },
-      {
-        "time": "2026-10-20 07:20 KST",
-        "type": "제품",
-        "sector": "OpenAI",
-        "text": "OpenAI(비상장). DevDay Exchange: Seoul 10/22 D-2 임박·강남 개최 ChatGPT 플랫폼·플러그인·에이전트 개발·Codex 보안·실시간 음성·이미지 생성 세션·AWS·LG CNS 공동 참여가 축, 9/29 샌프란시스코 DevDay에서 공개된 GPT-6.1 Sol·Astra·Agent API·20개 이상 업데이트 글로벌 확산·엔터프라이즈 ChatGPT ARR 급성장·Stargate $500B 인프라 레이스 지속·S-1 이연 Anthropic 추격 서사가 근거. capability 렌즈로는 GPT-6.1 Sol·Astra·Luna·Agent API 리더십 축, monetization 렌즈로는 엔터프라이즈 ChatGPT·API·에이전트 매출 레버리지 축, 인프라 렌즈로는 Stargate·Azure·Oracle 멀티 벤더 컴퓨트 분산 축, cross-asset 렌즈로는 Anthropic IPO 선점 대치 S-1 이연 축, 시나리오 렌즈로는 10/22 서울 DevDay·GPT-6 Astra 적용 확산·Agent API 수주가 플랫폼 분수령."
-      },
-      {
-        "time": "2026-10-20 07:20 KST",
-        "type": "모델 출시 예정",
-        "sector": "Google DeepMind",
-        "text": "Google DeepMind. Gemini 3.0 Ultra 공개 임박 D-6~9 로드맵 재확인·10월 말 글로벌 롤아웃 공식화 레이스·멀티모달 추론·에이전트·코딩·과학 추론 리더십 재점화 서사·TPU v5p·v6 Trillium 자체 실리콘 수직 통합 밸류체인 축이 축, Workspace·Vertex AI·Cloud 통합 ARR 급성장·엔터프라이즈 Gemini for Workspace 패키지 수주·YouTube·Search 멀티모달 통합 플랫폼 레버리지가 근거. capability 렌즈로는 Gemini 3.0 Ultra 멀티모달·추론·코딩 리더십 축, 인프라 렌즈로는 TPU v6 Trillium·Google Cloud 수직 통합 축, monetization 렌즈로는 Workspace·Vertex·Cloud ARR 매출 레버리지 축, cross-asset 렌즈로는 Anthropic·OpenAI 추격 대치 Google 반격 축, 시나리오 렌즈로는 10월 말 Gemini 3.0 Ultra 공개·엔터프라이즈 수주·YouTube AI 통합 확산이 리더십 분수령."
-      },
-      {
-        "time": "2026-10-20 07:20 KST",
+        "time": "2026-10-20 19:14 KST",
         "type": "인프라",
-        "sector": "xAI",
-        "text": "xAI(비상장). Colossus 2 데이터센터 가동률 램프업 가속·멤피스·테네시 20만 H200·H100 혼합 구성·전력 1.2GW 통합 수직 통합이 축, Grok 4 Code·Grok 4 Multimodal 글로벌 롤아웃·Tesla·X 플랫폼 통합 레버리지·엔터프라이즈 Grok Enterprise ARR 급성장·연내 추가 50억달러 펀딩 라운드 조율·NVIDIA Blackwell Ultra·AMD MI450 멀티 벤더 전략이 근거. capability 렌즈로는 Grok 4 멀티모달·에이전트 추론 리드 축, 인프라 렌즈로는 Colossus 2 데이터센터·멀티 벤더 컴퓨트 수직 통합 축, monetization 렌즈로는 Grok Enterprise ARR·Tesla·X 플랫폼 레버리지 축, cross-asset 렌즈로는 OpenAI·Anthropic 추격 대치 Musk 생태계 축, 시나리오 렌즈로는 Colossus 2 가동률 램프업·50억달러 펀딩·Grok 5 로드맵이 리더십 분수령."
+        "sector": "NVIDIA",
+        "text": "NVIDIA(NVDA). 11/19 Q3 D-30 임박·Vera Rubin 플랫폼 양산 램프업·Blackwell Ultra 수요 상단 상향·HBM4 ASP 재점검이 축, OpenAI 6GW·Anthropic 2GW MI450 멀티 벤더 전환 환경 반사 수혜·Oracle $300B 하이퍼스케일러 수주·Stargate $500B 인프라 CAPEX 사이클·Dynamo·NIM 소프트웨어 스택 수익화·젠슨 황 CEO 아시아 투어 서사가 근거. capability 렌즈로는 Vera Rubin·Blackwell Ultra 가속 리더십 축, monetization 렌즈로는 HBM·GPU·소프트웨어 스택 매출 레버리지 축, 인프라 렌즈로는 하이퍼스케일러·엔터프라이즈·주권 AI 멀티 세그먼트 축, cross-asset 렌즈로는 美 10년물 4.3% 환경 밸류 재점검 축, 시나리오 렌즈로는 11/19 Q3·Vera Rubin 양산 로드맵·FY27 CAPEX 가이던스가 리레이팅 분수령."
       },
       {
-        "time": "2026-10-20 07:20 KST",
+        "time": "2026-10-20 19:14 KST",
         "type": "모델 출시 예정",
-        "sector": "Meta AI",
-        "text": "Meta AI. 라마 4 Scout·Maverick·Behemoth 가이던스 재조정·11/5 Q3 어닝 D-16 임박·CAPEX 가이던스 상향 재점검·2026 CAPEX $75~85B 재조정 레이스·멀티모달 추론 리더십 추격·Reality Labs 적자 소화·Threads 광고 ARR 가속·오픈소스 모델 생태계 지지가 축, 라마 4 Behemoth 2조 파라미터 멀티모달 추론·엔터프라이즈 Llama for Business·AI Studio 롤아웃·Instagram·WhatsApp·Threads AI 통합 레버리지가 근거. capability 렌즈로는 Llama 4 멀티모달·추론·오픈소스 리더십 축, 인프라 렌즈로는 2026 CAPEX $75~85B 데이터센터 투자 축, monetization 렌즈로는 Threads·Instagram·WhatsApp AI 광고 매출 레버리지 축, cross-asset 렌즈로는 OpenAI·Anthropic·Google 추격 대치 오픈소스 축, 시나리오 렌즈로는 11/5 Q3 CAPEX 가이던스·Llama 5 로드맵·AI 광고 ARPU 가속이 리레이팅 분수령."
+        "sector": "Microsoft",
+        "text": "Microsoft(MSFT). 10/29 Q3 D-9 FY26 가이던스 임박·Azure CAPEX 상단 상향 재점검·Copilot ARR 재가속 서사가 축, Copilot Studio 엔터프라이즈 에이전트 롤아웃·Azure AI 파운드리 Bedrock·Vertex 대치 포지셔닝·OpenAI 투자 지분 재평가·GitHub Copilot 유료 사용자 사상 최대·Dynamics 365 AI 통합 ARR·M365 Copilot Business 패키지 수주 가속 서사가 근거. capability 렌즈로는 Copilot Studio·Azure AI 파운드리 리더십 축, monetization 렌즈로는 Copilot·Azure·GitHub ARR 매출 레버리지 축, 인프라 렌즈로는 Azure CAPEX·OpenAI 지분 수직 통합 축, cross-asset 렌즈로는 OpenAI·Anthropic 엔터프라이즈 대치 Azure 다각화 축, 시나리오 렌즈로는 10/29 Q3·Azure 성장률·Copilot ARR 지표가 플랫폼 분기점."
+      },
+      {
+        "time": "2026-10-20 19:14 KST",
+        "type": "인프라",
+        "sector": "Amazon AWS",
+        "text": "Amazon AWS(AMZN). 10/30 Q3 D-10 임박·AWS 성장률 가이던스 상단 상향 재점검이 축, Trainium 2·Inferentia 3 Anthropic 수요 가속·Bedrock Nova·Titan·Claude 멀티 벤더 플랫폼·Project Rainier Anthropic 전용 데이터센터 램프업·AWS re:Invent 12/1 D-42 로드맵·re:Invent에서 Trainium 3 공개 예정 서사·AWS 생성형 AI ARR $20B run rate 추정이 근거. capability 렌즈로는 Trainium·Bedrock·SageMaker 리더십 축, monetization 렌즈로는 AWS·Bedrock·Trainium 매출 레버리지 축, 인프라 렌즈로는 Project Rainier Anthropic 전용 데이터센터 수직 통합 축, cross-asset 렌즈로는 Azure·Google Cloud 대치 AWS 다각화 축, 시나리오 렌즈로는 10/30 Q3·AWS 성장률·re:Invent 로드맵이 플랫폼 분수령."
+      },
+      {
+        "time": "2026-10-20 19:14 KST",
+        "type": "제품",
+        "sector": "Apple",
+        "text": "Apple(AAPL). 10/30 Q3 D-10 임박·FY27 가이던스·아이폰 17·에어 매출·Apple Intelligence 수용률 재점검이 축, Siri 2.0 LLM 통합 로드맵·Apple Intelligence Private Cloud Compute 수직 통합·Vision Pro 2 공개 임박·M5 Mac·iPad 롤아웃·중국 매출 회복 서사·주주환원 자사주 매입 사이클 지속·주말 아이폰 17·에어 공급망 가이던스 상단 상향 서사가 근거. capability 렌즈로는 Apple Intelligence·Siri 2.0·Vision Pro 리더십 축, monetization 렌즈로는 아이폰·서비스·웨어러블 매출 레버리지 축, 인프라 렌즈로는 Private Cloud Compute·M5·R2 수직 통합 축, cross-asset 렌즈로는 OpenAI·Google 통합 대치 자체 모델 다각화 축, 시나리오 렌즈로는 10/30 Q3·아이폰 17 Q4 매출·Apple Intelligence 수용률이 리레이팅 카타리스트."
+      },
+      {
+        "time": "2026-10-20 19:14 KST",
+        "type": "모델 출시",
+        "sector": "Mistral AI",
+        "text": "Mistral AI(비상장). Codestral 2 코딩 모델 공개 임박·Le Chat Enterprise 롤아웃·EU 주권 AI 서사가 축, Mistral Large 3 멀티모달 추론 리더십 추격·Codestral 2 Claude·GPT 대치 코딩 벤치 리더십·EU AI Act 환경 주권 AI 플랫폼 수주·Microsoft·AWS 멀티 클라우드 파트너십·연 매출 20억달러 run rate 추정·시리즈 D 추가 20억달러 펀딩 조율·BNP·AXA 등 EU 엔터프라이즈 수주 서사가 근거. capability 렌즈로는 Codestral 2·Mistral Large 3 멀티모달·코딩 리더십 축, monetization 렌즈로는 Le Chat Enterprise·API·주권 AI 매출 레버리지 축, 인프라 렌즈로는 Nvidia·AMD·AWS·Azure 멀티 벤더 분산 축, cross-asset 렌즈로는 OpenAI·Anthropic 추격 대치 EU 주권 축, 시나리오 렌즈로는 Codestral 2 공개·시리즈 D 공식화·EU 엔터프라이즈 수주 가속이 리레이팅 카타리스트."
       }
     ]
   }
