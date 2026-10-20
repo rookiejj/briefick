@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-10-20 07:30 KST",
-    "summary": "스트라이프 1,590억달러 유지 - 2026 상장 윈도우 조율 지속\n데이터브릭스 650억달러 - 모자이크 AI 플랫폼 ARR 급성장\nAnduril Replicator 2 수주 가속 - EU 재무장 CAPEX 지지\nCanva 420억달러 - US redomicile 완료 2026 H2 IPO 후보\nPacific Fusion 핵융합 - 2027 상업 가동 로드맵 재점검",
+    "date": "2026-10-20 19:17 KST",
+    "summary": "Revolut 650억달러 - 2026 Nasdaq 상장 레이스 재점검\nPerplexity AI 180억달러 - AI 검색 ARR·엔터프라이즈 수주 가속\nSaronic 40억달러 - 美 해군 자율 USV 수주 확대\nNeuralink BCI 임상 - 뇌-컴퓨터 인터페이스 데이터 분수령\nFireblocks 90억달러 - 기관 커스터디 ARR 재점화",
     "changes": [
       {
-        "time": "2026-10-20 07:30 KST",
+        "time": "2026-10-20 19:17 KST",
         "type": "펀딩",
         "sector": "핀테크",
-        "detail": "Stripe·Chime·Plaid. Stripe 1,590억달러 밸류 유지·2026 상장 윈도우 조율 지속·Chime 2026 Nasdaq 상장 완료 후속 세컨더리 모멘텀·Plaid 밸류 재조정 라운드 서사·엔터프라이즈 결제 플랫폼 ARR 급성장·비상장 핀테크 세컨더리 유입 서사가 축, Stripe Atlas·Issuing·Capital·Terminal 통합 ARR·엔터프라이즈 가격 결정력·AI 결제 사기 탐지 레이어가 근거. monetization 렌즈로는 Stripe TPV·수수료·엔터프라이즈 결제 매출 레버리지 축, cross-asset 렌즈로는 BLK·V·MA Q3 호실적 환경 핀테크 로테이션 축, institutional flow 렌즈로는 비상장 핀테크 세컨더리 유입 축, 시나리오 렌즈로는 Stripe 상장 공식화·Chime 세컨더리·Plaid 라운드가 리레이팅 카타리스트."
+        "detail": "Revolut·Ramp·Mercury. Revolut 650억달러 밸류 유지·2026 Nasdaq 상장 레이스 재점검·슈퍼앱 플랫폼 ARR 급성장·Ramp 220억달러 B2B 지출 관리 플랫폼 ARR 가속·Mercury 50억달러 테크 스타트업 뱅킹 플랫폼 ARR 성장이 축, 글로벌 사용자 7천만 명·엔터프라이즈 가격 결정력·AI 자산관리 레이어·주말 핀테크 비상장 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Revolut 수수료·Ramp B2B 지출·Mercury 뱅킹 매출 레버리지 축, cross-asset 렌즈로는 V·MA Q3 환경 핀테크 로테이션 축, institutional flow 렌즈로는 비상장 핀테크 세컨더리 유입 축, 시나리오 렌즈로는 Revolut 상장 공식화·Ramp 라운드·Mercury 세컨더리가 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-20 07:30 KST",
+        "time": "2026-10-20 19:17 KST",
         "type": "펀딩",
         "sector": "엔터프라이즈 SW",
-        "detail": "Databricks·Canva·Fanatics. Databricks 650억달러 밸류·Mosaic AI 플랫폼 ARR 급성장·AI 데이터 플랫폼 리더십 유지·Canva 420억달러 US redomicile 완료·2026 H2 IPO 후보 재부각·Fanatics 310억달러 스포츠 커머스·베팅 플랫폼 ARR 급성장이 축, Databricks Lakehouse·Unity Catalog·엔터프라이즈 데이터 ARR·Canva 엔터프라이즈·Magic Studio AI·Fanatics 라이센싱·베팅·커머스 통합 플랫폼이 근거. monetization 렌즈로는 Databricks·Canva·Fanatics ARR 매출 레버리지 축, cross-asset 렌즈로는 비상장 SW 세컨더리 유입 축, institutional flow 렌즈로는 엔터프라이즈 SW 로테이션 유입 축, 시나리오 렌즈로는 Databricks IPO 공식화·Canva 2026 H2 IPO·Fanatics 세컨더리가 리레이팅 카타리스트."
+        "detail": "Perplexity AI·Cursor·Notion. Perplexity AI 180억달러 밸류 재점검·AI 검색 ARR 급성장·엔터프라이즈 Perplexity for Enterprise 수주 가속·Cursor 90억달러 AI 코딩 IDE 리더십·AI 개발자 플랫폼 ARR 성장·Notion 300억달러 AI 생산성 통합 플랫폼이 축, Perplexity Comet 브라우저 롤아웃·Cursor Composer·Agent 모드·Notion AI Workspace 통합·주말 비상장 SW 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Perplexity·Cursor·Notion ARR 매출 레버리지 축, cross-asset 렌즈로는 OpenAI·Anthropic 추격 대치 AI SaaS 로테이션 축, institutional flow 렌즈로는 비상장 AI SW 세컨더리 유입 축, 시나리오 렌즈로는 Perplexity 라운드·Cursor 추가 라운드·Notion IPO 레이스가 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-20 07:30 KST",
+        "time": "2026-10-20 19:17 KST",
         "type": "펀딩",
         "sector": "우주·모빌리티·방산",
-        "detail": "Anduril·Shield AI·Helsing. Anduril Replicator 2 수주 가속·Lattice·Dive-LD·Fury·Ghost 통합 솔루션·美 국방부 CCA·우크라이나·대만·EU 수주 모멘텀·Shield AI V-Bat·Nova 자율 비행 플랫폼·Helsing 1,500억달러 밸류 EU 재무장 레이더가 축, EU 재무장 CAPEX 수요·우크라이나 지원 재점화·중동 긴장 재부각·방산 비상장 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Anduril·Shield AI·Helsing ARR 매출 레버리지 축, cross-asset 렌즈로는 10/21 LMT·10/22 RTX Q3 환경 방산 로테이션 축, institutional flow 렌즈로는 비상장 방산 세컨더리 유입 축, 시나리오 렌즈로는 Anduril IPO 공식화·Replicator 2 추가 수주·Helsing EU 수주가 리레이팅 카타리스트."
+        "detail": "Saronic Technologies·Vast·Relativity Space·Figure AI. Saronic 40억달러 밸류 유지·美 해군 자율 USV 수주 확대·Spyglass·Corsair·Cutlass 통합 플랫폼·Vast Haven-1 2026 발사 로드맵·Relativity Space Terran R 2027 재사용 로켓·Figure AI 02 휴머노이드 상업 롤아웃이 축, EU 재무장 CAPEX 수요·우크라이나 지원 재점화·해양 자율 플랫폼 레이스·주말 비상장 방산·우주 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Saronic 美 국방부·Vast·Relativity ARR·Figure 라이센싱 매출 레버리지 축, cross-asset 렌즈로는 10/21 LMT·10/22 RTX Q3 환경 방산 로테이션 축, institutional flow 렌즈로는 비상장 방산·우주 세컨더리 유입 축, 시나리오 렌즈로는 Saronic 추가 수주·Vast Haven-1 발사·Figure 02 양산이 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-20 07:30 KST",
+        "time": "2026-10-20 19:17 KST",
         "type": "펀딩",
         "sector": "바이오·헬스",
-        "detail": "Pacific Fusion·Xaira Therapeutics·Formation Bio. Pacific Fusion 핵융합 밸류 재부각·국립연구소 파트너십·2027 상업 가동 로드맵·Xaira Therapeutics AI 신약 디스커버리 플랫폼 ARR 성장·Formation Bio AI 임상 가속화 플랫폼·주말 바이오·헬스 비상장 세컨더리 유입 흐름이 축, 핵융합 상업화 레이스·AI 신약 디스커버리 플랫폼·AI 임상 가속화·Phase 2·3 성공률 서사·엔터프라이즈 Pharma 파트너십이 근거. monetization 렌즈로는 Pacific Fusion·Xaira·Formation Bio ARR 매출 레버리지 축, cross-asset 렌즈로는 LLY·PFE·MRK Q3 호실적 환경 바이오 로테이션 축, institutional flow 렌즈로는 비상장 바이오 세컨더리 유입 축, 시나리오 렌즈로는 Pacific Fusion 가동률·Xaira Phase 데이터·Formation Bio 수주가 리레이팅 카타리스트."
+        "detail": "Neuralink·Insitro·Color Health. Neuralink 90억달러 밸류 재점검·뇌-컴퓨터 인터페이스 임상 데이터 분수령·텔레파시 N1·N2 임상 가속·Insitro AI 신약 디스커버리 플랫폼 ARR 성장·Color Health AI 암 조기 진단 플랫폼이 축, BCI 상업화 레이스·AI 신약 디스커버리·AI 조기 진단 플랫폼·주말 비상장 바이오 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Neuralink BCI·Insitro·Color Health ARR 매출 레버리지 축, cross-asset 렌즈로는 LLY·PFE Q3 환경 바이오 로테이션 축, institutional flow 렌즈로는 비상장 바이오 세컨더리 유입 축, 시나리오 렌즈로는 Neuralink N2 데이터·Insitro 신약 데이터·Color Health 플랫폼 수주가 리레이팅 카타리스트."
       },
       {
-        "time": "2026-10-20 07:30 KST",
+        "time": "2026-10-20 19:17 KST",
         "type": "펀딩",
         "sector": "크립토·Web3",
-        "detail": "Kraken·Fireblocks·Chainalysis. Kraken 150억달러 밸류 유지·2026 상장 공식화 레이스·Fireblocks 90억달러 기관 커스터디 플랫폼·Chainalysis 85억달러 블록체인 분석 플랫폼 ARR 급성장이 축, 크립토 IPO 레이스 유지·BTC 82,000달러 지지선 재확인·XRP ETF 승인 서사·주말 크립토 비상장 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Kraken 거래 수수료·Fireblocks 커스터디 수수료·Chainalysis ARR 매출 레버리지 축, cross-asset 렌즈로는 BTC 지지선 재확인 환경 크립토 로테이션 축, institutional flow 렌즈로는 비상장 크립토 세컨더리 유입 축, 시나리오 렌즈로는 Kraken 상장 공식화·Fireblocks 라운드·Chainalysis IPO가 리레이팅 카타리스트."
+        "detail": "Fireblocks·Chainalysis·Anchorage Digital. Fireblocks 90억달러 밸류 유지·기관 커스터디 플랫폼 ARR 재점화·Chainalysis 85억달러 블록체인 분석 플랫폼·Anchorage Digital 60억달러 수탁 플랫폼 ARR 성장이 축, 크립토 IPO 레이스 유지·BTC 82,000달러 지지선 재확인·기관 커스터디 수요 가속·XRP ETF 추가 승인 레이스·주말 크립토 비상장 세컨더리 유입 흐름이 근거. monetization 렌즈로는 Fireblocks 커스터디·Chainalysis·Anchorage ARR 매출 레버리지 축, cross-asset 렌즈로는 BTC 지지선 재확인 환경 크립토 로테이션 축, institutional flow 렌즈로는 비상장 크립토 세컨더리 유입 축, 시나리오 렌즈로는 Fireblocks 라운드·Chainalysis IPO·Anchorage Digital 상장이 리레이팅 카타리스트."
       }
     ]
   }
