@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-21",
+    "made": "2026-10-21 07:17 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 211,500원 -3% 조정 마감·10/23 Q3 D-2 가이던스 분수령 임박·HBM4 수주 가이던스 분기점·외국인 매도 피크 소화·반도체 전면 과매도 환경·FOMC 10/28 D-7 완화 기조 선반영이 upside 축, 중국 반도체 추격 서사는 downside 카운터, 어닝 모멘텀 선점 매수 유입 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "HD현대중공업",
+        "ticker": "329180",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 318,000원 -8% 급락 마감·10/22 Q3 D-1 가이던스 분수령 임박·LNG선 수주잔고 사상 최대 유지·조선 전면 과매도 환경·외국인 수급 리셋 완료·전고점 대비 15%대 조정 완료·카타르 LNG선 2차 발주 임박이 upside 축, 방산 동반 조정 전염은 downside 카운터, 어닝 모멘텀 선점 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "TSLA",
+        "ticker": "TSLA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 366.96달러 -0.3% 보합 마감·10/22 Q3 D-1 가이던스 분수령 임박·로보택시 상업화 로드맵·Cybercab 양산 가이던스·FSD v13 롤아웃·3Q 인도량 사상 최대 서사·FOMC 10/28 D-7 완화 기조 선반영이 upside 축, GM Q3 EV 구조조정 비용 재점화는 downside 카운터, 어닝 모멘텀 선점 매수 유입 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "made": "2026-10-20 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 746.08달러 +3.8% 사상 최고 마감·Meta AI 어시스턴트 10억 MAU 돌파·Llama 4 Behemoth 2T 멀티모달 리드·10월 하순 Q3 CAPEX 가이던스 임박 기대가 upside 축, forward P/E 재조정·AI CAPEX 피로는 downside 카운터, Q3 어닝 임박 모멘텀 우세",
         "result": "hit",
         "actual": 3.4
-      }
-    ]
-  },
-  {
-    "date": "2026-10-12",
-    "made": "2026-10-10 07:40 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 262,000원 -2.4% 마감·10/8 Q3 잠정 영업이익 역대 최대 공시 뉴스 소멸 매물 소화·HBM4 Q4 양산·엔비디아 5년 공급·마이크론 솔드아웃 서사 유지·외국인 반도체 매도 피로 축적이 upside 축, 美 10년물 5.3% 환경 성장주 할인율 상승·외국인 수급 변수는 downside 카운터, 호실적 소화 후 기술적 반등 우세",
-        "result": "miss",
-        "actual": -2.4
-      },
-      {
-        "label": "ORCL",
-        "ticker": "ORCL",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 139.62달러 +3.4% 재랠리 마감·10GW DC 100억달러 Nvidia 계약 재점화·OCI AI 수주 가속·엔터프라이즈 클라우드 리레이팅·FY26 가이던스 임박 기대가 upside 축, 매파 FOMC 환경 성장주 할인율 상승·forward P/E 재조정은 downside 카운터, AI 플랫폼·DC 재점화 서사 모멘텀 우세",
-        "result": "hit",
-        "actual": 4.6
-      },
-      {
-        "label": "ASML",
-        "ticker": "ASML",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,808.31달러 +2.2% 강세 마감·EUV YoY +45% 램프업·low-NA 65대·FY26 €43~45B 가이던스 상향·GM 54% 유지·2nm A20 Pro 애플 이벤트·AI 파운드리 CAPEX 서사가 upside 축, 매파 FOMC 환경 반도체 매그니스 혼조·booking 비공개 전환 가시성 저하는 downside 카운터, EUV 사이클·AI 파운드리 CAPEX 모멘텀 우세",
-        "result": "hit",
-        "actual": 0.6
       }
     ]
   }
