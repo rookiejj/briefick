@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-22",
+    "made": "2026-10-22 07:35 KST",
+    "predictions": [
+      {
+        "label": "LS일렉트릭",
+        "ticker": "010120",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 166,100원 +7% 급등 마감·AI 데이터센터 전력기기 리더십 지속·외국인 매수 집중·전력기기 섹터 로테이션 주도·AI 전력 CAPEX 사이클 서사 재점화·추가 하이퍼스케일러 수주 파이프가 upside 축, 전일 랠리 소화 리스크는 downside 카운터, 모멘텀 지속 매수 유입 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "DELL",
+        "ticker": "DELL",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 494달러 +7% 급등 마감·AI 서버 백로그 리레이팅 2일차·GB300 양산 가이던스·AMD-OpenAI 후방 수요·AI 데이터센터 CAPEX 사이클 연장·Juniper 시너지 서사가 upside 축, 전일 랠리 소화 리스크는 downside 카운터, AI 서버 리더십 모멘텀 지속 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "한화시스템",
+        "ticker": "272210",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 74,300원 +5.2% 반등 마감·전일 급락 과매도 되돌림·위성통신·전자전 수주 서사 재점화·소형위성 조립 모멘텀·NATO CAPEX 확정 대기·방산 섹터 반등 로테이션이 upside 축, LIG넥스원 -9% 분화는 downside 카운터, 방산 과매도 되돌림 지속 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "made": "2026-10-21 07:17 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 355.46달러 +0.2% 상대 지지 마감·메모리·장비 투매 속 Jalapeño ASIC 2027 볼륨·하이퍼스케일러 CAPEX 서사 지지·반도체 섹터 상대 강세가 upside 축, 반도체 섹터 로테이션 매도 지속은 downside 카운터, ASIC 리더십 상대 강세 우세",
         "result": "hit",
         "actual": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "made": "2026-10-13 07:40 KST",
-    "predictions": [
-      {
-        "label": "효성중공업",
-        "ticker": "298040",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 2,242,000원 -10.1% 급락 마감·변압기 랠리 되돌림 피로 매물 소화·수주잔고·AI DC 전력 CAPEX 서사 유지가 upside 축, 美 10년물 5.3% 환경 성장주 할인율 상승·외국인 매도 피로는 downside 카운터, 과매도 소화 후 기술적 반등 우세",
-        "result": "miss",
-        "actual": -6.9
-      },
-      {
-        "label": "JPM",
-        "ticker": "JPM",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 334.76달러 +0.5% 완만 강세 마감·10/13 화 Q3 어닝 D-Day·컨센 EPS 5.86달러 전년 5.07달러 +15% 성장 전망·美 10년물 5.3% 환경 순이자마진·채권 트레이딩 레버리지가 upside 축, Q2 역대 최대 소화·pull-forward 피로는 downside 카운터, 분기 EPS 성장·NIM 확대 서사 우세",
-        "result": "hit",
-        "actual": 0.4
-      },
-      {
-        "label": "META",
-        "ticker": "META",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 746.08달러 +3.8% 사상 최고 마감·Meta AI 어시스턴트 10억 MAU 돌파·Llama 4 Behemoth 2T 멀티모달 리드·10월 하순 Q3 CAPEX 가이던스 임박 기대가 upside 축, forward P/E 재조정·AI CAPEX 피로는 downside 카운터, Q3 어닝 임박 모멘텀 우세",
-        "result": "hit",
-        "actual": 3.4
       }
     ]
   }

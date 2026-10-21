@@ -274,6 +274,7 @@ const fixed = [
   { cat:'ipo', impact:3, title:'Anthropic IPO 로드쇼 공식 가동 예상', date:'2026-11-09', desc:'Bloomberg 보도 기반·11/9 주 투자자 미팅·밸류 1.8~2조달러·Goldman·JPMorgan·모건스탠리 공동 주관·11/26 전 Nasdaq 상장 레이스' },
   { cat:'ipo', impact:3, title:'Anthropic Nasdaq 상장 윈도우', date:'2026-11-26', desc:'추수감사절 전 상장 레이스·밸류 1.8~2조달러·조달 최대 1,000억달러·AI 메가캡 비상장 상장 마일스톤' },
   { cat:'conf', impact:3, title:'NVIDIA Q3 FY27 실적', date:'2026-11-19', desc:'NVDA Q3 가이던스·Vera Rubin 1Q26 양산 로드맵·HBM4·OpenAI 10GW·AMD 분화 서사 분수령' },
+  { cat:'macro', impact:3, title:'미국 9월 PCE 물가', date:'2026-10-30', desc:'BEA 8:30 ET·Fed 선호 인플레 지표·FOMC 10/29 익일 발표·12월 FOMC 25bp 추가 인하 경로 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
