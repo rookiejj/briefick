@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 211,500원 -3% 조정 마감·10/23 Q3 D-2 가이던스 분수령 임박·HBM4 수주 가이던스 분기점·외국인 매도 피크 소화·반도체 전면 과매도 환경·FOMC 10/28 D-7 완화 기조 선반영이 upside 축, 중국 반도체 추격 서사는 downside 카운터, 어닝 모멘텀 선점 매수 유입 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -3
       },
       {
         "label": "HD현대중공업",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 318,000원 -8% 급락 마감·10/22 Q3 D-1 가이던스 분수령 임박·LNG선 수주잔고 사상 최대 유지·조선 전면 과매도 환경·외국인 수급 리셋 완료·전고점 대비 15%대 조정 완료·카타르 LNG선 2차 발주 임박이 upside 축, 방산 동반 조정 전염은 downside 카운터, 어닝 모멘텀 선점 반등 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -8
       },
       {
         "label": "TSLA",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 366.96달러 -0.3% 보합 마감·10/22 Q3 D-1 가이던스 분수령 임박·로보택시 상업화 로드맵·Cybercab 양산 가이던스·FSD v13 롤아웃·3Q 인도량 사상 최대 서사·FOMC 10/28 D-7 완화 기조 선반영이 upside 축, GM Q3 EV 구조조정 비용 재점화는 downside 카운터, 어닝 모멘텀 선점 매수 유입 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.4
       }
     ]
   },
