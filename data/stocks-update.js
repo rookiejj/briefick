@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-10-21 07:12 KST",
-    "summary": "나스닥 숨고르기 - AI 칩 조정, FOMC 10/28 앞 밸류 재점검\nGM 76.5달러 -7.6% - Q3 EV 구조조정 비용 재점화\nMU 878달러·MRVL -3.3% - AI 칩 리더십 숨고르기\nSMR 5.22달러 -8.1% - 원전 SMR 디레이팅 지속\n테슬라 367달러 Q3 D-2 - 로보택시 가이던스 분기점",
+    "date": "2026-10-21 19:15 KST",
+    "summary": "나스닥 반등 - AI 칩 리더십 복귀, FOMC 10/28 D-7 선반영\n엔비디아 220.65달러 +1.9% - Vera Rubin Q4 양산 D-30 임박\nDELL·HPE 급등 - AI 서버 수요 재점화, GB300 양산 가이던스\n테슬라 378.87달러 Q3 D-1 - 10/22 로보택시 가이던스 분수령\nISRG 407달러 -7% - 수술로봇 Q3 미스 리세션 우려",
     "changes": [
       {
-        "time": "2026-10-21 07:12 KST",
-        "type": "자동차·모빌리티",
-        "sector": "자동차·모빌리티",
-        "detail": "GM·테슬라(TSLA)·포드(F). 월요일 10/20 종가 기준 GM 76.5달러 -7.6%·TSLA 367달러 -0.3%·포드 보합 마감이 축, GM Q3 어닝 발표 후 EV 사업 구조조정 비용 재점화·북미 Q4 가이던스 재조정·10/22 테슬라 Q3 D-2 임박·로보택시 상업화 로드맵·Cybercab 양산 가이던스·FSD v13 롤아웃 서사가 근거. monetization 렌즈로는 EV·FSD·로보택시 매출 레버리지 재점검 축, institutional flow 렌즈로는 자동차 외국인 매도 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 밸류 압박 지속 축, 시나리오 렌즈로는 10/22 테슬라 Q3·로보택시 가이던스·GM Q4 가이던스가 반등 카타리스트."
-      },
-      {
-        "time": "2026-10-21 07:12 KST",
+        "time": "2026-10-21 19:15 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "엔비디아(NVDA)·AMD·마이크론(MU)·브로드컴(AVGO)·마벨(MRVL). 월요일 10/20 종가 기준 NVDA 215달러 -0.9%·AMD 526달러 -2.1%·MU 878.5달러 -2.9%·AVGO 331달러 -0.8%·MRVL 229달러 -3.3% 동반 조정 마감이 축, AI 칩 리더십 숨고르기·Vera Rubin Q4 양산 D-30·중국 반도체 추격 서사·HBM4 수요 가이던스 재점검·AI CAPEX 피크 우려 재점화·FOMC 10/28 앞 포지션 리셋 서사가 근거. monetization 렌즈로는 HBM3E·HBM4·NIC·CPU 매출 레버리지 축, institutional flow 렌즈로는 AI 칩 리더십 포지션 재점검 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 성장주 할인율 압박 축, 시나리오 렌즈로는 Vera Rubin 양산·HBM4 수주·FOMC 25bp 인하가 리레이팅 분기점."
+        "detail": "엔비디아(NVDA)·AMD·마이크론(MU)·브로드컴(AVGO)·마벨(MRVL). NVDA 220.65달러 +1.9%·AMD 547.25달러 +2.3%·MU 914.5달러 +2.1%·AVGO 339.25달러 +1.5%·MRVL 246달러 +2.5% 동반 반등이 축, 월요일 숨고르기 후 AI 칩 리더십 복귀·Vera Rubin Q4 양산 D-30 임박·HBM4 수주 모멘텀·중국 반도체 추격 서사 완화·FOMC 10/28 D-7 25bp 인하 선반영 서사가 근거. monetization 렌즈로는 HBM3E·HBM4·NIC·CPU 매출 레버리지 축, institutional flow 렌즈로는 AI 칩 리더십 포지션 재구축 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 성장주 할인율 소화 축, 시나리오 렌즈로는 Vera Rubin 양산·HBM4 추가 수주·FOMC 25bp 인하가 리레이팅 분수령."
       },
       {
-        "time": "2026-10-21 07:12 KST",
-        "type": "원자력·SMR",
-        "sector": "원자력·SMR",
-        "detail": "뉴스케일(SMR)·오클로(OKLO)·컨스텔레이션(CEG)·센트러스(LEU). 월요일 10/20 종가 기준 SMR 5.22달러 -8.1%·OKLO 26달러 -4.4%·CEG 259달러 -1.2%·LEU 106달러 -3.7% 동반 조정 마감이 축, SMR 상업화 지연 서사 연장·UBS 매도 레이팅 유지·현금 소진 우려·장기 건설 공기 불확실성·AI 데이터센터 PPA 수주 지연·52주 저점 접근 서사가 근거. monetization 렌즈로는 SMR 상업화·전력 PPA 매출 레버리지 재점검 축, 밸류에이션 렌즈로는 forward P/E 터무니없음 수준 재조정 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 장기 CAPEX 할인율 압박 축, 시나리오 렌즈로는 하이퍼스케일러 PPA 공식화·NRC 승인 가속화가 반등 카타리스트."
-      },
-      {
-        "time": "2026-10-21 07:12 KST",
+        "time": "2026-10-21 19:15 KST",
         "type": "데이터센터",
         "sector": "데이터센터",
-        "detail": "코어위브(CRWV)·GE버노바(GEV)·델(DELL)·VRT. 월요일 10/20 종가 기준 CRWV 58.5달러 -4.2%·GEV 886달러 -2.5%·DELL 441달러 -2.8% 동반 조정 마감이 축, AI 인프라 리더십 숨고르기·CoreWeave 전환사채 3,500억달러 조달 부담 재점화·GE버노바 가스터빈 수주 선반영 되돌림·델 서버 믹스 재점검·FOMC 10/28 앞 포지션 리셋 서사가 근거. monetization 렌즈로는 GPU 임대·가스터빈·서버 매출 레버리지 축, institutional flow 렌즈로는 데이터센터 리더십 숨고르기 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 할인율 압박 축, 시나리오 렌즈로는 Oracle Vera Rubin 할당·추가 하이퍼스케일러 수주·FOMC 인하가 반등 카타리스트."
+        "detail": "델(DELL)·HPE·VRT·GE버노바(GEV)·코어위브(CRWV). DELL 488달러 +5.7%·HPE 59.1달러 +5.4%·VRT 213.4달러 +4.8%·GEV 906.66달러 +1.8%·CRWV 64.74달러 +4.2% 동반 급등이 축, AI 서버 수요 재점화·GB300 양산 가이던스·AI 데이터센터 CAPEX 사이클 연장·Oracle 추가 Vera Rubin 할당 서사·가스터빈 수주 백로그 확장 서사가 근거. monetization 렌즈로는 서버·전력·GPU 임대·가스터빈 매출 레버리지 축, institutional flow 렌즈로는 AI 인프라 리더십 유입 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 산업·유틸리티 로테이션 축, 시나리오 렌즈로는 Oracle 수주 공식화·추가 하이퍼스케일러 발주·FOMC 인하가 리레이팅 분수령."
       },
       {
-        "time": "2026-10-21 07:12 KST",
-        "type": "AI 플랫폼",
-        "sector": "AI 플랫폼",
-        "detail": "마이크로소프트(MSFT)·구글(GOOGL)·메타(META)·오라클(ORCL). 월요일 10/20 종가 기준 MSFT 535달러 +0.3%·GOOGL 342.5달러 -0.5%·META 699달러 -0.9%·ORCL 128달러 -0.7% 혼조 마감이 축, 10/29 MSFT Q3 D-8·10/29 META Q3 D-8·10/29 GOOGL Q3 D-8 3연쇄 분수령·Copilot ARR·Azure CAPEX·Gemini 3·Meta Reality Labs 가이던스 분기점·Oracle AI 수주 선반영 되돌림 서사가 근거. monetization 렌즈로는 Copilot·Azure·Google Cloud·Reality Labs 매출 레버리지 축, institutional flow 렌즈로는 메가캡 Q3 앞 포지션 재구축 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 성장주 할인율 압박 축, 시나리오 렌즈로는 10/29 MSFT·META·GOOGL Q3 가이던스가 메가캡 리레이팅 분기점."
+        "time": "2026-10-21 19:15 KST",
+        "type": "자동차·모빌리티",
+        "sector": "자동차·모빌리티",
+        "detail": "테슬라(TSLA)·GM·포드(F). TSLA 378.87달러 +1.4% 반등·GM 77.05달러 보합·F 12.13달러 보합 마감이 축, 10/22 테슬라 Q3 D-1 임박·로보택시 상업화 로드맵·Cybercab 양산 가이던스·FSD v13 롤아웃·북미 Q4 하이브리드 수요 가이던스·GM EV 사업 구조조정 서사가 근거. monetization 렌즈로는 EV·FSD·로보택시 매출 레버리지 축, institutional flow 렌즈로는 EV 리더십 포지션 재구축 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 밸류 압박 소화 축, 시나리오 렌즈로는 10/22 Q3·로보택시 가이던스·Cybercab 양산 공식화가 리레이팅 분수령."
+      },
+      {
+        "time": "2026-10-21 19:15 KST",
+        "type": "바이오·헬스케어",
+        "sector": "바이오·헬스케어",
+        "detail": "인튜이티브 서지컬(ISRG)·BMY·바이오젠(BIIB). ISRG 407.37달러 -7% 급락·BMY 61.68달러 +4.8%·BIIB 243.1달러 +4.1% 분화가 축, ISRG Q3 매출·시스템 설치 컨센 하회·수술 볼륨 둔화 우려·BMY 신약 임상 데이터 긍정·BIIB 알츠하이머 포지셔닝 재점화·헬스케어 섹터 로테이션 서사가 근거. monetization 렌즈로는 수술 로봇 설치·신약·알츠하이머 매출 레버리지 축, institutional flow 렌즈로는 헬스케어 선별 유입 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 디펜시브 수혜 축, 시나리오 렌즈로는 ISRG Q4 가이던스·BMY 임상 공식화·BIIB FDA 승인이 리레이팅 분수령."
+      },
+      {
+        "time": "2026-10-21 19:15 KST",
+        "type": "원자력·SMR",
+        "sector": "원자력·SMR",
+        "detail": "뉴스케일(SMR)·오클로(OKLO)·컨스텔레이션(CEG)·센트러스(LEU). SMR 5.63달러 +0.9%·OKLO 27.9달러 +1.5%·CEG 262.84달러 +1.5%·LEU 111.7달러 +1.7% 동반 소폭 복구가 축, 월요일 매도 과도 서사 완화·AI 데이터센터 PPA 수주 기대·NRC 승인 가속화 서사·52주 저점 지지·과매도 되돌림 서사가 근거. monetization 렌즈로는 SMR 상업화·전력 PPA 매출 레버리지 재점검 축, 밸류에이션 렌즈로는 forward P/E 재조정 소화 축, cross-asset 렌즈로는 미 10년물 4.3%대 환경 장기 CAPEX 할인율 압박 축, 시나리오 렌즈로는 하이퍼스케일러 PPA 공식화·NRC 승인 가속이 반등 분수령."
       }
     ]
   }
