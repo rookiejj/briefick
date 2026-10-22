@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 166,100원 +7% 급등 마감·AI 데이터센터 전력기기 리더십 지속·외국인 매수 집중·전력기기 섹터 로테이션 주도·AI 전력 CAPEX 사이클 서사 재점화·추가 하이퍼스케일러 수주 파이프가 upside 축, 전일 랠리 소화 리스크는 downside 카운터, 모멘텀 지속 매수 유입 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 7
       },
       {
         "label": "DELL",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 494달러 +7% 급등 마감·AI 서버 백로그 리레이팅 2일차·GB300 양산 가이던스·AMD-OpenAI 후방 수요·AI 데이터센터 CAPEX 사이클 연장·Juniper 시너지 서사가 upside 축, 전일 랠리 소화 리스크는 downside 카운터, AI 서버 리더십 모멘텀 지속 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.8
       },
       {
         "label": "한화시스템",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 74,300원 +5.2% 반등 마감·전일 급락 과매도 되돌림·위성통신·전자전 수주 서사 재점화·소형위성 조립 모멘텀·NATO CAPEX 확정 대기·방산 섹터 반등 로테이션이 upside 축, LIG넥스원 -9% 분화는 downside 카운터, 방산 과매도 되돌림 지속 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 5.2
       }
     ]
   },
