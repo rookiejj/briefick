@@ -273,6 +273,8 @@ const fixed = [
   { cat:'policy', impact:3, title:'OPEC+ 11월 생산 쿼터 회의', date:'2026-11-02', desc:'사우디 겨울 감산 유지·북반구 수요 선반영·WTI 100달러 저항 돌파 분기점' },
   { cat:'ipo', impact:3, title:'Anthropic IPO 로드쇼 공식 가동 예상', date:'2026-11-09', desc:'Bloomberg 보도 기반·11/9 주 투자자 미팅·밸류 1.8~2조달러·Goldman·JPMorgan·모건스탠리 공동 주관·11/26 전 Nasdaq 상장 레이스' },
   { cat:'ipo', impact:3, title:'Anthropic Nasdaq 상장 윈도우', date:'2026-11-26', desc:'추수감사절 전 상장 레이스·밸류 1.8~2조달러·조달 최대 1,000억달러·AI 메가캡 비상장 상장 마일스톤' },
+  { cat:'macro', impact:3, title:'미국 10월 NFP 비농업 고용', date:'2026-11-06', desc:'BLS 8:30 ET·11월 첫 금요일·10/29 FOMC 후 첫 고용 지표·12월 FOMC 경로 분기점' },
+  { cat:'macro', impact:2, title:'중국 10월 수출입·무역수지', date:'2026-11-07', desc:'해관총서 발표·국경절 소비·4분기 수출 모멘텀 체크·美中 무역 재협상 환경' },
   { cat:'conf', impact:3, title:'NVIDIA Q3 FY27 실적', date:'2026-11-19', desc:'NVDA Q3 가이던스·Vera Rubin 1Q26 양산 로드맵·HBM4·OpenAI 10GW·AMD 분화 서사 분수령' },
   { cat:'macro', impact:3, title:'미국 9월 PCE 물가', date:'2026-10-30', desc:'BEA 8:30 ET·Fed 선호 인플레 지표·FOMC 10/29 익일 발표·12월 FOMC 25bp 추가 인하 경로 분수령' },
   { cat:'macro', impact:2, title:'중국 10월 산업생산·소매판매·고정자산투자', date:'2026-11-14', desc:'NBS 발표·Q4 중국 매크로 가속 확인대·조강 CAPEX·소비 모멘텀·AI 그리드 수요 분수령' },

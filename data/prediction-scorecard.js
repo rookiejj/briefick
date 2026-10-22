@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-26",
+    "made": "2026-10-23 07:16 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 214,500원 -4% 급락 마감·10/23 Q3 가이던스 D-데이 임박 과매도 포지션 정리 완료·HBM4 수주 가이던스 공식화 기대·외국인 매도 피크 소화·FOMC 10/28 D-5 25bp 인하 완화 기조 선반영이 upside 축, CXMT LPDDR6 양산 임박 범용 메모리 공급과잉은 downside 카운터, 어닝 모멘텀 선점 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 217.35달러 -2.1% 조정 마감·Vera Rubin 가을 양산 램프업 공식화 임박·HBM4 멀티 서플라이어 샘플링·OpenAI Stargate·AMD 6GW·Anthropic 2GW 수주 파이프 유효·FOMC 10/28 25bp 인하 완화 기조 선반영이 upside 축, 반도체 장비주 투매 외풍은 downside 카운터, AI 인프라 서사 재점화 매수 유입 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성E&A",
+        "ticker": "028050",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 55,400원 +16.1% 폭등 마감·사우디 SAN-6·카타르 요소·멕시코 메탄올 EPC 파이프 선반영 완료·단기 랠리 과열·중동 발주 지연 리스크 재점화·건설 섹터 로테이션 소화 흐름이 downside 축, 추가 중동 수주 공식화 가능성은 upside 카운터, 과열 랠리 숨고르기 되돌림 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "made": "2026-10-22 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 227.72달러 -0.3% 보합 마감·시총 5조달러 상단 유지·Vera Rubin 1Q26 양산 공식화·HBM4 솔드아웃·AMD-Oracle MI450 5만개·AMD-OpenAI 6GW 멀티 벤더 체결 생태계 안착·ASML Q3 beat and raise 간접 수혜가 upside 축, 메모리·장비 섹터 투매 피로 지속은 downside 카운터, 플랫폼 디펜시브 리더십 우세",
         "result": "miss",
         "actual": -1.2
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "made": "2026-10-14 07:25 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 232,000원 -7.4% 투매 마감·메모리 쇼크 이틀째 외국인 집중 매도 피로 심화·10/29 Q3 D-15 임박 가이던스 기대·HBM4 솔드아웃 서사 지지가 upside 축, 美 메모리·장비 동반 매도(MU -4.3%·AMAT -4.6%) 디레이팅 지속은 downside 카운터, 과매도 소화 기술적 반등 우세",
-        "result": "miss",
-        "actual": -7.4
-      },
-      {
-        "label": "META",
-        "ticker": "META",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 767.64달러 +3.3% 사상 최고 마감·메모리·장비 매도 속 Meta AI·Llama 4 Behemoth 리더십 지배·AI 플랫폼 디펜시브 로테이션 유입이 upside 축, forward P/E 재조정·Q3 어닝 임박 변동성은 downside 카운터, 디펜시브 리더십 모멘텀 우세",
-        "result": "hit",
-        "actual": 0
-      },
-      {
-        "label": "AVGO",
-        "ticker": "AVGO",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 355.46달러 +0.2% 상대 지지 마감·메모리·장비 투매 속 Jalapeño ASIC 2027 볼륨·하이퍼스케일러 CAPEX 서사 지지·반도체 섹터 상대 강세가 upside 축, 반도체 섹터 로테이션 매도 지속은 downside 카운터, ASIC 리더십 상대 강세 우세",
-        "result": "hit",
-        "actual": 0
       }
     ]
   }
