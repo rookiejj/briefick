@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 214,500원 -4% 급락 마감·10/23 Q3 가이던스 D-데이 임박 과매도 포지션 정리 완료·HBM4 수주 가이던스 공식화 기대·외국인 매도 피크 소화·FOMC 10/28 D-5 25bp 인하 완화 기조 선반영이 upside 축, CXMT LPDDR6 양산 임박 범용 메모리 공급과잉은 downside 카운터, 어닝 모멘텀 선점 반등 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.5
       },
       {
         "label": "NVDA",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 217.35달러 -2.1% 조정 마감·Vera Rubin 가을 양산 램프업 공식화 임박·HBM4 멀티 서플라이어 샘플링·OpenAI Stargate·AMD 6GW·Anthropic 2GW 수주 파이프 유효·FOMC 10/28 25bp 인하 완화 기조 선반영이 upside 축, 반도체 장비주 투매 외풍은 downside 카운터, AI 인프라 서사 재점화 매수 유입 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -0.6
       },
       {
         "label": "삼성E&A",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 55,400원 +16.1% 폭등 마감·사우디 SAN-6·카타르 요소·멕시코 메탄올 EPC 파이프 선반영 완료·단기 랠리 과열·중동 발주 지연 리스크 재점화·건설 섹터 로테이션 소화 흐름이 downside 축, 추가 중동 수주 공식화 가능성은 upside 카운터, 과열 랠리 숨고르기 되돌림 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 7.9
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-10-26 기준 변경된 항목 있음
