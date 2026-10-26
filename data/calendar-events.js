@@ -278,6 +278,10 @@ const fixed = [
   { cat:'conf', impact:3, title:'NVIDIA Q3 FY27 실적', date:'2026-11-19', desc:'NVDA Q3 가이던스·Vera Rubin 1Q26 양산 로드맵·HBM4·OpenAI 10GW·AMD 분화 서사 분수령' },
   { cat:'macro', impact:3, title:'미국 9월 PCE 물가', date:'2026-10-30', desc:'BEA 8:30 ET·Fed 선호 인플레 지표·FOMC 10/29 익일 발표·12월 FOMC 25bp 추가 인하 경로 분수령' },
   { cat:'macro', impact:2, title:'중국 10월 산업생산·소매판매·고정자산투자', date:'2026-11-14', desc:'NBS 발표·Q4 중국 매크로 가속 확인대·조강 CAPEX·소비 모멘텀·AI 그리드 수요 분수령' },
+  { cat:'macro', impact:2, title:'중국 10월 제조업·비제조업 PMI', date:'2026-10-31', desc:'NBS 발표·10월 Q4 모멘텀 선행·조강 CAPEX·AI 데이터센터 전력 수요 반영' },
+  { cat:'macro', impact:2, title:'중국 10월 Caixin 제조업 PMI', date:'2026-11-02', desc:'민간 중소기업 체감지수·수출 수주·고용 지표·NBS PMI 대조 확인' },
+  { cat:'macro', impact:2, title:'영국 BOE 11월 통화정책위원회', date:'2026-11-05', desc:'Bank Rate 결정·QT 가이던스·파운드 환율·유로존 금리 경로 분기점' },
+  { cat:'macro', impact:2, title:'중국 10월 CPI·PPI', date:'2026-11-09', desc:'NBS 발표·디플레이션 지속 여부·PBOC Q4 완화 경로 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

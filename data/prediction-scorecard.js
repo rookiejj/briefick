@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-27",
+    "made": "2026-10-27 07:16 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,275,000원 보합 마감·10/29 Q3 D-2 HBM4 가이던스 공식화 임박·HBM 리더십 분리 유지·Vera Rubin·AMD MI455X 공급 확정이 upside 축, CXMT LPDDR6 양산 임박 범용 메모리 공급과잉은 downside 카운터, D-데이 전 외국인 재진입·반등 플레이 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LIG넥스원",
+        "ticker": "079550",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 429,000원 -9.8% 폭락 마감·방산 전면 투매 과매도 포지션·러·우 종전 되돌림 소화 완료·폴란드 K2 2차·NATO 2027 CAPEX 상향 전망·천궁-Ⅱ 추가 수주 모멘텀이 upside 축, 디펜시브 로테이션 수요 되돌림은 downside 카운터, 과매도 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LMT",
+        "ticker": "LMT",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 616.36달러 +2% 반등 마감·10/28 Q3 D-1 임박·NATO 2027 CAPEX 가이던스 상향 전망·F-35 수주·극초음속·미사일·방공 매출 레버리지가 upside 축, 메가 어닝 위크 포지션 재편 변동성은 downside 카운터, 디펜시브 리더십·실적 기대 반등 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "made": "2026-10-23 07:16 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -0.5
       }
     ]
-  },
-  {
-    "date": "2026-10-15",
-    "made": "2026-10-15 07:20 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,419,000원 -1.7% 매도 피로 완화·반도체 투매 사흘째 분화 지지·10/23 Q3 D-8 분수령 임박·HBM4 솔드아웃·엔비디아 Vera Rubin 할당 서사 지지·ASML Q3 beat and raise 간접 수혜가 upside 축, 중국 CXMT DDR5 서버 공식 발표 메모리 경쟁 우려는 downside 카운터, 과매도 소화 Q3 가이던스 기대 우세",
-        "result": "miss",
-        "actual": -1.7
-      },
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 591,000원 +5.5% 상승 리더십 마감·LFP ESS 북미 수주 서사 재점화·AI 데이터센터 백업전원 수요·테슬라 Q3 인도 사상 최대 모멘텀·반도체 투매 피난처 로테이션 유입이 upside 축, 밸류 급등 소화 매물·외국인 매도 피로 완화 지연은 downside 카운터, 2차전지 리더십 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": 5.5
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 227.72달러 -0.3% 보합 마감·시총 5조달러 상단 유지·Vera Rubin 1Q26 양산 공식화·HBM4 솔드아웃·AMD-Oracle MI450 5만개·AMD-OpenAI 6GW 멀티 벤더 체결 생태계 안착·ASML Q3 beat and raise 간접 수혜가 upside 축, 메모리·장비 섹터 투매 피로 지속은 downside 카운터, 플랫폼 디펜시브 리더십 우세",
-        "result": "miss",
-        "actual": -1.2
-      }
-    ]
   }
 ];
-채점 완료: 2026-10-26 기준 변경된 항목 있음
