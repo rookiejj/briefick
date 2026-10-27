@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-28",
+    "made": "2026-10-28 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 222,000원 +4.2% 랠리 가속·10/29 Q3 D-1·HBM4 Vera Rubin LTA 공식화 임박·2027 CAPEX·주주환원 가이던스가 upside 축, 신고가 소화 차익실현은 downside 카운터, D-1 외국인 추가 매수 흐름 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AVGO",
+        "ticker": "AVGO",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 339.77달러 +3.2% 급등·커스텀 ASIC 수요 지속·하이퍼스케일러 CAPEX 2027 가속 수혜·메가캡 10/29 Q3 CSP CAPEX 가이던스 모멘텀이 upside 축, 밸류에이션 forward P/E 30배 부담은 downside 카운터, 급등 모멘텀 지속 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성바이오로직스",
+        "ticker": "207940",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,374,000원 -5.4% 추가 조정·신고가 되돌림 2일 연속 과매도 포지션·10/29 Q3 D-1 CDMO 수주 백로그·2026 미주 바이오시밀러 로드맵 가이던스 임박이 반등 upside 축, 밸류에이션 forward P/E 50배 프리미엄 부담은 downside 카운터, 과매도 반등 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "made": "2026-10-27 07:16 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 909.05달러 -2.4% 조정 마감·메모리 디레이팅 사이클 지속·CXMT DDR5 서버 모듈 양산 서사·HBM4 ASP 가이던스 분수령 임박·TSMC Q3 로직 CAPEX 상향 vs 메모리 ASP 분화가 downside 축, 과매도 기술적 반등 기대는 upside 카운터, 메모리 디레이팅 사이클 연장 우세",
         "result": "hit",
         "actual": -5.6
-      }
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "made": "2026-10-16 07:22 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,262,000원 -11.1% 투매 재점화 마감·HBM4 솔드아웃 서사 유지·10/23 Q3 D-7 가이던스 분수령 임박·CXMT DDR5 경쟁 우려 선반영 소화·과매도 지표 극단치 도달이 upside 축, 메모리 디레이팅 사이클 연장 우려는 downside 카운터, 과매도 기술적 반등 기대 우세",
-        "result": "miss",
-        "actual": -11.1
-      },
-      {
-        "label": "월마트",
-        "ticker": "WMT",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 119.64달러 +3% 급등 마감·리스크오프 환경 디펜시브 소비 로테이션 유입·11/20 Q3 D-35 임박·e-커머스·광고·멤버십 ARR 모멘텀·반도체 투매 피난처 역할이 upside 축, 밸류 급등 소화 매물은 downside 카운터, 디펜시브 로테이션 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": -0.1
-      },
-      {
-        "label": "META",
-        "ticker": "META",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 729.40달러 -1.1% 조정 마감·10/29 Q3 D-13 임박 포지션 축소·AI CAPEX 가이던스 피로·반도체 투매 플랫폼 전염·Llama 4 Behemoth 수익화 지표 관망이 downside 축, AI 어시스턴트 ARR 서사·플랫폼 디펜시브 유입은 upside 카운터, Q3 앞 포지션 축소 우세",
-        "result": "hit",
-        "actual": -0.5
       }
     ]
   }
