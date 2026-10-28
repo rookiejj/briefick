@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-10-29",
+    "made": "2026-10-29 07:30 KST",
+    "predictions": [
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 534,000원 +5.1% 반등·LGES Q3 매출 9.6조·영업익 7,560억 컨센 상회 호실적 동행·2027 미주 Ultium 램프업·ESS 믹스 마진 레버리지·리튬 선물 +8% 반등이 upside 축, 급등 후 차익실현은 downside 카운터, 2차전지 체인 재점화 모멘텀 지속 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AMD",
+        "ticker": "AMD",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 560.26달러 +5.5% 재점화·MI455X 수주 레버리지 재부각·OpenAI 6GW·Anthropic 2GW LTA 모멘텀 지속·메가캡 CSP CAPEX 2027 가이던스 임박이 upside 축, 급등 후 차익실현·forward P/E 50배 밸류 부담은 downside 카운터, AI 인프라 CAPEX 사이클 레버리지 지속 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "Vertiv",
+        "ticker": "VRT",
+        "market": "US",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 240달러 +15% 폭등·Q3 어닝 서프라이즈 1일 소화 매물 유입 리스크·forward P/E 40배 리레이팅 부담·AI 데이터센터 CAPEX 사이클 피크 우려가 downside 축, 액체냉각 레버리지 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "made": "2026-10-28 07:35 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": 11.7
       }
     ]
-  },
-  {
-    "date": "2026-10-19",
-    "made": "2026-10-17 07:22 KST",
-    "predictions": [
-      {
-        "label": "한화에어로스페이스",
-        "ticker": "012450",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 888,000원 +7.8% 급반등 마감·EU 재무장 2% GDP 가이던스 수요 지지·10/27 Q3 D-10 가이던스 분수령 임박·폴란드 2차 수주 파이프라인·美 중간선거 후 방산 예산 조율 서사가 upside 축, 급등 소화 매물은 downside 카운터, 방산 리더십 복귀 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": 7.8
-      },
-      {
-        "label": "BlackRock",
-        "ticker": "BLK",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,120.78달러 +4.4% 급등 마감·Q3 AUM 15.5조달러 사상 최고·순유입 2,050억달러·iShares ETF 1,350억달러 유입·조정 EPS 15.93달러 컨센 상회·반도체 투매 완화 환경 디펜시브 금융 유입이 upside 축, 급등 소화 매물은 downside 카운터, Q3 호실적 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": 1.2
-      },
-      {
-        "label": "Micron",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 909.05달러 -2.4% 조정 마감·메모리 디레이팅 사이클 지속·CXMT DDR5 서버 모듈 양산 서사·HBM4 ASP 가이던스 분수령 임박·TSMC Q3 로직 CAPEX 상향 vs 메모리 ASP 분화가 downside 축, 과매도 기술적 반등 기대는 upside 카운터, 메모리 디레이팅 사이클 연장 우세",
-        "result": "hit",
-        "actual": -5.6
-      }
-    ]
   }
 ];
-채점 완료: 2026-10-28 기준 변경된 항목 있음
