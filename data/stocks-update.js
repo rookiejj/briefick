@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-10-28 19:10 KST",
-    "summary": "FOMC 25bp 인하 D-day 오늘 밤 - 美 10/28 오후 결정, Powell 가이던스가 11월 랠리 분기점\nLMT 623달러 -1.9% - Q3 발표 D-day 되돌림, F-35 Lot 20·FY27 매출 가이던스 소화\nAVGO 343달러 +0.2% 유지 - 커스텀 ASIC 수요 레버리지, 하이퍼스케일러 CAPEX 2027 수혜\n알파벳·META·MSFT 10/29 D-1 - Q3 CSP CAPEX 가이던스가 AI 랠리 방향 결정\nNOC 551달러 -2.5% - 방산 되돌림, 디펜시브 로테이션 수요 재확인 대기",
+    "date": "2026-10-29 07:10 KST",
+    "summary": "FOMC 25bp 인하 D-day - 한국시간 29일 새벽 3시 Powell 가이던스가 연말 랠리 분기점\nVertiv +15% 폭등 - Q3 어닝 서프라이즈, AI 데이터센터 액체냉각 CAPEX 사이클 전면 재평가\nAMD +5.5%·MU +3.6% 재점화 - OpenAI·Anthropic LTA 레버리지 지속, HBM4 2027 공식화 임박\nMSFT·GOOGL 장 마감 후 Q3 D-day - Azure·Google Cloud 성장률·CAPEX 2027 가이던스 분수령\nTSMC +2.9%·AVGO +2% 재점화 - 메가캡 어닝 위크 선반영, 커스텀 ASIC·2nm 레버리지 재부각",
     "changes": [
       {
-        "time": "2026-10-28 19:00 KST",
+        "time": "2026-10-29 07:05 KST",
         "type": "매크로",
         "sector": "매크로",
-        "detail": "FOMC 10/28 금리 결정 D-day 임박 (한국 시각 10/29 새벽 03시 공식화), 25bp 인하 컨센 선반영 상태. 미 10년물 4.3%대·DXY 108대·VIX 17대 환경에서 Powell 11월 가이던스가 리레이팅 분기점. 2026 dot plot은 연내 추가 1회 인하 vs. 매파 pause 분기점, forward P/E S&P 500 23배·earnings yield 4.3% 10년물 gap 0bp 상태. cross-asset 렌즈로는 금 4,021달러·BTC 79,000달러대 안전·위험 혼재 포지션, institutional flow 렌즈로는 메가캡 어닝 위크 집결, 시나리오 렌즈로는 FOMC 25bp 인하·Powell 가이던스·CSP CAPEX 2027 공식화가 연말 랠리 분기점."
+        "detail": "FOMC 10/28 금리 결정 D-day 임박 (한국 시각 10/29 새벽 03시 공식화), 25bp 인하 컨센 선반영 상태. 미 10년물 4.3%대·DXY 108대 환경에서 Powell 11월 가이던스가 리레이팅 분기점. 2026 dot plot은 연내 추가 1회 인하 vs. 매파 pause 분기점, forward P/E S&P 500 23배·earnings yield 4.3% 10년물 gap 0bp 상태. cross-asset 렌즈로는 금 4,021달러·BTC 안전·위험 혼재 포지션, institutional flow 렌즈로는 MSFT·GOOGL·META 메가캡 어닝 위크 집결, 시나리오 렌즈로는 FOMC 25bp 인하·Powell 가이던스·메가캡 CSP CAPEX 2027 공식화가 연말 랠리 분기점."
       },
       {
-        "time": "2026-10-28 19:00 KST",
-        "type": "AI 플랫폼",
-        "sector": "AI 플랫폼",
-        "detail": "알파벳(GOOGL)·메타(META)·마이크로소프트(MSFT). 알파벳 323.57달러 +0.9%·META 619달러 보합·MSFT 532.65달러 +0.2% 10/29 Q3 D-1 포지션. 시장은 CSP CAPEX 2027 가이던스·AI 광고 매출 레버리지·Copilot·Vertex AI·Llama 5 로드맵 집중. 알파벳 Gemini 3·Vertex AI·Google Cloud 성장률, META Llama 5·오픈웨이트 추론, MSFT Copilot ARR 수십억대 가이던스. monetization 렌즈로는 AI 광고·Copilot ARR 레버리지 축, institutional flow 렌즈로는 외국인 메가캡 어닝 전 재진입 축, 밸류에이션 렌즈로는 forward P/E 25배 프리미엄 유지 축, 시나리오 렌즈로는 Q3 CSP CAPEX 2027·AI 광고 혼합·Copilot 가이던스 공식화가 리레이팅 분수령."
+        "time": "2026-10-29 07:05 KST",
+        "type": "데이터센터",
+        "sector": "데이터센터",
+        "detail": "Vertiv(VRT)·Dell(DELL)·HPE(HPE). 10/28 종가 Vertiv 240달러 +15% 폭등·Dell 502달러 +7.5%·HPE 62.2달러 +2.2%. Vertiv Q3 어닝 서프라이즈·FY26 가이던스 대폭 상향, AI 데이터센터 액체냉각 CAPEX 사이클 전면 재평가 유입. Dell은 GB300·AMD-OpenAI 후방 AI 서버 백로그 모멘텀 유지. institutional flow 렌즈로는 AI 인프라 CAPEX 레버리지 섹터 리더 전환 축, 밸류에이션 렌즈로는 Vertiv forward P/E 40배 리레이팅 재점화 축, 시나리오 렌즈로는 메가캡 CSP CAPEX 2027 가이던스가 추가 상단 분수령."
       },
       {
-        "time": "2026-10-28 19:00 KST",
+        "time": "2026-10-29 07:05 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "엔비디아(NVDA)·브로드컴(AVGO)·AMD(AMD)·마이크론(MU). NVDA 218.13달러 보합·AVGO 343.02달러 +0.2%·AMD 563.90달러 +0.6%·MU 942달러 +1.4% 메가캡 어닝 전 숨고르기. AVGO 커스텀 ASIC 수요 지속·MU HBM 가격 상향 소화. NVDA Vera Rubin 양산 램프업·HBM4 2027 LTA 공식화 임박, SK하이닉스·삼성 10/29 Q3 공시와 동반 통과점. monetization 렌즈로는 AI 반도체 ARR·HBM4 LTA 레버리지 축, institutional flow 렌즈로는 외국인 AI 반도체 리더십 재탈환 축, 밸류에이션 렌즈로는 forward P/E 30배 프리미엄 재확인 축, 시나리오 렌즈로는 Vera Rubin 양산·HBM4 공식화·CSP CAPEX 2027이 랠리 분수령."
+        "detail": "AMD(AMD)·Micron(MU)·AVGO(AVGO)·TSMC(TSM). 10/28 종가 AMD 560달러 +5.5%·Micron 962달러 +3.6%·AVGO 349달러 +2%·TSMC 437달러 +2.9%. 한국 메모리 Q3 D-day 선반영 랠리와 동행, HBM4 2027 공식화 임박·OpenAI 6GW·Anthropic 2GW MI455X LTA 레버리지 재부각. AVGO는 커스텀 ASIC 수요 레버리지, TSMC는 2nm·CoWoS 레버리지 지속. institutional flow 렌즈로는 반도체 바스켓 재진입 축, 밸류에이션 렌즈로는 AMD forward P/E 50배·Micron 15배 메모리 사이클 리레이팅 축, cross-asset 렌즈로는 FOMC 선반영·10년물 4.3%대 환경에서 risk-on 지속 축."
       },
       {
-        "time": "2026-10-28 19:00 KST",
+        "time": "2026-10-29 07:05 KST",
+        "type": "AI 플랫폼",
+        "sector": "AI 플랫폼",
+        "detail": "MSFT(MSFT)·GOOGL(GOOGL)·META(META)·ORCL(ORCL). 10/28 장 마감 후 MSFT·GOOGL Q3 D-day·META 10/29 D-day. 종가 MSFT 531.86달러 +0.1%·GOOGL 323.67달러 +1%·META 621.67달러 +0.2%·ORCL 130.53달러 +3.5%. Azure AI·Vertex AI·Llama 5·CSP CAPEX 2027 가이던스가 메가캡 리레이팅 통과점. 오라클은 OCI AI 수주 서사 재부각으로 상대 강세. institutional flow 렌즈로는 메가캡 어닝 위크 베팅 집중 축, 밸류에이션 렌즈로는 forward P/E 32배(MSFT)·23배(GOOGL)·28배(META) 프리미엄 재검증 축, 시나리오 렌즈로는 CSP CAPEX 2027 공식화·에이전트 AI monetization 지표가 메가캡 리더십 유지 분기점."
+      },
+      {
+        "time": "2026-10-29 07:05 KST",
         "type": "방산",
         "sector": "방산",
-        "detail": "록히드마틴(LMT)·레이시온(RTX)·노스롭그루먼(NOC). LMT 622.99달러 -1.9%·RTX 194.81달러 보합·NOC 551.23달러 -2.5% 방산 되돌림. LMT 10/28 Q3 발표 소화, 시장은 F-35 Lot 20 가이던스·FY27 매출 740억대 가이던스·NATO 2027 CAPEX 2.5%대 상향 수주 레버리지 집중. 러·우 종전 재료 되돌림에도 유럽 재무장·중동 긴장 지속 수요 유지. monetization 렌즈로는 F-35·NATO CAPEX·중동 수주 레버리지 축, institutional flow 렌즈로는 디펜시브 로테이션 수요 재확인 축, 밸류에이션 렌즈로는 forward P/E 20배 프리미엄 재검증 축, 시나리오 렌즈로는 Q3 F-35 가이던스·NATO 2027 공식화·중동 수주가 리레이팅 분수령."
-      },
-      {
-        "time": "2026-10-28 19:00 KST",
-        "type": "전력·그리드",
-        "sector": "전력·그리드",
-        "detail": "비스트라(VST)·GE 버노바(GEV)·넥스트에라(NEE). VST 146.56달러 보합·GEV 900.80달러 +0.6%·NEE 82.42달러 +0.5% 전력 리더십 유지. 하이퍼스케일러 2027 CAPEX 가이던스 임박 전 Buy-the-dip 유입, AI 데이터센터 전력 수요 레버리지 재확인. monetization 렌즈로는 PPA 가격·CAPEX 2027 레버리지 축, institutional flow 렌즈로는 전력 섹터 바스켓 매수 지속 축, 시나리오 렌즈로는 10/29 알파벳·META·MSFT CSP CAPEX 2027 공식화·GEV Q3 가이던스가 리레이팅 통과점."
+        "detail": "LMT(LMT)·NOC(NOC)·RTX(RTX)·GD(GD). 10/28 종가 LMT 622.99달러 -1.9%·NOC 551.23달러 -2.5%·RTX 193.67달러 -0.4%·GD 354.89달러 -0.6%. 방산 섹터 전반 되돌림 지속, Q3 발표 소화와 러·우 종전 재료 중복으로 디펜시브 로테이션 수요 재진입 대기. B-21 양산·F-35 Lot 20·NATO 2027 CAPEX 2.5% 가이던스가 반등 분수령. institutional flow 렌즈로는 디펜시브 바스켓 차익실현 지속 축, 밸류에이션 렌즈로는 방산 forward P/E 22배 프리미엄 재검증 축, 시나리오 렌즈로는 NATO 집단방위 가이던스·Q3 가이던스·우크라 지원 재협상이 반등 트리거."
       }
     ]
   }
