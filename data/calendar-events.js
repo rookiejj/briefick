@@ -313,195 +313,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한미반도체 실적",
-    "date": "2026-10-26",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "042700"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Boeing 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "BA"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Ecolab 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ECL"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Enphase 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ENPH"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "HD현대일렉트릭 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "267260"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Hubbell 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "HUBB"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Johnson Controls 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "JCI"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "LG이노텍 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "011070"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "PayPal 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "PYPL"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Pentair 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "PNR"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "SK하이닉스 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "000660"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Teradyne 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "TER"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Visa 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "V"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Xylem 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "XYL"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "신한지주 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "055550"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한미약품 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "128940"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한화오션 실적",
-    "date": "2026-10-27",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "042660"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
@@ -664,6 +478,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "028260"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "삼성전기 실적",
+    "date": "2026-10-28",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "009150"
     ],
     "src": "auto-earnings"
   },
@@ -945,28 +770,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "삼성전기 실적",
-    "date": "2026-10-29",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "009150"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "셀트리온 실적",
-    "date": "2026-10-29",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "068270"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "아모레퍼시픽 실적",
     "date": "2026-10-29",
     "desc": "실적 발표 예정",
@@ -1093,6 +896,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "000270"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한미반도체 실적",
+    "date": "2026-10-30",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "042700"
     ],
     "src": "auto-earnings"
   },
@@ -1264,11 +1078,11 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Kratos 실적",
+    "title": "LG생활건강 실적",
     "date": "2026-11-03",
     "desc": "실적 발표 예정",
     "tickers": [
-      "KTOS"
+      "051900"
     ],
     "src": "auto-earnings"
   },
@@ -1506,17 +1320,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Archer Aviation 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ACHR"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "BlackSky 실적",
     "date": "2026-11-05",
     "desc": "실적 발표 예정",
@@ -1561,17 +1364,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "D-Wave 실적",
-    "date": "2026-11-05",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "QBTS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "EOG Resources 실적",
     "date": "2026-11-05",
     "desc": "실적 발표 예정",
@@ -1610,6 +1402,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "IONQ"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Kratos 실적",
+    "date": "2026-11-05",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "KTOS"
     ],
     "src": "auto-earnings"
   },
@@ -1792,17 +1595,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "대우건설 실적",
-    "date": "2026-11-06",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "047040"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "롯데쇼핑 실적",
     "date": "2026-11-06",
     "desc": "실적 발표 예정",
@@ -1819,6 +1611,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "035720"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Archer Aviation 실적",
+    "date": "2026-11-09",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "ACHR"
     ],
     "src": "auto-earnings"
   },
@@ -1880,22 +1683,33 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Intuitive Machines 실적",
+    "title": "CoreWeave 실적",
     "date": "2026-11-10",
     "desc": "실적 발표 예정",
     "tickers": [
-      "LUNR"
+      "CRWV"
     ],
     "src": "auto-earnings"
   },
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "LG생활건강 실적",
+    "title": "D-Wave 실적",
     "date": "2026-11-10",
     "desc": "실적 발표 예정",
     "tickers": [
-      "051900"
+      "QBTS"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Intuitive Machines 실적",
+    "date": "2026-11-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "LUNR"
     ],
     "src": "auto-earnings"
   },
@@ -1940,17 +1754,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "259960"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "CoreWeave 실적",
-    "date": "2026-11-11",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CRWV"
     ],
     "src": "auto-earnings"
   },
@@ -2160,6 +1963,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "AVGO"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Costco 실적",
+    "date": "2026-12-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "COST"
     ],
     "src": "auto-earnings"
   }
