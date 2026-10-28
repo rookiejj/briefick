@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 222,000원 +4.2% 랠리 가속·10/29 Q3 D-1·HBM4 Vera Rubin LTA 공식화 임박·2027 CAPEX·주주환원 가이던스가 upside 축, 신고가 소화 차익실현은 downside 카운터, D-1 외국인 추가 매수 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 4.2
       },
       {
         "label": "AVGO",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 339.77달러 +3.2% 급등·커스텀 ASIC 수요 지속·하이퍼스케일러 CAPEX 2027 가속 수혜·메가캡 10/29 Q3 CSP CAPEX 가이던스 모멘텀이 upside 축, 밸류에이션 forward P/E 30배 부담은 downside 카운터, 급등 모멘텀 지속 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.2
       },
       {
         "label": "삼성바이오로직스",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,374,000원 -5.4% 추가 조정·신고가 되돌림 2일 연속 과매도 포지션·10/29 Q3 D-1 CDMO 수주 백로그·2026 미주 바이오시밀러 로드맵 가이던스 임박이 반등 upside 축, 밸류에이션 forward P/E 50배 프리미엄 부담은 downside 카운터, 과매도 반등 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -5.4
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-10-28 기준 변경된 항목 있음
