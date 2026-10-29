@@ -1,37 +1,37 @@
 const UPDATES = [
   {
-    "date": "2026-10-29 19:20 KST",
-    "summary": "알파벳 Gemini 3 - 10/28 장 마감 후 Q3 D-day, Vertex AI 성장률 통과점\n메타 Llama 5 - 10/29 D-day, 오픈웨이트 추론 리더십 재탈환 분수령\n앤트로픽 2조달러 - pre-IPO 시장 암묵, S-1 공식 전환 임박\n오픈AI Sora 2 - ARR 50억 궤도, GPT-5 로드맵 공식화 임박\n엔비디아 Vera Rubin - HBM4 LTA 공식화 임박, AI 인프라 리더십 유지",
+    "date": "2026-10-30 07:20 KST",
+    "summary": "알파벳 Q3 공식 - 2027 CAPEX 하이퍼램프 공식화, Gemini 3 Ultra 10/30 글로벌 롤아웃\n메타 Q3 매출 646억 - +26% 성장·Q4 가이던스 상향, Llama 5 벤치 공식화\n마이크로소프트 Azure +45% - Q1 FY27 가이던스 공식 통과, CAPEX 500억 돌파\n오픈AI Sora 2 - GPT-5 로드맵 공식화 임박, Azure 공급 레버리지 유지\n엔비디아 11/19 Q3 D-day - Vera Rubin 양산·HBM4 LTA 공식화 분수령",
     "entries": [
       {
-        "time": "2026-10-29 19:15 KST",
-        "type": "모델 출시 예정",
+        "time": "2026-10-30 07:20 KST",
+        "type": "모델 출시",
         "sector": "Google DeepMind",
-        "text": "알파벳 Gemini 3 10/28 장 마감 후 Q3 D-day 공시 포지션. Vertex AI·Google Cloud 성장률·AI 광고 매출 비중 가이던스 집중, Gemini 3 멀티모달·에이전트 벤치 리더십·TPU v6 하이퍼스케일러 공급 레버리지가 리레이팅 분기점. 알파벳 10/28 종가 324.89달러 +1.3%, 메가캡 어닝 위크 베팅 집중. monetization 렌즈로는 Vertex AI ARR·Google Cloud 성장률 축, cross-asset 렌즈로는 하이퍼스케일러 CSP CAPEX 2027 공식화 축, 시나리오 렌즈로는 Q3 Vertex AI·Gemini 3·TPU v6 공식화가 AI 플랫폼 분수령."
+        "text": "알파벳 Gemini 3.0 Ultra 10/30 글로벌 롤아웃 공식화 임박, 멀티모달 추론·에이전트 벤치 리더십 재탈환이 핵심. Q3 매출 컨센 상회에도 2026 CAPEX 2,000억달러대·2027 significant increase 공식화로 TPU v6 Trillium 수직 통합·Vertex AI 성장 가속 서사. monetization 렌즈로는 Vertex AI ARR·Google Cloud 성장률 축, cross-asset 렌즈로는 하이퍼스케일러 CSP CAPEX 2027 공식화 축, 시나리오 렌즈로는 Gemini 3 Ultra 롤아웃·에이전트 벤치 리더십·Workspace 통합이 AI 플랫폼 분수령."
       },
       {
-        "time": "2026-10-29 19:15 KST",
-        "type": "모델 출시 예정",
+        "time": "2026-10-30 07:20 KST",
+        "type": "모델 출시",
         "sector": "Meta AI",
-        "text": "메타 Llama 5 10/29 Q3 D-day 공시 포지션. 오픈웨이트 추론 리더십 재탈환이 핵심, GPQA·MATH·HumanEval 벤치 상위권 복귀 기대. CAPEX 2027 1,000억달러대 가이던스·AI 광고 매출 레버리지가 리레이팅 분기점. 메타 10/28 종가 612.49달러 -1.2%, 메가캡 어닝 위크 선반영 소화. monetization 렌즈로는 오픈웨이트 B2B·AI 광고 레버리지 축, cross-asset 렌즈로는 CSP CAPEX 2027 공식화 축, 시나리오 렌즈로는 Q3 CAPEX·Llama 5 벤치·오픈웨이트 로드맵이 리더십 분수령."
+        "text": "메타 Q3 매출 646억달러 +26% 컨센 상회 공식 공시, Q4 가이던스 730~760억달러 상향 공식화, 2026 CAPEX 1,350~1,450억달러 좁힘. Llama 5 벤치 공식화 임박, 오픈웨이트 추론 리더십 재탈환이 핵심. GPQA·MATH·HumanEval 상위권 복귀 기대, AI 광고 매출 레버리지가 리레이팅 분기점. monetization 렌즈로는 오픈웨이트 B2B·AI 광고 ARR 축, cross-asset 렌즈로는 CSP CAPEX 2027 공식화 축, 시나리오 렌즈로는 Llama 5 벤치·CAPEX 2027·오픈웨이트 로드맵이 리더십 분수령."
       },
       {
-        "time": "2026-10-29 19:15 KST",
-        "type": "펀딩",
-        "sector": "Anthropic",
-        "text": "앤트로픽 Claude Mythos·Opus 4.8 상업화 가속 지속. SWE-bench·Terminal Bench·OSWorld 상위권 유지, Claude Code SDK 2.0 B2B 수주 70% 가속 흐름. 기업가치 9,650억달러 private·pre-IPO 시장(Hyperliquid 선물) 암묵 밸류 2조달러 초과 유지, 연 매출 65억달러 ARR 궤도. OpenAI 대비 B2B 침투율 리더십 재확인, 6/1 SEC confidential 제출 S-1 공식 전환이 상장 분수령. monetization 렌즈로는 Claude Code SDK·B2B API ARR 축, cross-asset 렌즈로는 AI 모델 commoditization 저항 축, 시나리오 렌즈로는 Mythos 벤치·B2B 수주·IPO 로드맵이 리더십 분수령."
+        "time": "2026-10-30 07:20 KST",
+        "type": "인프라",
+        "sector": "Microsoft",
+        "text": "마이크로소프트 Q1 FY27 Azure +45% 가이던스 공식 통과, CAPEX Q1 500억달러 돌파 공식화. Azure AI·Copilot ARR 리레이팅 축, 2027 CAPEX 추가 상향 가능성 유지. OpenAI·Anthropic·xAI 멀티 모델 공급 레버리지 유지, Azure Cobalt v2·Maia v2 커스텀 ASIC 양산 로드맵 공식. monetization 렌즈로는 Azure AI·Copilot ARR 축, cross-asset 렌즈로는 하이퍼스케일러 CSP CAPEX 2027 가속 축, 시나리오 렌즈로는 Azure 성장률·CAPEX 2027·Copilot 상업화가 리더십 분수령."
       },
       {
-        "time": "2026-10-29 19:15 KST",
+        "time": "2026-10-30 07:20 KST",
         "type": "제품 출시",
         "sector": "OpenAI",
-        "text": "오픈AI Sora 2 비디오 생성 ARR 50억달러대 상업화 가속 지속. B2B·크리에이터 채널 확장, 광고·엔터프라이즈 상업화 수주 확대 흐름. ChatGPT MAU 10억대·GPT-5 로드맵·B2B API ARR 레버리지 지속, 기업가치 5,000억달러 유지. 2026 S-1 공식 전환은 2027로 지연 보도 상태. monetization 렌즈로는 Sora 2·GPT-5·B2B API ARR 축, cross-asset 렌즈로는 CSP CAPEX·Azure 공급 레버리지 축, 시나리오 렌즈로는 Sora 2 상업화·GPT-5 로드맵·IPO 재점화 가능성이 리더십 분수령."
+        "text": "오픈AI Sora 2 비디오 생성 ARR 50억달러대 상업화 가속 지속, GPT-5 로드맵 공식화 임박. ChatGPT MAU 10억대·B2B API ARR 레버리지 지속, Azure Q1 CAPEX 500억 공식 공급 수혜 유지. 기업가치 5,000억달러 유지, 2027 IPO 재점화 가능성. monetization 렌즈로는 Sora 2·GPT-5·B2B API ARR 축, cross-asset 렌즈로는 Azure 공급 레버리지 축, 시나리오 렌즈로는 Sora 2 상업화·GPT-5 로드맵·IPO 재점화 가능성이 리더십 분수령."
       },
       {
-        "time": "2026-10-29 19:15 KST",
+        "time": "2026-10-30 07:20 KST",
         "type": "인프라",
         "sector": "NVIDIA",
-        "text": "엔비디아 Vera Rubin 가을 양산 램프업 가속. HBM4 2027 LTA SK하이닉스·삼성·마이크론 멀티 서플라이어 공식화 임박, 10/29 한국 메모리 Q3 공시 동반 통과점. 10/28 종가 215.38달러 -1.2%, MI455X 경쟁에도 Vera Rubin·NVLink 72·CUDA 생태계 lock-in 리더십 유지. 전일 삼성전자 +9%·SK하이닉스 +10.9% 랠리가 HBM4 공급 공식화 베팅으로 소화. monetization 렌즈로는 Vera Rubin·HBM4 CAPEX 레버리지 축, cross-asset 렌즈로는 CSP CAPEX 2027 공식화 축, 시나리오 렌즈로는 Vera Rubin 양산·HBM4 LTA·MI455X 경쟁이 AI 인프라 리더십 분수령."
+        "text": "엔비디아 11/19 Q3 FY27 D-day 공식 포지션. 212.90달러 종가 -1.2%, 메가캡 어닝 위크 소화 흐름. Vera Rubin 가을 양산 램프업 가속, HBM4 2027 LTA SK하이닉스·삼성·마이크론 멀티 서플라이어 공식화 임박. OpenAI 10GW·AMD MI455X 경쟁에도 Vera Rubin·NVLink 72·CUDA 생태계 lock-in 리더십 유지. monetization 렌즈로는 Vera Rubin·HBM4 CAPEX 레버리지 축, cross-asset 렌즈로는 메가캡 CSP CAPEX 2027 공식화 축, 시나리오 렌즈로는 Q3 FY27 가이던스·Vera Rubin 양산·HBM4 LTA가 AI 인프라 리더십 분수령."
       }
     ]
   }
