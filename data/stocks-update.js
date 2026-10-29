@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-10-29 19:15 KST",
-    "summary": "버티브 +16.5% 폭등 - Q3 서프라이즈, AI 액체냉각 CAPEX 재평가\n오라클 +10.7% 재점화 - OCI AI 수주 서사, 메가캡 어닝 통과점\nAMD +3.2%·MU +5.9% - OpenAI·Anthropic LTA 레버리지 지속\nF5 -20.4% 급락 - Q3 가이던스 하향, 네트워킹 섹터 되돌림\n엔페이즈 -16% - Q3 컨센 하회, 태양광 섹터 바스켓 차익실현",
+    "date": "2026-10-30 07:15 KST",
+    "summary": "알파벳 -13.3% 급락 - Q3 컨센 상회에도 2027 CAPEX 하이퍼램프 마진 압박 공포\n헌팅턴 잉갈스 +14.9% 폭등 - Q3 EPS 컨센 상회·조선 가이던스 상향\n일라이 릴리 +8.8% 재점화 - Q3 GLP-1 매출 컨센 상회, 비만 리더십 재검증\n서비스나우 -24.3% 폭락 - Q3 구독 가이던스 하향, 엔터프라이즈 SW 바스켓 투매\n포티넷 -24.2% 폭락 - Q3 수주 둔화 공식, 사이버보안 바스켓 디레이팅 트리거",
     "changes": [
       {
-        "time": "2026-10-29 19:10 KST",
-        "type": "데이터센터",
-        "sector": "데이터센터",
-        "detail": "Vertiv(VRT)·Dell(DELL)·HPE(HPE)·Equinix(EQIX). 10/28 종가 Vertiv 242.94달러 +16.5% 폭등·Dell 493.79달러·HPE 60.33달러·Equinix 1,007달러 +0.8%. Vertiv Q3 어닝 서프라이즈·FY26 가이던스 대폭 상향 후 AI 데이터센터 액체냉각 CAPEX 사이클 전면 재평가 유입 지속. GB300·AMD-OpenAI 후방 AI 서버 백로그 모멘텀, Modine Manufacturing 143.54달러 +5.1% 동반 강세. institutional flow 렌즈로는 AI 인프라 CAPEX 레버리지 섹터 리더 전환 축, 밸류에이션 렌즈로는 Vertiv forward P/E 40배 리레이팅 축, 시나리오 렌즈로는 메가캡 CSP CAPEX 2027 가이던스가 추가 상단 분수령."
-      },
-      {
-        "time": "2026-10-29 19:10 KST",
+        "time": "2026-10-30 07:10 KST",
         "type": "AI 플랫폼",
         "sector": "AI 플랫폼",
-        "detail": "Oracle(ORCL)·MSFT(MSFT)·GOOGL(GOOGL)·META(META). 10/28 종가 Oracle 144.54달러 +10.7% 폭등·MSFT 531.01달러 보합·GOOGL 324.89달러 +1.3%·META 612.49달러 -1.2%. 오라클 OCI AI 수주 서사 재부각, SoftBank Stargate 공급 공식화·OCI 멀티 클라우드 수주 모멘텀 복합. 10/29 장 마감 후 MSFT·GOOGL Q3·META 10/29 D-day 집중. institutional flow 렌즈로는 메가캡 어닝 위크 베팅 집중 축, 밸류에이션 렌즈로는 forward P/E 32배(MSFT)·23배(GOOGL)·28배(META) 프리미엄 재검증 축, 시나리오 렌즈로는 CSP CAPEX 2027 공식화·에이전트 AI monetization이 메가캡 리더십 분수령."
+        "detail": "Alphabet(GOOGL)·Meta(META)·Microsoft(MSFT). 10/29 종가 Alphabet 281.61달러 -13.3% 급락·Meta 619.59달러 +1.2%·Microsoft 532.43달러 +0.3%. Alphabet Q3 매출 컨센 상회에도 2026 CAPEX 가이던스 2,000억달러대·2027 significant increase 공식화로 마진 압박 공포 유입, 메가캡 리더 디레이팅 트리거. Meta는 Q3 매출 646억달러 +26% 컨센 상회·Q4 가이던스 730~760억달러 상향으로 상대 안정, 2026 CAPEX 1,350~1,450억달러 좁힘. MSFT는 Q1 FY27 Azure +45% 가이던스·Q1 CAPEX 500억달러 돌파 공식 통과. institutional flow 렌즈로는 메가캡 CAPEX 하이퍼램프 마진 재검증 축, 밸류에이션 렌즈로는 Alphabet forward P/E 23배 디레이팅·MSFT·Meta 프리미엄 유지 축, 시나리오 렌즈로는 11/19 NVDA Q3·2027 CAPEX 공식화가 메가캡 리더십 분수령."
       },
       {
-        "time": "2026-10-29 19:10 KST",
-        "type": "반도체",
-        "sector": "반도체",
-        "detail": "AMD(AMD)·Micron(MU)·AVGO(AVGO)·TSMC(TSM)·AMAT(AMAT). 10/28 종가 AMD 578.44달러 +3.2%·Micron 983.23달러 +5.9%·AVGO 351.81달러 +2.8%·TSMC 439.51달러 +0.6%·AMAT 416달러 +5.1%. 한국 메모리 Q3 D-day 선반영 랠리와 동행, HBM4 2027 공식화 임박·OpenAI 6GW·Anthropic 2GW MI455X LTA 레버리지 재부각. AMAT Q3 가이던스 상향·커스텀 ASIC 수요·2nm·CoWoS 레버리지 복합. institutional flow 렌즈로는 반도체 바스켓 재진입 축, 밸류에이션 렌즈로는 AMD forward P/E 50배·Micron 15배 메모리 사이클 리레이팅 축, cross-asset 렌즈로는 FOMC 25bp 인하 결정·risk-on 환경 유지 축."
+        "time": "2026-10-30 07:10 KST",
+        "type": "방산",
+        "sector": "방산",
+        "detail": "Huntington Ingalls(HII)·Lockheed Martin(LMT)·Northrop Grumman(NOC)·General Dynamics(GD). 10/29 종가 HII 320.87달러 +14.9% 폭등·LMT 642.49달러 +2%·NOC 565.89달러 +2.4%·GD 362.62달러 +2.3%. HII Q3 EPS 5.48달러 컨센 4.49달러 상회·매출 35억달러 +10.8% YoY·FCF 4.29억달러(전년 1,600만달러)·신규 수주 320억달러·FY26 조선 매출 가이던스 105~107억달러로 상향 공식화, 미 해군 항모·잠수함 사이클 리더십 재검증. 메가캡 방산 바스켓 Q3 호실적 동반 유입, Textron 85.59달러 +9.3% 추가 서프라이즈. institutional flow 렌즈로는 방산 바스켓 디펜시브 로테이션 재점화 축, 밸류에이션 렌즈로는 HII forward P/E 23배 리레이팅 축, 시나리오 렌즈로는 미 해군 함정 수주·Golden Dome·NATO 2027 CAPEX가 리더십 분수령."
       },
       {
-        "time": "2026-10-29 19:10 KST",
+        "time": "2026-10-30 07:10 KST",
+        "type": "바이오",
+        "sector": "바이오·헬스케어",
+        "detail": "Eli Lilly(LLY)·Merck(MRK)·AbbVie(ABBV)·Amgen(AMGN). 10/29 종가 LLY 1,403달러 +8.8% 급등·MRK 148.38달러 +5.2%·ABBV 292.13달러 +2%·AMGN 467.05달러 +3.4%. Lilly Q3 매출 225억달러대·Mounjaro 100억달러·Zepbound 50억달러대 컨센 상회·Foundayo 경구 GLP-1 첫 분기 매출 램프업 공식화, FY26 EPS 가이던스 35.5~37달러 상단 유지. Merck는 Keytruda IRA 가격 재협상 완충·종양 파이프 백업으로 Q3 서프라이즈. 바이오 바스켓 로테이션 유입 복합. monetization 렌즈로는 GLP-1·종양·면역 ARR 축, 밸류에이션 렌즈로는 LLY forward P/E 42배 프리미엄 재확인 축, 시나리오 렌즈로는 Foundayo 처방 램프·Zepbound 성장·IRA 재협상 공식화가 리더십 분수령."
+      },
+      {
+        "time": "2026-10-30 07:10 KST",
         "type": "사이버보안",
         "sector": "사이버보안",
-        "detail": "F5(FFIV)·Fortinet(FTNT)·Palo Alto(PANW)·Zscaler(ZS). 10/28 종가 F5 365.53달러 -20.4% 급락·Fortinet 174.08달러 -5.9%·Palo Alto 394.49달러 -1.8%·Zscaler 255.80달러 -1.7%. F5 Q3 가이던스 하향·네트워킹 사이클 둔화 공식화, 섹터 바스켓 차익실현 트리거. Fortinet도 수주 둔화 서사로 동반 되돌림, Palo Alto·Zscaler는 SASE·Zero Trust 레버리지 유지에도 밸류 재검증. institutional flow 렌즈로는 사이버보안 바스켓 차익실현 축, 밸류에이션 렌즈로는 F5 forward P/E 15배 디레이팅 축, 시나리오 렌즈로는 메가캡 CAPEX 2027 공식화·엔터프라이즈 보안 수주가 반등 분수령."
+        "detail": "Fortinet(FTNT)·CrowdStrike(CRWD)·Palo Alto(PANW)·Zscaler(ZS). 10/29 종가 Fortinet 131.94달러 -24.2% 폭락·CrowdStrike 255.30달러 -4.3%·Palo Alto 375.54달러 -4.8%·Zscaler 243.14달러 -4.9%. Fortinet Q3 수주 둔화·2027 가이던스 하향 공식화, 사이버보안 바스켓 디레이팅 트리거 복합. CRWD·PANW·ZS 동반 되돌림, SASE·Zero Trust 중기 서사 유지에도 밸류 재검증. institutional flow 렌즈로는 사이버보안 바스켓 투매 축, 밸류에이션 렌즈로는 FTNT forward P/E 20배 디레이팅 축, 시나리오 렌즈로는 메가캡 CAPEX 2027 공식화·엔터프라이즈 보안 수주가 반등 분수령."
       },
       {
-        "time": "2026-10-29 19:10 KST",
-        "type": "친환경",
-        "sector": "친환경·청정기술",
-        "detail": "Enphase(ENPH)·First Solar(FSLR)·Bloom Energy(BE)·Lennox(LII). 10/28 종가 Enphase 24.99달러 -16% 급락·First Solar 176.30달러 +0.3%·Bloom Energy 228.08달러 +4.4%·Lennox 332.64달러 -10.6%. Enphase Q3 컨센 하회·2026 가이던스 하향, 태양광 섹터 바스켓 차익실현 트리거. Lennox도 Q3 가이던스 하향으로 공조·HVAC 섹터 되돌림. Bloom Energy는 데이터센터 전력 수주 서사로 상대 강세 유지. institutional flow 렌즈로는 친환경 바스켓 차익실현 축, 밸류에이션 렌즈로는 Enphase forward P/E 디레이팅 축, 시나리오 렌즈로는 ITC 가이던스·AI 데이터센터 전력 수주·태양광 수요 재점화가 반등 분수령."
+        "time": "2026-10-30 07:10 KST",
+        "type": "AI 플랫폼",
+        "sector": "AI 플랫폼",
+        "detail": "ServiceNow(NOW)·Salesforce(CRM)·Snowflake(SNOW)·Workday(WDAY). 10/29 종가 ServiceNow 113.45달러 -24.3% 폭락·Salesforce 227.31달러 -6.2%·Snowflake 328.25달러 -3.4%·Workday 194.49달러 -4.8%. ServiceNow Q3 구독 가이던스 하향·엔터프라이즈 SW 사이클 둔화 공식화, 바스켓 투매 트리거. Salesforce는 Agentforce 모멘텀에도 되돌림 유입, Snowflake·Workday 동반 디레이팅. institutional flow 렌즈로는 엔터프라이즈 SW 바스켓 재진입 축, 밸류에이션 렌즈로는 NOW forward P/E 디레이팅·CRM 재검증 축, 시나리오 렌즈로는 Q4 가이던스·Agentforce ARR·에이전트 AI 상업화가 반등 분수령."
       }
     ]
   }
