@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-02",
+    "made": "2026-10-30 07:30 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 232,000원 -4.1% 조정·Q3 영업익 107.4조 공식 확정 후 선반영 매도 소진·HBM4 Vera Rubin LTA 공식화 임박·외국인 반도체 재진입 서사·FOMC 25bp 인하 소화 완료가 upside 축, 전일 랠리 피로·메가캡 CAPEX 2027 공포 전이는 downside 카운터, 급락 뒤 반등 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LG에너지솔루션",
+        "ticker": "373220",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 356,000원 -8.6% 급락·Q3 매출 9.6조·영업익 7,560억 호실적 재해석 유입·2027 미주 Ultium 램프업·AMPC 레버리지·리튬 선물 +8.3% 반등 동행·오버솔드 반등 서사가 upside 축, 2차전지 바스켓 되돌림 지속은 downside 카운터, 급락 뒤 저가매수 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "HII",
+        "ticker": "HII",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 320.87달러 +14.9% 폭등·Q3 EPS 5.48달러 컨센 상회·신규 수주 320억달러·FY26 조선 가이던스 상향 공식화·미 해군 항모·잠수함 사이클 리더십 재검증·방산 디펜시브 로테이션 재점화가 upside 축, 급등 후 차익실현 피로는 downside 카운터, 어닝 서프라이즈 모멘텀 연장 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "made": "2026-10-29 07:30 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": 1.4
       }
     ]
-  },
-  {
-    "date": "2026-10-20",
-    "made": "2026-10-20 07:35 KST",
-    "predictions": [
-      {
-        "label": "삼성바이오로직스",
-        "ticker": "207940",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,427,000원 +9.9% 폭등 마감·10/22 Q3 D-2 가이던스 분수령 임박·CDMO 파이프 재평가·바이오시밀러 서사 재점화·셀트리온 5조 매출 목표 환경·외국인 바이오 리더십 복귀 유입이 upside 축, 급등 소화 매물은 downside 카운터, 어닝 D-2 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": 9.9
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 913달러 +4% 급반등 마감·HBM4 ASP·DRAM 가이던스 재점화·반도체 섹터 전면 반등 로테이션 유입·TSMC Q3 호실적 FY26 상단 상향 환경·메모리 사이클 되돌림 서사가 upside 축, 10년물 4.3% 밸류 압박은 downside 카운터, 반도체 리더십 복귀 모멘텀 우세",
-        "result": "hit",
-        "actual": 0
-      },
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 592,000원 +11.7% 폭등 마감·2차전지 양극재 트리오 동반 랠리·급등 후 피로 소화 압박·단기 과열 신호·차익 실현 매물 유입 가능이 downside 축, LFP ESS 북미 수주 서사는 upside 카운터, 급등 후 되돌림 우세",
-        "result": "miss",
-        "actual": 11.7
-      }
-    ]
   }
 ];
-채점 완료: 2026-10-29 기준 변경된 항목 있음
