@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 534,000원 +5.1% 반등·LGES Q3 매출 9.6조·영업익 7,560억 컨센 상회 호실적 동행·2027 미주 Ultium 램프업·ESS 믹스 마진 레버리지·리튬 선물 +8% 반등이 upside 축, 급등 후 차익실현은 downside 카운터, 2차전지 체인 재점화 모멘텀 지속 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.6
       },
       {
         "label": "AMD",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 560.26달러 +5.5% 재점화·MI455X 수주 레버리지 재부각·OpenAI 6GW·Anthropic 2GW LTA 모멘텀 지속·메가캡 CSP CAPEX 2027 가이던스 임박이 upside 축, 급등 후 차익실현·forward P/E 50배 밸류 부담은 downside 카운터, AI 인프라 CAPEX 사이클 레버리지 지속 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.2
       },
       {
         "label": "Vertiv",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "직전 거래일 종가 240달러 +15% 폭등·Q3 어닝 서프라이즈 1일 소화 매물 유입 리스크·forward P/E 40배 리레이팅 부담·AI 데이터센터 CAPEX 사이클 피크 우려가 downside 축, 액체냉각 레버리지 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 16.5
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-10-29 기준 변경된 항목 있음
