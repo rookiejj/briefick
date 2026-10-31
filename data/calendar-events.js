@@ -270,7 +270,7 @@ const fixed = [
   { cat:'macro', impact:3, title:'10월 FOMC 결과', date:'2026-10-29', desc:'KST 오전 3시·기준금리 결정 (10월은 점도표·SEP 없음)·연말 금리 경로 분수령' },
   { cat:'product', impact:3, title:'Google Gemini 3.0 Ultra 공개 예상', date:'2026-10-30', desc:'10월 말 글로벌 롤아웃 공식화·멀티모달 추론·에이전트·코딩 리더십 재점화·TPU v6 Trillium 수직 통합·Workspace·Vertex AI 통합 분수령' },
   { cat:'conf', impact:2, title:'OpenAI DevDay Exchange London', date:'2026-11-03', desc:'OpenAI 글로벌 투어 6번째 도시·영국 엔터프라이즈 생태계·DeepMind 대치 서사' },
-  { cat:'policy', impact:3, title:'OPEC+ 11월 생산 쿼터 회의', date:'2026-11-02', desc:'사우디 겨울 감산 유지·북반구 수요 선반영·WTI 100달러 저항 돌파 분기점' },
+  { cat:'policy', impact:3, title:'OPEC+ 11월 생산 쿼터 회의', date:'2026-11-01', desc:'7개국 가상 회의·11월 쿼터 하루 3,101만 배럴 동결 2연속 유지 테스트·WTI 100달러 저항 돌파 분기점' },
   { cat:'ipo', impact:3, title:'Anthropic IPO 로드쇼 공식 가동 예상', date:'2026-11-09', desc:'Bloomberg 보도 기반·11/9 주 투자자 미팅·밸류 1.8~2조달러·Goldman·JPMorgan·모건스탠리 공동 주관·11/26 전 Nasdaq 상장 레이스' },
   { cat:'ipo', impact:3, title:'Anthropic Nasdaq 상장 윈도우', date:'2026-11-26', desc:'추수감사절 전 상장 레이스·밸류 1.8~2조달러·조달 최대 1,000억달러·AI 메가캡 비상장 상장 마일스톤' },
   { cat:'macro', impact:3, title:'미국 10월 NFP 비농업 고용', date:'2026-11-06', desc:'BLS 8:30 ET·11월 첫 금요일·10/29 FOMC 후 첫 고용 지표·12월 FOMC 경로 분기점' },
