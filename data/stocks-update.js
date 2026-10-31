@@ -1,37 +1,31 @@
 const updates = [
   {
-    "date": "2026-10-31 07:20 KST",
-    "summary": "AMD 509달러 -10% 급락 - Q3 가이던스 소화 후 MI450 2027 램프업 공포, AI 바스켓 전면 매도\n델 429달러 -9.7% - AI 서버 바스켓 쇼크, 하이퍼스케일러 CAPEX 디레이팅 전면 전이\n엔비디아 206달러 -3.5% - 반도체 바스켓 매물, 11/19 Q3 D-day 가이던스가 반등 분수령\n마벨테크 203달러 -7.2% - ASIC 바스켓 재조정, 커스텀 실리콘 수요 둔화 공포 심화\n모빌아이 6.2달러 -3.3% - 자율주행 바스켓 되돌림, OEM 수주 가이던스 재점검 지속",
+    "date": "2026-10-31 19:10 KST",
+    "summary": "인텔 65달러 -29% 급락 - Q3 매출 상회에도 Q4 가이던스 컨센 하회\n애플 11/2 Q4 발표 D-day - 아이폰18 프로 9일만 반영, 듀오는 Q1으로 이연\n팰런티어 11/3 Q3 발표 - 옵션 트레이더 ±10% 변동 가격, 매출 성장 가팔라\n인텔 데이터센터 15년 최고 성장 - PC 수요는 2027 상반기까지 둔화 지속\n주말 M&A 공백 - 11/3 월요일 시가 레벨이 바스켓 리레이팅 분기점",
     "changes": [
       {
-        "time": "2026-10-31 07:20 KST",
+        "time": "2026-10-31 19:10 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "AMD(AMD)·NVIDIA(NVDA)·Broadcom(AVGO)·Marvell(MRVL). 10/30 종가 AMD 509.78달러 -10%·NVIDIA 206.14달러 -3.5%·Broadcom 329.64달러 -4.5%·Marvell 202.69달러 -7.2%. AMD는 10/29 장 마감 후 Q3 실적·FY27 가이던스 공식화 소화, MI450 2027 램프업 지연 공포가 반도체 바스켓 전면 매도 트리거. NVIDIA는 Vera Rubin 가을 양산·HBM4 LTA 중기 서사 유효하나 바스켓 매물 흡수, Broadcom은 커스텀 ASIC 수요 둔화 공포 전이. institutional flow 렌즈로는 반도체 바스켓 리스크 축소 축, 밸류에이션 렌즈로는 AMD forward P/E 35배 디레이팅 축, 시나리오 렌즈로는 NVIDIA Q3 11/19·MRVL Q3 11/27·AVGO VMware ARR·MI450 2027 수주 공식화가 반등 분수령."
+        "detail": "Intel(INTC). 10/30 종가 65.27달러 -29.1% 사상급 급락. Q3 매출 165억달러 +21%·non-GAAP EPS 52센트 컨센 상회에도 Q4 매출 가이던스 150~160억달러·non-GAAP EPS 25센트가 컨센 하회 트리거. CFO 코멘트 데이터센터 매출 15년 최고 성장률 유효, 그러나 PC 수요 2027 상반기까지 둔화 지속·메모리 부족 드래그가 Q4 디레이팅 축. 사후 시간 외 +13% → 10/30 장중 -29% 전환. institutional flow 렌즈로는 PC 바스켓 리스크 축소 축, 밸류에이션 렌즈로는 forward EPS 레벨 재검증 축, 시나리오 렌즈로는 2027 상반기 PC 수요 반전·DC CPU 수주 공식화·메모리 공급 정상화가 반등 분수령."
       },
       {
-        "time": "2026-10-31 07:20 KST",
-        "type": "데이터센터",
-        "sector": "데이터센터",
-        "detail": "Dell Technologies(DELL)·Hewlett Packard Enterprise(HPE)·Super Micro(SMCI). 10/30 종가 Dell 429.46달러 -9.7%·HPE 54.73달러 -7%. AI 서버 바스켓 쇼크 재점화, 하이퍼스케일러 CAPEX 디레이팅 서사가 Dell·HPE·SMCI 전면 매도 트리거. Dell AI 서버 백로그 190억달러 중기 유효하나 사상 최고권 매물 집중, HPE는 Juniper 시너지·네트워킹 리더십 중기 서사 유지. institutional flow 렌즈로는 AI 서버 바스켓 포지션 축소 축, 밸류에이션 렌즈로는 Dell forward P/E 15배 디레이팅 축, 시나리오 렌즈로는 하이퍼스케일러 2027 CAPEX 공식화·NVIDIA Blackwell 양산·DELL Q3 11/26이 반등 분수령."
-      },
-      {
-        "time": "2026-10-31 07:20 KST",
+        "time": "2026-10-31 19:10 KST",
         "type": "AI 플랫폼",
         "sector": "AI 플랫폼",
-        "detail": "Microsoft(MSFT)·Meta(META)·Alphabet(GOOGL)·Oracle(ORCL). 10/30 종가 Microsoft 519.02달러 -2.1%·Meta 611.05달러 -2.2%·Alphabet 280.28달러 -1.2%·Oracle 131.66달러 -5.7%. 메가캡 CAPEX 2027 가이던스 하이퍼램프 서사 소화, 반도체·AI 서버 바스켓 쇼크가 메가캡 디레이팅 전면 전이. Microsoft Azure 45% 가이던스·CAPEX 500억달러 분기 유지, Meta Q4 가이던스 상향 유효. Alphabet TPU v6·Gemini 3 Ultra 중기 레버리지, Oracle은 OCI AI 수주 재점검. institutional flow 렌즈로는 메가캡 CAPEX 민감도 재점검 축, 밸류에이션 렌즈로는 하이퍼스케일러 forward P/E 재검증 축, 시나리오 렌즈로는 2027 CAPEX 공식 가이던스·NVIDIA Q3·Palantir 11/3이 리더십 분수령."
+        "detail": "Apple(AAPL)·Palantir(PLTR). 11/2 애플 Q4 2026 발표 D-day, 7월 가이던스 매출 +9~11% 성장·아이폰 +mid-teens·총이익률 47~48% 유효. 아이폰18 프로 9/18 출시로 Q4 9일만 반영, 아이폰 듀오는 12월 분기로 이연. 11/3 팰런티어 Q3 발표, 조정 EPS 42센트·매출 성장 84% 컨센. 옵션 트레이더 ±10.48% 변동 가격, 사후 Q2 고점 212.94달러 대비 8% 하회 레벨. institutional flow 렌즈로는 메가캡 실적 가이던스 소화 축, 밸류에이션 렌즈로는 PLTR forward 멀티플 정당화 테스트 축, 시나리오 렌즈로는 아이폰 18 사이클·AWS 가이던스·PLTR 상업 수주 cadence가 리더십 분수령."
       },
       {
-        "time": "2026-10-31 07:20 KST",
-        "type": "소비·리테일",
-        "sector": "소비·리테일",
-        "detail": "Amazon(AMZN)·Chipotle(CMG)·Costco(COST)·Walmart(WMT). 10/30 종가 Amazon 233.28달러 -4.3%·Chipotle 32.17달러 +2.9%·Costco 1,012.95달러 +1.8%·Walmart 123.72달러 +2%. Amazon은 10/30 장 마감 후 Q3 실적 발표 소화, AWS 가이던스·Prime 비즈니스·FY27 CAPEX 가이던스가 매도 트리거로 작용. Chipotle·Costco·Walmart는 defensive consumer 상대 지지, AI 바스켓 쇼크 속 로테이션 재진입 흡수. institutional flow 렌즈로는 defensive consumer 로테이션 재진입 축, 밸류에이션 렌즈로는 AMZN forward P/E 32배 재검증 축, 시나리오 렌즈로는 iPhone 17 수요·AWS 성장률·FY27 CAPEX 가이던스·Q4 소비 모멘텀이 리더십 분수령."
+        "time": "2026-10-31 19:10 KST",
+        "type": "매크로",
+        "sector": "금융·은행",
+        "detail": "매크로 환경 점검. FedWatch 12월 25bp 인하 확률 87% 수준 유지, 10/30 CAPEX 쇼크 후 안전자산 재진입 축 지속. S&P500·나스닥 10/30 급락 소화 뒤 11월 첫 주 애플·팰런티어·AMD 관련·슈미·쇼피파이·퀄컴·AMAT 실적 집중 윈도우 진입. institutional flow 렌즈로는 반도체 매도 자금 defensive·헬스케어 로테이션 축, 밸류에이션 렌즈로는 S&P500 forward P/E 재검증 축, cross-asset 렌즈로는 10y 금리·DXY·VIX 레벨 재진입 축, 시나리오 렌즈로는 11/3 PLTR·11/19 NVIDIA·12월 FOMC 경로가 바스켓 리레이팅 분수령."
       },
       {
-        "time": "2026-10-31 07:20 KST",
-        "type": "자동차",
-        "sector": "자동차·모빌리티",
-        "detail": "Tesla(TSLA)·Mobileye(MBLY)·Rivian(RIVN). 10/30 종가 Tesla 388.07달러 -3.8%·Mobileye 6.20달러 -3.3%. 자동차·자율주행 바스켓 되돌림, 모빌아이는 Q3 수주·OEM 가이던스 재점검 흐름 지속. Tesla는 상대 지지, Cybercab 양산·FSD v14·Robotaxi 서사 중기 유효. institutional flow 렌즈로는 자율주행 바스켓 포지션 조정 축, 밸류에이션 렌즈로는 TSLA forward P/E 재검증 축, 시나리오 렌즈로는 OEM EyeQ6 수주·Tesla FSD 레벨4 공식화·Robotaxi 확대·2027 EV 사이클이 반등 분수령."
+        "time": "2026-10-31 19:10 KST",
+        "type": "데이터센터",
+        "sector": "데이터센터",
+        "detail": "Dell(DELL)·HPE·Super Micro(SMCI). 10/30 종가 Dell 429.46달러 -9.7%·HPE 54.73달러 -7% 소화. 하이퍼스케일러 CAPEX 디레이팅 소화 뒤 11월 Dell Q3 11/26·HPE 가이던스 재확인이 바스켓 반전 테스트. AI 서버 백로그 190억달러 유지, Juniper 통합 시너지·네트워킹 리더십 중기 서사 지속. institutional flow 렌즈로는 AI 서버 바스켓 포지션 재조정 축, 밸류에이션 렌즈로는 Dell forward P/E 15배 디레이팅 축, 시나리오 렌즈로는 2027 CSP CAPEX 공식 가이던스·Blackwell Ultra 양산·소매 Enterprise AI 수주가 반등 분수령."
       }
     ]
   }
