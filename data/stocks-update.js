@@ -1,31 +1,31 @@
 const updates = [
   {
-    "date": "2026-11-02 19:15 KST",
-    "summary": "애플 11/2 Q4 D-day - 아이폰18 프로 9일만 반영, 홀리데이 가이던스 분기점\n팰런티어 11/3 Q3 발표 - 조정 EPS 42센트 컨센, 옵션 ±10% 변동 가격\nAMD 11/4 Q3 D-day - 금요일 509달러 -10.9% 급락 소화, MI350·HBM 공급 재검증\n인텔 65.76달러 -28.6% - Q4 가이던스 쇼크, PC 수요 2027 상반기까지 둔화\n리제네론 927달러 +13.3% 급등 - Q3 Eylea 매출 서프라이즈 바이오 안전자산 재진입",
+    "date": "2026-11-03 07:20 KST",
+    "summary": "AMZN +4.7% - AWS Q3 +39% YoY 가속, 클라우드 리더십 재확인\nORCL -5.7%·INTC -4.7% - AI CAPEX 번레이트·PC 수요 둔화 우려\nENPH·RUN +11.4%·ARRY +9.3% - 태양광 랠리, 금리 완화 재점화\nTSLA +2.8% 410달러 - 로보택시·자율주행 로드맵 모멘텀 지속\nNVDA +1.1% - 11/19 Q3 FY27·HBM4 LTA 공식화 분수령",
     "changes": [
       {
-        "time": "2026-11-02 19:15 KST",
-        "type": "AI 플랫폼",
+        "time": "2026-11-03 07:20 KST",
+        "type": "메가캡",
+        "sector": "소비·리테일",
+        "detail": "Amazon(AMZN). 11/2 종가 251.56달러 +4.7% 급등 - 10/30 Q3 실적 발표 후 반등 지속. Q3 매출 2,019억달러 +12% YoY·순이익 207억달러·조정 EPS 1.89달러로 컨센 상회. AWS 매출 +39% YoY 가속(Q2 +33%→Q3 +39%)·Jassy CEO 2027~28 40%+ 성장 가이던스·2026 CAPEX 2,200억달러 상향이 축. Q4 가이던스 2,400~2,470억달러 - 홀리데이 리테일·AWS AI 수주 cadence 레버리지. institutional flow 렌즈로는 메가캡 재선호·AWS 가속 축, 밸류에이션 렌즈로는 AMZN forward P/E 재평가 축, 시나리오 렌즈로는 2027 CAPEX·AI 서비스 ARR cadence가 추가 랠리 분수령."
+      },
+      {
+        "time": "2026-11-03 07:20 KST",
+        "type": "AI 인프라",
         "sector": "AI 플랫폼",
-        "detail": "Apple(AAPL)·Palantir(PLTR). 11/2 애플 Q4 2026 실적 발표(장 마감 후) D-day, 아이폰18 프로 9/18 출시 9일 반영·아이폰 18·18 Air 라인업은 12월 분기 이연 구도. 7월 가이던스 매출 성장 9~11%·아이폰 성장 mid-teens·총이익률 47~48% 유효. 11/3 팰런티어 Q3 발표, 조정 EPS 42센트·매출 성장 84% 컨센. 옵션 트레이더 ±10.48% 변동 가격, 사후 Q2 고점 212.94달러 대비 8% 하회 레벨. institutional flow 렌즈로는 메가캡 실적 가이던스 소화 축, 밸류에이션 렌즈로는 PLTR forward 멀티플 정당화 테스트 축, 시나리오 렌즈로는 아이폰 18 사이클·Services ARR 가이던스·PLTR 상업 수주 cadence가 리더십 분수령."
+        "detail": "Oracle(ORCL)·Intel(INTC)·AMD(AMD)·Micron(MU). 11/2 종가 ORCL 123.28달러 -5.7%·INTC 62.69달러 -4.7%·AMD 489.31달러 -3.1%·MU 864.52달러 -2.3%. 오라클은 AI CAPEX 번레이트·클라우드 마진 우려 재점화·OCI AI 수주 cadence 재점검 축. 인텔은 10/23 Q3 쇼크 후 PC 수요 2027 상반기까지 둔화 가이던스 소화 지속, Q4 매출 155억달러 컨센 9% 하회. AMD는 11/4 Q3 D-day 앞 포지셔닝, MI350·HBM3E 공급·FY27 가이던스 재검증. institutional flow 렌즈로는 AI CAPEX 바스켓 디레이팅 지속·메가캡 선별 로테이션 축, 밸류에이션 렌즈로는 ORCL forward P/E 25배 압축 축, 시나리오 렌즈로는 11/4 AMD·11/19 NVDA Q3·HBM4 LTA 공식화가 리더십 분수령."
       },
       {
-        "time": "2026-11-02 19:15 KST",
-        "type": "반도체",
-        "sector": "반도체",
-        "detail": "AMD·NVDA·INTC·AMAT. 금요일(10/30) 종가 AMD 504.80달러 -10.9%·INTC 65.76달러 -28.6%·DELL 424.30달러 -10.8%·QCOM 164.79달러 -11.1% 급락 소화. Intel Q3 발표(10/23) 이후 Q4 매출 가이던스 15.5억달러 컨센 9% 하회·EPS 25센트 컨센 42% 하회가 반도체 바스켓 디레이팅 트리거. 11/4 AMD Q3 D-day, MI350·HBM3E 공급 가이던스·FY27 데이터센터 매출 가이던스 재검증 핵심. 11/19 NVIDIA Q3 FY27·Vera Rubin 양산·Blackwell Ultra 수요 공식화가 바스켓 반등 분수령. institutional flow 렌즈로는 반도체 바스켓 리스크 축소 축, 밸류에이션 렌즈로는 forward P/E 레벨 재검증 축, 시나리오 렌즈로는 AMD MI350 cadence·NVDA HBM4 LTA·CSP 2027 CAPEX 가이던스가 반등 분수령."
+        "time": "2026-11-03 07:20 KST",
+        "type": "태양광",
+        "sector": "친환경·청정기술",
+        "detail": "Enphase(ENPH)·Sunrun(RUN)·Array(ARRY). 11/2 종가 ENPH 28.58달러 +11.4%·RUN 8.33달러 +11.4%·ARRY 3.71달러 +9.3% 태양광 트리플 폭등. 금리 완화 재점화·주택 금융비용 완화·Jefferies 2026 upgrade가 축. 11/4 AMC Sunrun Q3 D-day 임박 - 설치 cadence·AMPC 크레딧·재무 가이던스가 분수령. 10/20 Sunrun +10% 반등 패턴 재가속. institutional flow 렌즈로는 금리 민감주 로테이션·태양광 바스켓 포지셔닝 축, 밸류에이션 렌즈로는 RUN forward P/E 재평가 축, 시나리오 렌즈로는 11/4 Sunrun Q3·IRA 크레딧 유지·주택 설치 cadence가 리더십 분수령."
       },
       {
-        "time": "2026-11-02 19:15 KST",
-        "type": "바이오",
-        "sector": "바이오·헬스케어",
-        "detail": "Regeneron(REGN)·Gilead(GILD)·Vertex(VRTX)·Merck(MRK). 금요일 종가 REGN 927.89달러 +13.3%·GILD 상대 지지 유지. Q3 Eylea HD 매출 서프라이즈·엔터프라이즈 급여 가이던스 재점화가 랠리 트리거. 메가캡 CAPEX 쇼크 속 바이오 안전자산 재진입 축이 핵심, 반도체 매도 자금 defensive 바이오 로테이션 축이 바스켓 리더십 교체 시그널. institutional flow 렌즈로는 반도체 매도 자금 바이오 유입 축, 밸류에이션 렌즈로는 바이오 forward P/E 재진입 축, 시나리오 렌즈로는 Q4 Eylea 가이던스·GILD HIV 수주·VRTX casgevy cadence가 리더십 분수령."
-      },
-      {
-        "time": "2026-11-02 19:15 KST",
-        "type": "매크로",
-        "sector": "금융·은행",
-        "detail": "매크로 환경 점검. 11/6 미국 10월 NFP D-day, 10/30 CAPEX 쇼크 뒤 안전자산 재진입 축 지속. FedWatch 12월 25bp 인하 확률 87% 수준 유지. 이번 주 애플 11/2·팰런티어 11/3·AMD 11/4·퀄컴·AMAT 실적 집중 윈도우 진입, S&P500 반도체 매도 자금 바이오·defensive 로테이션 축이 바스켓 리더십 테스트. institutional flow 렌즈로는 반도체 매도 자금 defensive·헬스케어 로테이션 축, 밸류에이션 렌즈로는 S&P500 forward P/E 재검증 축, cross-asset 렌즈로는 10y 금리·DXY·VIX 레벨 재진입 축, 시나리오 렌즈로는 11/6 NFP·11/19 NVIDIA·12월 FOMC 경로가 바스켓 리레이팅 분수령."
+        "time": "2026-11-03 07:20 KST",
+        "type": "모빌리티",
+        "sector": "자동차·모빌리티",
+        "detail": "Tesla(TSLA)·Rivian(RIVN). 11/2 종가 TSLA 410.87달러 +2.8%·RIVN 13.51달러 +11.1% 모빌리티 바스켓 반등. TSLA는 로보택시·자율주행 로드맵 모멘텀 지속 - 8월 라스베이거스 로보택시 승인·12월 FSD unsupervised 로드맵 가이던스가 축. RIVN은 금리 완화 EV 바스켓 재점화·R2 양산 cadence·VW JV 레버리지가 축. institutional flow 렌즈로는 EV 바스켓 매도 소강·포지셔닝 재진입 축, 밸류에이션 렌즈로는 TSLA forward P/E 65배 로보택시 옵션밸류 축, 시나리오 렌즈로는 12월 Tesla FSD·2027 R2 양산 램프가 리더십 분수령."
       }
     ]
   }
