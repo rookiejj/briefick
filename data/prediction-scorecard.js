@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-03",
+    "made": "2026-11-03 07:35 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,472,000원 +3.8% 반등 - 외국인 매도 축소·기관 1.23조원 순매수·HBM 수급 서사 재점화. 11/19 NVIDIA Q3 FY27·HBM4 LTA 공식화 임박 포지셔닝이 upside 축, 메가캡 CAPEX 디레이팅 우려는 downside 카운터. 반도체 리더십 복귀 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AMZN",
+        "ticker": "AMZN",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 251.56달러 +4.7% 급등 - AWS Q3 +39% YoY 가속·Jassy 2027~28 40%+ 가이던스·2026 CAPEX 2,200억달러 상향 공식화. 메가캡 재선호·클라우드 리더십 재확인이 upside 축, 메가캡 CAPEX 번레이트 재공포는 downside 카운터. 어닝 서프라이즈 연장 모멘텀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "효성중공업",
+        "ticker": "298040",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 2,050,000원 +13.3% 폭등 - 美 초고압 변압기 수주·AI 데이터센터 CAPEX 레버리지 선반영. 급등 뒤 차익실현 피로·forward P/E 재검증 테스트가 downside 축, 전력기기 바스켓 중기 수주 서사는 upside 카운터. mean reversion 모멘텀 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "made": "2026-10-30 07:30 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 74,300원 +5.2% 반등 마감·전일 급락 과매도 되돌림·위성통신·전자전 수주 서사 재점화·소형위성 조립 모멘텀·NATO CAPEX 확정 대기·방산 섹터 반등 로테이션이 upside 축, LIG넥스원 -9% 분화는 downside 카운터, 방산 과매도 되돌림 지속 우세",
         "result": "hit",
         "actual": 5.2
-      }
-    ]
-  },
-  {
-    "date": "2026-10-21",
-    "made": "2026-10-21 07:17 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 211,500원 -3% 조정 마감·10/23 Q3 D-2 가이던스 분수령 임박·HBM4 수주 가이던스 분기점·외국인 매도 피크 소화·반도체 전면 과매도 환경·FOMC 10/28 D-7 완화 기조 선반영이 upside 축, 중국 반도체 추격 서사는 downside 카운터, 어닝 모멘텀 선점 매수 유입 우세",
-        "result": "miss",
-        "actual": -3
-      },
-      {
-        "label": "HD현대중공업",
-        "ticker": "329180",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 318,000원 -8% 급락 마감·10/22 Q3 D-1 가이던스 분수령 임박·LNG선 수주잔고 사상 최대 유지·조선 전면 과매도 환경·외국인 수급 리셋 완료·전고점 대비 15%대 조정 완료·카타르 LNG선 2차 발주 임박이 upside 축, 방산 동반 조정 전염은 downside 카운터, 어닝 모멘텀 선점 반등 우세",
-        "result": "miss",
-        "actual": -8
-      },
-      {
-        "label": "TSLA",
-        "ticker": "TSLA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 366.96달러 -0.3% 보합 마감·10/22 Q3 D-1 가이던스 분수령 임박·로보택시 상업화 로드맵·Cybercab 양산 가이던스·FSD v13 롤아웃·3Q 인도량 사상 최대 서사·FOMC 10/28 D-7 완화 기조 선반영이 upside 축, GM Q3 EV 구조조정 비용 재점화는 downside 카운터, 어닝 모멘텀 선점 매수 유입 우세",
-        "result": "hit",
-        "actual": 1.4
       }
     ]
   }
