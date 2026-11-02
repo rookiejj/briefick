@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 232,000원 -4.1% 조정·Q3 영업익 107.4조 공식 확정 후 선반영 매도 소진·HBM4 Vera Rubin LTA 공식화 임박·외국인 반도체 재진입 서사·FOMC 25bp 인하 소화 완료가 upside 축, 전일 랠리 피로·메가캡 CAPEX 2027 공포 전이는 downside 카운터, 급락 뒤 반등 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -3.3
       },
       {
         "label": "LG에너지솔루션",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 356,000원 -8.6% 급락·Q3 매출 9.6조·영업익 7,560억 호실적 재해석 유입·2027 미주 Ultium 램프업·AMPC 레버리지·리튬 선물 +8.3% 반등 동행·오버솔드 반등 서사가 upside 축, 2차전지 바스켓 되돌림 지속은 downside 카운터, 급락 뒤 저가매수 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.5
       },
       {
         "label": "HII",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 320.87달러 +14.9% 폭등·Q3 EPS 5.48달러 컨센 상회·신규 수주 320억달러·FY26 조선 가이던스 상향 공식화·미 해군 항모·잠수함 사이클 리더십 재검증·방산 디펜시브 로테이션 재점화가 upside 축, 급등 후 차익실현 피로는 downside 카운터, 어닝 서프라이즈 모멘텀 연장 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.2
       }
     ]
   },
