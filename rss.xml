@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Nov 2026 10:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:19:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 11월 4일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-11-04</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-11-04</guid>
+      <pubDate>Tue, 03 Nov 2026 22:00:00 GMT</pubDate>
+      <description>삼성전자·하이닉스 동반 급락 - 美 AI 인프라 매도 전이, 반도체 바스켓 디레이팅 심화 · 블룸에너지 +8.9% 급등 - AI 데이터센터 연료전지 랠리 지속, 전력 CAPEX 리더십 · 주석 162달러 +21% 폭등 지속 - 미얀마·인니 공급 쇼크, 산업금속 리더십</description>
+    </item>
     <item>
       <title>2026년 11월 3일 (화) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-11-03</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-08-27</guid>
       <pubDate>Wed, 26 Aug 2026 22:00:00 GMT</pubDate>
       <description>한국은행 기준금리 3.0%로 25bp 인상 - 2연속 인상, 긴축 사이클 진입 · 엔비디아 209.66달러 -1.6% - Q2 서프라이즈에도 sell-the-news 반락 · 잭슨홀 심포지엄 개막 - 8/27~29 디지털 자산·핀테크 규제 초점</description>
-    </item>
-    <item>
-      <title>2026년 8월 26일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-08-26</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-08-26</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 GMT</pubDate>
-      <description>SK하이닉스 40조원 자사주 소각 - 국내 상장사 역대 최대 주주환원 결정 · 엔비디아 213달러 +2.2% - 오늘 밤 Q2 실적 D-Day, AI 사이클 최대 분수령 · 비트코인 80,894달러 - 사상 최고 부근 재무부 buyback 유동성 트리거</description>
     </item>
   </channel>
 </rss>
