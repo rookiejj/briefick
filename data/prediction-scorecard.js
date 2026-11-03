@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,472,000원 +3.8% 반등 - 외국인 매도 축소·기관 1.23조원 순매수·HBM 수급 서사 재점화. 11/19 NVIDIA Q3 FY27·HBM4 LTA 공식화 임박 포지셔닝이 upside 축, 메가캡 CAPEX 디레이팅 우려는 downside 카운터. 반도체 리더십 복귀 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -3.6
       },
       {
         "label": "AMZN",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 251.56달러 +4.7% 급등 - AWS Q3 +39% YoY 가속·Jassy 2027~28 40%+ 가이던스·2026 CAPEX 2,200억달러 상향 공식화. 메가캡 재선호·클라우드 리더십 재확인이 upside 축, 메가캡 CAPEX 번레이트 재공포는 downside 카운터. 어닝 서프라이즈 연장 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 2.2
       },
       {
         "label": "효성중공업",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 2,050,000원 +13.3% 폭등 - 美 초고압 변압기 수주·AI 데이터센터 CAPEX 레버리지 선반영. 급등 뒤 차익실현 피로·forward P/E 재검증 테스트가 downside 축, 전력기기 바스켓 중기 수주 서사는 upside 카운터. mean reversion 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -2.1
       }
     ]
   },
