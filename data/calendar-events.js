@@ -285,6 +285,8 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 10월 자동차 판매(SAAR)', date:'2026-11-03', desc:'자동차 메이커 월별 공시·현대차·기아 미국 판매·관세·EV 수요 가이던스 분수령' },
   { cat:'macro', impact:1, title:'미국 10월 ISM 서비스업 PMI', date:'2026-11-04', desc:'서비스업 체감·고용·가격 지표·11/6 NFP 선행' },
   { cat:'macro', impact:3, title:'미국 10월 CPI', date:'2026-11-13', desc:'BLS 8:30 ET·12월 FOMC 25bp 인하 경로 분수령·근원 CPI MoM 컨센 +0.3%' },
+  { cat:'macro', impact:3, title:'한국은행 11월 금통위', date:'2026-11-06', desc:'이창용 총재 기준금리 결정·한미 금리차·원달러 1,380원대 환율 분수령' },
+  { cat:'macro', impact:2, title:'미국 11월 미시간대 소비자심리 1차', date:'2026-11-13', desc:'소비자 기대 인플레이션·심리 지표·연말 소비 모멘텀 선행' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
