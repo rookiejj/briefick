@@ -75,10 +75,10 @@ const data = [
       },
       {
         "nm": "Perplexity AI",
-        "rs": "Forge 세컨더리 주당 65.54달러 - 248억달러 밸류 접근·월 4,500만 사용자·NVDA·Bezos·SoftBank 투자자군",
+        "rs": "300억달러 밸류 신규 라운드 협상 - NVIDIA 참여 설, 연간 매출 7억5,000만달러 수준·세컨더리 마크 197억달러",
         "ipo": "2028",
-        "val": "$24.8B",
-        "round": "Series E-7 / Forge 세컨더리",
+        "val": "$30B",
+        "round": "신규 라운드 협상 중·NVIDIA 참여 설",
         "sector": "AI 검색"
       },
       {
