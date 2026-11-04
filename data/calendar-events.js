@@ -287,6 +287,7 @@ const fixed = [
   { cat:'macro', impact:3, title:'미국 10월 CPI', date:'2026-11-13', desc:'BLS 8:30 ET·12월 FOMC 25bp 인하 경로 분수령·근원 CPI MoM 컨센 +0.3%' },
   { cat:'macro', impact:3, title:'한국은행 11월 금통위', date:'2026-11-06', desc:'이창용 총재 기준금리 결정·한미 금리차·원달러 1,380원대 환율 분수령' },
   { cat:'macro', impact:2, title:'미국 11월 미시간대 소비자심리 1차', date:'2026-11-13', desc:'소비자 기대 인플레이션·심리 지표·연말 소비 모멘텀 선행' },
+  { cat:'macro', impact:3, title:'10월 FOMC 의사록', date:'2026-11-18', desc:'10/29 FOMC 25bp 인하 결정 배경·위원 분화·12월 추가 인하 경로 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

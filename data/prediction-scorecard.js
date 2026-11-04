@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 213.68달러 +8.9% 급등 - AI 데이터센터 SOFC 수주 랠리 지속, 하이퍼스케일러 전력 CAPEX 2,200~2,500억달러 가이던스 레버리지. 전력 CAPEX 사이클 리더십이 upside 축, 급등 뒤 차익실현 피로는 downside 카운터. 연료전지 모멘텀 연장 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.5
       },
       {
         "label": "두산에너빌리티",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 52,200원 -6.3% 급락 - 원자력 바스켓 차익실현 매물 집중. 10월 랠리 과열 소화 과정에서 selling climax 테스트, 체코 NPP·美 SMR·웨스팅하우스 파이프 중기 서사 재검증이 upside 축, 반도체 매도 자금 전력 바스켓 추가 전이는 downside 카운터. 과매도 반등 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0.4
       },
       {
         "label": "MU",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 867.52달러 +4.1% 반등 - 메모리 바스켓 매도 소화·HBM4 LTA 공식화 앞 포지셔닝. 11/19 NVIDIA Q3 FY27·HBM4 공급 리더십 재검증이 upside 축, AI 인프라 CAPEX 번레이트 재공포는 downside 카운터. 메모리 리더십 복귀 모멘텀 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -0.6
       }
     ]
   },
@@ -236,5 +236,6 @@ const PREDICTION_SCORECARD = [
         "actual": 7.9
       }
     ]
-  },
+  }
 ];
+채점 완료: 2026-11-04 기준 변경된 항목 있음
