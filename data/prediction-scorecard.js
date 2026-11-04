@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-05",
+    "made": "2026-11-05 07:35 KST",
+    "predictions": [
+      {
+        "label": "크래프톤",
+        "ticker": "259960",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 212,000원 +16.5% 이틀 연속 급등. PUBG·inZOI Q3 실적 모멘텀 매수 쇄도, 11월 중순 공식 발표 전 리레이팅 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MSFT",
+        "ticker": "MSFT",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 550.54달러 +5.7% 급등. 메가캡 클라우드 로테이션 리더십·Azure +45%·2027 CAPEX 1,900억달러 가이던스 재점화.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 545,000원 +11.6% 폭등. 2차전지 바스켓 급반등 선두·ESS 수주·전고체 가이던스 재점화 모멘텀 지속.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "made": "2026-11-04 07:35 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -0.1
       }
     ]
-  },
-  {
-    "date": "2026-10-26",
-    "made": "2026-10-23 07:16 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 214,500원 -4% 급락 마감·10/23 Q3 가이던스 D-데이 임박 과매도 포지션 정리 완료·HBM4 수주 가이던스 공식화 기대·외국인 매도 피크 소화·FOMC 10/28 D-5 25bp 인하 완화 기조 선반영이 upside 축, CXMT LPDDR6 양산 임박 범용 메모리 공급과잉은 downside 카운터, 어닝 모멘텀 선점 반등 우세",
-        "result": "hit",
-        "actual": 0.5
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 217.35달러 -2.1% 조정 마감·Vera Rubin 가을 양산 램프업 공식화 임박·HBM4 멀티 서플라이어 샘플링·OpenAI Stargate·AMD 6GW·Anthropic 2GW 수주 파이프 유효·FOMC 10/28 25bp 인하 완화 기조 선반영이 upside 축, 반도체 장비주 투매 외풍은 downside 카운터, AI 인프라 서사 재점화 매수 유입 우세",
-        "result": "miss",
-        "actual": -0.6
-      },
-      {
-        "label": "삼성E&A",
-        "ticker": "028050",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 55,400원 +16.1% 폭등 마감·사우디 SAN-6·카타르 요소·멕시코 메탄올 EPC 파이프 선반영 완료·단기 랠리 과열·중동 발주 지연 리스크 재점화·건설 섹터 로테이션 소화 흐름이 downside 축, 추가 중동 수주 공식화 가능성은 upside 카운터, 과열 랠리 숨고르기 되돌림 우세",
-        "result": "miss",
-        "actual": 7.9
-      }
-    ]
   }
 ];
-채점 완료: 2026-11-04 기준 변경된 항목 있음
