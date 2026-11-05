@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-11-05 19:05 KST",
-    "summary": "S&P500 혼조 마감 - 메가캡 클라우드 랠리 숨 고르기, 실적 시즌 밸류 재검증\nAMD 485달러 -0.7% - Q3 실적 컨센 상회, 데이터센터 매출 급증에도 밸류 재검증\n선런 9.62달러 +9.4% - 태양광 바스켓 반등 연속, 금리 완화 레버리지\n모딘·버티브·버노바·바이스트라 약세 지속 - 데이터센터 전력·냉각 피크 우려\n테슬라 381달러 -1% - EV 수요 둔화 소화, 자율주행 로드맵 분수령",
+    "date": "2026-11-06 07:15 KST",
+    "summary": "엔비디아 -5%·AMD -12.3% 급락 - Burry 숏 공개 후 AI 밸류 피크 공포\nS&P500·나스닥 동반 급락 - 반도체·메가캡 바스켓 디레이팅 집중\n팔란티어 -7.9% 급락 - 커머셜 +148% 호실적에도 밸류 피크 매물 집중\n테슬라 347달러 -10% - EV 둔화·AI 밸류 전이, FSD v13 cadence 분수령\n선런 9.71달러 +10.5% - 태양광 바스켓 홀로 강세, 주택 금리 완화 레버리지",
     "changes": [
       {
-        "time": "2026-11-05 19:05 KST",
-        "type": "메가캡",
-        "sector": "AI 플랫폼",
-        "detail": "Amazon(AMZN)·Microsoft(MSFT)·Alphabet(GOOGL)·Meta(META). 265.46달러 -0.2%·554.19달러 -0.3%·290.35달러 +0.5%·630.20달러 보합 메가캡 클라우드 트리오 11/4(화) 숨 고르기, 전일 두 자릿수 랠리 소화 지속 축. AWS Q3 +39% YoY 가속·Azure Q1 FY27 +45% 서사는 유지, 2027 CAPEX Amazon 2,200억·Microsoft 1,900억·Alphabet 2,000억달러 가이던스 재검증 윈도우. 10년물 국채금리 4.05%대 안정·DXY 99 보합이 리스크온 지지 축이나 밸류 재검증 압력 상존. institutional flow 렌즈로는 메가캡 바스켓 차익실현 축, 밸류에이션 렌즈로는 Amazon forward P/E 35 재검증 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·Q4 AWS·Azure 성장 cadence·2027 CAPEX 지속성이 리더십 분수령."
-      },
-      {
-        "time": "2026-11-05 19:05 KST",
+        "time": "2026-11-05 16:00 EST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "Advanced Micro Devices(AMD). 485.27달러 -0.7% 소강, 11/4 장 마감 후 Q3 FY26 실적 공식 발표 - 매출 93억달러 +35% YoY·EPS 1.20달러 컨센 1.16달러 상회·데이터센터 매출 70억달러 +97% YoY 서프라이즈. Q4 가이던스 매출 130억달러 ±3억·마진 56% 유지가 after-hours 매물 축, 밸류 재검증 소화. MI350·MI400 램프업·OpenAI 6GW 수주·하이퍼스케일러 2027 CAPEX 레버리지 서사는 유지. institutional flow 렌즈로는 AI GPU 바스켓 로테이션 축, 밸류에이션 렌즈로는 AMD forward P/E 45 프리미엄 재검증 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·MI400 cadence·2027 데이터센터 매출 가이던스가 리더십 분수령."
+        "detail": "NVIDIA(NVDA)·AMD·Micron(MU)·TSMC(TSM)·ASML. 190.13달러 -5%·428.89달러 -12.3%·716.31달러 -9.9%·371달러 -6.3%·1,411달러 -5.7% 반도체 바스켓 11/5 종가 동반 급락. Michael Burry가 13F에서 NVDA·PLTR 숏 포지션 공개·GPU 감가상각 재검증 서사가 축, AI CAPEX 피크 논쟁·메가캡 2027 가이던스 재검증 집중. AMD Q3 매출 134억·데이터센터 +97%·EPS 2.09달러 컨센 상회에도 밸류 피크 공포에 -12%, PLTR US 커머셜 +148% 호실적에도 매물. institutional flow 렌즈로는 AI GPU·메모리 바스켓 매도 집중 축, 밸류에이션 렌즈로는 AMD forward P/E 40 디레이팅·NVDA 32 재검증 축, 시나리오 렌즈로는 11/19 NVIDIA Q3 실적·HBM4 LTA·MI400 cadence가 반등 분수령."
       },
       {
-        "time": "2026-11-05 19:05 KST",
-        "type": "친환경·청정기술",
-        "sector": "친환경·청정기술",
-        "detail": "Sunrun(RUN)·First Solar(FSLR)·Enphase(ENPH)·Array Technologies(ARRY)·Shoals(SHLS). 9.62달러 +9.4%·196.75달러 +1.2%·31.87달러 +1%·5.29달러 -0.8%·9.14달러 -0.2% 태양광 바스켓 반등 연속 유지, Sunrun 주도. 10년물 금리 4.05%대 안정·주택 금융비용 완화 레버리지·IRA 세액공제 유지 재확인이 축. 美 유틸리티 Scale solar PPA 가격 재검증·주거용 solar+ESS attach rate 상향 서사로 리레이팅. institutional flow 렌즈로는 태양광 바스켓 포지션 재진입 축, 밸류에이션 렌즈로는 FSLR forward P/E 리레이팅 축, 시나리오 렌즈로는 12월 FOMC·주택 금융·IRA 세액공제 지속성·Q4 Sunrun 가이던스가 랠리 분수령."
+        "time": "2026-11-05 16:00 EST",
+        "type": "AI 플랫폼",
+        "sector": "AI 플랫폼",
+        "detail": "Microsoft(MSFT)·Alphabet(GOOGL)·Meta(META)·Oracle(ORCL). 545.17달러 -1.9%·286.95달러 -0.7%·611.29달러 -3%·118.46달러 -4.3% 메가캡 AI 플랫폼 바스켓 11/5 종가 동반 조정, 반도체 디레이팅 전이. 2027 CAPEX Amazon 2,200억·Microsoft 1,900억·Alphabet 2,000억·Meta 1,000억달러 가이던스 재검증이 축, AI 투자 회수 사이클 재점검 서사 결합. GOOGL은 TPU v6·검색 AI 광고 서사로 상대 선방. institutional flow 렌즈로는 메가캡 바스켓 차익실현 축, 밸류에이션 렌즈로는 Meta forward P/E 22·MSFT 31 재검증 축, 시나리오 렌즈로는 Q4 Azure·AWS 성장 cadence·2027 CAPEX 지속성이 리더십 분수령."
       },
       {
-        "time": "2026-11-05 19:05 KST",
-        "type": "데이터센터",
-        "sector": "데이터센터",
-        "detail": "Vertiv(VRT)·Modine(MOD)·GE Vernova(GEV)·Vistra(VST)·Quanta Svcs(PWR). 203.40달러 -1%·97.50달러 -1.1%·824.99달러 -0.9%·119.00달러 -1.1%·579.89달러 -0.1% 데이터센터 인프라 바스켓 약세 지속, 전력·냉각 CAPEX 피크 우려 소화. 전일 MOD Q3 가이던스 하향 쇼크(-21.5%) 여진 유효·하이퍼스케일러 발주 cadence·2027 데이터센터 CAPEX 지속성 재검증 서사가 축. institutional flow 렌즈로는 전력·냉각 바스켓 차익실현 지속 축, 밸류에이션 렌즈로는 VRT forward P/E 디레이팅 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·Rubin 양산 cadence·하이퍼스케일러 2027 CAPEX 공식화가 반등 분수령."
-      },
-      {
-        "time": "2026-11-05 19:05 KST",
+        "time": "2026-11-05 16:00 EST",
         "type": "자동차·모빌리티",
         "sector": "자동차·모빌리티",
-        "detail": "Tesla(TSLA). 381.39달러 -1% 조정 지속, EV 수요 둔화 서사 소화·메가캡 랠리 대비 상대 약세. 10월 美 EV 판매 데이터 재검증 윈도우·IRA 크레딧 유지·로보택시 Austin·Phoenix 확장 cadence는 지속, FSD v13 cadence·12월 가이던스가 리레이팅 축. institutional flow 렌즈로는 EV 바스켓 차익실현 지속 축, 밸류에이션 렌즈로는 Tesla forward P/E 90 프리미엄 재검증 축, 시나리오 렌즈로는 FSD v13·로보택시 상용화 cadence·2027 Model 2 양산이 리더십 분수령."
+        "detail": "Tesla(TSLA). 346.71달러 종가 -10% 급락, EV 수요 둔화 서사·AI 밸류 피크 전이 결합. 10월 美 EV 판매 데이터 재검증·IRA 크레딧 유지·로보택시 Austin·Phoenix 확장 cadence 유지, FSD v13 cadence·12월 가이던스가 리레이팅 축. institutional flow 렌즈로는 EV 바스켓 매도 축, 밸류에이션 렌즈로는 Tesla forward P/E 80 프리미엄 재검증 축, 시나리오 렌즈로는 FSD v13·로보택시 상용화 cadence·2027 Model 2 양산이 리더십 분수령."
+      },
+      {
+        "time": "2026-11-05 16:00 EST",
+        "type": "데이터센터",
+        "sector": "데이터센터",
+        "detail": "Vertiv(VRT)·GE Vernova(GEV)·Vistra(VST)·Quanta Svcs(PWR). 184달러 -10.5%·787.07달러 -5.5%·115.38달러 -4.1%·529.98달러 -8.7% 데이터센터 인프라 바스켓 11/5 종가 동반 급락, AI CAPEX 피크 공포 전이. 하이퍼스케일러 2027 발주 cadence·전력·냉각 CAPEX 지속성 재검증이 축, 전일 MOD 가이던스 쇼크 여진 유효. institutional flow 렌즈로는 전력·냉각 바스켓 매도 집중 축, 밸류에이션 렌즈로는 VRT forward P/E 디레이팅 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·Rubin 양산 cadence·하이퍼스케일러 2027 CAPEX 공식화가 반등 분수령."
+      },
+      {
+        "time": "2026-11-05 16:00 EST",
+        "type": "친환경·청정기술",
+        "sector": "친환경·청정기술",
+        "detail": "Sunrun(RUN). 9.71달러 종가 +10.5% 급등, 태양광 바스켓 반등 지속 리더십. 10년물 금리 완화·주택 금융비용 레버리지·IRA 세액공제 유지 재확인이 축, 반도체 투매장 방어처로 자금 유입. institutional flow 렌즈로는 태양광 바스켓 포지션 재진입 축, 밸류에이션 렌즈로는 RUN 턴어라운드 리레이팅 축, 시나리오 렌즈로는 12월 FOMC·주택 금융·IRA 세액공제 지속성·Q4 실적 가이던스가 랠리 분수령."
       }
     ]
   }
