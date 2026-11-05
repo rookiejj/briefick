@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 212,000원 +16.5% 이틀 연속 급등. PUBG·inZOI Q3 실적 모멘텀 매수 쇄도, 11월 중순 공식 발표 전 리레이팅 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.1
       },
       {
         "label": "MSFT",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 550.54달러 +5.7% 급등. 메가캡 클라우드 로테이션 리더십·Azure +45%·2027 CAPEX 1,900억달러 가이던스 재점화.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -0.3
       },
       {
         "label": "삼성SDI",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 545,000원 +11.6% 폭등. 2차전지 바스켓 급반등 선두·ESS 수주·전고체 가이던스 재점화 모멘텀 지속.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -5.1
       }
     ]
   },
