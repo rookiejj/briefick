@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-09",
+    "made": "2026-11-06 07:30 KST",
+    "predictions": [
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 190.13달러 -5% 급락. Burry 13F 숏 공개 소화 후 반발 매수 기대, 11/19 Q3 FY27 D-10 임박·HBM4 LTA 가이던스 선반영 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "현대차",
+        "ticker": "005380",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 293,500원 +3.5% 상승. 자동차 바스켓 홀로 강세·Q4 하이브리드 가이던스·미국 판매 모멘텀 지지 지속.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "KB금융",
+        "ticker": "105560",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 157,000원 +3.6% 급등. 11/13 금통위 D-4·가치주 로테이션 선두·배당 성향 50% 가이던스 재점화 서사.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "made": "2026-11-05 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 1,374,000원 -5.4% 추가 조정·신고가 되돌림 2일 연속 과매도 포지션·10/29 Q3 D-1 CDMO 수주 백로그·2026 미주 바이오시밀러 로드맵 가이던스 임박이 반등 upside 축, 밸류에이션 forward P/E 50배 프리미엄 부담은 downside 카운터, 과매도 반등 우세",
         "result": "miss",
         "actual": -5.4
-      }
-    ]
-  },
-  {
-    "date": "2026-10-27",
-    "made": "2026-10-27 07:16 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,275,000원 보합 마감·10/29 Q3 D-2 HBM4 가이던스 공식화 임박·HBM 리더십 분리 유지·Vera Rubin·AMD MI455X 공급 확정이 upside 축, CXMT LPDDR6 양산 임박 범용 메모리 공급과잉은 downside 카운터, D-데이 전 외국인 재진입·반등 플레이 우세",
-        "result": "hit",
-        "actual": -0.2
-      },
-      {
-        "label": "LIG넥스원",
-        "ticker": "079550",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 429,000원 -9.8% 폭락 마감·방산 전면 투매 과매도 포지션·러·우 종전 되돌림 소화 완료·폴란드 K2 2차·NATO 2027 CAPEX 상향 전망·천궁-Ⅱ 추가 수주 모멘텀이 upside 축, 디펜시브 로테이션 수요 되돌림은 downside 카운터, 과매도 반등 우세",
-        "result": "miss",
-        "actual": -9.8
-      },
-      {
-        "label": "LMT",
-        "ticker": "LMT",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 616.36달러 +2% 반등 마감·10/28 Q3 D-1 임박·NATO 2027 CAPEX 가이던스 상향 전망·F-35 수주·극초음속·미사일·방공 매출 레버리지가 upside 축, 메가 어닝 위크 포지션 재편 변동성은 downside 카운터, 디펜시브 리더십·실적 기대 반등 우세",
-        "result": "hit",
-        "actual": -0.1
       }
     ]
   }
