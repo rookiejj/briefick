@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-11-06 07:15 KST",
-    "summary": "엔비디아 -5%·AMD -12.3% 급락 - Burry 숏 공개 후 AI 밸류 피크 공포\nS&P500·나스닥 동반 급락 - 반도체·메가캡 바스켓 디레이팅 집중\n팔란티어 -7.9% 급락 - 커머셜 +148% 호실적에도 밸류 피크 매물 집중\n테슬라 347달러 -10% - EV 둔화·AI 밸류 전이, FSD v13 cadence 분수령\n선런 9.71달러 +10.5% - 태양광 바스켓 홀로 강세, 주택 금리 완화 레버리지",
+    "date": "2026-11-06 19:15 KST",
+    "summary": "엔비디아 183.86달러 +1.2% 반등 시도 - Burry 숏 서사 2일째 소화\n마이크론 +4.1%·램리서치 +6.3% - 메모리·WFE 바스켓 선봉, 저가 매수 복귀\n브로드컴 +1.9%·AMD +3.4% - AI 반도체 바스켓 분화된 매수 확산\n비자 -3.2%·마스터카드 -2.5% - 결제 바스켓 차익실현 차례로 전이\n블랙록 -4.4%·록히드 -3.2% - 자산운용·방산 차익실현 전면 확산",
     "changes": [
       {
-        "time": "2026-11-05 16:00 EST",
+        "time": "2026-11-06 06:00 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "NVIDIA(NVDA)·AMD·Micron(MU)·TSMC(TSM)·ASML. 190.13달러 -5%·428.89달러 -12.3%·716.31달러 -9.9%·371달러 -6.3%·1,411달러 -5.7% 반도체 바스켓 11/5 종가 동반 급락. Michael Burry가 13F에서 NVDA·PLTR 숏 포지션 공개·GPU 감가상각 재검증 서사가 축, AI CAPEX 피크 논쟁·메가캡 2027 가이던스 재검증 집중. AMD Q3 매출 134억·데이터센터 +97%·EPS 2.09달러 컨센 상회에도 밸류 피크 공포에 -12%, PLTR US 커머셜 +148% 호실적에도 매물. institutional flow 렌즈로는 AI GPU·메모리 바스켓 매도 집중 축, 밸류에이션 렌즈로는 AMD forward P/E 40 디레이팅·NVDA 32 재검증 축, 시나리오 렌즈로는 11/19 NVIDIA Q3 실적·HBM4 LTA·MI400 cadence가 반등 분수령."
+        "detail": "NVIDIA(NVDA)·Micron(MU)·Lam Research(LRCX)·Broadcom(AVGO). 183.86달러 +1.2%·683.40달러 +4.1%·196.88달러 +6.3%·297.14달러 +1.9% 반도체 바스켓 분화된 반등, 전일 Burry 13F 숏 공시로 급락한 자리에서 저가 매수 복귀. 메모리·WFE 바스켓 선봉·AI 반도체 바스켓 분화·숏 커버링이 축, 11/19 NVDA Q3 FY26·HBM4 LTA cadence가 반등 지속 분수령. institutional flow 렌즈로는 반도체 바스켓 저가 매수 축, 밸류에이션 렌즈로는 NVDA forward P/E 30 재점검 축, 시나리오 렌즈로는 11/19 NVDA Q3·CAPEX 2027 가이던스가 재랠리 분수령."
       },
       {
-        "time": "2026-11-05 16:00 EST",
-        "type": "AI 플랫폼",
-        "sector": "AI 플랫폼",
-        "detail": "Microsoft(MSFT)·Alphabet(GOOGL)·Meta(META)·Oracle(ORCL). 545.17달러 -1.9%·286.95달러 -0.7%·611.29달러 -3%·118.46달러 -4.3% 메가캡 AI 플랫폼 바스켓 11/5 종가 동반 조정, 반도체 디레이팅 전이. 2027 CAPEX Amazon 2,200억·Microsoft 1,900억·Alphabet 2,000억·Meta 1,000억달러 가이던스 재검증이 축, AI 투자 회수 사이클 재점검 서사 결합. GOOGL은 TPU v6·검색 AI 광고 서사로 상대 선방. institutional flow 렌즈로는 메가캡 바스켓 차익실현 축, 밸류에이션 렌즈로는 Meta forward P/E 22·MSFT 31 재검증 축, 시나리오 렌즈로는 Q4 Azure·AWS 성장 cadence·2027 CAPEX 지속성이 리더십 분수령."
+        "time": "2026-11-06 06:00 KST",
+        "type": "반도체·장비",
+        "sector": "반도체",
+        "detail": "TSMC(TSM)·ASML(ASML)·Applied Materials(AMAT)·AMD(AMD). 360.55달러 +2.1%·1,382.94달러 +1.9%·325.50달러 +2.0%·418.04달러 +3.4% 파운드리·장비·AI 반도체 바스켓 동반 반등, 전일 전면 투매 하루 소화 후 저가 매수 확산. TSMC FY26 매출 상단·ASML EUV·High-NA 레버리지·AMD MI400 cadence가 축, 반도체 디레이팅 2라운드 리스크는 여전히 잔존. institutional flow 렌즈로는 장비 바스켓 매수 복귀 축, 밸류에이션 렌즈로는 TSM forward P/E 22 리레이팅 축, 시나리오 렌즈로는 CAPEX 2027 가이던스·HBM4 LTA cadence가 반등 지속 분수령."
       },
       {
-        "time": "2026-11-05 16:00 EST",
-        "type": "자동차·모빌리티",
-        "sector": "자동차·모빌리티",
-        "detail": "Tesla(TSLA). 346.71달러 종가 -10% 급락, EV 수요 둔화 서사·AI 밸류 피크 전이 결합. 10월 美 EV 판매 데이터 재검증·IRA 크레딧 유지·로보택시 Austin·Phoenix 확장 cadence 유지, FSD v13 cadence·12월 가이던스가 리레이팅 축. institutional flow 렌즈로는 EV 바스켓 매도 축, 밸류에이션 렌즈로는 Tesla forward P/E 80 프리미엄 재검증 축, 시나리오 렌즈로는 FSD v13·로보택시 상용화 cadence·2027 Model 2 양산이 리더십 분수령."
+        "time": "2026-11-06 06:00 KST",
+        "type": "핀테크·결제",
+        "sector": "핀테크·결제",
+        "detail": "Visa(V)·Mastercard(MA). 422.59달러 -3.2%·655.92달러 -2.5% 결제 네트워크 바스켓 동반 조정, 반도체 바스켓 매수 복귀에 밀려 자금 재배분. FY26 결제량 +9%·크로스보더 +12~13%·VAS +22% 중기 서사는 유지하나 바스켓 차익실현 전이. institutional flow 렌즈로는 결제 바스켓 로테이션 아웃 축, 밸류에이션 렌즈로는 V forward P/E 29 디레이팅 축, 시나리오 렌즈로는 Q4 글로벌 소비자 지출·크로스보더 cadence가 반등 축."
       },
       {
-        "time": "2026-11-05 16:00 EST",
-        "type": "데이터센터",
-        "sector": "데이터센터",
-        "detail": "Vertiv(VRT)·GE Vernova(GEV)·Vistra(VST)·Quanta Svcs(PWR). 184달러 -10.5%·787.07달러 -5.5%·115.38달러 -4.1%·529.98달러 -8.7% 데이터센터 인프라 바스켓 11/5 종가 동반 급락, AI CAPEX 피크 공포 전이. 하이퍼스케일러 2027 발주 cadence·전력·냉각 CAPEX 지속성 재검증이 축, 전일 MOD 가이던스 쇼크 여진 유효. institutional flow 렌즈로는 전력·냉각 바스켓 매도 집중 축, 밸류에이션 렌즈로는 VRT forward P/E 디레이팅 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·Rubin 양산 cadence·하이퍼스케일러 2027 CAPEX 공식화가 반등 분수령."
+        "time": "2026-11-06 06:00 KST",
+        "type": "금융·은행",
+        "sector": "금융·은행",
+        "detail": "BlackRock(BLK). 1,170.67달러 -4.4% 조정, 자산운용 바스켓 차익실현 리드. Q3 AUM 15.5조달러 사상 최고·순유입 2,050억달러 중기 서사는 유지, 바스켓 로테이션 아웃이 단기 축. institutional flow 렌즈로는 자산운용 바스켓 차익실현 축, 밸류에이션 렌즈로는 BLK forward P/E 22 재점검 축, 시나리오 렌즈로는 Q4 AUM 성장·ETF 유입 cadence가 리레이팅 분수령."
       },
       {
-        "time": "2026-11-05 16:00 EST",
-        "type": "친환경·청정기술",
-        "sector": "친환경·청정기술",
-        "detail": "Sunrun(RUN). 9.71달러 종가 +10.5% 급등, 태양광 바스켓 반등 지속 리더십. 10년물 금리 완화·주택 금융비용 레버리지·IRA 세액공제 유지 재확인이 축, 반도체 투매장 방어처로 자금 유입. institutional flow 렌즈로는 태양광 바스켓 포지션 재진입 축, 밸류에이션 렌즈로는 RUN 턴어라운드 리레이팅 축, 시나리오 렌즈로는 12월 FOMC·주택 금융·IRA 세액공제 지속성·Q4 실적 가이던스가 랠리 분수령."
+        "time": "2026-11-06 06:00 KST",
+        "type": "방산",
+        "sector": "방산",
+        "detail": "Lockheed Martin(LMT)·RTX Corp(RTX). 576.16달러 -3.2%·191.88달러 -3.3% 방산 바스켓 동반 조정, 반도체 바스켓 리드 반등에 밀려 로테이션 아웃. F-35 Lot 20·FY27 매출 가이던스·backlog 2,890억달러 중기 서사는 유지, 단기 차익실현 집중. institutional flow 렌즈로는 방산 바스켓 로테이션 아웃 축, 밸류에이션 렌즈로는 LMT forward P/E 19 재점검 축, 시나리오 렌즈로는 FY27 가이던스·GLSDB 양산 cadence가 반등 축."
       }
     ]
   }
