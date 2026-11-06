@@ -288,6 +288,10 @@ const fixed = [
   { cat:'macro', impact:3, title:'한국은행 11월 금통위', date:'2026-11-06', desc:'이창용 총재 기준금리 결정·한미 금리차·원달러 1,380원대 환율 분수령' },
   { cat:'macro', impact:2, title:'미국 11월 미시간대 소비자심리 1차', date:'2026-11-13', desc:'소비자 기대 인플레이션·심리 지표·연말 소비 모멘텀 선행' },
   { cat:'macro', impact:3, title:'10월 FOMC 의사록', date:'2026-11-18', desc:'10/29 FOMC 25bp 인하 결정 배경·위원 분화·12월 추가 인하 경로 분수령' },
+  { cat:'conf', impact:2, title:'OpenAI DevDay 멕시코시티', date:'2026-11-10', desc:'DevDay 지역 이벤트·GPT-6 Sol·Luna 생태계·AgentKit·앱 스토어 리부트' },
+  { cat:'macro', impact:1, title:'미국 11월 재향군인의 날', date:'2026-11-11', desc:'채권시장 휴장·주식시장 개장·거래량 감소·연초 반등 모멘텀 체크' },
+  { cat:'ipo', impact:3, title:'Anthropic IPO 거래 개시 예상', date:'2026-11-16', desc:'S-1 15일 쿨링 후 Nasdaq 상장 레이스·ANT 티커·밸류 1.5~2조달러 디스커버리 분수령' },
+  { cat:'macro', impact:1, title:'미국 11월 NAHB 주택시장지수', date:'2026-11-17', desc:'건설업체 심리·주택 수요·연말 모멘텀 체크·금리 민감도' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
