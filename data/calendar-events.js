@@ -292,6 +292,8 @@ const fixed = [
   { cat:'macro', impact:1, title:'미국 11월 재향군인의 날', date:'2026-11-11', desc:'채권시장 휴장·주식시장 개장·거래량 감소·연초 반등 모멘텀 체크' },
   { cat:'ipo', impact:3, title:'Anthropic IPO 거래 개시 예상', date:'2026-11-16', desc:'S-1 15일 쿨링 후 Nasdaq 상장 레이스·ANT 티커·밸류 1.5~2조달러 디스커버리 분수령' },
   { cat:'macro', impact:1, title:'미국 11월 NAHB 주택시장지수', date:'2026-11-17', desc:'건설업체 심리·주택 수요·연말 모멘텀 체크·금리 민감도' },
+  { cat:'macro', impact:2, title:'중국 10월 CPI·PPI', date:'2026-11-12', desc:'NBS 발표·디플레 압력 재점검·Q4 경기부양·AI 그리드 수요 모멘텀 선행' },
+  { cat:'macro', impact:2, title:'미국 11월 S&P 글로벌 PMI 플래시', date:'2026-11-20', desc:'제조·서비스 PMI 플래시·Q4 성장 모멘텀 체크·12월 FOMC 가이던스 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
