@@ -1,31 +1,31 @@
 const updates = [
   {
-    "date": "2026-11-09 07:20 KST",
-    "summary": "엔비디아 191.96달러 +5.7% 금요일 복구 랠리 - 반도체 바스켓 전면 반등 뒤 서사 양분\n월마트·타겟·시스코 실적 주간 D-3 - 소매·엔터프라이즈 Q3 소비 분수령\n11/19 엔비디아 Q3 FY27 D-10 - Rubin 양산·HBM4 LTA·2027 CAPEX 가이던스 축\n美 셧다운 5주차 지속 - 10월 NFP·CPI 블랙아웃, Fed 12월 FOMC 가이던스 재검증\n스페이스X 스타십 15차 통합 비행 윈도우 - 11월 Boca Chica 재시도 D-윈도우",
+    "date": "2026-11-09 19:15 KST",
+    "summary": "AMD 449달러 +11% 급반등 - 반도체 바스켓 금요일 복원 랠리 선두\n양자컴·SMR·우주 바스켓 +15~23% 급등 - IONQ·OKLO·LUNR 투기 로테이션 재점화\n월마트·시스코 실적 주간 D-3 - 소매·엔터프라이즈 Q3 소비 분수령\n11/19 엔비디아 Q3 FY27 D-10 - Rubin 양산·HBM4 LTA·2027 CAPEX 가이던스 축\n美 셧다운 6주차 진입 - 10월 CPI 블랙아웃 지속, Fed 12월 FOMC 가이던스 재검증",
     "changes": [
       {
-        "time": "2026-11-09 07:00 KST",
+        "time": "2026-11-09 18:55 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "NVIDIA(NVDA)·AMD(AMD)·Micron(MU)·Broadcom(AVGO)·TSMC(TSM). 191.96달러 +5.7%·436.02달러 +7.8%·692.16달러 +5.4%·303.64달러 +4.2%·375.26달러 +6.6% 반도체 바스켓 금요일 복구 랠리 전면 반등 마감, Burry 숏 포지션 25% 익절 공시 소화 뒤 저가 매수 복귀가 축. 11/19 NVIDIA Q3 FY27 D-10 임박·Rubin 양산 cadence·HBM4 LTA 가이던스 공식화·2027 CAPEX 1조달러대 번레이트 지속성이 밸류 디스커버리 1차 분수령, Burry 잔여 숏 공방·'버블 vs 2차 랠리' 서사 양분이 변동성 축. monetization 렌즈로는 데이터센터 매출 번레이트·엔터프라이즈 AI ARR 축, 밸류에이션 렌즈로는 NVDA forward P/E 30·AMD 40·MU 15 재검증 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·Rubin cadence·2027 CAPEX 가이던스가 리더십 분수령."
+        "detail": "AMD(AMD)·NVIDIA(NVDA)·Micron(MU)·Broadcom(AVGO)·TSMC(TSM)·Lam Research(LRCX)·KLA(KLAC). 449.04달러 +11%·186.64달러 +2.8%·690달러 +5.1%·293.69달러 +0.7%·375.44달러 +6.3%·200.44달러 +8.2%·138.49달러 +6.7% 반도체 바스켓 금요일 복구 랠리 전면 반등 마감, AMD OpenAI MOU 서사 재점화·Burry 숏 포지션 25% 익절 공시 소화 뒤 저가 매수 복귀가 축. 11/19 NVIDIA Q3 FY27 D-10 임박·Rubin 양산 cadence·HBM4 LTA 가이던스 공식화·2027 CAPEX 1조달러대 번레이트 지속성이 밸류 디스커버리 1차 분수령, Burry 잔여 숏 공방·'버블 vs 2차 랠리' 서사 양분이 변동성 축. monetization 렌즈로는 데이터센터 매출 번레이트·엔터프라이즈 AI ARR 축, 밸류에이션 렌즈로는 NVDA forward P/E 30·AMD 40·MU 15 재검증 축, 시나리오 렌즈로는 11/19 NVIDIA Q3·Rubin cadence·2027 CAPEX 가이던스가 리더십 분수령."
       },
       {
-        "time": "2026-11-09 07:00 KST",
-        "type": "소비·리테일",
-        "sector": "소비·리테일",
-        "detail": "월마트(WMT)·타겟(TGT)·홈디포(HD). 123.96달러 -2.9%·155.45달러 -1.6%·339.40달러 -3.0% 소매 바스켓 금요일 조정 마감, 11/13 전후 Q3 FY26 실적 발표 D-3 윈도우 임박이 축. 연말 소비 모멘텀·관세 패스스루·크리스마스 선주문 가이던스가 축, 2027.1.10 美中 반도체·희토류 보복관세 유예 데드라인 윈도우 재진입이 소매 재고 복원 레버리지, 셧다운 5주차 지속·BLS 10월 NFP·CPI 블랙아웃이 소비자 신뢰 카운터. institutional flow 렌즈로는 소매 바스켓 Q3 소화 전 포지션 재편 축, 밸류에이션 렌즈로는 WMT forward P/E 30·HD 22 디레이팅 축, 시나리오 렌즈로는 Q3 매출 성장률·가이던스·연말 소비 cadence가 리더십 분수령."
+        "time": "2026-11-09 18:55 KST",
+        "type": "양자·크립토",
+        "sector": "양자·크립토",
+        "detail": "IonQ(IONQ)·Rigetti(RGTI)·D-Wave(QBTS)·Quantum Computing(QUBT). 32.62달러 +23.4%·11.75달러 +19.3%·10.68달러 +18%·6.33달러 +12.4% 양자컴 바스켓 금요일 투기 로테이션 재점화, IonQ Q2 매출 +287% YoY 8,010만달러 쇼크·2026 매출 가이던스 5억500~5억1,500만달러 industry record 상향이 축. Rigetti Q2 매출 +185% YoY 510만달러·Cepheus-1 칩 cadence·1,000 큐빗 로드맵이 sympathy 레버리지, 포워드 P/S 100배대 재검증·Burry 양자 바스켓 숏 재진입 공방이 카운터. monetization 렌즈로는 양자 클라우드 API 번레이트 축, 밸류에이션 렌즈로는 IONQ forward P/S 60·RGTI 123 재검증 축, 시나리오 렌즈로는 Q3 매출 cadence·1,000 큐빗 로드맵·엔터프라이즈 pilot 전환이 리더십 분수령."
       },
       {
-        "time": "2026-11-09 07:00 KST",
-        "type": "사이버보안",
-        "sector": "사이버보안",
-        "detail": "Cisco(CSCO)·Palo Alto Networks(PANW)·CrowdStrike(CRWD)·Zscaler(ZS). 96.85달러 +1.2%·323.49달러 +2.8%·223.32달러 +2.8% 사이버보안·엔터프라이즈 네트워크 바스켓 금요일 안정화, 11/12 Cisco Q1 FY27·11/19 PANW Q1 FY27 실적 윈도우 D-3~D-10 임박이 축. CSCO FY27 매출 가이던스 73.5억달러 AI 매출·하이퍼스케일러 AI 오더 전년 93억달러·옵션 임플라이드 8% 변동성·PANW CyberArk 250억달러 인수 소화 2분기째·Cortex XSIAM ARR 가이던스가 밸류 축. monetization 렌즈로는 AI 인프라 ARR·보안 플랫폼 번들링 ARR 축, 밸류에이션 렌즈로는 CSCO forward P/E 18·PANW forward P/S 14 재검증 축, 시나리오 렌즈로는 11/12 CSCO·11/19 PANW Q1 FY27 가이던스·CyberArk 시너지가 리더십 분수령."
+        "time": "2026-11-09 18:55 KST",
+        "type": "원자력·SMR",
+        "sector": "원자력·SMR",
+        "detail": "Oklo(OKLO)·NuScale(SMR)·NANO Nuclear(NNE)·Vistra(VST)·Constellation(CEG). 23.55달러 +22.7%·5.08달러 +16.2%·11.11달러 +15.3%·124.80달러 +10.6%·249.95달러 +4.3% SMR·원자력 바스켓 금요일 복구 랠리 선두 반등, 데이터센터 전력 수요 서사 재점화·Trump SMR 지원 cadence가 축. Oklo Aurora Powerhouse cadence·NuScale UAMPS 프로젝트 재검증·Vistra PJM AI 데이터센터 PPA·Constellation Three Mile Island 재가동 2028 가이던스가 중기 레버리지, SMR 상용화 지연·FOMC 매파 시그널이 카운터. institutional flow 렌즈로는 SMR 바스켓 외국인 재매수 전환 축, 밸류에이션 렌즈로는 VST forward P/E 30·CEG 28 재검증 축, 시나리오 렌즈로는 Aurora cadence·PPA 수주·UAMPS 복원이 리더십 분수령."
       },
       {
-        "time": "2026-11-09 07:00 KST",
+        "time": "2026-11-09 18:55 KST",
         "type": "우주",
         "sector": "우주",
-        "detail": "스페이스X·로켓랩(RKLB)·플래닛랩스(PL)·인튜이티브머신스(LUNR). 스타십 15차 통합 비행 11월 Boca Chica 재시도 D-윈도우가 축, Flight 14 8/28 full-duration static fire 소화 후 9/22 재시도 윈도우 밀림 지속 뒤 11월 분기점이 축. 스페이스X 상장 뒤 첫 분기 실적·락업 해제 cadence가 미국 주식 바스켓 레버리지, 스타십 catch 상단 성공 여부·NASA Artemis 3 2027년 윈도우 유효성이 중기 서사. institutional flow 렌즈로는 우주 바스켓 외국인 매도 소강·재매수 전환 축, 밸류에이션 렌즈로는 RKLB forward P/S 25 프리미엄 재검증 축, 시나리오 렌즈로는 스타십 15차 catch 성공·Artemis 3 cadence·스페이스X 1차 어닝·락업 해제가 리더십 분수령."
+        "detail": "Intuitive Machines(LUNR)·Rocket Lab(RKLB)·Redwire(RDW). 10.47달러 +21.5%·53.07달러 +15.4%·7.21달러 +16.5% 우주 바스켓 금요일 투기 로테이션 재점화, NASA CLPS 달 착륙선·IM-3 4분기 발사 cadence·Redwire Hera 미션 가이던스가 축. Rocket Lab Neutron 4분기 재지연·SDA 수주 816백만달러·국방 프라임 전환 모멘텀·SpaceX 상장發 우주 섹터 자금 재평가 후방 수혜가 중기 레버리지, Artemis 3 2027 윈도우 유효성·발사 지연이 카운터. institutional flow 렌즈로는 우주 바스켓 외국인 재매수 전환 축, 밸류에이션 렌즈로는 RKLB forward P/S 25 프리미엄 재검증 축, 시나리오 렌즈로는 Neutron 첫 발사·IM-3 성공·SDA 추가 수주가 리더십 분수령."
       }
     ]
   }
