@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-10",
+    "made": "2026-11-10 07:10 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "월요일 종가 189,900원 +0.6% 소폭 반등 - HBM4 LTA 공식화 대기·외국인 반도체 바스켓 재매수 전환 대기·美 셧다운 종료 가결 리스크온이 upside 축, 11/19 글로벌 AI 반도체 Q3 D-9 선반영 차익실현이 downside 카운터, 셧다운 종결 뒤 매수 복귀 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "삼성SDI",
+        "ticker": "006400",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "월요일 종가 415,000원 -11.3% 급락 - 2차전지 셀 바스켓 투매 4일째 과매도 포지션·ESS 수주 가이던스·EV 수요 복원 cadence가 반등 upside 축, 바스켓 디레이팅 지속은 downside 카운터, 과매도 반등 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "월요일 종가 176.36달러 -5.5% 로테이션 희생양 - AMD +11.1% 리더십 교체 소화 뒤 반발 매수·11/19 Q3 FY27 D-9 HBM4 LTA 가이던스 선반영이 upside 축, 'AI 버블' 서사 양분이 downside 카운터, 과매도 반등 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "made": "2026-11-06 07:30 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 240달러 +15% 폭등·Q3 어닝 서프라이즈 1일 소화 매물 유입 리스크·forward P/E 40배 리레이팅 부담·AI 데이터센터 CAPEX 사이클 피크 우려가 downside 축, 액체냉각 레버리지 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
         "result": "miss",
         "actual": 16.5
-      }
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "made": "2026-10-28 07:35 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 222,000원 +4.2% 랠리 가속·10/29 Q3 D-1·HBM4 Vera Rubin LTA 공식화 임박·2027 CAPEX·주주환원 가이던스가 upside 축, 신고가 소화 차익실현은 downside 카운터, D-1 외국인 추가 매수 흐름 우세",
-        "result": "hit",
-        "actual": 4.2
-      },
-      {
-        "label": "AVGO",
-        "ticker": "AVGO",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 339.77달러 +3.2% 급등·커스텀 ASIC 수요 지속·하이퍼스케일러 CAPEX 2027 가속 수혜·메가캡 10/29 Q3 CSP CAPEX 가이던스 모멘텀이 upside 축, 밸류에이션 forward P/E 30배 부담은 downside 카운터, 급등 모멘텀 지속 우세",
-        "result": "hit",
-        "actual": 0.2
-      },
-      {
-        "label": "삼성바이오로직스",
-        "ticker": "207940",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,374,000원 -5.4% 추가 조정·신고가 되돌림 2일 연속 과매도 포지션·10/29 Q3 D-1 CDMO 수주 백로그·2026 미주 바이오시밀러 로드맵 가이던스 임박이 반등 upside 축, 밸류에이션 forward P/E 50배 프리미엄 부담은 downside 카운터, 과매도 반등 우세",
-        "result": "miss",
-        "actual": -5.4
       }
     ]
   }
