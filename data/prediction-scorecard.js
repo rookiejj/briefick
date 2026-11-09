@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 190.13달러 -5% 급락. Burry 13F 숏 공개 소화 후 반발 매수 기대, 11/19 Q3 FY27 D-10 임박·HBM4 LTA 가이던스 선반영 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 2.8
       },
       {
         "label": "현대차",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 293,500원 +3.5% 상승. 자동차 바스켓 홀로 강세·Q4 하이브리드 가이던스·미국 판매 모멘텀 지지 지속.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.1
       },
       {
         "label": "KB금융",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 157,000원 +3.6% 급등. 11/13 금통위 D-4·가치주 로테이션 선두·배당 성향 50% 가이던스 재점화 서사.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -0.7
       }
     ]
   },
