@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-11",
+    "made": "2026-11-11 07:10 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,212,000원 +6.7% V자 급반등 종가 - HBM3E 12-Hi 대량양산·HBM4 LTA 공식화 D-8 임박·11/19 글로벌 AI 반도체 Q3 가이던스 선반영·외국인 반도체 바스켓 재매수 2일차가 upside 축, 급등 후 차익실현은 downside 카운터, HBM 서사 모멘텀 지속 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "HD현대일렉",
+        "ticker": "267260",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 394,000원 +11.1% 신고가 - 전력·원전 바스켓 급등 1일 소화 뒤 매물 유입 리스크·초고압 변압기 LTA 기대 선반영·forward P/E 23 리레이팅 부담이 downside 축, AI 데이터센터 PPA 모멘텀 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AMD",
+        "ticker": "AMD",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 536.02달러 +5.4% 랠리 2일차 - OpenAI MOU·MI400 cadence 재점화·반도체 리더십 복귀·AI 바스켓 재매수 모멘텀 연장이 upside 축, forward P/E 45 밸류 부담은 downside 카운터, 11/19 NVDA Q3 D-8 앞 AMD 2위 플레이어 서사 레버리지 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "made": "2026-11-10 07:10 KST",
     "predictions": [
@@ -203,39 +236,6 @@ const PREDICTION_SCORECARD = [
         "actual": 0.2
       }
     ]
-  },
-  {
-    "date": "2026-10-29",
-    "made": "2026-10-29 07:30 KST",
-    "predictions": [
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 534,000원 +5.1% 반등·LGES Q3 매출 9.6조·영업익 7,560억 컨센 상회 호실적 동행·2027 미주 Ultium 램프업·ESS 믹스 마진 레버리지·리튬 선물 +8% 반등이 upside 축, 급등 후 차익실현은 downside 카운터, 2차전지 체인 재점화 모멘텀 지속 우세",
-        "result": "hit",
-        "actual": 0.6
-      },
-      {
-        "label": "AMD",
-        "ticker": "AMD",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 560.26달러 +5.5% 재점화·MI455X 수주 레버리지 재부각·OpenAI 6GW·Anthropic 2GW LTA 모멘텀 지속·메가캡 CSP CAPEX 2027 가이던스 임박이 upside 축, 급등 후 차익실현·forward P/E 50배 밸류 부담은 downside 카운터, AI 인프라 CAPEX 사이클 레버리지 지속 우세",
-        "result": "hit",
-        "actual": 3.2
-      },
-      {
-        "label": "Vertiv",
-        "ticker": "VRT",
-        "market": "US",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 240달러 +15% 폭등·Q3 어닝 서프라이즈 1일 소화 매물 유입 리스크·forward P/E 40배 리레이팅 부담·AI 데이터센터 CAPEX 사이클 피크 우려가 downside 축, 액체냉각 레버리지 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
-        "result": "miss",
-        "actual": 16.5
-      }
-    ]
   }
 ];
-채점 완료: 2026-11-10 기준 변경된 항목 있음
+
