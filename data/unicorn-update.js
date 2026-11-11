@@ -1,7 +1,7 @@
 const updates = [
   {
-    "date": "2026-11-11 19:20 KST",
-    "summary": "피규어 AI 480억달러 유지 - BotQ 양산 가속, 완성차 주문 파이프라인 70K 유닛 확대\n데이터브릭스 1,900억달러 재검증 - ARR 70억달러 이상 가속, 2027 IPO 포지션 유지\n임펄스 스페이스 42.6억달러 밸류 - 궤도 수송 리더십, Golden Dome 미사일 쉴드 지원\n크라켄 200억달러 Q4 상장 창구 - CLARITY Act 통과 뒤 로드쇼 재개 준비\n아렌데일 랩스 78.7억달러 - AI 바이오 디스커버리 바스켓 리더십 유지",
+    "date": "2026-11-12 07:35 KST",
+    "summary": "피규어 AI 480억달러 유지 - BotQ 양산 가속, 완성차 70K 유닛 주문\n데이터브릭스 1,900억달러 - ARR 70억달러 이상 가속, 2027 IPO 포지션\n임펄스 스페이스 43억달러 - Golden Dome 미사일 쉴드 지원 레버리지\n크라켄 200억달러 Q4 상장 창구 - CLARITY Act 뒤 로드쇼 재개 준비\n아렌데일 랩스 79억달러 - AI 바이오 디스커버리 바스켓 리더십",
     "changes": [
       {
         "time": "2026-11-11 19:15 KST",
@@ -19,7 +19,7 @@ const updates = [
         "time": "2026-11-11 19:15 KST",
         "type": "펀딩",
         "sector": "크립토·Web3",
-        "detail": "Kraken·Ripple·Chainalysis·Fireblocks. Kraken 200억달러 밸류 Q4 2026 상장 창구 재가동·CLARITY Act 통과 뒤 로드쇼 재개 준비·거래량 YoY +60% 가속·美 셧다운 상원 가결 뒤 위험자산 복귀가 축. Ripple 400억달러 밸류·XRP ETF 승인 레이스 11월 분기점·스테이킹 ETF 중기 서사·엔터프라이즈 결제 ARR 레버리지, Chainalysis 115억달러 밸류·AML 분석 엔터프라이즈 ARR 지속·DOJ·IRS·FBI 계약 기반 지속 성장. Fireblocks 100억달러 밸류·커스터디 바스켓 리더십·Standard Chartered·BNY Mellon 통합. monetization 렌즈로는 거래 수수료·커스터디·ETF 스테이킹 ARR 축, institutional flow 렌즈로는 크립토 프리IPO 리레이팅 축, 시나리오 렌즈로는 Kraken Q4 상장·Ripple XRP ETF 승인·GENIUS Act 시행이 리레이팅 분수령."
+        "detail": "Kraken·Ripple·Chainalysis·Fireblocks. Kraken 200억달러 밸류 Q4 2026 상장 창구 재가동·CLARITY Act 통과 뒤 로드쇼 재개 준비·거래량 YoY +60% 가속·美 셧다운 상원 가결 뒤 위험자산 복귀·AI 인프라 바스켓 V-반등 소화가 축. Ripple 400억달러 밸류·XRP ETF 승인 레이스 11월 분기점·스테이킹 ETF 중기 서사·엔터프라이즈 결제 ARR 레버리지, Chainalysis 115억달러 밸류·AML 분석 엔터프라이즈 ARR 지속·DOJ·IRS·FBI 계약 기반 지속 성장. Fireblocks 100억달러 밸류·커스터디 바스켓 리더십·Standard Chartered·BNY Mellon 통합. monetization 렌즈로는 거래 수수료·커스터디·ETF 스테이킹 ARR 축, institutional flow 렌즈로는 크립토 프리IPO 리레이팅 축, 시나리오 렌즈로는 Kraken Q4 상장·Ripple XRP ETF 승인·GENIUS Act 시행이 리레이팅 분수령."
       },
       {
         "time": "2026-11-11 19:15 KST",
