@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-12",
+    "made": "2026-11-12 07:40 KST",
+    "predictions": [
+      {
+        "label": "이수페타시스",
+        "ticker": "007660",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 종가 82,000원 +19.4% 폭등 - AI 기판 바스켓 리더십·대구 7공장 5천억원 투자협약 레버리지가 upside 축, 그러나 수일 랠리 뒤 매물 유입·forward P/E 28 리레이팅 부담이 downside 카운터, 급등 후 차익실현 흐름 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "한국항공우주",
+        "ticker": "047810",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 109,000원 +7.7% 랠리 - KAI 연매출 5조원 가이던스·KF-21 수출 도전·FA-50M 말레이시아 초도 인도 cadence가 upside 축, forward P/E 25 밸류 부담 downside 카운터, 방산·우주 바스켓 2일차 모멘텀 레버리지 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "ORCL",
+        "ticker": "ORCL",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 126.63달러 +7.4% 급등 - AI 인프라 V-반등 리더십·OCI 수주 cadence·6,640억달러 백로그 가이던스가 upside 축, forward P/E 28 밸류 부담 downside 카운터, 하이퍼스케일러 2027 CAPEX 1조달러대 재점화 레버리지 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "made": "2026-11-11 07:10 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 2,050,000원 +13.3% 폭등 - 美 초고압 변압기 수주·AI 데이터센터 CAPEX 레버리지 선반영. 급등 뒤 차익실현 피로·forward P/E 재검증 테스트가 downside 축, 전력기기 바스켓 중기 수주 서사는 upside 카운터. mean reversion 모멘텀 우세",
         "result": "hit",
         "actual": -2.1
-      }
-    ]
-  },
-  {
-    "date": "2026-11-02",
-    "made": "2026-10-30 07:30 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 232,000원 -4.1% 조정·Q3 영업익 107.4조 공식 확정 후 선반영 매도 소진·HBM4 Vera Rubin LTA 공식화 임박·외국인 반도체 재진입 서사·FOMC 25bp 인하 소화 완료가 upside 축, 전일 랠리 피로·메가캡 CAPEX 2027 공포 전이는 downside 카운터, 급락 뒤 반등 모멘텀 우세",
-        "result": "miss",
-        "actual": -3.3
-      },
-      {
-        "label": "LG에너지솔루션",
-        "ticker": "373220",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 356,000원 -8.6% 급락·Q3 매출 9.6조·영업익 7,560억 호실적 재해석 유입·2027 미주 Ultium 램프업·AMPC 레버리지·리튬 선물 +8.3% 반등 동행·오버솔드 반등 서사가 upside 축, 2차전지 바스켓 되돌림 지속은 downside 카운터, 급락 뒤 저가매수 모멘텀 우세",
-        "result": "miss",
-        "actual": -1.5
-      },
-      {
-        "label": "HII",
-        "ticker": "HII",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 320.87달러 +14.9% 폭등·Q3 EPS 5.48달러 컨센 상회·신규 수주 320억달러·FY26 조선 가이던스 상향 공식화·미 해군 항모·잠수함 사이클 리더십 재검증·방산 디펜시브 로테이션 재점화가 upside 축, 급등 후 차익실현 피로는 downside 카운터, 어닝 서프라이즈 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": 0.2
       }
     ]
   }
