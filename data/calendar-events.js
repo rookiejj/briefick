@@ -329,148 +329,17 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Archer Aviation 실적",
-    "date": "2026-11-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ACHR"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "AST SpaceMobile 실적",
-    "date": "2026-11-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ASTS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Constellation 실적",
-    "date": "2026-11-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CEG"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Marathon Digital 실적",
-    "date": "2026-11-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "MARA"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Rocket Lab 실적",
-    "date": "2026-11-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "RKLB"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "CJ제일제당 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "097950"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "CoreWeave 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CRWV"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "D-Wave 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "QBTS"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "KT 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "030200"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Rigetti 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "RGTI"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "TransDigm 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "TDG"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "엔씨소프트 실적",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "desc": "실적 발표 예정",
     "tickers": [
       "036570"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "크래프톤 실적",
-    "date": "2026-11-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "259960"
     ],
     "src": "auto-earnings"
   },
@@ -482,17 +351,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "112040"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한국가스공사 실적",
-    "date": "2026-11-11",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "036460"
     ],
     "src": "auto-earnings"
   },
@@ -559,6 +417,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "263750"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "한국가스공사 실적",
+    "date": "2026-11-12",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "036460"
     ],
     "src": "auto-earnings"
   },
@@ -741,17 +610,6 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "Planet Labs 실적",
-    "date": "2026-12-09",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "PL"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "Costco 실적",
     "date": "2026-12-10",
     "desc": "실적 발표 예정",
@@ -768,6 +626,17 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "LULU"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
+    "title": "Planet Labs 실적",
+    "date": "2026-12-10",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "PL"
     ],
     "src": "auto-earnings"
   },
