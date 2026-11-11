@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,212,000원 +6.7% V자 급반등 종가 - HBM3E 12-Hi 대량양산·HBM4 LTA 공식화 D-8 임박·11/19 글로벌 AI 반도체 Q3 가이던스 선반영·외국인 반도체 바스켓 재매수 2일차가 upside 축, 급등 후 차익실현은 downside 카운터, HBM 서사 모멘텀 지속 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.4
       },
       {
         "label": "HD현대일렉",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 394,000원 +11.1% 신고가 - 전력·원전 바스켓 급등 1일 소화 뒤 매물 유입 리스크·초고압 변압기 LTA 기대 선반영·forward P/E 23 리레이팅 부담이 downside 축, AI 데이터센터 PPA 모멘텀 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -1.4
       },
       {
         "label": "AMD",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 536.02달러 +5.4% 랠리 2일차 - OpenAI MOU·MI400 cadence 재점화·반도체 리더십 복귀·AI 바스켓 재매수 모멘텀 연장이 upside 축, forward P/E 45 밸류 부담은 downside 카운터, 11/19 NVDA Q3 D-8 앞 AMD 2위 플레이어 서사 레버리지 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.8
       }
     ]
   },
@@ -238,4 +238,3 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
-
