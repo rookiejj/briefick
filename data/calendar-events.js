@@ -294,6 +294,8 @@ const fixed = [
   { cat:'macro', impact:1, title:'미국 11월 NAHB 주택시장지수', date:'2026-11-17', desc:'건설업체 심리·주택 수요·연말 모멘텀 체크·금리 민감도' },
   { cat:'macro', impact:2, title:'중국 10월 CPI·PPI', date:'2026-11-12', desc:'NBS 발표·디플레 압력 재점검·Q4 경기부양·AI 그리드 수요 모멘텀 선행' },
   { cat:'macro', impact:2, title:'미국 11월 S&P 글로벌 PMI 플래시', date:'2026-11-20', desc:'제조·서비스 PMI 플래시·Q4 성장 모멘텀 체크·12월 FOMC 가이던스 분수령' },
+  { cat:'ipo', impact:3, title:'Anthropic IPO 프라이싱 예상', date:'2026-11-13', desc:'로드쇼 11/10 시작 뒤 프라이싱 윈도우·레인지 1조1,000억~2조달러 수렴·ANT 티커·11/16 Nasdaq 거래 개시 D-3' },
+  { cat:'earnings', impact:3, title:'NVIDIA Q3 FY27 실적', date:'2026-11-17', desc:'Rubin 양산 cadence·HBM4 LTA 가이던스 공식화·2027 CAPEX 1조달러대 번레이트·젠슨 황 CEO 조사 소화 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 종가 82,000원 +19.4% 폭등 - AI 기판 바스켓 리더십·대구 7공장 5천억원 투자협약 레버리지가 upside 축, 그러나 수일 랠리 뒤 매물 유입·forward P/E 28 리레이팅 부담이 downside 카운터, 급등 후 차익실현 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": 8.4
       },
       {
         "label": "한국항공우주",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 109,000원 +7.7% 랠리 - KAI 연매출 5조원 가이던스·KF-21 수출 도전·FA-50M 말레이시아 초도 인도 cadence가 upside 축, forward P/E 25 밸류 부담 downside 카운터, 방산·우주 바스켓 2일차 모멘텀 레버리지 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.3
       },
       {
         "label": "ORCL",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 126.63달러 +7.4% 급등 - AI 인프라 V-반등 리더십·OCI 수주 cadence·6,640억달러 백로그 가이던스가 upside 축, forward P/E 28 밸류 부담 downside 카운터, 하이퍼스케일러 2027 CAPEX 1조달러대 재점화 레버리지 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 8.8
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-11-12 기준 변경된 항목 있음
