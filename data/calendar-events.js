@@ -296,6 +296,9 @@ const fixed = [
   { cat:'macro', impact:2, title:'미국 11월 S&P 글로벌 PMI 플래시', date:'2026-11-20', desc:'제조·서비스 PMI 플래시·Q4 성장 모멘텀 체크·12월 FOMC 가이던스 분수령' },
   { cat:'ipo', impact:3, title:'Anthropic IPO 프라이싱 예상', date:'2026-11-13', desc:'로드쇼 11/10 시작 뒤 프라이싱 윈도우·레인지 1조1,000억~2조달러 수렴·ANT 티커·11/16 Nasdaq 거래 개시 D-3' },
   { cat:'earnings', impact:3, title:'NVIDIA Q3 FY27 실적', date:'2026-11-17', desc:'Rubin 양산 cadence·HBM4 LTA 가이던스 공식화·2027 CAPEX 1조달러대 번레이트·젠슨 황 CEO 조사 소화 분수령' },
+  { cat:'policy', impact:1, title:'미국 추수감사절 (휴장)', date:'2026-11-26', desc:'NYSE·Nasdaq 휴장·채권시장 휴장·연말 소비 시즌 공식 개막' },
+  { cat:'policy', impact:1, title:'미국 블랙프라이데이 (단축)', date:'2026-11-27', desc:'NYSE·Nasdaq 조기 폐장(13:00 ET)·연말 소비 데이터 분수령·리테일주 바스켓 반응 체크' },
+  { cat:'other', impact:2, title:'사이버먼데이 리테일 데이터', date:'2026-11-30', desc:'온라인 소비 지표·AMZN·리테일 ETF 바스켓 분수령·Q4 가이던스 선행' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

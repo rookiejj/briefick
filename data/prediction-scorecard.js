@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-16",
+    "made": "2026-11-13 07:15 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "208,000원 +1.0% 직전 종가 - HBM4 LTA 공시 11/19 D-3 지지력·외국인 반도체 바스켓 2일 매수 cadence 연장이 upside 축, 밤사이 뉴욕 반도체 조정 여진이 downside 카운터 소화 뒤 월요 재정비 흐름 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "163.40달러 -5.9% 전일 종가 - CEO 외부 조사 여진 과매도 소화·11/17 Q3 FY27 실적 D-1 선점 매수 바스켓 회복 신호가 upside 축, Rubin cadence·HBM4 LTA 가이던스 공식화 기대 재점화 흐름 우세",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "down",
+        "rationale": "774.26달러 -4.6% 전일 종가 - 메모리 바스켓 2일 랠리 뒤 차익 실현 집중·HBM4 cadence 공식화 전 소화 국면이 downside 축, NVDA 조정 여진 연동·반도체 바스켓 재편 소화 흐름 우세",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "made": "2026-11-12 07:40 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -0.6
       }
     ]
-  },
-  {
-    "date": "2026-11-03",
-    "made": "2026-11-03 07:35 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,472,000원 +3.8% 반등 - 외국인 매도 축소·기관 1.23조원 순매수·HBM 수급 서사 재점화. 11/19 NVIDIA Q3 FY27·HBM4 LTA 공식화 임박 포지셔닝이 upside 축, 메가캡 CAPEX 디레이팅 우려는 downside 카운터. 반도체 리더십 복귀 모멘텀 우세",
-        "result": "miss",
-        "actual": -3.6
-      },
-      {
-        "label": "AMZN",
-        "ticker": "AMZN",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 251.56달러 +4.7% 급등 - AWS Q3 +39% YoY 가속·Jassy 2027~28 40%+ 가이던스·2026 CAPEX 2,200억달러 상향 공식화. 메가캡 재선호·클라우드 리더십 재확인이 upside 축, 메가캡 CAPEX 번레이트 재공포는 downside 카운터. 어닝 서프라이즈 연장 모멘텀 우세",
-        "result": "hit",
-        "actual": 2.2
-      },
-      {
-        "label": "효성중공업",
-        "ticker": "298040",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 2,050,000원 +13.3% 폭등 - 美 초고압 변압기 수주·AI 데이터센터 CAPEX 레버리지 선반영. 급등 뒤 차익실현 피로·forward P/E 재검증 테스트가 downside 축, 전력기기 바스켓 중기 수주 서사는 upside 카운터. mean reversion 모멘텀 우세",
-        "result": "hit",
-        "actual": -2.1
-      }
-    ]
   }
 ];
-채점 완료: 2026-11-12 기준 변경된 항목 있음
