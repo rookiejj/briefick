@@ -1,37 +1,37 @@
 const updates = [
   {
-    "date": "2026-11-12 19:00 KST",
-    "summary": "S&P 500 7,619 +1.31% - 코어위브 어닝·앤트로픽 IPO 기대로 AI 트레이드 복원\n코어위브 60.77달러 +24.7% 폭등 - 3분기 어닝 서프라이즈, FY26 가이던스 상향\n엔비디아 173달러 +2.9% 정규장 - 시간외 황 CEO 조사 보도로 급락\n애플 사상 최고 종가 경신 - 시총 1위 복귀, AI 아이폰 수요 서사 지지\n반도체 바스켓 +5~12% - 마이크론·AMD·브로드컴 메모리·AI 가속기 동반 랠리",
+    "date": "2026-11-13 07:10 KST",
+    "summary": "엔비디아 163달러 -5.9% - CEO 조사 보도 여진, AI 리더십 바스켓 재편\n브로드컴 362달러 +4.8% - 커스텀 AI 가속기 리더 리레이팅\n마이크론 774달러 -4.6% - 메모리 2일 랠리 뒤 차익 실현\n방어주 바스켓 강세 - 존슨앤존슨·일라이릴리 섹터 로테이션\n애플 284달러 사상 최고 유지 - 메가캡 상대 강세 2일차",
     "changes": [
       {
-        "time": "2026-11-11 23:30 KST",
-        "type": "AI 플랫폼",
-        "sector": "AI 플랫폼",
-        "detail": "CoreWeave(CRWV)·NVIDIA(NVDA). 60.77달러 +24.7%·173.73달러 +2.9% 정규장 AI 인프라 바스켓 폭등, CoreWeave 3분기 어닝 서프라이즈·FY26 revenue 가이던스 130억~133억달러로 상향·exit 런레이트 200억~210억달러 공식화가 축. 2026 CAPEX 370억~390억달러 확대·1.85GW 연말 가동 목표 유지가 중기 서사, 엔비디아 시간외 -8% 159.95달러 급락·젠슨 황 CEO 외부 조사 보도가 반전 모멘텀. institutional flow 렌즈로는 AI 인프라 바스켓 외국인 재유입 축, 밸류에이션 렌즈로는 CoreWeave forward EV/Sales 8·CSP 프리미엄 유지 축, 시나리오 렌즈로는 11/17 엔비디아 Q3 FY27 실적·CEO 조사 결과·2027 GPU 할당 cadence가 리더십 분수령."
-      },
-      {
-        "time": "2026-11-11 23:30 KST",
+        "time": "2026-11-13 07:10 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "Micron(MU)·AMD·Broadcom(AVGO). 811.30달러 +11.9%·552.90달러 +7.3%·345.22달러 +4.0% 반도체 바스켓 일제 랠리, 마이크론 HBM4 샘플 3사 공급·AMD MI400 cadence·브로드컴 커스텀 AI 가속기 수주 재점화가 축. 메모리 슈퍼사이클 서사·2027 CAPEX 상향·OpenAI MOU 레버리지가 중기 축, Baird 엔비디아 중립 하향에도 반도체 외곽 상대 강세가 모멘텀 축. institutional flow 렌즈로는 반도체 바스켓 외국인 가속 축, 밸류에이션 렌즈로는 마이크론 forward P/E 10·AMD 32·브로드컴 29 리레이팅 축, 시나리오 렌즈로는 HBM4 cadence·MI400 출시·커스텀 AI 가속기 수주 가이던스가 리더십 분수령."
+        "detail": "NVIDIA(NVDA)·Broadcom(AVGO)·Micron(MU)·AMD. 163.40달러 -5.9%·361.82달러 +4.8%·774.26달러 -4.6%·561.01달러 +1.5% 반도체 바스켓 리더십 재편, 엔비디아 CEO 외부 조사 보도 여진·AI 밸류 경계·젠슨 황 리더십 불확실성 소화가 축. 11/17 Q3 FY27 실적 D-4 임박·Rubin 양산 cadence·HBM4 LTA 가이던스 공식화·2027 CAPEX 1조달러대 번레이트 지속성이 반전 분수령, AVGO 커스텀 AI 가속기 수주 재점화·AMD MI400 cadence가 바스켓 회전 수혜 축. institutional flow 렌즈로는 엔비디아 바스켓 2일 매도 뒤 AVGO·AMD 외국인 재유입 축, 밸류에이션 렌즈로는 NVDA forward P/E 26·AVGO 29·MU 10 재검증 축, 시나리오 렌즈로는 11/17 엔비디아 실적·CEO 조사 결과·커스텀 AI 가속기 cadence가 리더십 분수령."
       },
       {
-        "time": "2026-11-11 23:30 KST",
+        "time": "2026-11-13 07:10 KST",
         "type": "메가캡",
         "sector": "AI 플랫폼",
-        "detail": "Apple(AAPL)·Alphabet(GOOGL)·Tesla(TSLA). 애플 사상 최고 종가 경신·293.45달러 +2.1%·390.84달러 +2.9% 메가캡 상대 강세, 애플 아이폰 17 수요 서사·시총 1위 복귀·구글 TPU v6 cadence·검색 AI 광고 리레이팅·테슬라 FSD v13·로보택시 cadence가 축. AI 트레이드 복원 cadence·CoreWeave 서프라이즈·앤트로픽 IPO 기대가 중기 서사, 마이크로소프트 -2.3% 상대 부진·AI 바스켓 재편 소화가 반전 축. institutional flow 렌즈로는 메가캡 바스켓 재편 지속 축, 밸류에이션 렌즈로는 애플 forward P/E 32·구글 28 밸류 재검증 축, 시나리오 렌즈로는 아이폰 수요·TPU 수주·FSD cadence가 리더십 분수령."
+        "detail": "Apple(AAPL)·Alphabet(GOOGL)·Microsoft(MSFT)·Tesla(TSLA). 283.86달러·295.54달러 +0.7%·524.89달러 +0.7%·390.20달러 -0.2% 메가캡 상대 강세 2일차, 애플 사상 최고 종가권 유지·시총 1위 복귀·구글 TPU v6 cadence·검색 AI 광고 리레이팅이 축. AI 트레이드 리더십 반도체에서 메가캡·방어주로 회전·NVDA 바스켓 조정 속 메가캡 상대 수혜가 중기 서사, 테슬라 FSD v13·로보택시 cadence 유지가 모멘텀 축. institutional flow 렌즈로는 메가캡 바스켓 외국인 재유입 축, 밸류에이션 렌즈로는 애플 forward P/E 32·구글 28·MSFT 32 재검증 축, 시나리오 렌즈로는 아이폰 수요·TPU 수주·FSD cadence가 리더십 분수령."
       },
       {
-        "time": "2026-11-11 23:30 KST",
-        "type": "AI 인프라·네트워크",
+        "time": "2026-11-13 07:10 KST",
+        "type": "방어주 로테이션",
+        "sector": "바이오·헬스케어",
+        "detail": "Johnson & Johnson(JNJ)·Eli Lilly(LLY)·Walmart(WMT)·McDonald's(MCD). 283.39달러 +1.1%·1,445.57달러 +0.6%·126.52달러 +0.7%·278.40달러 +1.3% 방어주 바스켓 동반 강세, 반도체·AI 바스켓 조정 뒤 섹터 로테이션 신호가 축. NVDA CEO 조사 여진·AI 밸류 경계 심리·VIX 15선 복귀가 모멘텀 축, 2027 CAPEX 1조달러 compute 번레이트 소화 뒤 디펜시브 재유입이 중기 서사. institutional flow 렌즈로는 방어주 바스켓 외국인 재유입 1일 축, 밸류에이션 렌즈로는 JNJ forward P/E 16·LLY 42·WMT 32 재검증 축, 시나리오 렌즈로는 Q4 소비 가이던스·GLP-1 매출·필수소비 cadence가 분수령."
+      },
+      {
+        "time": "2026-11-13 07:10 KST",
+        "type": "AI 인프라 조정",
         "sector": "데이터센터",
-        "detail": "Oracle(ORCL)·Cisco(CSCO)·Arista(ANET). 128.38달러 +8.8%·100.76달러 +2.7%·196.68달러 +6.3% AI 인프라·네트워크 바스켓 랠리, 오라클 OCI 수주 cadence 재점화·시스코 Q1 FY27 실적 발표 D-day·매출 180억~182억달러·EPS $1.32~1.34 가이던스·아리스타 데이터센터 스위칭 수주가 축. 2027 CAPEX 1조달러대 레버리지·AI 네트워크 리레이팅이 중기 서사, 반도체 바스켓 복원과 AI 트레이드 재점화가 모멘텀 축. institutional flow 렌즈로는 AI 인프라 바스켓 외국인 가속 축, 밸류에이션 렌즈로는 오라클 forward P/E 28·시스코 17 재평가 축, 시나리오 렌즈로는 시스코 Q1 실적·OCI 가이던스·2027 AI 네트워크 CAPEX가 분수령."
+        "detail": "Oracle(ORCL)·CoreWeave(CRWV)·Palantir(PLTR)·Snowflake(SNOW). 125.40달러 -2.3%·55.60달러 -8.5%·169.50달러 -1.7%·291.95달러 -3.1% AI 인프라 바스켓 조정, CoreWeave 전날 +24.7% 어닝 서프라이즈 뒤 급락 반락·AI CAPEX 피크 재점화 경계가 축. 2027 CAPEX 1조달러대 번레이트 소화·NVDA 바스켓 조정 연동이 중기 서사, Oracle OCI 수주 cadence·앤트로픽 IPO 11/13 프라이싱이 반전 모멘텀. institutional flow 렌즈로는 AI 인프라 바스켓 외국인 매도 1일 축, 밸류에이션 렌즈로는 Oracle forward P/E 28·CoreWeave EV/Sales 8·PLTR 110 재검증 축, 시나리오 렌즈로는 앤트로픽 IPO 프라이싱·OCI 가이던스·2027 AI CAPEX cadence가 분수령."
       },
       {
-        "time": "2026-11-11 23:30 KST",
+        "time": "2026-11-13 07:10 KST",
         "type": "지수·매크로",
         "sector": "금융·은행",
-        "detail": "S&P 500 7,619.38 +1.31%·나스닥·다우 동반 상승, 11/4 이후 최고 종가·10월 6일 기록 대비 2.55% 아래 복귀가 축. CoreWeave 3분기 어닝 서프라이즈·앤트로픽 IPO 11월 중순 타깃·AI 트레이드 복원·Baird 엔비디아 중립 하향 소화가 중기 서사, 시간외 엔비디아 -8% 황 CEO 조사 보도 반전이 모멘텀 축. institutional flow 렌즈로는 AI 바스켓 외국인 재유입 가속 축, 밸류에이션 렌즈로는 S&P 500 forward P/E 24·earnings yield 4.1%·10y 4.3% 재점검 축, 시나리오 렌즈로는 11/17 엔비디아 실적·앤트로픽 IPO 프라이싱·12월 FOMC cadence가 분수령."
+        "detail": "S&P 500·나스닥·다우 혼조 마감, 엔비디아 -5.9% CEO 조사 여진·AI 밸류 경계·반도체 바스켓 재편·방어주 로테이션이 축. 10y 4.3%대 안정·DXY 97 약세 유지·연준 12월 25bp 인하 공식화 윈도우·셧다운 종료 매크로 노이즈 소화가 중기 서사, 앤트로픽 IPO 11/13 프라이싱·NVDA 11/17 실적·12월 FOMC cadence 임박이 변동성 축. institutional flow 렌즈로는 반도체 매도·방어주 매수 로테이션 1일 축, 밸류에이션 렌즈로는 S&P 500 forward P/E 24·earnings yield 4.1%·10y gap 20bp 재점검 축, 시나리오 렌즈로는 앤트로픽 IPO·NVDA 실적·12월 FOMC cadence가 분수령."
       }
     ]
   }
