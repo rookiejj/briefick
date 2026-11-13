@@ -1,13 +1,31 @@
 const updates = [
   {
-    "date": "2026-11-13 07:10 KST",
-    "summary": "엔비디아 163달러 -5.9% - CEO 조사 보도 여진, AI 리더십 바스켓 재편\n브로드컴 362달러 +4.8% - 커스텀 AI 가속기 리더 리레이팅\n마이크론 774달러 -4.6% - 메모리 2일 랠리 뒤 차익 실현\n방어주 바스켓 강세 - 존슨앤존슨·일라이릴리 섹터 로테이션\n애플 284달러 사상 최고 유지 - 메가캡 상대 강세 2일차",
+    "date": "2026-11-13 19:15 KST",
+    "summary": "AMD 585달러 +5.9% 리더십 - MI400 cadence·NVDA 조정 속 AI 가속기 바스켓 회전\n브로드컴 364달러 +5.5% - 커스텀 AI 가속기 리레이팅 2일차\n엔비디아 166달러 -4.3% - 11/17 Q3 D-3, CEO 조사 여진 지속\n양자·SMR 바스켓 동반 급락 - 아이온큐·센트러스·오클로 차익 집중\n크립토 프록시 약세 - MSTR -6.5%, BTC 7만달러대 레버리지 청산",
     "changes": [
       {
-        "time": "2026-11-13 07:10 KST",
+        "time": "2026-11-13 19:15 KST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "NVIDIA(NVDA)·Broadcom(AVGO)·Micron(MU)·AMD. 163.40달러 -5.9%·361.82달러 +4.8%·774.26달러 -4.6%·561.01달러 +1.5% 반도체 바스켓 리더십 재편, 엔비디아 CEO 외부 조사 보도 여진·AI 밸류 경계·젠슨 황 리더십 불확실성 소화가 축. 11/17 Q3 FY27 실적 D-4 임박·Rubin 양산 cadence·HBM4 LTA 가이던스 공식화·2027 CAPEX 1조달러대 번레이트 지속성이 반전 분수령, AVGO 커스텀 AI 가속기 수주 재점화·AMD MI400 cadence가 바스켓 회전 수혜 축. institutional flow 렌즈로는 엔비디아 바스켓 2일 매도 뒤 AVGO·AMD 외국인 재유입 축, 밸류에이션 렌즈로는 NVDA forward P/E 26·AVGO 29·MU 10 재검증 축, 시나리오 렌즈로는 11/17 엔비디아 실적·CEO 조사 결과·커스텀 AI 가속기 cadence가 리더십 분수령."
+        "detail": "AMD·Broadcom(AVGO)·NVIDIA(NVDA)·Micron(MU). 585.30달러 +5.9%·364.36달러 +5.5%·166.19달러 -4.3%·798.44달러 -1.6% 반도체 바스켓 리더십 재편, AMD MI400 cadence 재점화·AVGO 커스텀 AI 가속기 수주·NVDA CEO 조사 여진 지속이 축. 11/17 NVDA Q3 FY27 실적 D-3·Rubin 양산 cadence·HBM4 LTA 공시 가이던스가 반전 분수령, AMD HPC 수주 재부각·AVGO 하이퍼스케일러 커스텀 ASIC 바스켓 유입이 바스켓 회전 수혜 축. institutional flow 렌즈로는 NVDA 2일 매도 뒤 AMD·AVGO 외국인 재유입 가속 축, 밸류에이션 렌즈로는 AMD forward P/E 42·AVGO 29·NVDA 26 리레이팅 축, 시나리오 렌즈로는 11/17 NVDA 실적·MI400 cadence·HBM4 공시가 리더십 분수령."
+      },
+      {
+        "time": "2026-11-13 19:15 KST",
+        "type": "양자·원전",
+        "sector": "원자력·SMR",
+        "detail": "IONQ·Centrus(LEU)·Oklo(OKLO)·D-Wave(QBTS). 30.86달러 -9.4%·103.92달러 -7.4%·24.45달러 -5.5%·9.84달러 -7.6% 양자·SMR 바스켓 동반 급락, 전날 랠리 뒤 차익 실현 집중·AI 테마 바스켓 로테이션이 축. SMR 상용화 지연 우려·양자 밸류 경계·HALEU 농축 cadence 유지가 중기 서사, AI DC 전력 수요 확장 테마 유효성 재점검이 모멘텀 축. institutional flow 렌즈로는 소형주 테마 바스켓 외국인 매도 집중 축, 밸류에이션 렌즈로는 IONQ forward P/S 100·LEU P/S 25 디레이팅 축, 시나리오 렌즈로는 Aurora Powerhouse cadence·HALEU 공급 계약·양자 오류정정 벤치마크가 반전 분수령."
+      },
+      {
+        "time": "2026-11-13 19:15 KST",
+        "type": "크립토 프록시",
+        "sector": "양자·크립토",
+        "detail": "MicroStrategy(MSTR)·Coinbase(COIN)·Marathon(MARA)·Bitdeer(BTDR). 114.41달러 -6.5%·130.67달러 -4.1%·7.20달러 -6.0%·6.13달러 -12.8% 크립토 프록시 바스켓 약세, BTC 7만달러대 재진입·레버리지 포지션 청산·AI 트레이드 조정 여진이 축. 크립토 ETF 자금 유출·채굴 마진 축소 우려가 중기 서사, 셧다운 종료 매크로 노이즈 소화 뒤 위험자산 바스켓 재편이 모멘텀 축. institutional flow 렌즈로는 크립토 ETF 2일 매도 축, 밸류에이션 렌즈로는 MSTR 프리미엄 축소·COIN forward P/E 18 디레이팅 축, 시나리오 렌즈로는 BTC 지지력·스테이킹 ETF 승인·연준 12월 인하 공식화가 반전 분수령."
+      },
+      {
+        "time": "2026-11-13 19:15 KST",
+        "type": "결제·에너지",
+        "sector": "핀테크·결제",
+        "detail": "Global Payments(GPN)·Exxon(XOM)·Chevron(CVX). 88.19달러 -12%·169.78달러 +1.8%·216.35달러 +1.4% 결제 쇼크 vs 에너지 강세 분화, GPN Q3 가이던스 하향·마진 압박 보도 부담이 결제 바스켓 디레이팅 축. 에너지 바스켓은 WTI 85달러대 지지·에너지 섹터 로테이션 복원이 중기 서사, Q3 FCF 가이던스·배당 지속 가능성이 상대 강세 축. institutional flow 렌즈로는 결제 바스켓 매도 뒤 에너지·배당주 로테이션 축, 밸류에이션 렌즈로는 GPN forward P/E 7 디스카운트 재확대·XOM 13 안정 축, 시나리오 렌즈로는 결제 가이던스 재공시·OPEC+ 12월 회의·WTI 수급 cadence가 섹터 로테이션 분수령."
       },
       {
         "time": "2026-11-13 07:10 KST",
