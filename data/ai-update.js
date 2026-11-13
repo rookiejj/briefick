@@ -1,8 +1,32 @@
 const UPDATES = [
   {
-    "date": "2026-11-13 07:10 KST",
-    "summary": "앤트로픽 11/13 IPO 프라이싱 - 밸류 2조달러대 레인지 수렴\n엔비디아 11/17 Q3 D-4 - Rubin·HBM4 가이던스 공식화 예정\nGemini 3 Ultra 11월 말 공개 - Veo 4·TPU v7 로드맵 복합\n오픈AI DevDay 도쿄·런던 - 글로벌 8개 도시 cadence 지속\nxAI 그록 5 cadence - 멀티모달 벤치마크 리레이팅 대기",
+    "date": "2026-11-13 19:20 KST",
+    "summary": "앤트로픽 IPO 프라이싱 완료 - 11/16 Nasdaq ANT 거래 개시 D-3\nAMD MI400 cadence 재점화 - HPC 커스텀 가속기 수주 재부각\n엔비디아 11/17 Q3 D-3 - Rubin·HBM4 공식 가이던스 임박\n구글 Gemini 3 Ultra 11월 말 공개 - TPU v7 로드맵 복합 발표\n오픈AI DevDay 도쿄·런던 - 글로벌 8개 도시 cadence 지속",
     "entries": [
+      {
+        "time": "2026-11-13 19:20 KST",
+        "type": "펀딩",
+        "sector": "Anthropic",
+        "text": "앤트로픽(Anthropic). IPO 프라이싱 11/13 완료 윈도우, 11/16 Nasdaq ANT 거래 개시 D-3 분수령. S-1 수정판 프라이싱 레인지 공시 뒤 밸류 디스커버리 1차 종료, 투자자 레벨 1조1,000억~2조달러 수렴·5월 Series H-1 965억달러 프라이빗 마크 대비 50% 이상 리레이팅 요구 유지가 축. H1 2026 매출 163억달러·런레이트 170억달러·Q2 영업이익 9.74억달러 첫 영업흑자 가이던스가 밸류 정당화 축, 밤사이 AMD 5.9% 급등·NVDA 조정 속 AI 트레이드 재점화 윈도우가 상장 모멘텀 축. monetization 렌즈로는 Claude Opus 5 엔터프라이즈 ARR 70억달러 가이던스 축, 밸류에이션 렌즈로는 OpenAI 1조4,000억달러 라운드 레퍼런스 축, 시나리오 렌즈로는 11/16 거래 개시·IPO 사후 밸류 유지·엔비디아 11/17 실적이 리더십 분수령."
+      },
+      {
+        "time": "2026-11-13 19:20 KST",
+        "type": "인프라",
+        "sector": "NVIDIA",
+        "text": "엔비디아(NVIDIA). 11/17 Q3 FY27 실적 D-3 임박, CEO 조사 보도 여진·AI 바스켓 로테이션 소화가 축. 166.19달러 -4.3% 2일 조정·Rubin 양산 cadence 공식화·HBM4 LTA 가이던스 공표 윈도우가 반전 분수령, AMD 585달러 +5.9%·AVGO 364달러 +5.5% 바스켓 회전 수혜 확산이 상대 리스크 축. 2027 CAPEX 1조달러대 번레이트 지속성·커스텀 ASIC 경쟁 재점화가 중기 서사, institutional flow 렌즈로는 NVDA 2일 매도 뒤 AMD·AVGO 재유입 축, 밸류에이션 렌즈로는 forward P/E 26 재검증 축, 시나리오 렌즈로는 11/17 Q3 실적·Rubin cadence·CEO 조사 결과가 리더십 분수령."
+      },
+      {
+        "time": "2026-11-13 19:20 KST",
+        "type": "모델 출시 예정",
+        "sector": "Google DeepMind",
+        "text": "구글 딥마인드(Google DeepMind). Gemini 3 Ultra 11월 말 공개 cadence 재확인, TPU v7 로드맵 복합 발표가 축. Veo 4 비디오 모델·Project Astra 확장·검색 AI Overview 글로벌 롤아웃이 생태계 레버리지, AMD MI400·엔비디아 Rubin 멀티벤더 전략 복합이 인프라 축. monetization 렌즈로는 Gemini Enterprise ARR·Cloud TPU 수주 레버리지 축, 밸류에이션 렌즈로는 Alphabet 298달러 +1.8% 상대 강세 축, 시나리오 렌즈로는 Gemini 3 Ultra 벤치마크·TPU v7 cadence·AI Overview 수익화가 리더십 분수령."
+      },
+      {
+        "time": "2026-11-13 19:20 KST",
+        "type": "제품 출시",
+        "sector": "OpenAI",
+        "text": "오픈AI(OpenAI). DevDay 글로벌 cadence 지속, 도쿄·런던·서울 등 8개 도시 로드쇼가 축. GPT-5.5 API 가격 하향·멀티모달 에이전트 API 공식화·엔터프라이즈 ARR 110억달러 가이던스가 중기 서사, IPO 준비 cadence 지속·1조4,000억달러 라운드 레퍼런스 유지가 밸류 축. monetization 렌즈로는 ChatGPT Plus·Enterprise ARR 가속 축, 밸류에이션 렌즈로는 Anthropic IPO 프라이싱 레퍼런스 활용 축, 시나리오 렌즈로는 DevDay cadence·GPT-5.5 cadence·IPO 준비 cadence가 리더십 분수령."
+      },
       {
         "time": "2026-11-13 07:10 KST",
         "type": "펀딩",
