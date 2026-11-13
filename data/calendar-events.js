@@ -299,6 +299,9 @@ const fixed = [
   { cat:'policy', impact:1, title:'미국 추수감사절 (휴장)', date:'2026-11-26', desc:'NYSE·Nasdaq 휴장·채권시장 휴장·연말 소비 시즌 공식 개막' },
   { cat:'policy', impact:1, title:'미국 블랙프라이데이 (단축)', date:'2026-11-27', desc:'NYSE·Nasdaq 조기 폐장(13:00 ET)·연말 소비 데이터 분수령·리테일주 바스켓 반응 체크' },
   { cat:'other', impact:2, title:'사이버먼데이 리테일 데이터', date:'2026-11-30', desc:'온라인 소비 지표·AMZN·리테일 ETF 바스켓 분수령·Q4 가이던스 선행' },
+  { cat:'macro', impact:3, title:'미국 10월 PCE 물가지수', date:'2026-11-25', desc:'연준 선호 인플레 지표·근원 PCE YoY·12월 FOMC 25bp 인하 공식화 분수령' },
+  { cat:'macro', impact:2, title:'미국 Q3 GDP 2차 추정', date:'2026-11-24', desc:'BEA 2차 추정·소비·투자 세부 재검증·Q4 모멘텀 선행 지표' },
+  { cat:'macro', impact:3, title:'한국 11월 금통위', date:'2026-11-26', desc:'기준금리 결정·25bp 인하 공식화 윈도우·원달러 환율·외국인 플로 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
