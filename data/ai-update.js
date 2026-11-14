@@ -1,7 +1,7 @@
 const UPDATES = [
   {
     "date": "2026-11-14 19:20 KST",
-    "summary": "앤트로픽 IPO 프라이싱 11/18 D-4 - 밸류 1조1,000억~1조4,000억달러, 거래 11/19 개시\n엔비디아 Q3 D-3 - 가이던스 매출 1,080억달러·QoQ +12% 공식화 대기\n오픈AI DevDay 글로벌 로드쇼 - GPT-5.5 API 가격 하향 공식화 윈도우\n구글 Gemini 3 Ultra 11월 말 공개 - TPU v7 Ironwood cadence 재확인\nxAI Grok 5 출시 윈도우 - Colossus 2 100만 GPU 가동 cadence",
+    "summary": "앤트로픽 IPO 프라이싱 D-4 - 밸류 1조달러대 레인지, 거래 개시 임박\n엔비디아 Q3 D-3 - 가이던스 매출 1,080억달러 공식화 대기\n오픈AI DevDay 글로벌 로드쇼 - GPT-5.5 API 가격 하향 공식화 윈도우\n구글 Gemini 3 Ultra 11월 말 공개 - TPU v7 Ironwood cadence 재확인\nxAI Grok 5 출시 윈도우 - Colossus 2 100만 GPU 가동 cadence",
     "entries": [
       {
         "time": "2026-11-14 19:20 KST",
