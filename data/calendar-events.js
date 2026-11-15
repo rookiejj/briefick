@@ -338,123 +338,14 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
-    "title": "엔씨소프트 실적",
-    "date": "2026-11-11",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "036570"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "위메이드 실적",
-    "date": "2026-11-11",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "112040"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Cisco 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CSCO"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Intuitive Machines 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "LUNR"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "NAVER 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "035420"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "농심 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "004370"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "삼성화재 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "000810"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "펄어비스 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "263750"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한국가스공사 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "036460"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한국전력 실적",
-    "date": "2026-11-12",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "015760"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
     "title": "SK스퀘어 실적",
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "desc": "실적 발표 예정",
     "tickers": [
       "034730"
