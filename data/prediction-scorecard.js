@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "208,000원 +1.0% 직전 종가 - HBM4 LTA 공시 11/19 D-3 지지력·외국인 반도체 바스켓 2일 매수 cadence 연장이 upside 축, 밤사이 뉴욕 반도체 조정 여진이 downside 카운터 소화 뒤 월요 재정비 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 0
       },
       {
         "label": "NVDA",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "163.40달러 -5.9% 전일 종가 - CEO 외부 조사 여진 과매도 소화·11/17 Q3 FY27 실적 D-1 선점 매수 바스켓 회복 신호가 upside 축, Rubin cadence·HBM4 LTA 가이던스 공식화 기대 재점화 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2
       },
       {
         "label": "MU",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "774.26달러 -4.6% 전일 종가 - 메모리 바스켓 2일 랠리 뒤 차익 실현 집중·HBM4 cadence 공식화 전 소화 국면이 downside 축, NVDA 조정 여진 연동·반도체 바스켓 재편 소화 흐름 우세",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -2.5
       }
     ]
   },
