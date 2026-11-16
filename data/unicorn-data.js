@@ -168,15 +168,15 @@ const data = [
       },
       {
         "nm": "Anduril",
-        "rs": "1,000억달러 밸류 상향 협상 지속 - DoD Replicator Phase 2·NATO 2027 CAPEX 수주 레버리지 복합",
+        "rs": "1,000억달러 밸류 상향 협상 마감 윈도우 - 앤트로픽 IPO 프라이싱 레퍼런스 효과·DoD Replicator Phase 2 수주 레버리지",
         "ipo": "단기 아닐(Luckey)",
         "val": "$100B",
-        "round": "신규 라운드 $100B val 협상 (2026-10)",
+        "round": "신규 라운드 $100B val 협상 (2026-11)",
         "sector": "방산 AI"
       },
       {
         "nm": "Figure AI",
-        "rs": "5/13~20 BotQ 시간당 1대 양산 도달·누적 350대 출하·패키지 소팅 50시간 무인 라이브스트림 1차 양보 80%+·Series D $48B 클로징·Amazon 20K + Mercedes 50K 누적 주문 파이프라인 70K+ 유닛 / $14B+ 매출(2029까지)·BMW 공장 90K+ 파트 로딩",
+        "rs": "앤트로픽 IPO 레퍼런스 뒤 480억달러 밸류 재검증 - BotQ 시간당 1대 양산 도달·누적 1,000대 출하·70,000 유닛 백로그 레버리지",
         "ipo": "미정",
         "val": "$48B",
         "round": "Series D 클로징 (2026-04)",
