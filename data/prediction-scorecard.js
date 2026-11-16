@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-17",
+    "made": "2026-11-17 07:30 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "196,800원 -4.5% 직전 종가 - 외국인 1.7조원 매도 뒤 기술적 oversold·HBM4 LTA 공시 11/19 D-2 지지력·엔비디아 사임 후 첫 실적 D-1 선점 매수 기대 upside 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "159.87달러 -1.8% 직전 종가 - 사임 후 첫 실적 D-1·2주 누적 -20% 조정 oversold·Rubin cadence·2027 CAPEX 가이던스 확인 선점 매수 기대 upside 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "MU",
+        "ticker": "MU",
+        "market": "US",
+        "direction": "down",
+        "rationale": "736.88달러 -5.3% 직전 종가 - 美 DRAM 담합 집단소송 공식 피소 여진 지속·NVDA 실적 D-1 공포·메모리 바스켓 매물 집중 흐름이 downside 축",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "made": "2026-11-13 07:15 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 545,000원 +11.6% 폭등. 2차전지 바스켓 급반등 선두·ESS 수주·전고체 가이던스 재점화 모멘텀 지속.",
         "result": "miss",
         "actual": -5.1
-      }
-    ]
-  },
-  {
-    "date": "2026-11-04",
-    "made": "2026-11-04 07:35 KST",
-    "predictions": [
-      {
-        "label": "BE",
-        "ticker": "BE",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 213.68달러 +8.9% 급등 - AI 데이터센터 SOFC 수주 랠리 지속, 하이퍼스케일러 전력 CAPEX 2,200~2,500억달러 가이던스 레버리지. 전력 CAPEX 사이클 리더십이 upside 축, 급등 뒤 차익실현 피로는 downside 카운터. 연료전지 모멘텀 연장 우세",
-        "result": "hit",
-        "actual": 1.5
-      },
-      {
-        "label": "두산에너빌리티",
-        "ticker": "034020",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 52,200원 -6.3% 급락 - 원자력 바스켓 차익실현 매물 집중. 10월 랠리 과열 소화 과정에서 selling climax 테스트, 체코 NPP·美 SMR·웨스팅하우스 파이프 중기 서사 재검증이 upside 축, 반도체 매도 자금 전력 바스켓 추가 전이는 downside 카운터. 과매도 반등 모멘텀 우세",
-        "result": "hit",
-        "actual": 0.4
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 867.52달러 +4.1% 반등 - 메모리 바스켓 매도 소화·HBM4 LTA 공식화 앞 포지셔닝. 11/19 NVIDIA Q3 FY27·HBM4 공급 리더십 재검증이 upside 축, AI 인프라 CAPEX 번레이트 재공포는 downside 카운터. 메모리 리더십 복귀 모멘텀 우세",
-        "result": "miss",
-        "actual": -0.6
       }
     ]
   }
