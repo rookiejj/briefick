@@ -6,8 +6,15 @@
     <description>한국·미국 주식, AI 기업, 원자재·크립토, 유니콘 5개 도메인의 일일 헤드라인. 매일 KST 07시·19시 자동 업데이트.</description>
     <language>ko-KR</language>
     <atom:link href="https://briefick.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 10:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:17:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>2026년 11월 18일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
+      <link>https://briefick.com/daily/2026-11-18</link>
+      <guid isPermaLink="true">https://briefick.com/daily/2026-11-18</guid>
+      <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
+      <description>삼성전자 190,300원 -3.3% - 전일 반등 되돌림 외국인 매도 재개 · 세일즈포스 195달러 -9.1% - 엔터프라이즈 SW 투매 2일차 AI 대체 공포 재점화 · 비트코인 63,420달러 -2.4% - 엔터프라이즈 SW 투매 전이 심리 위축</description>
+    </item>
     <item>
       <title>2026년 11월 17일 (화) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
       <link>https://briefick.com/daily/2026-11-17</link>
@@ -420,13 +427,6 @@
       <guid isPermaLink="true">https://briefick.com/daily/2026-09-10</guid>
       <pubDate>Wed, 09 Sep 2026 22:00:00 GMT</pubDate>
       <description>코스피 7,033.92 -0.25% 마감 - 유가·금리 부담에도 대형주 상단 방어 · 오라클 실적 D-day - 컨센 매출 191억달러·스타게이트 3,000억달러 백로그 검증 · 비트코인 78,412달러 -0.94% 약세 - 8만달러 방어선 재검증, CPI·FOMC 대기</description>
-    </item>
-    <item>
-      <title>2026년 9월 9일 (수) 시황 — 미국·한국 주식·AI·원자재·유니콘</title>
-      <link>https://briefick.com/daily/2026-09-09</link>
-      <guid isPermaLink="true">https://briefick.com/daily/2026-09-09</guid>
-      <pubDate>Tue, 08 Sep 2026 22:00:00 GMT</pubDate>
-      <description>코스피 7,051 +1.40% 마감 - 기관 대규모 매수 견인 지수 회복 · 애플 'Surprise and Shine' 이벤트 오늘 밤 - iPhone 18 Pro·폴더블 Ultra 공개 카운트다운 · 비트코인 78,370달러 -0.9% - 이란 지정학·연준 매파 재부각 부담 지속</description>
     </item>
   </channel>
 </rss>
