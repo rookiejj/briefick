@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "196,800원 -4.5% 직전 종가 - 외국인 1.7조원 매도 뒤 기술적 oversold·HBM4 LTA 공시 11/19 D-2 지지력·엔비디아 사임 후 첫 실적 D-1 선점 매수 기대 upside 축",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.5
       },
       {
         "label": "NVDA",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "159.87달러 -1.8% 직전 종가 - 사임 후 첫 실적 D-1·2주 누적 -20% 조정 oversold·Rubin cadence·2027 CAPEX 가이던스 확인 선점 매수 기대 upside 축",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -4.1
       },
       {
         "label": "MU",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "736.88달러 -5.3% 직전 종가 - 美 DRAM 담합 집단소송 공식 피소 여진 지속·NVDA 실적 D-1 공포·메모리 바스켓 매물 집중 흐름이 downside 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -7.6
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-11-17 기준 변경된 항목 있음
