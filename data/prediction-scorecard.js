@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-18",
+    "made": "2026-11-18 07:40 KST",
+    "predictions": [
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "1,098,000원 -2% 직전 종가 - 외국인 순매도 뒤 기술적 oversold·HBM4 LTA 공시 임박·엔비디아 실적 D-day 후 반도체 바스켓 반등 모멘텀 upside 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "154.73달러 -0.9% 직전 종가 - Q3 FY27 실적 D-day·2주 누적 -20% 조정 oversold·Rubin cadence·2027 CAPEX 가이던스 확인 선점 매수 기대 upside 축",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "신세계",
+        "ticker": "004170",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "265,000원 +5.6% 직전 종가 - 유통 바스켓 외국인 순매수 전환·10월 매출 반등·면세 중국 수요 복원·방어주 로테이션 수혜 모멘텀 연장 upside 축",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "made": "2026-11-17 07:30 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -0.7
       }
     ]
-  },
-  {
-    "date": "2026-11-05",
-    "made": "2026-11-05 07:35 KST",
-    "predictions": [
-      {
-        "label": "크래프톤",
-        "ticker": "259960",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 212,000원 +16.5% 이틀 연속 급등. PUBG·inZOI Q3 실적 모멘텀 매수 쇄도, 11월 중순 공식 발표 전 리레이팅 축.",
-        "result": "hit",
-        "actual": 3.1
-      },
-      {
-        "label": "MSFT",
-        "ticker": "MSFT",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 550.54달러 +5.7% 급등. 메가캡 클라우드 로테이션 리더십·Azure +45%·2027 CAPEX 1,900억달러 가이던스 재점화.",
-        "result": "hit",
-        "actual": -0.3
-      },
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 545,000원 +11.6% 폭등. 2차전지 바스켓 급반등 선두·ESS 수주·전고체 가이던스 재점화 모멘텀 지속.",
-        "result": "miss",
-        "actual": -5.1
-      }
-    ]
   }
 ];
-채점 완료: 2026-11-17 기준 변경된 항목 있음
