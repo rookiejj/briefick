@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "1,098,000원 -2% 직전 종가 - 외국인 순매도 뒤 기술적 oversold·HBM4 LTA 공시 임박·엔비디아 실적 D-day 후 반도체 바스켓 반등 모멘텀 upside 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 2.4
       },
       {
         "label": "NVDA",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "154.73달러 -0.9% 직전 종가 - Q3 FY27 실적 D-day·2주 누적 -20% 조정 oversold·Rubin cadence·2027 CAPEX 가이던스 확인 선점 매수 기대 upside 축",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -0.4
       },
       {
         "label": "신세계",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "265,000원 +5.6% 직전 종가 - 유통 바스켓 외국인 순매수 전환·10월 매출 반등·면세 중국 수요 복원·방어주 로테이션 수혜 모멘텀 연장 upside 축",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.1
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-11-18 기준 변경된 항목 있음
