@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-19",
+    "made": "2026-11-19 07:35 KST",
+    "predictions": [
+      {
+        "label": "LG이노텍",
+        "ticker": "011070",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 283,000원 +5.6% 반등. 애플 공급망 바스켓 저가매수 유입·FC-BGA·아이폰 폴드 cadence 지지 서사 확대.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "PANW",
+        "ticker": "PANW",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 327.40달러 +5.9% 급반등. 사이버보안 바스켓 과매도 되돌림 개시·CyberArk 시너지·Q3 가이던스 레버리지.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AVGO",
+        "ticker": "AVGO",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 351.60달러 +2.9% 상승. 커스텀 ASIC 바스켓 저가매수 유입·엔비디아 실적 전야 AI 칩 리더십 재편 서사.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "made": "2026-11-18 07:40 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -4.3
       }
     ]
-  },
-  {
-    "date": "2026-11-09",
-    "made": "2026-11-06 07:30 KST",
-    "predictions": [
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 종가 190.13달러 -5% 급락. Burry 13F 숏 공개 소화 후 반발 매수 기대, 11/19 Q3 FY27 D-10 임박·HBM4 LTA 가이던스 선반영 축.",
-        "result": "hit",
-        "actual": 2.8
-      },
-      {
-        "label": "현대차",
-        "ticker": "005380",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 293,500원 +3.5% 상승. 자동차 바스켓 홀로 강세·Q4 하이브리드 가이던스·미국 판매 모멘텀 지지 지속.",
-        "result": "miss",
-        "actual": -1.1
-      },
-      {
-        "label": "KB금융",
-        "ticker": "105560",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 157,000원 +3.6% 급등. 11/13 금통위 D-4·가치주 로테이션 선두·배당 성향 50% 가이던스 재점화 서사.",
-        "result": "miss",
-        "actual": -0.7
-      }
-    ]
   }
 ];
-채점 완료: 2026-11-18 기준 변경된 항목 있음
