@@ -340,52 +340,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "SK스퀘어 실적",
-    "date": "2026-11-16",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "034730"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Home Depot 실적",
-    "date": "2026-11-17",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "HD"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "NVIDIA 실적",
-    "date": "2026-11-17",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "NVDA"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "한진칼 실적",
-    "date": "2026-11-17",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "180640"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
