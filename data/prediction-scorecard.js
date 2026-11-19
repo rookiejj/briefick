@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 283,000원 +5.6% 반등. 애플 공급망 바스켓 저가매수 유입·FC-BGA·아이폰 폴드 cadence 지지 서사 확대.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.5
       },
       {
         "label": "PANW",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 327.40달러 +5.9% 급반등. 사이버보안 바스켓 과매도 되돌림 개시·CyberArk 시너지·Q3 가이던스 레버리지.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 9.9
       },
       {
         "label": "AVGO",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 351.60달러 +2.9% 상승. 커스텀 ASIC 바스켓 저가매수 유입·엔비디아 실적 전야 AI 칩 리더십 재편 서사.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.6
       }
     ]
   },
