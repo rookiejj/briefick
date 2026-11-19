@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-20",
+    "made": "2026-11-20 07:40 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 196,900원 +1.1% 반등 - 반도체 바스켓 리더십 복원·외국인 재진입·HBM4 양산 cadence 지지·11/26 금통위 D-6 금리 인하 기대 가치주 로테이션 수혜가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "CRWD",
+        "ticker": "CRWD",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 251.22달러 +6% 랠리 - 사이버보안 바스켓 로테이션 리더십 재확인·Q2 FY27 어닝 분기점 임박·OKTA +8.3%·PANW +4.7% 동반 강세가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "NVDA",
+        "ticker": "NVDA",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 153.44달러 +1.6% 반등 - Q3 FY27 호실적 모멘텀 소화·Q4 가이던스 1,300억달러 서프라이즈·Kress CEO 체제 안착·Rubin 2027 상반기 양산 cadence가 upside 축.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "made": "2026-11-19 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 536.02달러 +5.4% 랠리 2일차 - OpenAI MOU·MI400 cadence 재점화·반도체 리더십 복귀·AI 바스켓 재매수 모멘텀 연장이 upside 축, forward P/E 45 밸류 부담은 downside 카운터, 11/19 NVDA Q3 D-8 앞 AMD 2위 플레이어 서사 레버리지 우세",
         "result": "hit",
         "actual": 1.8
-      }
-    ]
-  },
-  {
-    "date": "2026-11-10",
-    "made": "2026-11-10 07:10 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "월요일 종가 189,900원 +0.6% 소폭 반등 - HBM4 LTA 공식화 대기·외국인 반도체 바스켓 재매수 전환 대기·美 셧다운 종료 가결 리스크온이 upside 축, 11/19 글로벌 AI 반도체 Q3 D-9 선반영 차익실현이 downside 카운터, 셧다운 종결 뒤 매수 복귀 우세",
-        "result": "hit",
-        "actual": 4.9
-      },
-      {
-        "label": "삼성SDI",
-        "ticker": "006400",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "월요일 종가 415,000원 -11.3% 급락 - 2차전지 셀 바스켓 투매 4일째 과매도 포지션·ESS 수주 가이던스·EV 수요 복원 cadence가 반등 upside 축, 바스켓 디레이팅 지속은 downside 카운터, 과매도 반등 우세",
-        "result": "hit",
-        "actual": 9
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "월요일 종가 176.36달러 -5.5% 로테이션 희생양 - AMD +11.1% 리더십 교체 소화 뒤 반발 매수·11/19 Q3 FY27 D-9 HBM4 LTA 가이던스 선반영이 upside 축, 'AI 버블' 서사 양분이 downside 카운터, 과매도 반등 우세",
-        "result": "miss",
-        "actual": -4.3
       }
     ]
   }
