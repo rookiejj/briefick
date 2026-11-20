@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 196,900원 +1.1% 반등 - 반도체 바스켓 리더십 복원·외국인 재진입·HBM4 양산 cadence 지지·11/26 금통위 D-6 금리 인하 기대 가치주 로테이션 수혜가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -5.9
       },
       {
         "label": "CRWD",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 251.22달러 +6% 랠리 - 사이버보안 바스켓 로테이션 리더십 재확인·Q2 FY27 어닝 분기점 임박·OKTA +8.3%·PANW +4.7% 동반 강세가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 2.7
       },
       {
         "label": "NVDA",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 거래일 종가 153.44달러 +1.6% 반등 - Q3 FY27 호실적 모멘텀 소화·Q4 가이던스 1,300억달러 서프라이즈·Kress CEO 체제 안착·Rubin 2027 상반기 양산 cadence가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -3.3
       }
     ]
   },
