@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-23",
+    "made": "2026-11-21 07:35 KST",
+    "predictions": [
+      {
+        "label": "크래프톤",
+        "ticker": "259960",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "금요일 종가 202,500원 +2.7% 상대 강세 - 반도체 투매 속 게임·엔터 방어주 로테이션·PUBG 모바일 중국 매출 가속·2027 상반기 신작 파이프라인 가이던스가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "GOOGL",
+        "ticker": "GOOGL",
+        "market": "US",
+        "direction": "up",
+        "rationale": "금요일 종가 277.97달러 +1.9% 상대 강세 - 반도체 투매 속 AI 광고·클라우드 매출 가이던스 재부각·Gemini 3 Pro 엔터프라이즈 ARR cadence·앤트로픽 상장 레퍼런스 생태계 수혜가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "AMD",
+        "ticker": "AMD",
+        "market": "US",
+        "direction": "down",
+        "rationale": "금요일 종가 444.91달러 -9.1% 급락 - AI 칩 바스켓 매물 심화·NVDA 루빈 cadence 선반영 피로·커스텀 ASIC 바스켓 분화 공방·MI350X OpenAI 공급 재검증이 downside 축.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "made": "2026-11-20 07:40 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 126.63달러 +7.4% 급등 - AI 인프라 V-반등 리더십·OCI 수주 cadence·6,640억달러 백로그 가이던스가 upside 축, forward P/E 28 밸류 부담 downside 카운터, 하이퍼스케일러 2027 CAPEX 1조달러대 재점화 레버리지 우세",
         "result": "hit",
         "actual": 8.8
-      }
-    ]
-  },
-  {
-    "date": "2026-11-11",
-    "made": "2026-11-11 07:10 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 1,212,000원 +6.7% V자 급반등 종가 - HBM3E 12-Hi 대량양산·HBM4 LTA 공식화 D-8 임박·11/19 글로벌 AI 반도체 Q3 가이던스 선반영·외국인 반도체 바스켓 재매수 2일차가 upside 축, 급등 후 차익실현은 downside 카운터, HBM 서사 모멘텀 지속 우세",
-        "result": "miss",
-        "actual": -1.4
-      },
-      {
-        "label": "HD현대일렉",
-        "ticker": "267260",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 394,000원 +11.1% 신고가 - 전력·원전 바스켓 급등 1일 소화 뒤 매물 유입 리스크·초고압 변압기 LTA 기대 선반영·forward P/E 23 리레이팅 부담이 downside 축, AI 데이터센터 PPA 모멘텀 지속은 upside 카운터, 급등 후 매물 소화 흐름 우세",
-        "result": "hit",
-        "actual": -1.4
-      },
-      {
-        "label": "AMD",
-        "ticker": "AMD",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 536.02달러 +5.4% 랠리 2일차 - OpenAI MOU·MI400 cadence 재점화·반도체 리더십 복귀·AI 바스켓 재매수 모멘텀 연장이 upside 축, forward P/E 45 밸류 부담은 downside 카운터, 11/19 NVDA Q3 D-8 앞 AMD 2위 플레이어 서사 레버리지 우세",
-        "result": "hit",
-        "actual": 1.8
       }
     ]
   }
