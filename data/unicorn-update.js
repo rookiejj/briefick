@@ -1,31 +1,31 @@
 const updates = [
   {
-    "date": "2026-11-20 07:35 KST",
-    "summary": "앤트로픽 상장 후 비상장 리레이팅 - AI 피어 밸류 공방 시작\n데이터브릭스 1,880억달러 - 2027 IPO 포지션 ARR 추론 인프라 가속\n스트라이프 PayPal 인수 협상 - 결제 생태계 재편 프리미엄 28%\n크라켄 Q4 IPO 로드쇼 - CLARITY Act 뒤 거래량 YoY +60% 가속\n피규어 AI 480억달러 - BotQ 양산 cadence Amazon 공급 파이프라인",
+    "date": "2026-11-20 19:04 KST",
+    "summary": "앤트로픽 상장 후 AI 유니콘 리레이팅 - 피규어 AI 480억달러 재검증\n안두릴 1,000억달러 밸류 라운드 - Replicator Phase 2 수주\n퍼플렉시티 300억달러 신규 라운드 - NVIDIA 참여 설\n스트라이프 PayPal 530억달러 인수 제안 - 자체 밸류 1,590억달러\nMercury OCC 풀 차터 전환 - SMB 뱅킹 리더십 재확인",
     "changes": [
       {
-        "time": "2026-11-19 16:00 EST",
+        "time": "2026-11-20 06:00 KST",
+        "type": "리레이팅",
+        "sector": "우주·모빌리티·방산",
+        "detail": "Anduril·Figure AI. 안두릴 1,000억달러 밸류 라운드 마감 윈도우·피규어 AI 480억달러 재검증 금요일 비상장 AI·방산 바스켓 리레이팅, 앤트로픽 ANT $83·시총 1.5조달러 11/19 나스닥 데뷔 이후 피어 밸류 레퍼런스 효과·DoD Replicator Phase 2 수주 레버리지가 축. 안두릴 Fury·Dive·Lattice·Roadrunner 라인업·BotQ 시간당 1대 양산·누적 1,000대 출하·7만 유닛 백로그 레버리지가 중기 서사, 상장 첫날 변동성 확대·비상장 방산 AI 바스켓 밸류 상단 테스트가 모멘텀 축. institutional flow 렌즈로는 방산·휴머노이드 바스켓 사모 라운드 수요 축, 밸류에이션 렌즈로는 ANT forward P/S 레퍼런스 피어 밸류 공방 축, 시나리오 렌즈로는 Replicator·BotQ 양산·앤트로픽 상장 Day 2 cadence가 비상장 AI 리더십 분수령."
+      },
+      {
+        "time": "2026-11-20 06:00 KST",
         "type": "펀딩",
         "sector": "엔터프라이즈 SW",
-        "detail": "Databricks·fal·Project Prometheus·Scale AI. 데이터브릭스 1,880억달러 term sheet·2027 IPO 포지션·ARR 70억달러 이상 YoY 80% 가속·추론 인프라 ARR 레버리지가 축. 앤트로픽 ANT 상장 Day 1 1조4,000억달러 레퍼런스 뒤 비상장 AI 피어 리레이팅 공방·fal 45억달러 밸류 유지·AI 미디어 인프라 바스켓 리더십·Project Prometheus 410억달러 Jeff Dean 창업 엔터프라이즈 AI 플랫폼이 중기 서사, Scale AI Meta·OpenAI 레이블링 장기 공급 재검토·비상장 AI 생태계 ARR 재검증·pre-IPO 밸류 앵커링 메커니즘이 모멘텀 축. monetization 렌즈로는 Databricks 추론 인프라·fal 미디어 플랫폼 ARR 축, 밸류에이션 렌즈로는 forward P/S·앤트로픽 1조4,000억달러 레퍼런스 축, 시나리오 렌즈로는 Databricks 2027 IPO·fal 추가 라운드·Prometheus 플랫폼 cadence가 엔터프라이즈 SW 리더십 분수령."
+        "detail": "Perplexity AI. 300억달러 밸류 신규 라운드 협상 지속, NVIDIA 앵커 참여 설·연간 매출 7.5억달러 수준·세컨더리 마크 197억달러가 축. Scale AI·Cursor·Lovable 등 AI 코딩·데이터 바스켓 동시 리레이팅·앤트로픽 상장 레퍼런스 밸류 상단 테스트·미중 검색 경쟁 재점검이 중기 서사, Google·Anthropic·OpenAI 플랫폼 경쟁 심화·엔터프라이즈 API 수주 cadence가 모멘텀 축. institutional flow 렌즈로는 AI 검색·데이터 바스켓 사모 라운드 수요 축, 밸류에이션 렌즈로는 Perplexity forward P/S 40배 공방 축, 시나리오 렌즈로는 NVIDIA 참여 확정·엔터프라이즈 ARR·검색 모멘텀 cadence가 Perplexity 리더십 분수령."
       },
       {
-        "time": "2026-11-19 16:00 EST",
+        "time": "2026-11-20 06:00 KST",
         "type": "펀딩",
         "sector": "핀테크",
-        "detail": "Stripe·Revolut·Ramp·Kraken·Mercury·Plaid. 스트라이프 1,590억달러 밸류 PayPal 60.50달러 인수 협상 진행·프리미엄 28%·결제 생태계 재편 윈도우·2025 결제 1조9,000억달러 +34%·Tempo L1 2026 롤아웃이 축. 리볼루트 1,150억달러 세컨더리 셰어세일 클로징 임박·미국 뱅킹 확장 레버리지·2028+ IPO 연기 공방, Ramp 440억달러 ARR 15억달러·연말 IPO-ready 재확인·Brex→Capital One 인수 완료 후 독립 legal fintech 대표주, Kraken 200억달러 Q4 상장 로드쇼·CLARITY Act 뒤 로드쇼 재점검·거래량 YoY +60%, Mercury 52억달러 ARR 6억5,000만달러·4년 연속 흑자·OCC 풀 차터 전환 진행·Plaid 61억달러 세컨더리 매각 IPO 경로 정리가 중기 서사. 앤트로픽 상장 Day 1 뒤 비상장 바스켓 리레이팅 공방이 모멘텀 축, monetization 렌즈로는 결제·뱅킹·법인 핀테크 ARR 축, 밸류에이션 렌즈로는 Stripe forward P/S 재검증 축, 시나리오 렌즈로는 Stripe PayPal 인수 결정·Ramp IPO 창구·Kraken Q4 상장 cadence가 핀테크 리더십 분수령."
+        "detail": "Stripe·Mercury. 스트라이프 PayPal 530억달러 인수 제안 Advent 공동·주당 60.50달러 프리미엄 28%·자체 텐더 밸류 1,590억달러·2025 결제 1.9조달러 +34%·Tempo L1 2026 롤아웃 공방이 축. Mercury Series D 2억달러 52억달러 밸류·14개월 +49% 업라운드·OCC 풀 차터 내셔널뱅크 전환 진행·ARR 6.5억달러·4년 연속 흑자가 중기 서사, 결제 M&A 사이클 재점화·SMB 뱅킹 리더십 재확인·Ramp 440억달러 ARR 15억달러 IPO-ready가 모멘텀 축. institutional flow 렌즈로는 핀테크 M&A·사모 라운드 수요 축, 밸류에이션 렌즈로는 Stripe forward P/S 7배 재검증 축, 시나리오 렌즈로는 Stripe-PayPal cadence·Mercury 뱅킹 전환·Ramp IPO 윈도우가 핀테크 리더십 분수령."
       },
       {
-        "time": "2026-11-19 16:00 EST",
+        "time": "2026-11-20 06:00 KST",
         "type": "펀딩",
-        "sector": "우주·모빌리티·방산",
-        "detail": "Figure AI·Anduril·Helsing·Saronic·Shield AI·Vast. 피규어 AI 480억달러 밸류·BotQ 시간당 1대 양산 도달·Amazon 주문 파이프라인·BMW·Toyota 공급 cadence가 축. Anduril 300억달러 레퍼런스·NATO CAPEX 가이던스 레버리지·Helsing 유럽 방산 리더십·Saronic 130억달러 밸류·Shield AI 50억달러 밸류·Vast 민간 우주정거장 D-17 공방이 중기 서사. 방산·휴머노이드 로보틱스 바스켓 재검증·NATO 2027 CAPEX 가이던스·우주 민간 발사체 cadence가 모멘텀 축, 앤트로픽 상장 Day 1 뒤 비상장 AI·로보틱스 피어 리레이팅 공방이 모멘텀 축. monetization 렌즈로는 Figure AI BotQ·Anduril·Helsing 방산 ARR 축, 밸류에이션 렌즈로는 Figure AI forward 밸류 공방 축, 시나리오 렌즈로는 Figure AI 양산·NATO CAPEX·Vast 우주정거장 cadence가 리더십 분수령."
-      },
-      {
-        "time": "2026-11-19 16:00 EST",
-        "type": "펀딩",
-        "sector": "바이오·헬스",
-        "detail": "Isomorphic Labs·Hinge Health·Verily·Neuralink. 아이소모픽랩스 90억달러 밸류·구글·엔비디아 파트너십 2027 임상 1상 cadence·AlphaFold 3 기반 신약 플랫폼 레버리지가 축. Hinge Health 상장 뒤 디지털 헬스 ARR 가이던스·Verily 구글 분사 디지털 헬스 IPO 창구·Neuralink 5억달러 Series F 뒤 FDA 3상 cadence가 중기 서사, 비상장 바이오·헬스 바스켓 IPO 창구 재점검·앤트로픽 상장 Day 1 뒤 바스켓 피어 리레이팅 공방이 모멘텀 축. monetization 렌즈로는 Isomorphic Labs·Verily 디지털 헬스 ARR 축, 밸류에이션 렌즈로는 forward 밸류 공방 축, 시나리오 렌즈로는 Isomorphic 임상 1상·Verily IPO·Neuralink FDA cadence가 바이오·헬스 리더십 분수령."
+        "sector": "크립토·Web3",
+        "detail": "Kraken·ConsenSys. 크라켄 confidential S-1 재제출 200억달러 타깃·Q4 2026 상장 윈도우 확장·JPM·GS 주관·CLARITY Act 데드라인 후 로드쇼 재개·컨센시스 H2 2026 IPO 협의 확정·JPM·GS 주관이 축. MetaMask·Infura 이더리움 인프라·CLARITY Act 상원 통과 후 로드쇼 개막·앤트로픽 상장 레퍼런스 IPO 윈도우 확장·BTC $64K·ETH $1,797 리스크오프 여진이 중기 서사, 앵커리지 테더 1억달러 2월 참여·파이어블록스 TRES 1.3억달러 인수 cadence가 모멘텀 축. institutional flow 렌즈로는 크립토 IPO 파이프라인 수요 축, 밸류에이션 렌즈로는 Kraken forward P/S 15배 재검증 축, 시나리오 렌즈로는 CLARITY Act·크라켄 Q4 상장·컨센시스 S-1 cadence가 크립토 IPO 리더십 분수령."
       }
     ]
   }
