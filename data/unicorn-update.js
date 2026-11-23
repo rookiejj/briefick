@@ -1,13 +1,13 @@
 const updates = [
   {
-    "date": "2026-11-23 19:30 KST",
-    "summary": "오픈AI 1조4,000억달러 라운드 - 비상장 AI 밸류 디레이팅 공방 분수령\n퍼플렉시티 300억달러 - NVIDIA 앵커 참여 설 공방 지속\n안두릴 1,000억달러 라운드 - Replicator Phase 2 수주 모멘텀 유지\n크라켄 S-1 재제출 200억달러 - Q4 상장 윈도우 추수감사절 cadence\n피규어 AI 480억달러 - 휴머노이드 바스켓 비상장 밸류 재검증",
+    "date": "2026-11-24 07:30 KST",
+    "summary": "퍼플렉시티 300억달러 라운드 - NVIDIA 앵커 설 공방 지속 모멘텀\n안두릴 1,000억달러 - Replicator Phase 2 수주 모멘텀 유지\n피규어 AI 480억달러 - 휴머노이드 바스켓 비상장 밸류 재검증\n크라켄 S-1 재제출 200억달러 - Q4 상장 윈도우 추수감사절 cadence\n스트라이프 1,590억달러 텐더 - 핀테크 M&A 사이클 재점화",
     "changes": [
       {
         "time": "2026-11-23 10:30 KST",
         "type": "펀딩",
         "sector": "엔터프라이즈 SW",
-        "detail": "OpenAI·Perplexity AI. OpenAI 1조4,000억달러 라운드 가이던스 공식화 공방·Perplexity 300억달러 라운드 NVIDIA 앵커 참여 설 공방, 상장 AI 밸류 디레이팅 전파·비상장 피어 재검증·앤트로픽 상장 레퍼런스가 축. OpenAI Super Agent cadence·엔터프라이즈 ARR 400억달러·Perplexity 매출 10억달러 run-rate·세컨더리 마크 197억달러·CEO Aravind Srinivas 11/16 가이던스가 중기 서사, Google·Anthropic 플랫폼 경쟁 심화·비상장 AI 거품 공방·유동성 재조정이 반대 서사. flow 렌즈로는 AI 바스켓 사모 라운드 수요 축, 밸류 렌즈로는 OpenAI·Perplexity forward P/S 재검증 축, 시나리오 렌즈로는 OpenAI 1.4조 마감·NVIDIA 참여 확정·엔터프라이즈 ARR cadence가 비상장 AI 리더십 분수령."
+        "detail": "Perplexity AI. 300억달러 라운드 NVIDIA 앵커 참여 설 공방 지속, 매출 10억달러 run-rate·세컨더리 마크 197억달러·CEO Aravind Srinivas 11/16 가이던스가 축. Comet 브라우저 cadence·Super Agent·Pro 구독 ARR·광고 monetization 공식화·비상장 피어 재검증이 중기 서사, OpenAI Codex·Google Gemini·Anthropic 플랫폼 경쟁 심화·비상장 AI 거품 공방·유동성 재조정이 반대 서사. flow 렌즈로는 AI 바스켓 사모 라운드 수요 축, 밸류 렌즈로는 Perplexity forward P/S 30배 재검증 축, 시나리오 렌즈로는 NVIDIA 참여 확정·광고 monetization 공식화·Super Agent cadence가 비상장 AI 리더십 분수령."
       },
       {
         "time": "2026-11-23 10:30 KST",
@@ -25,7 +25,7 @@ const updates = [
         "time": "2026-11-23 10:30 KST",
         "type": "IPO",
         "sector": "크립토·Web3",
-        "detail": "Kraken·ConsenSys. 크라켄 confidential S-1 재제출 200억달러 타깃·Q4 2026 상장 윈도우 확장·JPM·GS 주관·CLARITY Act 데드라인 후 로드쇼 재개·컨센시스 H2 2026 IPO 협의 확정이 축. MetaMask·Infura 이더리움 인프라·CLARITY Act 상원 통과 후 로드쇼 개막·앤트로픽 상장 레퍼런스 IPO 윈도우 확장·크립토 바스켓 리스크오프 여진이 중기 서사, 앵커리지 테더 1억달러 2월 참여·파이어블록스 TRES 1억3,000만달러 인수 cadence가 모멘텀 축. flow 렌즈로는 크립토 IPO 파이프라인 수요 축, 밸류 렌즈로는 Kraken forward P/S 15배 재검증 축, 시나리오 렌즈로는 CLARITY Act·크라켄 Q4 상장·컨센시스 S-1 cadence가 크립토 IPO 리더십 분수령."
+        "detail": "Kraken·ConsenSys. 크라켄 confidential S-1 재제출 200억달러 타깃·Q4 2026 상장 윈도우 확장·JPM·GS 주관·CLARITY Act 데드라인 후 로드쇼 재개·컨센시스 H2 2026 IPO 협의 확정이 축. MetaMask·Infura 이더리움 인프라·CLARITY Act 상원 통과 후 로드쇼 개막·크립토 바스켓 매수 복원·BTC 68,000달러선 반등이 중기 서사, 앵커리지 테더 1억달러 2월 참여·파이어블록스 TRES 1억3,000만달러 인수 cadence가 모멘텀 축. flow 렌즈로는 크립토 IPO 파이프라인 수요 축, 밸류 렌즈로는 Kraken forward P/S 15배 재검증 축, 시나리오 렌즈로는 CLARITY Act·크라켄 Q4 상장·컨센시스 S-1 cadence가 크립토 IPO 리더십 분수령."
       }
     ]
   }
