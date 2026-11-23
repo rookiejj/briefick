@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-24",
+    "made": "2026-11-24 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성SDS",
+        "ticker": "018260",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 177,200원 -15.4% 폭락 뒤 기술적 반등 기대 - 클라우드 매출 YoY 18% 성장·엔터프라이즈 ARR cadence·forward P/E 14 저점 매수 유입이 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "SK하이닉스",
+        "ticker": "000660",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 종가 1,085,000원 -2.5% 종가 - 미국 AI 랠리 동조·HBM4 공급 cadence·외국인 반도체 바스켓 매도 축소·금통위 D-2 유동성 기대가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "DELL",
+        "ticker": "DELL",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 335.70달러 +20.7% 폭등 뒤 AI 서버 바스켓 랠리 모멘텀 지속 - AI 서버 수주 백로그·엔비디아 급반등 연동·하이퍼스케일러 CAPEX cadence가 upside 축.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "made": "2026-11-21 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "774.26달러 -4.6% 전일 종가 - 메모리 바스켓 2일 랠리 뒤 차익 실현 집중·HBM4 cadence 공식화 전 소화 국면이 downside 축, NVDA 조정 여진 연동·반도체 바스켓 재편 소화 흐름 우세",
         "result": "hit",
         "actual": -2.5
-      }
-    ]
-  },
-  {
-    "date": "2026-11-12",
-    "made": "2026-11-12 07:40 KST",
-    "predictions": [
-      {
-        "label": "이수페타시스",
-        "ticker": "007660",
-        "market": "KR",
-        "direction": "down",
-        "rationale": "직전 거래일 종가 82,000원 +19.4% 폭등 - AI 기판 바스켓 리더십·대구 7공장 5천억원 투자협약 레버리지가 upside 축, 그러나 수일 랠리 뒤 매물 유입·forward P/E 28 리레이팅 부담이 downside 카운터, 급등 후 차익실현 흐름 우세",
-        "result": "miss",
-        "actual": 8.4
-      },
-      {
-        "label": "한국항공우주",
-        "ticker": "047810",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 109,000원 +7.7% 랠리 - KAI 연매출 5조원 가이던스·KF-21 수출 도전·FA-50M 말레이시아 초도 인도 cadence가 upside 축, forward P/E 25 밸류 부담 downside 카운터, 방산·우주 바스켓 2일차 모멘텀 레버리지 우세",
-        "result": "miss",
-        "actual": -2.3
-      },
-      {
-        "label": "ORCL",
-        "ticker": "ORCL",
-        "market": "US",
-        "direction": "up",
-        "rationale": "직전 거래일 종가 126.63달러 +7.4% 급등 - AI 인프라 V-반등 리더십·OCI 수주 cadence·6,640억달러 백로그 가이던스가 upside 축, forward P/E 28 밸류 부담 downside 카운터, 하이퍼스케일러 2027 CAPEX 1조달러대 재점화 레버리지 우세",
-        "result": "hit",
-        "actual": 8.8
       }
     ]
   }
