@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "금요일 종가 202,500원 +2.7% 상대 강세 - 반도체 투매 속 게임·엔터 방어주 로테이션·PUBG 모바일 중국 매출 가속·2027 상반기 신작 파이프라인 가이던스가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -4.9
       },
       {
         "label": "GOOGL",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "금요일 종가 277.97달러 +1.9% 상대 강세 - 반도체 투매 속 AI 광고·클라우드 매출 가이던스 재부각·Gemini 3 Pro 엔터프라이즈 ARR cadence·앤트로픽 상장 레퍼런스 생태계 수혜가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -2.7
       },
       {
         "label": "AMD",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "down",
         "rationale": "금요일 종가 444.91달러 -9.1% 급락 - AI 칩 바스켓 매물 심화·NVDA 루빈 cadence 선반영 피로·커스텀 ASIC 바스켓 분화 공방·MI350X OpenAI 공급 재검증이 downside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -13.2
       }
     ]
   },
