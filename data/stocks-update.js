@@ -1,31 +1,31 @@
 const updates = [
   {
-    "date": "2026-11-23 19:15 KST",
-    "summary": "엔비디아 125.53달러 -14% 투매 - AI 밸류 디레이팅 확산, 반도체 바스켓 최대 낙폭\n마이크론 AMD 동반 -13%대 - HBM4 가이던스 선반영 피로, 반도체 ETF 두 자릿수 급락\n브로드컴 -12.2% 커스텀 실리콘 ASIC - 하이퍼스케일러 CAPEX 재조정 공방\n테슬라 -7.6% 메타 -5.9% 매물 집중 - 메가캡 로테이션 깨짐 FOMC 의사록 D-3\n마라톤 디지털 -18.6% 폭락 - 비트코인 7만달러대 재진입 크립토 바스켓 투매",
+    "date": "2026-11-24 07:15 KST",
+    "summary": "엔비디아 164.26달러 +30.9% 폭등 - AI 투매 되돌림, 반도체 리더십 복원\n반도체 바스켓 랠리 - 마이크론 +18.2%, TSMC +15% 동반 폭등\nAI 인프라 급반등 - 델 +20.7%, CoreWeave +20.5% 랠리 주도\n메가캡 매수 복원 - 테슬라 +12.1%, 오라클 +11.5% 복합 상승\nPCE D-1 분수령 - 11/25 10월 PCE 발표, 12월 FOMC 인하 공식화",
     "changes": [
       {
-        "time": "2026-11-23 06:00 KST",
+        "time": "2026-11-23 15:30 EST",
         "type": "반도체",
         "sector": "반도체",
-        "detail": "NVIDIA(NVDA)·Micron(MU)·AMD. 125.53달러 -14%·594.51달러 -13.9%·424.39달러 -13.2%, 금요일 세션 반도체 바스켓 최대 낙폭·AI 밸류 디레이팅 확산·HBM4 가이던스 선반영 피로가 축. HBM4 Gb당 3~5.5달러 상승 가이던스·2027 하이퍼스케일러 CAPEX 재검증·MI350X·MI400 양산 cadence·커스텀 실리콘 ASIC 저가매수 여지가 중기 모멘텀, Q4 가이던스 1,300억달러 선반영 피로·Kress 임시 CEO 체제 리더십 공백·반도체 바스켓 ETF 10% 급락이 반대 서사. 밸류 렌즈로는 NVDA forward P/E 26·AMD 38·MU 12 저점 재검증 축, flow 렌즈로는 반도체 바스켓 매물 집중 축, 시나리오 렌즈로는 11/26 FOMC 의사록·11/27 추수감사절 휴장·단축장 유동성이 반등 분수령."
+        "detail": "엔비디아(NVDA)·마이크론(MU)·TSMC(TSM). 164.26달러 +30.9%·702.58달러 +18.2%·366.57달러 +15% 폭등, AI 투매 되돌림·반도체 바스켓 리더십 복원·하이퍼스케일러 CAPEX cadence 복원이 축. NVDA 시총 급반등·HBM4 공급 cadence·FY27 가이던스 상단 재검증·N2·N3E 수주 cadence가 중기 서사, Kress 임시 CEO 리더십 공백·SEC 조사 불확실성·AI 밸류 선반영 피로가 반대 서사. 밸류에이션 렌즈로는 NVDA forward P/E 32·MU 10·TSM 22 저점 재검증 축, 매크로 렌즈로는 10y 4.2%·DXY 안정화 동조 축, 시나리오 렌즈로는 11/25 PCE·12월 FOMC 25bp 인하 공식화 cadence가 랠리 지속 분수령."
       },
       {
-        "time": "2026-11-23 06:00 KST",
+        "time": "2026-11-23 15:30 EST",
         "type": "데이터센터",
         "sector": "데이터센터",
-        "detail": "Broadcom(AVGO)·Marvell(MRVL)·Arm Holdings(ARM). 304.41달러 -12.2%·122.28달러 -11.7%·152.20달러 -14.1%, 커스텀 실리콘 ASIC·AI 네트워킹 바스켓 투매·하이퍼스케일러 CAPEX 재조정 공방이 축. AVGO Jericho·Tomahawk 네트워킹 침투율·MRVL 광학 DSP cadence·ARM 모바일·DC 로열티 가이던스가 중기 서사, AI 거품 공방·CAPEX 사이클 피크 우려·커스텀 ASIC 밸류 디레이팅이 반대 서사. 밸류 렌즈로는 AVGO forward P/E 28·MRVL 32·ARM 60 저점 재검증 축, flow 렌즈로는 ASIC 바스켓 매물 집중 축, 시나리오 렌즈로는 FOMC 의사록·2027 CAPEX 가이던스·추수감사절 단축장 유동성이 리더십 분수령."
+        "detail": "델 테크(DELL)·CoreWeave(CRWV)·HP엔터프라이즈(HPE). 335.70달러 +20.7%·47.61달러 +20.5%·47.75달러 +16.7% 폭등, AI 서버 바스켓 랠리 리더십·엔비디아 급반등 연동·GPU 클라우드 수주 가이던스 복원이 축. 델 AI 서버 수주 $11B 백로그·CoreWeave 2026 매출 가이던스·HPE·Juniper 시너지가 중기 서사, AI 인프라 CAPEX 피로·하이퍼스케일러 재조정 리스크가 반대 서사. 밸류에이션 렌즈로는 DELL forward P/E 18·HPE 10·CRWV EV/Sales 8 저점 재검증 축, flow 렌즈로는 AI 인프라 바스켓 매수 복원 축, 시나리오 렌즈로는 11/25 PCE·12월 FOMC cadence가 모멘텀 분수령."
       },
       {
-        "time": "2026-11-23 06:00 KST",
+        "time": "2026-11-23 15:30 EST",
         "type": "AI 플랫폼",
         "sector": "AI 플랫폼",
-        "detail": "Alphabet(GOOGL)·Microsoft(MSFT)·Meta(META)·Tesla(TSLA). 265.29달러 -2.7%·484.52달러 -2.8%·560.84달러 -5.9%·345.82달러 -7.6%, 메가캡 로테이션 깨짐·GOOGL·MSFT 상대 방어 vs META·TSLA 매물 집중이 축. GOOGL Gemini 3 생태계·AI 오버뷰 쿼리 침투·MSFT Azure OpenAI 매출 가속·META Llama 4 엔터프라이즈 침투가 중기 서사, META 데이터센터 CAPEX 재검증·TSLA 로보택시 cadence 지연·인공지능 밸류 전반 디레이팅이 반대 서사. 밸류 렌즈로는 GOOGL forward P/E 23·MSFT 31·META 22·TSLA 95 재검증 축, flow 렌즈로는 메가캡 상위 로테이션 축, 시나리오 렌즈로는 FOMC 의사록·추수감사절 소비 cadence·AI 광고 cadence가 메가캡 리더십 분수령."
+        "detail": "오라클(ORCL)·알파벳(GOOGL)·메타(META). 112.83달러 +11.5%·283.22달러 +6.8%·597.39달러 +6.5% 반등, 메가캡 AI 랠리 리더십 복원·OCI 수주 cadence 재점화·Gemini 3 생태계 모멘텀이 축. 오라클 OCI 수주 6,640억달러 백로그·Gemini 3 생태계 cadence·메타 AI 광고 ARR 가이던스가 중기 서사, SW 바스켓 forward P/E 디레이팅·클라우드 CAPEX 재조정 리스크가 반대 서사. 밸류에이션 렌즈로는 ORCL forward P/E 25·GOOGL 22·META 24 저점 재검증 축, 매크로 렌즈로는 10y 4.2% 안정화 축, 시나리오 렌즈로는 12월 FOMC·OpenAI 1.25조달러 라운드 cadence가 리더십 분수령."
       },
       {
-        "time": "2026-11-23 06:00 KST",
-        "type": "양자·크립토",
-        "sector": "양자·크립토",
-        "detail": "Marathon Digital(MARA)·Hut 8(HUT)·CleanSpark(CLSK). 5.09달러 -18.6%·45.95달러 -17.7%·4.89달러 -16.3%, 비트코인 7만달러대 재진입·크립토 바스켓 투매·채굴 바스켓 최대 낙폭·마진 공방이 축. MARA 400 BTC 추가 매수 cadence·HUT 고성능 컴퓨팅 전환·CLSK 전력 비용 가이던스가 중기 서사, 비트코인 10월 고점 대비 30% 급락·채굴 수익성 재검증·크립토 재무 바스켓 디레이팅이 반대 서사. 밸류 렌즈로는 MARA price/BTC 보유 재검증 축, flow 렌즈로는 크립토 재무 바스켓 외국인 순매도 축, 시나리오 렌즈로는 비트코인 7만달러 지지·채굴 해시프라이스·FOMC 의사록이 반등 분수령."
+        "time": "2026-11-23 15:30 EST",
+        "type": "반도체 장비",
+        "sector": "반도체",
+        "detail": "LAM리서치(LRCX)·어플라이드머티어리얼즈(AMAT)·ASML(ASML). 208.25달러 +13.6%·343.19달러 +13.4%·1,379달러 +8.9% 폭등, WFE 바스켓 리더십 복원·HBM4 LTA cadence·EUV·High-NA 레버리지가 축. 2027 CAPEX 가이던스·N2 램프·HBM4 LTA·FY26 매출 상단 가이던스가 중기 서사, 글로벌 반도체 CAPEX 재조정·AI 수요 피로가 반대 서사. 밸류에이션 렌즈로는 LRCX forward P/E 25·AMAT 20·ASML 30 저점 재검증 축, flow 렌즈로는 반도체 장비 바스켓 매수 복원 축, 시나리오 렌즈로는 HBM4 LTA·2027 CAPEX cadence가 모멘텀 분수령."
       }
     ]
   }
