@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-25",
+    "made": "2026-11-25 07:15 KST",
+    "predictions": [
+      {
+        "label": "삼성전자",
+        "ticker": "005930",
+        "market": "KR",
+        "direction": "down",
+        "rationale": "직전 거래일 189,400원 +6.7% 폭등 마감 뒤 미국 반도체 야간 급락 여진 - NVDA -7.3%·MU -10.5%·AMD -9.9% 조정 전파·외국인 반도체 바스켓 차익실현 매물 유입 가능성이 downside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "현대자동차",
+        "ticker": "005380",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 275,000원 +11.1% 폭등 마감 뒤 자동차 바스켓 외국인 순매수 복귀 모멘텀 지속 - 반도체 조정 내 비반도체 섹터 로테이션·금통위 D-1 유동성 기대·북미 하이브리드 판매가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LLY",
+        "ticker": "LLY",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 1,411.97달러 +3.5% 상승 - 반도체 조정 내 방어주 로테이션 복원·릴리·오젬픽 매출 가이던스·11/25 PCE 발표 소프트 시 안전자산 선호가 upside 축.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "made": "2026-11-24 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "736.88달러 -5.3% 직전 종가 - 美 DRAM 담합 집단소송 공식 피소 여진 지속·NVDA 실적 D-1 공포·메모리 바스켓 매물 집중 흐름이 downside 축",
         "result": "hit",
         "actual": -7.6
-      }
-    ]
-  },
-  {
-    "date": "2026-11-16",
-    "made": "2026-11-13 07:15 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "208,000원 +1.0% 직전 종가 - HBM4 LTA 공시 11/19 D-3 지지력·외국인 반도체 바스켓 2일 매수 cadence 연장이 upside 축, 밤사이 뉴욕 반도체 조정 여진이 downside 카운터 소화 뒤 월요 재정비 흐름 우세",
-        "result": "hit",
-        "actual": 0
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "163.40달러 -5.9% 전일 종가 - CEO 외부 조사 여진 과매도 소화·11/17 Q3 FY27 실적 D-1 선점 매수 바스켓 회복 신호가 upside 축, Rubin cadence·HBM4 LTA 가이던스 공식화 기대 재점화 흐름 우세",
-        "result": "miss",
-        "actual": -2
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "down",
-        "rationale": "774.26달러 -4.6% 전일 종가 - 메모리 바스켓 2일 랠리 뒤 차익 실현 집중·HBM4 cadence 공식화 전 소화 국면이 downside 축, NVDA 조정 여진 연동·반도체 바스켓 재편 소화 흐름 우세",
-        "result": "hit",
-        "actual": -2.5
       }
     ]
   }
