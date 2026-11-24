@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 177,200원 -15.4% 폭락 뒤 기술적 반등 기대 - 클라우드 매출 YoY 18% 성장·엔터프라이즈 ARR cadence·forward P/E 14 저점 매수 유입이 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 4.9
       },
       {
         "label": "SK하이닉스",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 종가 1,085,000원 -2.5% 종가 - 미국 AI 랠리 동조·HBM4 공급 cadence·외국인 반도체 바스켓 매도 축소·금통위 D-2 유동성 기대가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 8.9
       },
       {
         "label": "DELL",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 335.70달러 +20.7% 폭등 뒤 AI 서버 바스켓 랠리 모멘텀 지속 - AI 서버 수주 백로그·엔비디아 급반등 연동·하이퍼스케일러 CAPEX cadence가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 20.5
       }
     ]
   },
