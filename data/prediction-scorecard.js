@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "down",
         "rationale": "직전 거래일 189,400원 +6.7% 폭등 마감 뒤 미국 반도체 야간 급락 여진 - NVDA -7.3%·MU -10.5%·AMD -9.9% 조정 전파·외국인 반도체 바스켓 차익실현 매물 유입 가능성이 downside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": -9.1
       },
       {
         "label": "현대자동차",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 275,000원 +11.1% 폭등 마감 뒤 자동차 바스켓 외국인 순매수 복귀 모멘텀 지속 - 반도체 조정 내 비반도체 섹터 로테이션·금통위 D-1 유동성 기대·북미 하이브리드 판매가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1.8
       },
       {
         "label": "LLY",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 1,411.97달러 +3.5% 상승 - 반도체 조정 내 방어주 로테이션 복원·릴리·오젬픽 매출 가이던스·11/25 PCE 발표 소프트 시 안전자산 선호가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.2
       }
     ]
   },
@@ -238,3 +238,4 @@ const PREDICTION_SCORECARD = [
     ]
   }
 ];
+채점 완료: 2026-11-25 기준 변경된 항목 있음
