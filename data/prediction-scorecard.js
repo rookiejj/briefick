@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-26",
+    "made": "2026-11-26 07:35 KST",
+    "predictions": [
+      {
+        "label": "삼성바이오로직스",
+        "ticker": "207940",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 1,363,000원 +5.7% 방어 매수 - 반도체 투매 내 CDMO 리더십 복원·금통위 D-day 25bp 인하 공식화 윈도우·바이오 바스켓 로테이션 지속이 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "코스맥스",
+        "ticker": "192820",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 327,000원 +12.2% 급등 뒤 방어 로테이션 모멘텀 지속 - 중국 신규 수주·K뷰티 글로벌 수출·연말 소비 시즌 cadence가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "META",
+        "ticker": "META",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 595.47달러 +1.0% 상대 강세 - AI 바스켓 중 메가캡 방어 리더십·추수감사절 전 리스크오프 자금 선호·광고 매출 가이던스 안정이 upside 축.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "made": "2026-11-25 07:15 KST",
     "predictions": [
@@ -203,39 +236,5 @@ const PREDICTION_SCORECARD = [
         "actual": -1.1
       }
     ]
-  },
-  {
-    "date": "2026-11-17",
-    "made": "2026-11-17 07:30 KST",
-    "predictions": [
-      {
-        "label": "삼성전자",
-        "ticker": "005930",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "196,800원 -4.5% 직전 종가 - 외국인 1.7조원 매도 뒤 기술적 oversold·HBM4 LTA 공시 11/19 D-2 지지력·엔비디아 사임 후 첫 실적 D-1 선점 매수 기대 upside 축",
-        "result": "miss",
-        "actual": -1.5
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "159.87달러 -1.8% 직전 종가 - 사임 후 첫 실적 D-1·2주 누적 -20% 조정 oversold·Rubin cadence·2027 CAPEX 가이던스 확인 선점 매수 기대 upside 축",
-        "result": "miss",
-        "actual": -4.1
-      },
-      {
-        "label": "MU",
-        "ticker": "MU",
-        "market": "US",
-        "direction": "down",
-        "rationale": "736.88달러 -5.3% 직전 종가 - 美 DRAM 담합 집단소송 공식 피소 여진 지속·NVDA 실적 D-1 공포·메모리 바스켓 매물 집중 흐름이 downside 축",
-        "result": "hit",
-        "actual": -7.6
-      }
-    ]
   }
 ];
-채점 완료: 2026-11-25 기준 변경된 항목 있음

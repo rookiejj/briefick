@@ -305,6 +305,8 @@ const fixed = [
   { cat:'macro', impact:3, title:'한국 11월 금통위', date:'2026-11-26', desc:'기준금리 결정·25bp 인하 공식화 윈도우·원달러 환율·외국인 플로 분수령' },
   { cat:'macro', impact:2, title:'한국 Q3 GDP 속보치', date:'2026-11-27', desc:'한국은행 잠정 성장률·내수·수출 모멘텀 분수령·금통위 후속 데이터 포인트' },
   { cat:'policy', impact:3, title:'OPEC+ 11월 정례 회의', date:'2026-11-29', desc:'사우디·러시아 쿼터 결정·2027 생산 프레임워크 공식화 윈도우·WTI·브렌트 재검증 분수령' },
+  { cat:'policy', impact:3, title:'Jensen Huang 하원 비공개 브리핑', date:'2026-12-01', desc:'하원 요청·젠슨 황 CEO 중국 노출 조사·국가안보 공방·NVIDIA 중국 매출 가이던스 분수령' },
+  { cat:'policy', impact:2, title:'Tim Teter 하원 비공개 브리핑', date:'2026-12-02', desc:'NVIDIA General Counsel·국가안보 공방·중국 라이센스 포지션 재검증' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
