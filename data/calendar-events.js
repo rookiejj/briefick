@@ -344,41 +344,9 @@ const fixed = [
 
 
 
+
 // === AUTO-EARNINGS (scripts/fetch-earnings-calendar.js 자동 생성 — 손대지 말 것) ===
 const autoEarnings = [
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "HP Enterprise 실적",
-    "date": "2026-11-23",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "HPE"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Dell Tech 실적",
-    "date": "2026-11-24",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "DELL"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "CrowdStrike 실적",
-    "date": "2026-12-01",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "CRWD"
-    ],
-    "src": "auto-earnings"
-  },
   {
     "cat": "earnings",
     "impact": 2,
@@ -398,17 +366,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "CRM"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Zscaler 실적",
-    "date": "2026-12-02",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "ZS"
     ],
     "src": "auto-earnings"
   },
@@ -437,6 +394,17 @@ const autoEarnings = [
   {
     "cat": "earnings",
     "impact": 2,
+    "title": "Lululemon 실적",
+    "date": "2026-12-08",
+    "desc": "실적 발표 예정",
+    "tickers": [
+      "LULU"
+    ],
+    "src": "auto-earnings"
+  },
+  {
+    "cat": "earnings",
+    "impact": 2,
     "title": "Broadcom 실적",
     "date": "2026-12-09",
     "desc": "실적 발표 예정",
@@ -453,17 +421,6 @@ const autoEarnings = [
     "desc": "실적 발표 예정",
     "tickers": [
       "COST"
-    ],
-    "src": "auto-earnings"
-  },
-  {
-    "cat": "earnings",
-    "impact": 2,
-    "title": "Lululemon 실적",
-    "date": "2026-12-10",
-    "desc": "실적 발표 예정",
-    "tickers": [
-      "LULU"
     ],
     "src": "auto-earnings"
   },
