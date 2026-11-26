@@ -16,8 +16,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 1,363,000원 +5.7% 방어 매수 - 반도체 투매 내 CDMO 리더십 복원·금통위 D-day 25bp 인하 공식화 윈도우·바이오 바스켓 로테이션 지속이 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "miss",
+        "actual": -1
       },
       {
         "label": "코스맥스",
@@ -25,8 +25,8 @@ const PREDICTION_SCORECARD = [
         "market": "KR",
         "direction": "up",
         "rationale": "직전 거래일 327,000원 +12.2% 급등 뒤 방어 로테이션 모멘텀 지속 - 중국 신규 수주·K뷰티 글로벌 수출·연말 소비 시즌 cadence가 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 1.8
       },
       {
         "label": "META",
@@ -34,8 +34,8 @@ const PREDICTION_SCORECARD = [
         "market": "US",
         "direction": "up",
         "rationale": "직전 종가 595.47달러 +1.0% 상대 강세 - AI 바스켓 중 메가캡 방어 리더십·추수감사절 전 리스크오프 자금 선호·광고 매출 가이던스 안정이 upside 축.",
-        "result": null,
-        "actual": null
+        "result": "hit",
+        "actual": 3.4
       }
     ]
   },
