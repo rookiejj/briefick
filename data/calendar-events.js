@@ -307,6 +307,9 @@ const fixed = [
   { cat:'policy', impact:3, title:'OPEC+ 11월 정례 회의', date:'2026-11-29', desc:'사우디·러시아 쿼터 결정·2027 생산 프레임워크 공식화 윈도우·WTI·브렌트 재검증 분수령' },
   { cat:'policy', impact:3, title:'Jensen Huang 하원 비공개 브리핑', date:'2026-12-01', desc:'하원 요청·젠슨 황 CEO 중국 노출 조사·국가안보 공방·NVIDIA 중국 매출 가이던스 분수령' },
   { cat:'policy', impact:2, title:'Tim Teter 하원 비공개 브리핑', date:'2026-12-02', desc:'NVIDIA General Counsel·국가안보 공방·중국 라이센스 포지션 재검증' },
+  { cat:'macro', impact:2, title:'중국 11월 CPI·PPI', date:'2026-12-10', desc:'NBS 발표·디플레 압력 재점검·Q4 경기부양 효과 체크·AI 그리드 수요 모멘텀 선행' },
+  { cat:'macro', impact:3, title:'미국 11월 CPI', date:'2026-12-10', desc:'BLS 8:30 ET·근원 CPI MoM 컨센·12월 FOMC 결정 직전 핵심 지표·25bp 인하 공식화 분수령' },
+  { cat:'macro', impact:2, title:'미국 11월 PPI', date:'2026-12-11', desc:'근원 PPI 동반 발표·PCE 선행·공급체인 인플레 재점검' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)

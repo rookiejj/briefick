@@ -7,6 +7,39 @@
 //   miss — 예측 방향 반대 (|actual| ≥ 0.5%)
 const PREDICTION_SCORECARD = [
   {
+    "date": "2026-11-30",
+    "made": "2026-11-27 07:10 KST",
+    "predictions": [
+      {
+        "label": "하이브",
+        "ticker": "352820",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 185,700원 +5.0% 급등 - 한중 훈풍·한한령 완화 기대에 엔터 바스켓 외국인 순매수 복귀, 2027 글로벌 투어 가이던스 레버리지가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "한화시스템",
+        "ticker": "272210",
+        "market": "KR",
+        "direction": "up",
+        "rationale": "직전 거래일 49,050원 +3.8% 강세 - 방산·우주 수주 모멘텀 재점화, 쎄트렉아이·켄코아 동반 급등 테마 전파가 upside 축.",
+        "result": null,
+        "actual": null
+      },
+      {
+        "label": "LMT",
+        "ticker": "LMT",
+        "market": "US",
+        "direction": "up",
+        "rationale": "직전 종가 599.24달러 +2.1% 강세 - 방산 바스켓 재매수 지속, F-35 Lot 20·FY27 가이던스 중기 레버리지가 upside 축.",
+        "result": null,
+        "actual": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "made": "2026-11-26 07:35 KST",
     "predictions": [
@@ -201,39 +234,6 @@ const PREDICTION_SCORECARD = [
         "rationale": "직전 거래일 종가 351.60달러 +2.9% 상승. 커스텀 ASIC 바스켓 저가매수 유입·엔비디아 실적 전야 AI 칩 리더십 재편 서사.",
         "result": "hit",
         "actual": 3.6
-      }
-    ]
-  },
-  {
-    "date": "2026-11-18",
-    "made": "2026-11-18 07:40 KST",
-    "predictions": [
-      {
-        "label": "SK하이닉스",
-        "ticker": "000660",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "1,098,000원 -2% 직전 종가 - 외국인 순매도 뒤 기술적 oversold·HBM4 LTA 공시 임박·엔비디아 실적 D-day 후 반도체 바스켓 반등 모멘텀 upside 축",
-        "result": "hit",
-        "actual": 2.4
-      },
-      {
-        "label": "NVDA",
-        "ticker": "NVDA",
-        "market": "US",
-        "direction": "up",
-        "rationale": "154.73달러 -0.9% 직전 종가 - Q3 FY27 실적 D-day·2주 누적 -20% 조정 oversold·Rubin cadence·2027 CAPEX 가이던스 확인 선점 매수 기대 upside 축",
-        "result": "hit",
-        "actual": -0.4
-      },
-      {
-        "label": "신세계",
-        "ticker": "004170",
-        "market": "KR",
-        "direction": "up",
-        "rationale": "265,000원 +5.6% 직전 종가 - 유통 바스켓 외국인 순매수 전환·10월 매출 반등·면세 중국 수요 복원·방어주 로테이션 수혜 모멘텀 연장 upside 축",
-        "result": "miss",
-        "actual": -1.1
       }
     ]
   }
