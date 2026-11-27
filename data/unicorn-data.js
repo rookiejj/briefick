@@ -168,7 +168,7 @@ const data = [
       },
       {
         "nm": "Anduril",
-        "rs": "1,000억달러 밸류 상향 마감 임박 - 추수감사절 뒤 Replicator Phase 2 수주 모멘텀 재점화, 앤트로픽 IPO 레퍼런스",
+        "rs": "1,000억달러 밸류 상향 마감 임박 - 블랙프라이데이 유동성 공백 속 Replicator Phase 2 수주 모멘텀 유지",
         "ipo": "단기 아닐(Luckey)",
         "val": "$100B",
         "round": "신규 라운드 $100B val 협상 (2026-11)",
