@@ -310,6 +310,7 @@ const fixed = [
   { cat:'macro', impact:2, title:'중국 11월 CPI·PPI', date:'2026-12-10', desc:'NBS 발표·디플레 압력 재점검·Q4 경기부양 효과 체크·AI 그리드 수요 모멘텀 선행' },
   { cat:'macro', impact:3, title:'미국 11월 CPI', date:'2026-12-10', desc:'BLS 8:30 ET·근원 CPI MoM 컨센·12월 FOMC 결정 직전 핵심 지표·25bp 인하 공식화 분수령' },
   { cat:'macro', impact:2, title:'미국 11월 PPI', date:'2026-12-11', desc:'근원 PPI 동반 발표·PCE 선행·공급체인 인플레 재점검' },
+  { cat:'macro', impact:3, title:'12월 FOMC 결과·점도표·SEP', date:'2026-12-10', desc:'KST 오전 4시·기준금리 결정·2027 점도표·SEP 분기 경제전망·25bp 인하 공식화 분수령' },
 ];
 
 // 외부에서 접근할 변수명 (다른 update.js와 일관성)
